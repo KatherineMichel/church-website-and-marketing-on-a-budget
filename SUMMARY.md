@@ -5,8 +5,8 @@
 * [Existing Design](existing_design.md)
 * [Project Management](project_management.md)
 * [Church Image Rebrand](church_image_rebrand.md)
+* New Marketing Strategy :)
 * [Requirements](requirements.md)
 * [Website Options](website_options.md)
 * [New Design :)](new_design.md)
-* New Marketing Strategy :)
 
