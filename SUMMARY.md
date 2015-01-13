@@ -5,6 +5,6 @@
 * [Requirements](requirements.md)
 * [Before](before.md)
 * [Project Management](project_management.md)
-* Options
+* [Options](options.md)
 * After
 
