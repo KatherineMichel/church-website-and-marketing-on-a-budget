@@ -7,5 +7,5 @@
 * [Church Image Rebrand](church_image_rebrand.md)
 * [Requirements](requirements.md)
 * [Website Options](website_options.md)
-* New Design :)
+* [New Design :)](new_design.md)
 
