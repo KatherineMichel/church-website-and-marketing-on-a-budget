@@ -8,4 +8,5 @@
 * [Requirements](requirements.md)
 * [Website Options](website_options.md)
 * [New Design :)](new_design.md)
+* New Marketing Strategy :)
 
