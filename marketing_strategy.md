@@ -1,2 +1,2 @@
-# New Marketing Strategy :)
+# Marketing Strategy
 
