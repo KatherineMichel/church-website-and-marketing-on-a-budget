@@ -5,7 +5,7 @@
 * [Requirements](requirements.md)
 * [Existing Design](existing_design.md)
 * [Project Management](project_management.md)
+* Church Image Rebrand
 * [Website Options](website_options.md)
 * New Design :)
-* Church Image Rebrand
 
