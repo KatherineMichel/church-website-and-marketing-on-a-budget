@@ -6,4 +6,5 @@
 * [Project Management](project_management.md)
 * [Before](before.md)
 * After
+* Options
 
