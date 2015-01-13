@@ -3,8 +3,8 @@
 * [Introduction](README.md)
 * [Upworthy Case Study](upworthy_case_study.md)
 * [Requirements](requirements.md)
-* [Before](before.md)
+* [Existing Design](existing_design.md)
 * [Project Management](project_management.md)
-* [Options](options.md)
-* [After](after.md)
+* [Website Options](website_options.md)
+* New Design :)
 
