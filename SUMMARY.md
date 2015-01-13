@@ -7,4 +7,5 @@
 * [Project Management](project_management.md)
 * [Website Options](website_options.md)
 * New Design :)
+* Church Image Rebrand
 
