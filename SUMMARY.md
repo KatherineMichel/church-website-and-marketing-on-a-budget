@@ -1,9 +1,9 @@
 # Summary
 
 * [Introduction](README.md)
+* Problem Statement
 * [Upworthy Case Study](upworthy_case_study.md)
 * [Existing "Design"](existing_design.md)
-* Problem Statement
 * [Project Management](project_management.md)
 * [Church Image Rebrand](church_image_rebrand.md)
 * [Marketing Strategy](marketing_strategy.md)
