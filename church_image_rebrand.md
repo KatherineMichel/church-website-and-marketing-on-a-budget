@@ -8,7 +8,7 @@ The inspiration for the church's new brand is the sunflower.
 Above: A screenshot from the church's new website
 
 The Pretty Prairie United Methodist Church is in the state of Kansas (where the state flower is the sunflower), in a town called Pretty Prairie (where "pretty prairies" of sunflowers can be found in the vicinity). 
-<br>
+<br
 <center>
 ![](images/warm-cool.jpg)
 </center>
