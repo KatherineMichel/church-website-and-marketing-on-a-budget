@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [GitHub README](README.md)
 * [Executive Summary](executive_summary.md)
 * [Upworthy Case Study](upworthy_case_study.md)
 * [Project Management](project_management.md)
