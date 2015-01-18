@@ -16,11 +16,15 @@ Google Trends graph for phrase "United Methodist Church," narrowed down to the W
 
 ![](images/google-trends-united-methodist-church-wichita-hutchinson.png)
 
+### The Competition (Not Who You Might Expect)
+
 But what wasn't in decline? Upworthy, a website with something of a mission for social justice, sharing content intended to be uplifting. 
 
 This is the Google Trends graph for the phrase "Upworthy" worldwide, beginning when Upworthy was founded in 2012, until now. Upworthy was, according to Fast Company, "the fastest growing media site of all time," until Facebook, Upworthy's main source of traffic, changed its algorithms and Upworthy's traffic dramatically fell. 
 
-### Changing Global Ministry Landscape
+Though Upworthy is not affiliated with a church, some (though not all) of Upworthy's content is the type of content that would be of interest to church-goers.
+
+### The Secret of Upworthy's Success
 
 How did Upworthy, in such a short amount of time, achieve growth that surpassed that of Buzzfeed, Huffington Post, and Business Insider?
 <br>
@@ -33,4 +37,8 @@ Content invoking an emotional response
 Optimization for ease of sharing
 * 
 User Testing to the nth degree
+
+### The Changing Global Ministry Landscape and What the Church Can Learn from Upworthy
+
+The church may need to repackage its message and how the message is delivered if it is to compete for the public's attention. 
 
