@@ -14,7 +14,7 @@ Vast number of templates
 * 
 Potential for a full-website look (as opposed to the blog-like appearance of WordPress)
 
-Pretty Prairie United Methodist Church Ezekiel Mock Up
+Pretty Prairie United Methodist Church Ezekiel Sample Mock Up
 ![](images/ezekiel-allegiant-theme-desktop-mockup.jpg)
 
 Final verdict: The Ezekiel content management system was not intuitive enough to suit the specific needs of the church. 
