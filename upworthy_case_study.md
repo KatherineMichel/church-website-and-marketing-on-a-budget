@@ -29,7 +29,7 @@ This is the Google Trends graph for the phrase "Upworthy" worldwide, beginning w
 
 Upworthy was, according to Fast Company, "the fastest growing media site of all time," until Facebook, Upworthy's main source of traffic, changed its algorithms and Upworthy's traffic dramatically fell. 
 
-Though Upworthy is not affiliated with a church, some (though not all) of Upworthy's content is the type of content that would be of interest to church-goers.
+Though Upworthy is not affiliated with a church, and has probably not set out to compete with churches, some of Upworthy's content is the type of content that would be of interest to church-goers.
 
 ### The Secret of Upworthy's Success
 
