@@ -8,7 +8,7 @@
 * [Marketing Strategy](marketing_strategy.md)
 * Web Hosting Primer
 * [Website Options](website_options.md)
-* [Website Requirements](website_requirements.md)
 * [Other Area Churches](other_area_churches.md)
+* [Website Requirements](website_requirements.md)
 * [Design Before and After :)](design_before_and_after.md)
 
