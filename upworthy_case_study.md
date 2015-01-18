@@ -1,8 +1,12 @@
 # Upworthy Case Study
 
-### What the Church Can Learn from Upworthy
+### Google Trends
 
-Unfortunately, Google Trends does not go into enough detail to give results for "Pretty Prairie United Methodist Church," but here is a fun graph for the results for "Pretty Prairie," ranging from around 2004 to September 2004; The town of Pretty Prairie, Kansas happens to host a world famous night rodeo (the biggest night rodeo in Kansas) that happens every July :) 
+A trick that I've learned from the tech analysts I follow on Twitter is to use Google Trends to gauge the level of interest in a word (or words), including by region. 
+
+Unfortunately, Google Trends does not go into enough detail to give results for "Pretty Prairie United Methodist Church," but here is a fun graph for the results for "Pretty Prairie," ranging from around 2004 to September 2004; The town of Pretty Prairie, Kansas happens to host a world famous night rodeo (the biggest night rodeo in Kansas) that happens every July. The spikes all happened in July :) 
+
+![](images/google-trends-pretty-prairie-worldwide.png)
 
 Google Trends graph for phrase "United Methodist Church" worldwide, ranging from around 2004 to January 2015, showing a steady decline: 
 
@@ -20,7 +24,10 @@ Google Trends graph for phrase "United Methodist Church," narrowed down to the W
 
 But what wasn't in decline? Upworthy, a website with something of a mission for social justice, sharing content intended to be uplifting. 
 
-This is the Google Trends graph for the phrase "Upworthy" worldwide, beginning when Upworthy was founded in 2012, until now. Upworthy was, according to Fast Company, "the fastest growing media site of all time," until Facebook, Upworthy's main source of traffic, changed its algorithms and Upworthy's traffic dramatically fell. 
+This is the Google Trends graph for the phrase "Upworthy" worldwide, beginning when Upworthy was founded in 2012, until now. <br>
+![](images/google-trends-upworthy-worldwide.png)
+
+Upworthy was, according to Fast Company, "the fastest growing media site of all time," until Facebook, Upworthy's main source of traffic, changed its algorithms and Upworthy's traffic dramatically fell. 
 
 Though Upworthy is not affiliated with a church, some (though not all) of Upworthy's content is the type of content that would be of interest to church-goers.
 
