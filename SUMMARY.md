@@ -7,8 +7,8 @@
 * [Project Management](project_management.md)
 * [Church Image Rebrand](church_image_rebrand.md)
 * [Marketing Strategy](marketing_strategy.md)
+* Web Hosting Primer
 * [Website Requirements](website_requirements.md)
 * [Website Options](website_options.md)
 * [New Design :)](new_design.md)
-* Web Hosting Primer
 
