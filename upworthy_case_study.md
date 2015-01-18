@@ -4,9 +4,13 @@
 
 A trick that I've learned from the tech analysts I follow on Twitter is to use Google Trends to gauge the level of interest in a word (or words), including by region. 
 
+### Google Trends for "Pretty Prairie"
+
 Unfortunately, Google Trends does not go into enough detail to give results for "Pretty Prairie United Methodist Church," but here is a fun graph for the results for "Pretty Prairie," ranging from around 2004 to September 2004; The town of Pretty Prairie, Kansas happens to host a world famous night rodeo (the biggest night rodeo in Kansas) that happens every July. The spikes all happened in July :) 
 
 ![](images/google-trends-pretty-prairie-worldwide.png)
+
+### Google Trends for "United Methodist Church"
 
 Google Trends graph for phrase "United Methodist Church" worldwide, ranging from around 2004 to January 2015, showing a steady decline: 
 
