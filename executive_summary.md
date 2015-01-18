@@ -5,7 +5,7 @@
 Members of the Pretty Prairie United Methodist Church contacted me about designing a new website and marketing plan for the church. 
 
 ### Problem
-The church's previous website was no longer in existence after the web host had stopped hosting. The website had been made using an outdated technique called Flash. I made the screenshot below from files that I recovered from the web host.  
+The church's previous website was no longer in existence after the web host had stopped hosting. The website had been made using an outdated technique called Flash. I made the screenshot below locally using files that I recovered from the web host.  
 
 Defunct Welcome Page
 ![](images/old-website-welcome-page.jpg)
