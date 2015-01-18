@@ -4,4 +4,4 @@ Members of the Pretty Prairie United Methodist Church contacted about designing 
 
 The church's previous website was no longer in existence after the web host stopped hosting. 
 
-The Church wanted to have a new, updated look.
+The Church wanted to have a modern, new look.
