@@ -1,12 +1,14 @@
 # Church Image Rebrand
 
-The church marketing materials had been created by different people as needed over a period of many years, with no thought to creating one church brand spanning all materials.
+The church marketing materials have been created by different people as needed over a period of many years, with no thought to creating one church brand spanning all materials.
 
 The church will have two themes:
 * 
 The traditional United Methodist cross and flame theme
 * 
 A contemporary sunflower theme
+
+# The Significance of the Sunflower
 
 ![](images/website-sunflowers.png)
 <br>
