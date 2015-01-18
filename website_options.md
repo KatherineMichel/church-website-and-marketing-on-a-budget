@@ -1,6 +1,6 @@
 # Website Options
 
-First priority was given to the national United Methodist Church's own web hosting platform (based on WordPress), followed by a web hosting platform (Ezekiel), which has a partnership with the national United Methodist Church.
+First priority was given to the national United Methodist Church's own web hosting platform (which is based on WordPress), followed by a web hosting platform (Ezekiel), which has a partnership with the national United Methodist Church.
 
 Three things made Ezekiel initially attractive:
 * 
