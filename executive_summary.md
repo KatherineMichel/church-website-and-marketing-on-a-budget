@@ -6,4 +6,4 @@ The church's previous website was no longer in existence after the web host stop
 
 The church wanted to have a new website and marketing materials with a modern, new look.
 
-The cost of the website would need to fit within the church's budget and would need to have a content management system that would be user friendly for extreme non-techies. 
+The cost of the website and marketing materials would need to fit within the church's budget. The project would draw upon existing church resources (such as the Microsoft Publisher program installed on the church computer that has been extremely underutilized, including a number of basic templates). Also, the website would need to have a content management system that would be user friendly for extreme non-techies. 
