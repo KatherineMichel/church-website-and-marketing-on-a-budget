@@ -1,6 +1,6 @@
 # Upworthy Case Study
 
-### Changing Global Ministry Landscape
+### What the Church Can Learn from Upworthy
 
 Google Trends graph for phrase "United Methodist Church" worldwide, ranging from around 2004 to September 2014, showing a steady decline
 
@@ -11,3 +11,8 @@ Unfortunately, Google Trends does not go into enough detail to give results for 
 But what wasn't in decline? Upworthy, a website with something of a mission for social justice, sharing content intended to be inspirational and thought-provoking. 
 
 This is the Google Trends graph for the phrase "Upworthy" worldwide, beginning when Upworthy was founded in 2012, until now. Upworthy was, according to Fast Company, "the fastest growing media site of all time," until Facebook, Upworthy's main source of traffic, changed its algorithms and Upworthy's traffic dramatically fell. 
+
+### Changing Global Ministry Landscape
+
+How did Upworthy, in such a short amount of time, achieve growth that surpassed that of Buzzfeed, Huffington Post, and Business Insider?
+
