@@ -10,5 +10,5 @@
 * Web Hosting Primer
 * [Website Requirements](website_requirements.md)
 * [Website Options](website_options.md)
-* [New Design :)](new_design.md)
+* [Design Before and After :)](design_before_and_after.md)
 
