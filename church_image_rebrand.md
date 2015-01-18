@@ -4,4 +4,4 @@ The inspiration for the church's new brand is the sunflower. The church is in th
 
 "A Pretty Prairie of Sunflowers, 
 
-The church has a Microsoft Publisher program that has been extremely underutilized, including a number of templates never before used. 
+The church has a Microsoft Publisher program that has been extremely underutilized, including a number of templates never before used.
