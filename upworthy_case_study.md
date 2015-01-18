@@ -28,7 +28,7 @@ Google Trends graph for phrase "United Methodist Church," narrowed down to the W
 
 But what wasn't in decline? Upworthy, a website with something of a mission for social justice, sharing content intended to be uplifting. 
 
-This is the Google Trends graph for the phrase "Upworthy" worldwide, beginning when Upworthy was founded in 2012, until now. <br>
+This is the Google Trends graph for the phrase "Upworthy" worldwide, beginning when Upworthy was founded in 2012, until January 2015. <br>
 ![](images/google-trends-upworthy-worldwide.png)
 
 Upworthy was, according to Fast Company, "the fastest growing media site of all time," until Facebook, Upworthy's main source of traffic, changed its algorithms and Upworthy's traffic dramatically fell. 
