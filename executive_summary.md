@@ -5,9 +5,14 @@
 Members of the Pretty Prairie United Methodist Church contacted me about designing a new website and marketing materials for the church. 
 
 ### Problem
-The church's previous website was no longer in existence after the web host stopped hosting. The church was making due with a basic information page hosted for free by the national United Methodist Church (see below).
+The church's previous website was no longer in existence after the web host had stopped hosting. The website had been made using an outdated technique called flash.
+
+![](images/old-website-welcome-page.jpg)
+
+Without an independent website, the church was making due with a Find-a-Church page, (a basic information page hosted for free by the national United Methodist Church).
 
 ![](images/find-a-church-about-us.jpg)
+Above: Pretty Prairie United Methodist Church Find-a-Church Page
 
 The church wanted to have a new website and marketing materials with a modern, new look.
 
