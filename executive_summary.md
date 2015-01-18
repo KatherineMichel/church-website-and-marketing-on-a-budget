@@ -17,4 +17,4 @@ Find-a-Church Page
 
 ### Solution
 
-The church wanted to have a new website and marketing materials with a modern, new look.
+I would Project Manage a modern new website and marketing materials for the church.
