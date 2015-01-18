@@ -3,6 +3,7 @@
 * [GitHub README](README.md)
 * [Executive Summary](executive_summary.md)
 * [Upworthy Case Study](upworthy_case_study.md)
+* Old Website
 * [Project Management](project_management.md)
 * [Church Image Rebrand](church_image_rebrand.md)
 * [Marketing Strategy](marketing_strategy.md)
@@ -11,5 +12,4 @@
 * [Other Area Churches](other_area_churches.md)
 * [Website Requirements](website_requirements.md)
 * [Design Before and After :)](design_before_and_after.md)
-* Old Website
 
