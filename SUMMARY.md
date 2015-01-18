@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Executive Summary](README.md)
 * [Problem Statement](problem_statement.md)
 * [Upworthy Case Study](upworthy_case_study.md)
 * [Existing "Design"](existing_design.md)
