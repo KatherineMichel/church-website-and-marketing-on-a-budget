@@ -11,7 +11,7 @@
 And the middle ground is 
 1. 
 Using a hosted content management system that offers the option to customize some of the code, for instance, the code of the Cascading Style Sheet (CSS); Or...
-2. Designing and deploying the code yourself, using a template based website system (ex. Jekyll via GitHub)
+2. Using a simplified template system to design and deploy your own code (ex. Jekyll via GitHub)
  
 
 ### Front-End
@@ -24,17 +24,17 @@ JavaScript
 
 ### Back-End
 * 
-Python
+Python (Multi-purpose Web Development language with excellent Data Science tools; Currently, the most taught Computer Science language)  
 * 
-Ruby
+Ruby (Popular and well-supported)
 * 
-PHP
+PHP (Used in WordPress, and at a few famous companies such as Facebook and Wikipedia, but otherwise, not as well suported as Python and Ruby)
 * 
 Node.js
 
 ### Hybrid
 * 
-Jekyll
+Jekyll (For people who want to administer their own code, but not from scratch)
 
 
 
