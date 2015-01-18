@@ -14,15 +14,15 @@ Using a hosted content management system that offers the option to customize som
 2. Using a simplified template system to design and deploy your own code (ex. Jekyll via GitHub)
  
 
-### Front-End
+### Front-End Design
 * 
 HTML
 * 
-CSS
+CSS (Think 10,000 page website and you want to have one place to alter the design of every page at once; That place is the Cascading Style Sheet). 
 * 
 JavaScript
 
-### Back-End
+### Back-End Automation
 * 
 Python (Multi-purpose Web Development language with excellent Data Science tools; Currently, the most taught Computer Science language)  
 * 
@@ -34,7 +34,7 @@ Node.js
 
 ### Hybrid
 * 
-Jekyll (For people who want to administer their own code, but not from scratch)
+Jekyll (A simplified template system to design and deploy your own code)
 
 
 
