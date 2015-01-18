@@ -15,6 +15,7 @@ This is the Google Trends graph for the phrase "Upworthy" worldwide, beginning w
 ### Changing Global Ministry Landscape
 
 How did Upworthy, in such a short amount of time, achieve growth that surpassed that of Buzzfeed, Huffington Post, and Business Insider?
+<br>
 Through ...
 * 
 Enticing headlines (Upworthy's rule of thumb is to write the headline 25 different ways)
