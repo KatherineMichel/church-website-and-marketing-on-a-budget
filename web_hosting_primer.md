@@ -10,14 +10,31 @@
 
 And the middle ground is 
 1. 
-Using a hosted content management system, but having the option to customize some of the code, for instance, the code of the Cascading Style Sheet (CSS); Or...
-2. Using a template based website system to design and deploy your site, but not from scratch (ex. Jekyll via GitHub)
+Using a hosted content management system that offers the option to customize some of the code, for instance, the code of the Cascading Style Sheet (CSS); Or...
+2. Designing and deploying the code yourself, using a template based website system (ex. Jekyll via GitHub)
  
 
 ### Front-End
-
+* 
+HTML
+* 
+CSS
+* 
+JavaScript
 
 ### Back-End
+* 
+Python
+* 
+Ruby
+* 
+PHP
+* 
+Node.js
+
+### Hybrid
+* 
+Jekyll
 
 
 
