@@ -2,7 +2,7 @@
 
 #### New Website
 
-#### Newsletter After:
+#### New Newsletter
 
 ![](images/new-newsletter-page-1.png)
 
@@ -12,10 +12,10 @@
 
 ![](images/new-newsletter-page-4.png)
 
-#### Bulletin Before:
+#### New Facebook Page
 
-#### Bulletin After:
+#### New Bulletin
 
-#### Postcard Before:
+#### New Postcard
 
 #### Postcard After:
