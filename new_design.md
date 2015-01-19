@@ -16,6 +16,9 @@
 </center>
 #### New Facebook Page
 
-#### New Bulletin
+#### New Postcard Design
+<center>
+![](images/new-post-card.png)
+</center>
 
-#### New Postcard
+#### New Bulletin
