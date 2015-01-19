@@ -12,7 +12,7 @@
 
 ![](images/old-newsletter-page-3.png)
 
-![](images/old-newsletter-page-3.png)
+![](images/old-newsletter-page-4.png)
 </center>
 #### Newsletter After:
 
