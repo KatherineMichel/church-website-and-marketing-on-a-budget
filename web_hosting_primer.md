@@ -10,9 +10,13 @@ Weebly Drag and Drop Website Builder
 
 Or, "Making a website" can be as sophisticated as writing all of the underlying code from scratch, to create a highly customized website. But with the freedom to customize comes the risk of "jank."
 
-And the middle ground is 
+And there is a lot in between, for instance:
+
 1. Using a hosted content management system that offers the option to customize some of the code, for instance, the code of the Cascading Style Sheet (CSS); Or...
-2. Using a simplified template system to design and deploy your own code (ex. Jekyll via GitHub)
+
+WordPress CSS Customization
+
+2. Using a simplified template system to design and deploy your own code (For example, the static portfolio that I made using Bootstrap and deployed via GitHub gh-pages; Jekyll is another popular option)
  
 
 ### Front-End Design
