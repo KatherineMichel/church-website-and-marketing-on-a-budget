@@ -1,7 +1,7 @@
 # Executive Summary
 
 ### Note: 
-For the tl:dr, check out [Old Design](old_design.md) and [New Design](new_design.md) :) 
+For the TL:DR, check out [Old Design](old_design.md) and [New Design](new_design.md) :) 
 
 ### Proposition
 
