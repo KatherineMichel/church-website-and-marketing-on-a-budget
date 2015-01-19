@@ -25,3 +25,7 @@
 
 ![](images/old-newsletter-page-4.png)
 </center>
+
+### Visitor Postcards
+
+![](images/visitor-post-cards.jpg)
