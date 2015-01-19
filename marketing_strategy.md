@@ -6,7 +6,7 @@ Communication optimization
 Directory/Telephone book
 
 Branded Marketing Materials:
-* Website/Blog/Social Media Sites
+* Website/Blog/Social Media Sites (Facebook)
 * Directory
 * Brochure
 * Newsletter (electronic and by mail)
