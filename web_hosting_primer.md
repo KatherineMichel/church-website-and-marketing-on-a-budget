@@ -12,6 +12,8 @@ Example: Weebly Drag and Drop Website Builder
 
 Or, "Making a website" can be as sophisticated as assembling all of the underlying code, to create a highly customized website. But with the freedom to customize comes the risk of "jank."
 
+Me using the command line to design a Django Website
+
 Many web hosts do offer some middle ground, for instance a content management system that allows for some customization of the HTML (Hyper Text Markup Language) and/or CSS (Cascading Style Sheet) code. Here is an example, using WordPress:
 
 Choose a WordPress theme, for instance [Catch Everest](https://wordpress.org/themes/catch-everest).
@@ -20,13 +22,15 @@ Identify the WordPress theme's default [Cascading Style Sheet](http://wp-themes.
 
 Determine what aspect of the template's design to change and identify the corresponding code.
 
-Re-write the code then enter the altered snippet of code into the designated area of the WordPress content management system that you are using in order to override the default CSS code and change the website's design aesthetic.
+Re-write the code to produce the intended change, then enter the altered snippet of code into the designated area of the WordPress content management system that you are using in order to override the default CSS code and make the design change go live.
 
 Another middle ground option is to use a simplified template system to design and deploy your own code (For example, the static portfolio that I made with Bootstrap then deployed via GitHub gh-pages; Jekyll is another popular option). The downside of this approach is that it tends to involve interacting directly with the code, perhaps via command line, rather than using the kind of content management system dashboard expected by a client.  
 
 
 
-Example: Me using the command line to design a Django Website
+
+
+
 
 
 
