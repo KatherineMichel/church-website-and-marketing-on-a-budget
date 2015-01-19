@@ -40,6 +40,8 @@ If you were a regular user of Facebook in the Fall of 2013, it's very likely tha
 It was only when Facebook, Upworthy's main source of traffic, changed its algorithms, that Upworthy's traffic dramatically fell.
 
 
+in such a short amount of time, achieve growth that surpassed that of Buzzfeed, Huffington Post, and Business Insider?
+
 a website with something of a mission for social justice, sharing content intended to be uplifting. 
 
 Though Upworthy is not affiliated with a church, and has probably not set out to compete with churches, some of Upworthy's content is the type of content that would be of interest to church-goers.
@@ -48,7 +50,8 @@ Though Upworthy is not affiliated with a church, and has probably not set out to
 
 ### The Secret of Upworthy's Success
 
-How did Upworthy, in such a short amount of time, achieve growth that surpassed that of Buzzfeed, Huffington Post, and Business Insider?
+How did Upworthy achieve unprecedented growth and in such a short time? Feel free to find out from [Upworthy](http://www.slideshare.net/Upworthy) itself. Here are a few of the main points:
+
 <br>
 Through ...
 * 
