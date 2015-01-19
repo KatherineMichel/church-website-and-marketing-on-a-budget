@@ -4,7 +4,7 @@
 
 #### New Website
 
-#### New Newsletter
+#### New E-Newsletter
 <center>
 ![](images/new-newsletter-page-1.png)
 
