@@ -32,12 +32,12 @@ Example: Me using the command line to design a Django Website
 
  
 
-### Front-End Design
+### Front-End (What You See) Design
 * HTML
 * CSS (Think 10,000 page website and you want to have one place to alter the design of every page at once; That place is the Cascading Style Sheet). 
 * JavaScript
 
-### Back-End Automation
+### Back-End (Abstract) Automation
 * Python (Multi-purpose Web Development language with excellent Data Science tools; Currently, the most taught Computer Science language)  
 * Ruby (Popular and well-supported)
 * PHP (Used in WordPress, and at a few famous companies such as Facebook and Wikipedia, but otherwise, not as well suported as Python and Ruby)
