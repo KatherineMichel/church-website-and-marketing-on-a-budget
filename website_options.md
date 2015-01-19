@@ -7,12 +7,9 @@ First priority was given to the national United Methodist Church's own web hosti
 ### Ezekiel 
 Ezekiel has a partnership with the national United Methodist Church.<br>
 Three things made Ezekiel initially attractive:
-* 
-Price
-* 
-Vast number of templates
-* 
-Potential for a full-website look (as opposed to the blog-like appearance of WordPress)
+* Price (One time set up fee of $18 + $11/month)
+* Vast number of templates
+* Potential for a full-website look (as opposed to the blog-like appearance of WordPress)
 
 Pretty Prairie United Methodist Church Ezekiel Sample Mock Up
 ![](images/ezekiel-allegiant-theme-desktop-mockup.jpg)
