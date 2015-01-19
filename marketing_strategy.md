@@ -1,33 +1,9 @@
 # Marketing Strategy
-Demographics
 
-Communication optimization
+### Church Communication Definition
 
-Directory/Telephone book
+Church Communication is church outreach to church members and other potentially interested parties
 
-Branded Marketing Materials:
-* Website/Blog/Social Media Sites (Facebook)
-* Directory
-* Brochure
-* Newsletter (electronic and by mail)
-* Bulletin
-* PowerPoint Slides
-* Letterhead
-* Postcards
-* Business card/Placeholder
-* Email
-* Envelopes
-* Labels
+### Church Marketing Definition
 
-Wireframes/Story Board
-
-Marketing Calendar
-
-Visitor Outreach
-
-Church brochure and gift for first-time visitirs/Visitor Letter
-
-Inactive Members Letter
-
-Under utilized resources/new revenue streams
-
+Church Marketing is strategic planning for said outreach
