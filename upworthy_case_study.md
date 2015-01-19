@@ -2,7 +2,7 @@
 
 ### Google Trends
 
-A trick that I've learned from the tech analysts [I follow on Twitter](https://twitter.com/katimichel/following) is to use [Google Trends](http://www.google.com/trends) to gauge the level of interest in a word (or words), including by region. 
+A technique that I've learned from the tech analysts [I follow on Twitter](https://twitter.com/katimichel/following) is to use [Google Trends](http://www.google.com/trends) to gauge the level of interest in a word (or words), including by region. 
 
 ### Google Trends for "Pretty Prairie"
 
@@ -10,7 +10,7 @@ Unfortunately, Google Trends does not go into enough detail to give results for 
 
 ![](images/google-trends-pretty-prairie-worldwide.png)
 
-I like this graph a lot because it makes sense. The Google Trends graphs for "[Pretty Prairie Rodeo" (region: worldwide)](http://www.google.com/trends/explore#q=%22pretty+prairie+rodeo%22) demonstrates similar spikes in interest. 
+The Google Trends graph for "[Pretty Prairie Rodeo" (region: worldwide)](http://www.google.com/trends/explore#q=%22pretty+prairie+rodeo%22) demonstrates similar spikes in interest. 
 
 ![](images/google-trends-pretty-prairie-rodeo-worldwide.png)
 
