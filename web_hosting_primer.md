@@ -4,21 +4,31 @@
 
 "Making a website" can mean many things. 
 
-"Making a website" can be as simple as using a content management system to "drag and drop" content into pre-determined spaces, without touching the underlying code, but also without much freedom to customize the website. 
+"Making a website" can be as simple as using a content management system to "drag and drop" content into pre-determined spaces, without touching the underlying code, but also without much freedom to customize the structure of the website. 
 
 Example: Weebly Drag and Drop Website Builder
 
 ![](images/weebly.png)
 
-Or, "Making a website" can be as sophisticated as assembling all of the underlying code, to create a highly customized website. But with the freedom to customize comes the risk of "jank."
+"Making a website" can be as intermediate as:
 
-And there is a lot in between, for instance:
+1. Using a content management system that allows for some code customization 
 
-1. Using a hosted content management system that offers the option to customize some of the code, for instance, the code of the Cascading Style Sheet (CSS); Or...
+Example: Choose a WordPress template.
 
-WordPress CSS Customization
+Identify the WordPress template's default Cascading Style Sheet (CSS) code.
+
+Determine what aspect of the template's design to change and identify the corresponding code.
+
+Re-write the code then enter the altered snippet of code into the designated area of the WordPress content management system to override the default CSS code and change the website's design aesthetic.
 
 2. Using a simplified template system to design and deploy your own code (For example, the static portfolio that I made with Bootstrap then deployed via GitHub gh-pages; Jekyll is another popular option)
+
+Or, "Making a website" can be as sophisticated as assembling all of the underlying code, to create a highly customized website. But with the freedom to customize comes the risk of "jank."
+
+
+
+
  
 
 ### Front-End Design
