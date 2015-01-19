@@ -1,6 +1,10 @@
 # Website Options
 
-First priority was given to the national United Methodist Church's own web hosting platform (which is based on WordPress), followed by a web hosting platform (Ezekiel), which has a partnership with the national United Methodist Church, resulting in a discount.
+* United Methodist Church Web Hosting
+* Ezekiel Web Hosting (discount due to United Methodist partnership)
+* Squarespace
+
+First priority was given to the national United Methodist Church's own web hosting platform (which is based on WordPress)
 
 ### United Methodist Church Web Hosting
 
