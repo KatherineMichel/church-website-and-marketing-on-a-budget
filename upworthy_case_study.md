@@ -12,7 +12,7 @@ Unfortunately, Google Trends does not go into enough detail to give results for 
 
 ### Google Trends for "United Methodist Church"
 
-Unfortunately, the graphs for the search phrase "United Methodist Church" are not so fun, because they show a steady decline in search interest. 
+Unfortunately, the Google Trends graphs for the search phrase "United Methodist Church" are not so fun, because they show a steady decline in search interest. 
 
 Here is the Google Trends graph for the phrase ["United Methodist Church" worldwide](http://www.google.com/trends/explore#q=united%20methodist%20church), from around 2004 to January 2015: 
 
