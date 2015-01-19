@@ -11,6 +11,5 @@
 * [Other Area Churches](other_area_churches.md)
 * [Website Requirements](website_requirements.md)
 * [Old Design](old_design.md)
-* [Old Website](old_website.md)
 * [Design Before and After :)](design_before_and_after.md)
 
