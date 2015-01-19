@@ -26,11 +26,11 @@
 ![](images/old-newsletter-page-4.png)
 </center>
 
-### Visitor Postcards
+### old Visitor Postcards
 
 ![](images/visitor-post-cards.jpg)
 
-### Reminder Postcards
+### Old Reminder Postcards
 <center>
 ![](images/post-cards-page-1.jpg)
 
