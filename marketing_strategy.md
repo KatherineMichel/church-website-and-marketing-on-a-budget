@@ -7,3 +7,5 @@ Church Communication is church outreach to church members and other potentially 
 ### Church Marketing Definition
 
 Church Marketing is strategic planning for said outreach
+
+### Church Elevator Statement
