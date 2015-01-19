@@ -14,9 +14,11 @@
 
 ![](images/new-newsletter-page-4.png)
 </center>
+
 #### New Facebook Page
 
 #### New Postcard Design
+
 <center>
 ![](images/new-post-card.png)
 </center>
