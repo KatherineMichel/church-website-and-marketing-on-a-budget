@@ -73,16 +73,18 @@ How did Upworthy achieve unprecedented growth and in such a short time? Feel fre
 
 <br>
 Through ...
-* 
-Enticing headlines, also called "click-bait" and generally frowned upon by respected media (Upworthy's rule of thumb is to write each headline 25 different ways, then user test to choose the best one)
-* 
-Content invoking an emotional response
-* 
-Optimization for ease of sharing
-* 
-User Testing to the nth degree
+* Enticing headlines, also called "click-bait" and generally frowned upon by respected media (Upworthy's rule of thumb is to write each headline 25 different ways, then user test to choose the best one)
+* Content invoking an emotional response
+* Optimization for ease of sharing
+* User Testing to the nth degree
 
 ### The Changing Global Ministry Landscape and What the Church Can Learn from Upworthy
 
 There is a market for "uplifting" content. The church may need to repackage its message and how the message is delivered if it is to compete for the public's attention. 
+
+### John Wesley, Social Pioneer
+
+Perhaps the United Methodist Church need look no further than its own founder for inspiration. 
+
+"I look upon all the world as my parish" -John Wesley, founder of Methodism
 
