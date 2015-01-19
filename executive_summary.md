@@ -5,7 +5,7 @@
 Members of the Pretty Prairie United Methodist Church contacted me about designing a new website and marketing plan for the church. 
 
 ### Problem
-The church's previous website, which had been made using an outdated technique called Flash, was no longer in existence because [the web host had stopped hosting](https://kslib.info/1013/Blue-Skyways-Transition). I made the screenshot below locally using files that I recovered from the web host. 
+The church's previous website, which had been made using an outdated technique called Flash, was no longer in existence because [the web host had stopped hosting](https://kslib.info/1013/Blue-Skyways-Transition). I made the screenshot below locally (offline, on a personal computer) using files that I recovered from the web host. 
 
 ![](images/old-website-welcome-page.jpg)
 
