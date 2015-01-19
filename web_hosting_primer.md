@@ -12,19 +12,17 @@ Example: Weebly Drag and Drop Website Builder
 
 Or, "Making a website" can be as sophisticated as assembling all of the underlying code, to create a highly customized website. But with the freedom to customize comes the risk of "jank."
 
-"Making a website" can be as intermediate as:
+Many web hosts do offer some middle ground, for instance a content management system that allows for some customization of the HTML (Hyper Text Markup Language) and/or CSS (Cascading Style Sheet) code. Here is an example, using WordPress:
 
-1. Using a content management system that allows for some code customization 
+Choose a WordPress theme, for instance [Catch Everest](https://wordpress.org/themes/catch-everest).
 
-Example: Choose a WordPress theme, for instance [Catch Everest](https://wordpress.org/themes/catch-everest).
-
-Identify the WordPress template's default [Cascading Style Sheet](http://wp-themes.com/wp-content/themes/catch-everest/style.css?ver=4.0-beta2-20140725) (CSS) code. This could be done by downloading the theme files and searching through them, or by opening an online [Catch Everest demo](http://wp-themes.com/catch-everest/?TB_iframe=true&width=600&height=400) in the browser, right clicking and choosing "View page source," then looking through "head" section of the source for a CSS file that is accessible online. 
+Identify the WordPress theme's default [Cascading Style Sheet](http://wp-themes.com/wp-content/themes/catch-everest/style.css?ver=4.0-beta2-20140725) (CSS) code. This could be done by downloading the theme files and searching through them, or by opening an online [Catch Everest demo](http://wp-themes.com/catch-everest/?TB_iframe=true&width=600&height=400) in the browser, right clicking and choosing "View page source," then looking through the "head" section of the source for a CSS file that is accessible online and accessing it. 
 
 Determine what aspect of the template's design to change and identify the corresponding code.
 
-Re-write the code then enter the altered snippet of code into the designated area of the WordPress content management system that you are using to override the default CSS code and change the website's design aesthetic.
+Re-write the code then enter the altered snippet of code into the designated area of the WordPress content management system that you are using in order to override the default CSS code and change the website's design aesthetic.
 
-2. Using a simplified template system to design and deploy your own code (For example, the static portfolio that I made with Bootstrap then deployed via GitHub gh-pages; Jekyll is another popular option)
+Another middle ground option is to use a simplified template system to design and deploy your own code (For example, the static portfolio that I made with Bootstrap then deployed via GitHub gh-pages; Jekyll is another popular option). The downside of this approach is that it tends to involve interacting directly with the code, perhaps via command line, rather than using the kind of content management system dashboard expected by a client.  
 
 
 
