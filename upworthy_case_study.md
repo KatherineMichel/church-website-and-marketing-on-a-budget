@@ -6,7 +6,7 @@ A trick that I've learned from the tech analysts [I follow on Twitter](https://t
 
 ### Google Trends for "Pretty Prairie"
 
-Unfortunately, Google Trends does not go into enough detail to give results for "Pretty Prairie United Methodist Church," but here is a fun graph for the results for "[Pretty Prairie](http://www.google.com/trends/explore#q=pretty%20prairie)," from around 2004 to September 2004; The town of Pretty Prairie, Kansas happens to host the world famous [Pretty Prairie Rodeo](http://www.pprodeo.com) (the biggest night rodeo in Kansas) every July. The spikes in the Google Trends graph below all happened in July :) 
+Unfortunately, Google Trends does not go into enough detail to give results for "Pretty Prairie United Methodist Church," but here is a fun graph for the results for ["Pretty Prairie"](http://www.google.com/trends/explore#q=pretty%20prairie), from around 2004 to September 2004; The town of Pretty Prairie, Kansas happens to host the world famous [Pretty Prairie Rodeo](http://www.pprodeo.com) (the biggest night rodeo in Kansas) every July. The spikes in the Google Trends graph below all happened in July :) 
 
 ![](images/google-trends-pretty-prairie-worldwide.png)
 
@@ -18,7 +18,7 @@ Here is the Google Trends graph for the phrase ["United Methodist Church" worldw
 
 ![](images/google-trend-united-methodist-church-worldwide.png)
 
-Here is the Google Trends graph for the phrase ["United Methodist Church" in the Kansas region](http://www.google.com/trends/explore#geo=US-KS&q=united+methodist+church), from around 2006 to January 2015: 
+Here is the Google Trends graph for the phrase ["United Methodist Church" in the Kansas region](http://www.google.com/trends/explore#geo=US-KS&q=united+methodist+church), from around 2004 to January 2015: 
 
 ![](images/google-trends-united-methodist-church-kansas.png)
 
