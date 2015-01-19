@@ -6,23 +6,27 @@ A trick that I've learned from the tech analysts [I follow on Twitter](https://t
 
 ### Google Trends for "Pretty Prairie"
 
-Unfortunately, Google Trends does not go into enough detail to give results for "Pretty Prairie United Methodist Church," but here is a fun graph for the results for ["Pretty Prairie"](http://www.google.com/trends/explore#q=pretty%20prairie), from around 2004 to September 2004; The town of Pretty Prairie, Kansas happens to host the world famous [Pretty Prairie Rodeo](http://www.pprodeo.com) (the biggest night rodeo in Kansas) every July. The spikes in the Google Trends graph below all happened in July :) 
+Unfortunately, Google Trends does not go into enough detail to give results for "Pretty Prairie United Methodist Church," but here is a fun graph for the results for ["Pretty Prairie" (region: worldwide)](http://www.google.com/trends/explore#q=pretty%20prairie), from around 2004 to September 2004; The town of Pretty Prairie, Kansas happens to host the world famous [Pretty Prairie Rodeo](http://www.pprodeo.com) (the biggest night rodeo in Kansas) every July. The spikes in the Google Trends graph below all happened in July :) 
 
 ![](images/google-trends-pretty-prairie-worldwide.png)
+
+I like this graph a lot because it makes sense. The Google Trends graphs for "[Pretty Prairie Rodeo" (region: worldwide)](http://www.google.com/trends/explore#q=%22pretty+prairie+rodeo%22) provides a similar result. 
+
+![](images/google-trends-pretty-prairie-rodeo-worldwide.png)
 
 ### Google Trends for "United Methodist Church"
 
 Unfortunately, the Google Trends graphs for the search phrase "United Methodist Church" are not so fun, because they show a steady decline in search interest. 
 
-Here is the Google Trends graph for the phrase ["United Methodist Church" worldwide](http://www.google.com/trends/explore#q=united%20methodist%20church), from around 2004 to January 2015: 
+Here is the Google Trends graph for the phrase ["United Methodist Church" (region: worldwide)](http://www.google.com/trends/explore#q=united%20methodist%20church), from around 2004 to January 2015: 
 
 ![](images/google-trend-united-methodist-church-worldwide.png)
 
-Here is the Google Trends graph for the phrase ["United Methodist Church" in the Kansas region](http://www.google.com/trends/explore#geo=US-KS&q=united+methodist+church), from around 2004 to January 2015: 
+Here is the Google Trends graph for the phrase ["United Methodist Church" (region: Kansas)](http://www.google.com/trends/explore#geo=US-KS&q=united+methodist+church), from around 2004 to January 2015: 
 
 ![](images/google-trends-united-methodist-church-kansas.png)
 
-Here is the Google Trends graph for the phrase ["United Methodist Church" in the Wichita/Hutchinson, Kansas region](http://www.google.com/trends/explore#geo=US-KS-678&q=united+methodist+church), from around 2004 to January 2015: 
+Here is the Google Trends graph for the phrase ["United Methodist Church" (region: Wichita/Hutchinson, Kansas)](http://www.google.com/trends/explore#geo=US-KS-678&q=united+methodist+church), from around 2004 to January 2015: 
 
 ![](images/google-trends-united-methodist-church-wichita-hutchinson.png)
 
@@ -32,15 +36,14 @@ But what wasn't in decline? A website called [Upworthy](http://www.upworthy.com)
 
 According to Fast Company, Upworthy was "[the fastest-growing media site in history](http://www.fastcompany.com/3012649/how-upworthy-used-emotional-data-to-become-the-fastest-growing-media-site-of-all-time)." 
 
-This is the Google Trends graph for the phrase ["Upworthy" worldwide](http://www.google.com/trends/explore#q=upworthy), beginning when Upworthy was founded in 2012, until January 2015: <br>
+This is the Google Trends graph for the phrase ["Upworthy" (region: worldwide)](http://www.google.com/trends/explore#q=upworthy), beginning when Upworthy was founded in 2012, until January 2015: <br>
 ![](images/google-trends-upworthy-worldwide.png)
 
-If you were a regular user of Facebook in the Fall of 2013, it's very likely that like me, you often came across Upworthy content that had been shared by friends, and perhaps shared it yourself. 
+If you were a regular user of Facebook in the Fall of 2013, it's very likely that like me, you often came across Upworthy content that had been shared by friends, and perhaps shared it yourself. It's widely believed that when the content of one organization begins to take over the Facebook news feed, Facebook changes its algorithm. As such, when Facebook, Upworthy's main source of traffic, changed its algorithms, Upworthy's traffic dramatically fell.
 
-It's widely believed that when the content of one organization begins to take over the Facebook news feed, Facebook changes its algorithm. As such, when Facebook, Upworthy's main source of traffic, changed its algorithms, Upworthy's traffic dramatically fell.
+![](images/upworthy-quantcast.png)
 
-
-in such a short amount of time, achieve growth that surpassed that of Buzzfeed, Huffington Post, and Business Insider?
+How did Upworthy, in such a short amount of time, achieve growth that far surpassed that of its closest viral competitors: Buzzfeed, Huffington Post, and Business Insider?
 
 a website with something of a mission for social justice, sharing content intended to be uplifting. 
 
