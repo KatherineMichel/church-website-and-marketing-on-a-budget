@@ -6,9 +6,9 @@
 
 "Making a website" can be as simple as using a content management system to "drag and drop" content into pre-determined spaces, without touching the underlying code, but also without much freedom to customize the website. 
 
-Weebly Drag and Drop Website Builder
+Example: Weebly Drag and Drop Website Builder
 
-Or, "Making a website" can be as sophisticated as writing all of the underlying code from scratch, to create a highly customized website. But with the freedom to customize comes the risk of "jank."
+Or, "Making a website" can be as sophisticated as assembling all of the underlying code, to create a highly customized website. But with the freedom to customize comes the risk of "jank."
 
 And there is a lot in between, for instance:
 
@@ -16,7 +16,7 @@ And there is a lot in between, for instance:
 
 WordPress CSS Customization
 
-2. Using a simplified template system to design and deploy your own code (For example, the static portfolio that I made using Bootstrap and deployed via GitHub gh-pages; Jekyll is another popular option)
+2. Using a simplified template system to design and deploy your own code (For example, the static portfolio that I made with Bootstrap then deployed via GitHub gh-pages; Jekyll is another popular option)
  
 
 ### Front-End Design
