@@ -25,5 +25,7 @@ Marketing Calendar
 
 Visitor Outreach
 
-Visitor Letter
+Church brochure and gift for first-time visitirs/Visitor Letter
+
+Inactive Members Letter
 
