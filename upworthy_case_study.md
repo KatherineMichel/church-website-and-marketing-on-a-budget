@@ -46,6 +46,8 @@ In a short period of time, Upworthy achieved growth that far surpassed that of i
 </center>
 If you were a regular user of Facebook in the Fall of 2013, it's very likely that you came across Upworthy content. 
 
+Some examples include: 
+
 It's rumoured that when the content of one organization becomes disproportionately popular on the Facebook news feed, Facebook changes its algorithm. When Facebook, Upworthy's main source of traffic, changed its algorithms at the end of 2013, Upworthy's traffic dramatically fell.
 
 
