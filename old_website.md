@@ -1,8 +1,17 @@
 # Old Website
 
-### Screenshots of Defunct Website
+### Areas for Improvement
+* The website was made using an outdated technique called Flash
+* Poor color choice (blue and pink are not complementary)
+* Use of clip art should be avoided if possible
+* Welcome Page runs the risk of being a "data dump"
+* Photo Page grid not aesthetically pleasing
+* Wasted space in Youth Activities Page
+* No social media sharing options
+* Archaic design for website header/nav-bar
+* Website does not seem representative of all church demographics, groups, activities
 
-The website had been made using an outdated technique called Flash. 
+### Screenshots of Defunct Website
 
 ![](images/old-website-welcome-page.jpg)
 
