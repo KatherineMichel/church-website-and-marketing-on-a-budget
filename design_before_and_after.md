@@ -1,19 +1,7 @@
 # Design Before and After :)
 
-#### Website Before:
+#### New Website
 
-#### Website After:
-
-#### Newsletter Before:
-<center>
-![](images/old-newsletter-page-1.png)
-
-![](images/old-newsletter-page-2.png)
-
-![](images/old-newsletter-page-3.png)
-
-![](images/old-newsletter-page-4.png)
-</center>
 #### Newsletter After:
 
 ![](images/new-newsletter-page-1.png)
