@@ -13,7 +13,6 @@
 * Wasted space
 * 
 ### Areas for Improvement
-* The website was made using an outdated technique called Flash
 * Poor color choice (blue and pink are not complementary)
 * Use of clip art should be avoided if possible
 * Welcome Page runs the risk of being a "data dump," wasted space
