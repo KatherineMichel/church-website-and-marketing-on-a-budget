@@ -26,7 +26,16 @@
 ![](images/old-newsletter-page-4.png)
 </center>
 
-### old Visitor Postcards
+### Old Church Brochure
+
+Outside<br>
+
+![](images/church-brochure-outside.png)
+
+Inside<br>
+![](images/church-brochure-inside.png)
+
+### Old Visitor Postcards
 
 ![](images/visitor-post-cards.jpg)
 
