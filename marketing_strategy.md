@@ -29,3 +29,5 @@ Church brochure and gift for first-time visitirs/Visitor Letter
 
 Inactive Members Letter
 
+Under utilized resources/new revenue streams
+
