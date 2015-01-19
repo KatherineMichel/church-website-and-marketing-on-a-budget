@@ -19,5 +19,3 @@
 #### New Bulletin
 
 #### New Postcard
-
-#### New Postcard
