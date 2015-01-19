@@ -22,6 +22,8 @@
 * Archaic design for website header/nav-bar
 * Website does not seem representative of all church demographics, groups, activities
 
+Also, the website would need to have a content management system that would be user friendly for extreme non-techies.
+
 
 
 
