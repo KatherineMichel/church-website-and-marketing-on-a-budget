@@ -8,6 +8,11 @@ First priority was given to the national United Methodist Church's own web hosti
 
 ### United Methodist Church Web Hosting
 
+Possible Themes: 
+* Classic
+* Sunflowers
+* Staind Glass Window
+
 ### Ezekiel 
 Three things made Ezekiel initially attractive:
 * Price ([One time set up fee of $18 + $11/month](http://www.umc.e-zekiel.com/comparison))
