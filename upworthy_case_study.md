@@ -35,6 +35,8 @@ This is the Google Trends graph for the phrase ["Upworthy" worldwide](http://www
 
 According to Fast Company, Upworthy was "the fastest growing media site of all time." 
 
+If you were a regular user of Facebook in the Fall of 2013, it's very likely that like me, you often came across Upworthy content that had been shared by friends, and perhaps shared it yourself.  
+
 It was only when Facebook, Upworthy's main source of traffic, changed its algorithms, that Upworthy's traffic dramatically fell.
 
 
