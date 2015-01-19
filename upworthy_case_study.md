@@ -20,7 +20,7 @@ Unfortunately, the Google Trends graphs for the search phrase "United Methodist 
 
 Here is the Google Trends graph for the phrase ["United Methodist Church" (region: worldwide)](http://www.google.com/trends/explore#q=united%20methodist%20church), from around 2004 to January 2015: 
 
-![](images/google-trend-united-methodist-church-worldwide.png)
+![](images/google-trends-united-methodist-church-worldwide.png)
 
 Here is the Google Trends graph for the phrase ["United Methodist Church" (region: Kansas)](http://www.google.com/trends/explore#geo=US-KS&q=united+methodist+church), from around 2004 to January 2015: 
 
