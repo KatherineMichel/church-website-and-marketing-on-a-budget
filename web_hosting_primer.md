@@ -10,6 +10,8 @@ Example: Weebly Drag and Drop Website Builder
 
 ![](images/weebly.png)
 
+Or, "Making a website" can be as sophisticated as assembling all of the underlying code, to create a highly customized website. But with the freedom to customize comes the risk of "jank."
+
 "Making a website" can be as intermediate as:
 
 1. Using a content management system that allows for some code customization 
@@ -24,7 +26,7 @@ Re-write the code then enter the altered snippet of code into the designated are
 
 2. Using a simplified template system to design and deploy your own code (For example, the static portfolio that I made with Bootstrap then deployed via GitHub gh-pages; Jekyll is another popular option)
 
-Or, "Making a website" can be as sophisticated as assembling all of the underlying code, to create a highly customized website. But with the freedom to customize comes the risk of "jank."
+
 
 Example: Me using the command line to design a Django Website
 
