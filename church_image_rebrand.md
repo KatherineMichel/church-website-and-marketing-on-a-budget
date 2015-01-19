@@ -1,10 +1,10 @@
 # Church Image Rebrand
 
-The church will have two themes:
-* 
-The traditional United Methodist cross and flame theme
-* 
-A contemporary sunflower theme
+The new church theme will incorporate together:
+* The traditional United Methodist cross and flame (with black flame instead of red)
+* A contemporary sunflower motif
+
+The new church theme will strive whenever possible to use use fewer materials, but with a common brand experience incorporated into all of them. For example, rather than having 12 slightly different post card designs, the church will have 1 beautifully branded post card design altered to suit the purpose. 
 
 # The Significance of the Sunflower
 
