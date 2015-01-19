@@ -41,14 +41,14 @@ This is the Google Trends graph for the phrase ["Upworthy" (region: worldwide)](
 ![](images/google-trends-upworthy-worldwide.png)
 
 In a short period of time, Upworthy achieved growth that far surpassed that of its closest viral competitors: Buzzfeed, Huffington Post, and Business Insider. 
-
+<center>
 ![](images/upworthy-quantcast.png)
-
+</center>
 If you were a regular user of Facebook in the Fall of 2013, it's very likely that you came across Upworthy content. 
 
 It's rumoured that when the content of one organization becomes disproportionately popular on the Facebook news feed, Facebook changes its algorithm. When Facebook, Upworthy's main source of traffic, changed its algorithms at the end of 2013, Upworthy's traffic dramatically fell.
 
-What makes Upworthy very interesting though is that the overall focus of Upworthy's content is very different than that of its traffic competitors. 
+What makes Upworthy very interesting though is that the overall focus of Upworthy's content is very different than that of its traffic competitors. Although Upworthy's competitors may sometimes publish articles about social justice, social justice is Upworthy's overall focus. 
 
 
 
