@@ -8,6 +8,8 @@
 
 Example: Weebly Drag and Drop Website Builder
 
+![](images/weebly.png)
+
 Or, "Making a website" can be as sophisticated as assembling all of the underlying code, to create a highly customized website. But with the freedom to customize comes the risk of "jank."
 
 And there is a lot in between, for instance:
