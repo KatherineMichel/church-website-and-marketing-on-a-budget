@@ -48,13 +48,10 @@ If you were a regular user of Facebook in the Fall of 2013, it's very likely tha
 
 It's rumoured that when the content of one organization becomes disproportionately popular on the Facebook news feed, Facebook changes its algorithm. When Facebook, Upworthy's main source of traffic, changed its algorithms at the end of 2013, Upworthy's traffic dramatically fell.
 
+What makes Upworthy very interesting though is that the overall focus of Upworthy's content is very different than that of its traffic competitors. 
 
 
 
-
-
-
-What sets Upworthy apart from 
 
 The success of Upworthy seems to make moot any argument that people are not interested in stories that are inspiring, 
 
