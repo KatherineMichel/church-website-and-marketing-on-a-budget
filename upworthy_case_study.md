@@ -28,12 +28,12 @@ Here is the Google Trends graph for the phrase ["United Methodist Church" in the
 
 ### The Competition (Not Who You Might Expect)
 
-But what wasn't in decline? [Upworthy](http://www.upworthy.com), a website with something of a mission for social justice, sharing content intended to be uplifting. 
+But what wasn't in decline? The site that according to Fast Company, was "the fastest growing media site of all time," was a site called [Upworthy](http://www.upworthy.com), a website with something of a mission for social justice, sharing content intended to be uplifting. 
 
 This is the Google Trends graph for the phrase ["Upworthy" worldwide](http://www.google.com/trends/explore#q=upworthy), beginning when Upworthy was founded in 2012, until January 2015: <br>
 ![](images/google-trends-upworthy-worldwide.png)
 
-Upworthy was, according to Fast Company, "the fastest growing media site of all time," until Facebook, Upworthy's main source of traffic, changed its algorithms and Upworthy's traffic dramatically fell. 
+When Facebook, Upworthy's main source of traffic, changed its algorithms, Upworthy's traffic dramatically fell. 
 
 Though Upworthy is not affiliated with a church, and has probably not set out to compete with churches, some of Upworthy's content is the type of content that would be of interest to church-goers.
 
@@ -45,7 +45,7 @@ How did Upworthy, in such a short amount of time, achieve growth that surpassed 
 <br>
 Through ...
 * 
-Enticing headlines (Upworthy's rule of thumb is to write the headline 25 different ways)
+Enticing headlines, arguably "click-bait" (Upworthy's rule of thumb is to write the headline 25 different ways)
 * 
 Content invoking an emotional response
 * 
@@ -55,5 +55,5 @@ User Testing to the nth degree
 
 ### The Changing Global Ministry Landscape and What the Church Can Learn from Upworthy
 
-The church may need to repackage its message and how the message is delivered if it is to compete for the public's attention. 
+There is a market for "uplifting" content. The church may need to repackage its message and how the message is delivered if it is to compete for the public's attention. 
 
