@@ -5,15 +5,15 @@
 #### Website After:
 
 #### Newsletter Before:
+<center>
+![](images/old-newsletter-page-1.png)
 
-[](images/old-newsletter-page-1.png)
+![](images/old-newsletter-page-2.png)
 
-[](images/old-newsletter-page-2.png)
+![](images/old-newsletter-page-3.png)
 
-[](images/old-newsletter-page-3.png)
-
-[](images/old-newsletter-page-4.png)
-
+![](images/old-newsletter-page-3.png)
+</center>
 #### Newsletter After:
 
 #### Bulletin Before:
