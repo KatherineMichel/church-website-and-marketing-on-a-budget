@@ -30,14 +30,14 @@ Here is the Google Trends graph for the phrase ["United Methodist Church" in the
 
 But what wasn't in decline? A website called [Upworthy](http://www.upworthy.com). 
 
+According to Fast Company, Upworthy was "[the fastest-growing media site in history](http://www.fastcompany.com/3012649/how-upworthy-used-emotional-data-to-become-the-fastest-growing-media-site-of-all-time)." 
+
 This is the Google Trends graph for the phrase ["Upworthy" worldwide](http://www.google.com/trends/explore#q=upworthy), beginning when Upworthy was founded in 2012, until January 2015: <br>
 ![](images/google-trends-upworthy-worldwide.png)
 
-According to Fast Company, Upworthy was "the fastest growing media site of all time." 
+If you were a regular user of Facebook in the Fall of 2013, it's very likely that like me, you often came across Upworthy content that had been shared by friends, and perhaps shared it yourself. 
 
-If you were a regular user of Facebook in the Fall of 2013, it's very likely that like me, you often came across Upworthy content that had been shared by friends, and perhaps shared it yourself.  
-
-It was only when Facebook, Upworthy's main source of traffic, changed its algorithms, that Upworthy's traffic dramatically fell.
+It's widely believed that when the content of one organization begins to take over the Facebook news feed, Facebook changes its algorithm. As such, when Facebook, Upworthy's main source of traffic, changed its algorithms, Upworthy's traffic dramatically fell.
 
 
 in such a short amount of time, achieve growth that surpassed that of Buzzfeed, Huffington Post, and Business Insider?
@@ -55,7 +55,7 @@ How did Upworthy achieve unprecedented growth and in such a short time? Feel fre
 <br>
 Through ...
 * 
-Enticing headlines, arguably "click-bait" (Upworthy's rule of thumb is to write the headline 25 different ways)
+Enticing headlines, also called "click-bait" and generally frowned upon by respected media (Upworthy's rule of thumb is to write each headline 25 different ways, then user test to choose the best one)
 * 
 Content invoking an emotional response
 * 
