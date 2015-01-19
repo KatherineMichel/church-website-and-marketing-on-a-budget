@@ -1,5 +1,8 @@
 # Executive Summary
 
+### Note: 
+For the tl:dr, skip to Design Before and After
+
 ### Proposition
 
 Members of the Pretty Prairie United Methodist Church contacted me about designing a new website and marketing plan for the church. 
