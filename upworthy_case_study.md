@@ -10,7 +10,7 @@ Unfortunately, Google Trends does not go into enough detail to give results for 
 
 ![](images/google-trends-pretty-prairie-worldwide.png)
 
-I like this graph a lot because it makes sense. The Google Trends graphs for "[Pretty Prairie Rodeo" (region: worldwide)](http://www.google.com/trends/explore#q=%22pretty+prairie+rodeo%22) provides a similar result. 
+I like this graph a lot because it makes sense. The Google Trends graphs for "[Pretty Prairie Rodeo" (region: worldwide)](http://www.google.com/trends/explore#q=%22pretty+prairie+rodeo%22) demonstrates similar spikes in interest. 
 
 ![](images/google-trends-pretty-prairie-rodeo-worldwide.png)
 
@@ -36,14 +36,31 @@ But what wasn't in decline? A website called [Upworthy](http://www.upworthy.com)
 
 According to Fast Company, Upworthy was "[the fastest-growing media site in history](http://www.fastcompany.com/3012649/how-upworthy-used-emotional-data-to-become-the-fastest-growing-media-site-of-all-time)." 
 
-This is the Google Trends graph for the phrase ["Upworthy" (region: worldwide)](http://www.google.com/trends/explore#q=upworthy), beginning when Upworthy was founded in 2012, until January 2015: <br>
+This is the Google Trends graph for the phrase ["Upworthy" (region: worldwide)](http://www.google.com/trends/explore#q=upworthy), beginning when Upworthy was founded in 2012, until January 2015: 
+
 ![](images/google-trends-upworthy-worldwide.png)
 
-If you were a regular user of Facebook in the Fall of 2013, it's very likely that like me, you often came across Upworthy content that had been shared by friends, and perhaps shared it yourself. It's widely believed that when the content of one organization begins to take over the Facebook news feed, Facebook changes its algorithm. As such, when Facebook, Upworthy's main source of traffic, changed its algorithms, Upworthy's traffic dramatically fell.
+In a short period of time, Upworthy achieved growth that far surpassed that of its closest viral competitors: Buzzfeed, Huffington Post, and Business Insider. 
 
 ![](images/upworthy-quantcast.png)
 
-How did Upworthy, in such a short amount of time, achieve growth that far surpassed that of its closest viral competitors: Buzzfeed, Huffington Post, and Business Insider?
+If you were a regular user of Facebook in the Fall of 2013, it's very likely that you came across Upworthy content. 
+
+It's rumoured that when the content of one organization becomes disproportionately popular on the Facebook news feed, Facebook changes its algorithm. When Facebook, Upworthy's main source of traffic, changed its algorithms at the end of 2013, Upworthy's traffic dramatically fell.
+
+
+
+
+
+
+
+What sets Upworthy apart from 
+
+The success of Upworthy seems to make moot any argument that people are not interested in stories that are inspiring, 
+
+
+
+
 
 a website with something of a mission for social justice, sharing content intended to be uplifting. 
 
