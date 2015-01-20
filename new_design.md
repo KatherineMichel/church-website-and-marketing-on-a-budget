@@ -17,13 +17,13 @@
 
 #### New Facebook Page
 
-#### New Multi-Purpose Card
+#### New Multi-Purpose Card (Example)
 
 <center>
 ![](images/new-post-card.png)
 </center>
 
-### New Greeting Card
+### New Multi-Purpose Greeting Card (Example)
 
 ### New Bulletin
 
