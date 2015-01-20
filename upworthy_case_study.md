@@ -38,7 +38,7 @@ Even as search interest in the United Methodist Church declined, in a short peri
 ![](images/upworthy-quantcast.png)
 </center>
 
-Upworthy is not affiliated with any church and as far as I know, does not intend to compete with churches. However, Upworthy became popular in part by bringing directly to the Facebook news feeds of potential church goers, some of the same type of uplifting content that in the past they would have come across in church. 
+Upworthy is not affiliated with any church and as far as I know, does not intend to compete with churches. However, Upworthy became popular in part by bringing directly to the Facebook news feeds of potential church goers, some of the same type of uplifting content that in the past they would have come across in church through church mission. 
 
 Some examples: 
 
@@ -54,7 +54,7 @@ The success of Upworthy seems to make moot the argument that people are no longe
 
 ### The Secret of Upworthy's Success
 
-How did Upworthy achieve this unprecedented growth and in such a short time? Feel free to find out from [Upworthy](http://www.slideshare.net/Upworthy) itself. In a nutshell, Upworthy's content is optimized for sharing. Here is a summary of the Upworthy approach:
+So why were a record number of people attracted to Upworthy content? How did Upworthy achieve this unprecedented growth and in such a short time? Feel free to find out from [Upworthy](http://www.slideshare.net/Upworthy) itself. In a nutshell, Upworthy's content is technically and emotionally optimized to induce sharing. Here is a summary of the Upworthy approach:
 
 <br>
 * Enticing headlines, also called "click-bait" and generally frowned upon by respected media (Upworthy's rule of thumb is to write each headline 25 different ways, then user test to choose the best one)
