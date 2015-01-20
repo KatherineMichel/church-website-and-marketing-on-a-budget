@@ -29,7 +29,7 @@ Final Verdict: I quickly ruled Ezekiel out because I felt its content management
 ### United Methodist Church Web Hosting
 
 United Methodist Church Web Hosting was initially attractive due to:
-* It's low price ([Starting at $5 or less/month](http://umcchurches.org/billing/hostingplans.php))
+* It's low price ([starting at $5 or less/month](http://umcchurches.org/billing/hostingplans.php))
 * Its affiliation with the church, including church-related content
 * The user-friendliness of the WordPress content management system 
 
