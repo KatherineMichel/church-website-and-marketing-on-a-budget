@@ -65,6 +65,8 @@ By the way, these are the languages associated with "Front End" Web Design. In W
 
 Static content can be rendered in a simpler way than dynamic content. Static content can be rendered by a regular web browser, without the use of a more sophisticated tool called a server. Also, the content of a static page does not change after being rendered by the browser. 
 
+However, there is a limit to the level of scale that can be achieved by simply rendering HTML, CSS, and JavaScript via browser. 
+
 
 
 
