@@ -27,6 +27,8 @@ Identify the WordPress theme's default [Cascading Style Sheet](http://wp-themes.
 
 This could be done by downloading the theme files and searching through them...
 
+![](images/catch-everest-template-files-css.png)
+
 The CSS could also be found by opening an online [Catch Everest demo](http://wp-themes.com/catch-everest/?TB_iframe=true&width=600&height=400) in the browser, right clicking and choosing "View page source," then looking through the "head" section of the source for a CSS file that can be accessed online. 
 
 ![](images/catch-everest-theme-css-head.png)
