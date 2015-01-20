@@ -57,6 +57,7 @@ The success of Upworthy seems to make moot the argument that people are no longe
 So why were a record number of people attracted to Upworthy content? How did Upworthy achieve this unprecedented growth and in such a short time? Feel free to find out from [Upworthy](http://www.slideshare.net/Upworthy) itself. In a nutshell, Upworthy's content is technically and emotionally optimized to induce sharing. Here is a summary of the Upworthy approach:
 
 <br>
+* Comb through "evergreen" content online to identify stories that have the potential to become viral
 * Enticing headlines, also called "click-bait" and generally frowned upon by respected media (Upworthy's rule of thumb is to write each headline 25 different ways, then user test to choose the best one)
 * Content invoking an emotional response
 * Optimization for ease of sharing
@@ -64,7 +65,7 @@ So why were a record number of people attracted to Upworthy content? How did Upw
 
 ### The Changing Global Ministry Landscape and What the Church Can Learn from Upworthy
 
-There is a market for "uplifting" content. The church may need to repackage its message and how the message is delivered if it is to compete for the public's attention. 
+The church should not aspire to be like Upworthy. However, there is a market for "uplifting" content. The church may need to repackage its message and how the message is delivered if it is to compete for the public's attention. 
 
 ### John Wesley, Social Pioneer
 
