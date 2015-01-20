@@ -33,7 +33,7 @@ The CSS could also be found by opening an online [Catch Everest demo](http://wp-
 
 ![](images/catch-everest-theme-css-head.png)
 
-Determine what aspect of the template's design to change and identify the corresponding code.
+Determine what aspect of the template's design to change and identify the corresponding CSS code.
 
 ![](images/catching-everest-template-css-background.png)
 
@@ -47,12 +47,23 @@ My Portfolio Home Page
 
 The downside of this approach is that it tends to involve interacting directly with the code, perhaps via command line, rather than using the kind of content management system dashboard expected by a client.  
 
-No fancy content management system here. Just code...
+No fancy content management system for my Portfolio. Just code...
 ![](images/katherine-michel-portfolio-code.png)
 
-and GitHub via command line. 
+and GitHub via my computer command line. 
 
 ![](images/katherine-michel-portfolio-command-line.png)
+
+GitHub offers free hosting on gh-pages. The caveat is that although any sort of code can be stored on GitHub, GitHub gh-pages can only render static content. What does this mean?  
+
+Static content tends to be created using:
+* HTML (Hyper Text Markup Language)
+* CSS (Cascading Style Sheets)
+* JavaScript
+
+By the way, these are the languages associated with "Front End" Web Design. In Web Design and Development, the "Front End" is the part of the website that you can actually see. 
+
+Static content can be rendered in a simpler way than dynamic content. Static content can be rendered by a regular web browser, without the use of a more sophisticated tool called a server. Also, the content of a static page does not change after being rendered by the browser. 
 
 
 
@@ -61,9 +72,7 @@ and GitHub via command line.
  
 
 ### Front-End (What You See) Design
-* HTML
 * CSS (Think 10,000 page website and you want to have one place to alter the design of every page at once; That place is the Cascading Style Sheet). 
-* JavaScript
 
 ### Back-End (Abstract) Automation
 * Python (Multi-purpose Web Development language with excellent Data Science tools; Currently, the most taught Computer Science language)  
