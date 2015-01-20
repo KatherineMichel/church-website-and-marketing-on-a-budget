@@ -42,9 +42,4 @@ Pretty Prairie UMC Stained Glass Window Mockup
 Sunflowers Mockup
 ![](images/catching-everest-sunflowers-theme-desktop-mockup-white.jpg)
 
-Possible Themes: 
-* Classic
-
-
- 
 
