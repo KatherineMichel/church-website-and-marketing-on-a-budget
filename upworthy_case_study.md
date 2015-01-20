@@ -38,7 +38,7 @@ Even as search interest in the United Methodist Church declined, in a short peri
 ![](images/upworthy-quantcast.png)
 </center>
 
-Upworthy is not affiliated with any church and as far as I know, does not intend to compete with churches. However, Upworthy became popular in part by bringing directly to the Facebook news feeds of potential church goers, some of the same type of uplifting content that would appeal to many church-goers. 
+Upworthy is not affiliated with any church and as far as I know, does not intend to compete with churches. However, Upworthy became popular in part by bringing directly to the Facebook news feeds of potential church goers, some of the same type of uplifting content that in the past they would have come across in church. 
 
 Some examples: 
 
@@ -48,23 +48,13 @@ This is the Google Trends graph for the phrase ["Upworthy" (region: worldwide)](
 
 If, like me, you were a regular user of Facebook in the Fall of 2013, it's very likely that like me you came across Upworthy content regularly. Facebook has been Upworthy's main source of traffic. When Facebook changed its algorithms at the end of 2013 (reportedly in response to Upworthy's content becoming disportionately popular in the Facebook news feed), Upworthy's traffic dramatically fell. 
 
-
-
-
-What makes Upworthy very interesting though is that the overall focus of Upworthy's content is very different than that of its traffic competitors. 
-The success of Upworthy seems to make moot any argument that people are not interested in stories that are inspiring, 
-
-
-
-
-
-
+The success of Upworthy seems to make moot the argument that people are no longer interested in that which is uplifting. The viral competitors that Upworthy far surpassed in growth did not have the same social justice mission as Upworthy. 
 
 ### Example Upworthy Story
 
 ### The Secret of Upworthy's Success
 
-How did Upworthy achieve unprecedented growth and in such a short time? Feel free to find out from [Upworthy](http://www.slideshare.net/Upworthy) itself. Here are a few of the main points:
+How did Upworthy achieve this unprecedented growth and in such a short time? Feel free to find out from [Upworthy](http://www.slideshare.net/Upworthy) itself. Here are a few of the main points:
 
 <br>
 Through ...
