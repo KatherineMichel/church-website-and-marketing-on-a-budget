@@ -1,6 +1,6 @@
 # Church Image Rebrand
 
-The new church theme will incorporate:
+The new church theme will blend the traditional and the conventional by incorporating:
 * The black version of the traditional United Methodist cross and flame
 * A contemporary sunflower motif
 
