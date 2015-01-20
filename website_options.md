@@ -8,6 +8,20 @@ Order of priority given to web hosting options:
 2. Ezekial Web Hosting (discount due to United Methodist partnership)
 3. Squarespace (a low cost web host with beautiful templates)
 
+### Options Matrix
+
+### Ezekiel 
+
+Though Ezekiel was initially attractive due to:
+* Price ([One time set up fee of $18 + $11/month](http://www.umc.e-zekiel.com/comparison))
+* Vast number of [templates](http://www.umc.e-zekiel.com/templates/viewDesigns.asp?)
+* Potential for a full-website look (rather than a blog-like appearance)
+
+I quickly ruled Ezekiel out because I felt its content management systen was not intuitive enough to suit the needs of the church.
+
+Pretty Prairie United Methodist Church Ezekiel Home Page Mock Up
+![](images/ezekiel-allegiant-theme-desktop-mockup.jpg)
+
 ### United Methodist Church Web Hosting
 
 Possible Themes: 
@@ -15,14 +29,5 @@ Possible Themes:
 * Sunflowers
 * Staind Glass Window
 
-### Ezekiel 
-Three things made Ezekiel initially attractive:
-* Price ([One time set up fee of $18 + $11/month](http://www.umc.e-zekiel.com/comparison))
-* [Vast number of templates](http://www.umc.e-zekiel.com/templates/viewDesigns.asp?)
-* Potential for a full-website look (as opposed to the blog-like appearance of WordPress)
-
-Pretty Prairie United Methodist Church Ezekiel Home Page Mock Up
-![](images/ezekiel-allegiant-theme-desktop-mockup.jpg)
-
-Final verdict: The Ezekiel content management system was not intuitive enough to suit the specific needs of the church. 
+ 
 
