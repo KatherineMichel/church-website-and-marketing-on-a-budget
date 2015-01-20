@@ -3,7 +3,7 @@
 ### Church Governance Structure
 
 ### Constraints
-The cost of the website and marketing materials would need to fit within the church's budget. Where possible, the project would draw upon existing church resources:
+The cost of the website and marketing materials would need to fit within the church's budget. Where possible, the project would use low cost tools and available resources:
 
 * Existing staff, budget, and other resources 
 * Time and skill of volunteers, donated money, goods and services
