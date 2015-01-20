@@ -32,19 +32,19 @@ Here is the Google Trends graph for the phrase ["United Methodist Church" (regio
 
 ### The Competition (Not Who You Might Expect)
 
-Even as search interest in the United Methodist Church declined, during the past few years, a website called [Upworthy](http://www.upworthy.com) became "[the fastest-growing media site in history](http://www.fastcompany.com/3012649/how-upworthy-used-emotional-data-to-become-the-fastest-growing-media-site-of-all-time)." Upworthy is a website with something of a mission for social justice.
+Even as search interest in the United Methodist Church declined, in a short period of time during the past few years, a website with something of a mission for social justice called [Upworthy](http://www.upworthy.com) became "[the fastest-growing media site in history](http://www.fastcompany.com/3012649/how-upworthy-used-emotional-data-to-become-the-fastest-growing-media-site-of-all-time)," achieving growth that far surpassed that of its closest viral competitors: Buzzfeed, Huffington Post, and Business Insider. 
 
-Upworthy is not affiliated with any church and as far as I know, does not intend to compete with churches. However, Upworthy became popular in part by making viral the sort of uplifting content that would appeal to many church-goers. 
+<center>
+![](images/upworthy-quantcast.png)
+</center>
+
+Upworthy is not affiliated with any church and as far as I know, does not intend to compete with churches. However, Upworthy became popular in part by bringing directly to the Facebook news feeds of potential church goers, some of the same type of uplifting content that would appeal to many church-goers. 
 
 This is the Google Trends graph for the phrase ["Upworthy" (region: worldwide)](http://www.google.com/trends/explore#q=upworthy), beginning when Upworthy was founded in 2012, until January 2015: 
 
 ![](images/google-trends-upworthy-worldwide.png)
 
-In a short period of time, Upworthy achieved growth that far surpassed that of its closest viral competitors: Buzzfeed, Huffington Post, and Business Insider. 
-<center>
-![](images/upworthy-quantcast.png)
-</center>
-If you were a regular user of Facebook in the Fall of 2013, it's very likely that you came across Upworthy content. 
+If, like me, you were a regular user of Facebook in the Fall of 2013, it's very likely that like me you came across Upworthy content regularly. 
 
 Some examples: 
 
