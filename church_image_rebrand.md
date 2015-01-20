@@ -19,3 +19,5 @@ The Pretty Prairie United Methodist Church is in the state of Kansas (where the 
 Yellow is a "warm" color, reminiscent of the sun. The sunflower symbolizes warm welcome, bright optimism, and renewal. 
 
 The number of church outreach materials will be streamlined, with a common brand experience incorporated into them all. For example, instead of twelve inconsistently designed post cards, one beautiful postcard template will be created, then altered to suit the purpose at hand. 
+
+Templates in both color and black-and-white will be created to address the practicality of printing copies versus sending electronically.
