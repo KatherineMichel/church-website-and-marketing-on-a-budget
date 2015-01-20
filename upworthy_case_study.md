@@ -54,10 +54,9 @@ The success of Upworthy seems to make moot the argument that people are no longe
 
 ### The Secret of Upworthy's Success
 
-How did Upworthy achieve this unprecedented growth and in such a short time? Feel free to find out from [Upworthy](http://www.slideshare.net/Upworthy) itself. Here are a few of the main points:
+How did Upworthy achieve this unprecedented growth and in such a short time? Feel free to find out from [Upworthy](http://www.slideshare.net/Upworthy) itself. In a nutshell, Upworthy's content is optimized for sharing. Here is a summary of the Upworthy approach:
 
 <br>
-Through ...
 * Enticing headlines, also called "click-bait" and generally frowned upon by respected media (Upworthy's rule of thumb is to write each headline 25 different ways, then user test to choose the best one)
 * Content invoking an emotional response
 * Optimization for ease of sharing
