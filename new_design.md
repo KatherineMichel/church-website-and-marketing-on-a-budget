@@ -25,6 +25,18 @@
 
 ### New Multi-Purpose Greeting Card (Example)
 
+Front Cover<br>
+<center>
+![](images/new-greeting-card-front-cover.png)
+</center>
+Inside<br>
+<center>
+![](images/new-greeting-card-inside.png)
+</center>
+Back Cover<br>
+<center>
+![](images/new-greeting-card-back-cover.png)
+</center>
 ### New Bulletin
 
 
