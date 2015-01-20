@@ -8,8 +8,8 @@
 * [Web Hosting Primer](web_hosting_primer.md)
 * [Website Options](website_options.md)
 * [Other Area Churches](other_area_churches.md)
-* [Church Image Rebrand](church_image_rebrand.md)
 * [Website Requirements](website_requirements.md)
+* [Church Image Rebrand](church_image_rebrand.md)
 * [Old Design](old_design.md)
 * [New Design :) ](new_design.md)
 
