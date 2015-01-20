@@ -24,9 +24,14 @@ Ezekiel was initially attractive due to:
 Pretty Prairie United Methodist Church Ezekiel Home Page Mock Up
 ![](images/ezekiel-allegiant-theme-desktop-mockup.jpg)
 
-Final Verdict: I quickly ruled Ezekiel out because I felt its content management systen was not intuitive enough to suit the needs of the church.
+Final Verdict: I quickly ruled Ezekiel out because I felt its content management system was not intuitive enough to suit the needs of the church.
 
 ### United Methodist Church Web Hosting
+
+United Methodist Church Web Hosting was initially attractive due to:
+* It's low price ([Starting at $5 or less/month](http://umcchurches.org/billing/hostingplans.php))
+* Its affiliation with the church, including church-related content
+* The user-friendliness of the WordPress content management system 
 
 Possible Themes: 
 * Classic
