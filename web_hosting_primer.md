@@ -73,8 +73,7 @@ However, there is a limit to the level of scale that can be achieved by simply r
 
  
 
-### Front-End (What You See) Design
-* CSS (Think 10,000 page website and you want to have one place to alter the design of every page at once; That place is the Cascading Style Sheet). 
+
 
 ### Back-End (Abstract) Automation
 * Python (Multi-purpose Web Development language with excellent Data Science tools; Currently, the most taught Computer Science language)  
@@ -84,6 +83,9 @@ However, there is a limit to the level of scale that can be achieved by simply r
 
 ### Hybrid
 * Jekyll (A simplified template system to design and deploy your own code)
+
+### Front-End (What You See) Design
+* CSS (Think 10,000 page website and you want to have one place to alter the design of every page at once; That place is the Cascading Style Sheet). 
 
 
 
