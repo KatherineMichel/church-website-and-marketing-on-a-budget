@@ -16,12 +16,12 @@ Me using the command line to design a Django Website
 
 But with the freedom to customize comes the risk of "jank."
 
-Many web hosts do offer some middle ground, for instance a content management system that allows for some customization of the [HTML](http://en.wikipedia.org/wiki/HTML) (Hyper Text Markup Language) and/or [CSS](http://en.wikipedia.org/wiki/Cascading_Style_Sheets) (Cascading Style Sheet) code, perhaps without directly touching the code. Here is an example, using WordPress:
+Many web hosts do offer some middle ground, for instance a content management system that allows for some customization of the [HTML](http://en.wikipedia.org/wiki/HTML) (Hyper Text Markup Language) and/or [CSS](http://en.wikipedia.org/wiki/Cascading_Style_Sheets) (Cascading Style Sheet) code, perhaps without directly touching the code. Here is an example of customizing the CSS of a WordPress theme:
 
 Choose a WordPress theme, for instance [Catch Everest](https://wordpress.org/themes/catch-everest).
 ![](images/catch-everest-template-desktop-view-home-page.jpg)
 
-Identify the WordPress theme's default [Cascading Style Sheet](http://wp-themes.com/wp-content/themes/catch-everest/style.css?ver=4.0-beta2-20140725) (CSS) code. This could be done by downloading the theme files and searching through them, or by opening an online [Catch Everest demo](http://wp-themes.com/catch-everest/?TB_iframe=true&width=600&height=400) in the browser, right clicking and choosing "View page source," then looking through the "head" section of the source for a CSS file that is accessible online and accessing it. 
+Identify the WordPress theme's default [Cascading Style Sheet](http://wp-themes.com/wp-content/themes/catch-everest/style.css?ver=4.0-beta2-20140725) (CSS) code. This could be done by downloading the theme files and searching through them, or by opening an online [Catch Everest demo](http://wp-themes.com/catch-everest/?TB_iframe=true&width=600&height=400) in the browser, right clicking and choosing "View page source," then looking through the "head" section of the source for a CSS file that can be accessed online. 
 
 Determine what aspect of the template's design to change and identify the corresponding code.
 
