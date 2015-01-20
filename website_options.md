@@ -4,16 +4,16 @@ The web options chosen all provided value for money, with the two associated wit
 
 Order of priority given to web hosting options:
 
-1. United Methodist web hosting (based on WordPress)
+1. United Methodist Web Hosting (Tiers 2 and 3, both based on WordPress)
 2. Ezekial Web Hosting (discount due to United Methodist partnership)
 3. Squarespace (a low cost web host with beautiful templates)
 
-### Board Meeting Options Matrix Slides
-
+### Board Meeting Slides- Options Matrix 
+<center>
 ![](images/web-hosting-options-matrix-page-1.png)
 
 ![](images/web-hosting-options-matrix-page-2.png)
-
+</center>
 ### Ezekiel 
 
 Though Ezekiel was initially attractive due to:
