@@ -1,7 +1,5 @@
 # New Design :) 
 
-# Design Before and After :)
-
 #### New Website
 
 #### New E-Newsletter
