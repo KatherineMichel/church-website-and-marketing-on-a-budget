@@ -32,9 +32,9 @@ Here is the Google Trends graph for the phrase ["United Methodist Church" (regio
 
 ### The Competition (Not Who You Might Expect)
 
-Even as search interest in the United Methodist Church declined, during the past few years, a website called [Upworthy](http://www.upworthy.com) became "[the fastest-growing media site in history](http://www.fastcompany.com/3012649/how-upworthy-used-emotional-data-to-become-the-fastest-growing-media-site-of-all-time)." Upworthy is a website with something of a mission for social justice, and became popular in part by sharing the same sort of uplifting content that would appeal to many church-goers. 
+Even as search interest in the United Methodist Church declined, during the past few years, a website called [Upworthy](http://www.upworthy.com) became "[the fastest-growing media site in history](http://www.fastcompany.com/3012649/how-upworthy-used-emotional-data-to-become-the-fastest-growing-media-site-of-all-time)." Upworthy is a website with something of a mission for social justice.
 
-Upworthy is not affiliated with any church and as far as I know, does not intend to compete with churches.
+Upworthy is not affiliated with any church and as far as I know, does not intend to compete with churches. However, Upworthy became popular in part by making viral the sort of uplifting content that would appeal to many church-goers. 
 
 This is the Google Trends graph for the phrase ["Upworthy" (region: worldwide)](http://www.google.com/trends/explore#q=upworthy), beginning when Upworthy was founded in 2012, until January 2015: 
 
