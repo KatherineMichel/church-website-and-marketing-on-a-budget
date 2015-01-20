@@ -10,6 +10,10 @@ Order of priority given to web hosting options:
 
 ### Options Matrix
 
+![](images/web-hosting-options-matrix-page-1.png)
+
+![](images/web-hosting-options-matrix-page-2.png)
+
 ### Ezekiel 
 
 Though Ezekiel was initially attractive due to:
