@@ -49,3 +49,9 @@ Inside<br>
 
 ![](images/post-cards-page-3.jpg)
 </center>
+
+### Old Update Cards 
+
+![](images/update-cards-page-1.jpg)
+
+![](images/update-card-page-2.png)
