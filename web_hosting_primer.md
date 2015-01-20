@@ -21,9 +21,19 @@ Many web hosts do offer some middle ground, for instance a content management sy
 Choose a WordPress theme, for instance [Catch Everest](https://wordpress.org/themes/catch-everest).
 ![](images/catch-everest-template-desktop-view-home-page.jpg)
 
-Identify the WordPress theme's default [Cascading Style Sheet](http://wp-themes.com/wp-content/themes/catch-everest/style.css?ver=4.0-beta2-20140725) (CSS) code. This could be done by downloading the theme files and searching through them, or by opening an online [Catch Everest demo](http://wp-themes.com/catch-everest/?TB_iframe=true&width=600&height=400) in the browser, right clicking and choosing "View page source," then looking through the "head" section of the source for a CSS file that can be accessed online. 
+Identify the WordPress theme's default [Cascading Style Sheet](http://wp-themes.com/wp-content/themes/catch-everest/style.css?ver=4.0-beta2-20140725) (CSS) code. 
+
+![](images/catch-everest-template-css.png)
+
+This could be done by downloading the theme files and searching through them...
+
+The CSS could also be found by opening an online [Catch Everest demo](http://wp-themes.com/catch-everest/?TB_iframe=true&width=600&height=400) in the browser, right clicking and choosing "View page source," then looking through the "head" section of the source for a CSS file that can be accessed online. 
+
+![](images/catch-everest-theme-css-head.png)
 
 Determine what aspect of the template's design to change and identify the corresponding code.
+
+![](images/catching-everest-template-css-background.png)
 
 Re-write the code to produce the intended change, then enter the altered snippet of code into the designated area of the WordPress content management system that you are using in order to override the default CSS code and make the design change go live.
 
