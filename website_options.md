@@ -8,7 +8,7 @@ Order of priority given to web hosting options:
 2. Ezekial Web Hosting (discount due to United Methodist partnership)
 3. Squarespace (a low cost web host with beautiful templates)
 
-### Options Matrix
+### Board Meeting Options Matrix Slides
 
 ![](images/web-hosting-options-matrix-page-1.png)
 
