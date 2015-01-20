@@ -33,10 +33,13 @@ United Methodist Church Web Hosting was initially attractive due to:
 * Its affiliation with the church, including church-related content
 * The user-friendliness of the WordPress content management system 
 
-Possible Themes: 
-* Classic
-* Sunflowers
-* Staind Glass Window
+Random Stained Glass Window Mockup
+![](images/catching-everest-stained-glass-window-theme-desktop-mockup.jpg)
 
- 
+Pretty Prairie UMC Stained Glass Window Mockup
+![](images/catching-everest-stained-glass-window-theme-umc--window-desktop-mockup.jpg)
+
+Sunflowers Mockup
+![](images/catching-everest-sunflowers-theme-desktop-mockup-white.jpg)
+
 
