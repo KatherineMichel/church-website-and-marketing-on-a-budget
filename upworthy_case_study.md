@@ -40,6 +40,12 @@ Even as search interest in the United Methodist Church declined, in a short peri
 
 Upworthy is not affiliated with any church and as far as I know, does not intend to compete with churches. However, Upworthy became popular in part by bringing directly to the Facebook news feeds of potential church goers, some of the same type of uplifting content that in the past they would have come across in church through church mission. 
 
+Upworthy Logo
+![](images/upworthy-logo.png)
+
+Upworthy Footer: "Upworthy is Social Media with a Mission"
+![](images/upworthy-is-social-media-with-a-mission.png)
+
 Some examples: 
 
 This is the Google Trends graph for the phrase ["Upworthy" (region: worldwide)](http://www.google.com/trends/explore#q=upworthy), beginning when Upworthy was founded in 2012, until January 2015: 
@@ -60,8 +66,29 @@ So why were a record number of people attracted to Upworthy content? How did Upw
 * Comb through "evergreen" content online to identify stories that have the potential to become viral
 * Enticing headlines, also called "click-bait" and generally frowned upon by respected media (Upworthy's rule of thumb is to write each headline 25 different ways, then user test to choose the best one)
 * Content invoking an emotional response
-* Optimization for ease of sharing
+* Optimization for ease of sharing via the website and the social media networks with the most traffic
 * User Testing to the nth degree
+
+Upworthy Homepage: Use of Endless Scrolling
+![](images/upworthy-homepage.jpg)
+
+Upworthy Modal Tactic: Daily Email
+![](images/upworthy-daily-email-modal.jpg)
+
+Upworthy Modal Tactic: "Ever Seen These?"
+![](images/upworthy-ever-seen-these-modal.jpg)
+
+Upworthy Modal Tactic: "How About One More"
+![](images/upworthy-how-about-one-more-modal.png)
+
+Upworthy Facebook Page
+![](images/upworthy-facebook-page.jpg)
+
+Upworthy Twitter Profile
+![](images/upworthy-twitter-profile.jpg)
+
+Upworthy Pinterest Profile
+![](images/upworthy-pinterest-profile.jpg)
 
 ### The Changing Global Ministry Landscape and What the Church Can Learn from Upworthy
 
