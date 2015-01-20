@@ -39,7 +39,7 @@ Determine what aspect of the template's design to change and identify the corres
 
 Re-write the code to produce the intended change, then enter the altered snippet of code into the designated area of the WordPress content management system that you are using in order to override the default CSS code and make the design change go live.
 
-Another middle ground option is to use a simplified template system to design and deploy your own code (For example, the static portfolio that I made with [Bootstrap](http://getbootstrap.com) then deployed via [GitHub gh-pages](https://github.com/KatherineMichel/portfolio/tree/gh-pages); [Jekyll](http://jekyllrb.com) is another popular option). 
+Another middle ground option is to use a simplified template system to design and deploy your own code (An example is the static portfolio that I made with [Bootstrap](http://getbootstrap.com) then deployed via [GitHub gh-pages](https://github.com/KatherineMichel/portfolio/tree/gh-pages); [Jekyll](http://jekyllrb.com) is another popular option). 
 
 My Portfolio Home Page
 
