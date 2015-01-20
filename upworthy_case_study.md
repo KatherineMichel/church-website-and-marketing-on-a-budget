@@ -107,7 +107,7 @@ Upworthy Example Article Repost #3
 
 ### The Secret of Upworthy's Success: Viral
 
-Uporthy Example Article Trending
+Upworthy Example Article Trending on Twitter
 ![](images/upworthy-example-article-twitter-trends.jpg)
 
 ### The Changing Global Ministry Landscape and What the Church Can Learn from Upworthy
