@@ -58,6 +58,9 @@ The success of Upworthy seems to make moot the argument that people are no longe
 
 ### Example Upworthy Story
 
+The Last (ALS) Ice Bucket Challenge You Need to See
+![](images/upworthy-example-article-homepage-view-2.jpg)
+
 ### The Secret of Upworthy's Success: Content Formula
 
 So why were a record number of people attracted to Upworthy content? How did Upworthy achieve this unprecedented growth and in such a short time? Feel free to find out from [Upworthy](http://www.slideshare.net/Upworthy) itself. In a nutshell, Upworthy's content is technically and emotionally optimized to induce sharing. Here is a summary of the Upworthy approach:
@@ -73,6 +76,9 @@ So why were a record number of people attracted to Upworthy content? How did Upw
 
 Upworthy Homepage: Use of Endless Scrolling
 ![](images/upworthy-homepage.jpg)
+
+Upworthy Menu: Comprehensive
+![](images/upworthy-menu.jpg)
 
 Upworthy Modal Tactic: Daily Email
 ![](images/upworthy-daily-email-modal.jpg)
@@ -104,6 +110,29 @@ Upworthy Example Article Repost #2
 
 Upworthy Example Article Repost #3
 ![](images/upworthy-example-article-twitter-repost 3.jpg)
+
+### The Secret of Upworthy's Success: Use of Social Graph
+
+Upworthy Facebook Graph "Object"
+![](images/upworthy-example-article-facebook-share.jpg)
+
+Upworthy Facebook Graph Object "Post"
+![](images/upworthy-example-article-facebook-post.jpg)
+
+Upworthy Twitter Share "Intent"
+![](images/upworthy-example-article-twitter-intent.jpg)
+
+Upworthy Twitter "Card"
+![](images/upworthy-example-article-twitter-detail.jpg)
+
+Upworthy Pinterest "Pin"
+![](images/upworthy-example-article-pinterest.jpg)
+
+Upworthy Pinterest "Pin" Detail
+![](images/upworthy-example-article-pinterest-detail.jpg)
+
+Upworthy Tumblr Article
+![](images/upworthy-example-article-tumblr.jpg)
 
 ### The Secret of Upworthy's Success: Viral
 
