@@ -67,19 +67,15 @@ Static content can be rendered in a simpler way than dynamic content. Static con
 
 However, there is a limit to the level of scale that can be achieved by simply rendering HTML, CSS, and JavaScript via browser. 
 
+To scale, web developers need to think about "Back End" automation. 
 
+There are a few languages associated with "Back End" automation. 
 
-
-
- 
-
-
-
-### Back-End (Abstract) Automation
+### Back-End Languages
 * Python (Multi-purpose Web Development language with excellent Data Science tools; Currently, the most taught Computer Science language)  
 * Ruby (Popular and well-supported)
 * PHP (Used in WordPress, and at a few famous companies such as Facebook and Wikipedia, but otherwise, not as well suported as Python and Ruby)
-* Node.js
+* Node.js (technically not a language)
 
 ### Hybrid
 * Jekyll (A simplified template system to design and deploy your own code)
