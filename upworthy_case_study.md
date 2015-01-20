@@ -40,20 +40,18 @@ Even as search interest in the United Methodist Church declined, in a short peri
 
 Upworthy is not affiliated with any church and as far as I know, does not intend to compete with churches. However, Upworthy became popular in part by bringing directly to the Facebook news feeds of potential church goers, some of the same type of uplifting content that would appeal to many church-goers. 
 
+Some examples: 
+
 This is the Google Trends graph for the phrase ["Upworthy" (region: worldwide)](http://www.google.com/trends/explore#q=upworthy), beginning when Upworthy was founded in 2012, until January 2015: 
 
 ![](images/google-trends-upworthy-worldwide.png)
 
-If, like me, you were a regular user of Facebook in the Fall of 2013, it's very likely that like me you came across Upworthy content regularly. 
+If, like me, you were a regular user of Facebook in the Fall of 2013, it's very likely that like me you came across Upworthy content regularly. Facebook has been Upworthy's main source of traffic. When Facebook changed its algorithms at the end of 2013 (reportedly in response to Upworthy's content becoming disportionately popular in the Facebook news feed), Upworthy's traffic dramatically fell. 
 
-Some examples: 
-
-It's rumoured that when the content of one organization becomes disproportionately popular on the Facebook news feed, Facebook changes its algorithm. When Facebook, Upworthy's main source of traffic, changed its algorithms at the end of 2013, Upworthy's traffic dramatically fell.
 
 
 
 What makes Upworthy very interesting though is that the overall focus of Upworthy's content is very different than that of its traffic competitors. 
-
 The success of Upworthy seems to make moot any argument that people are not interested in stories that are inspiring, 
 
 
