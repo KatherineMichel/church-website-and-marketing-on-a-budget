@@ -31,16 +31,17 @@ The old church website and marketing materials were created by different people,
 ### Old Church Brochure
 
 Outside<br>
-
+<center>
 ![](images/church-brochure-outside.png)
-
+</center>
 Inside<br>
+<center>
 ![](images/church-brochure-inside.png)
-
+</center>
 ### Old Visitor Postcards
-
+<center>
 ![](images/visitor-post-cards.jpg)
-
+</center>
 ### Old Reminder Postcards
 <center>
 ![](images/post-cards-page-1.jpg)
@@ -51,7 +52,8 @@ Inside<br>
 </center>
 
 ### Old Update Cards 
-
+<center>
 ![](images/update-cards-page-1.jpg)
 
 ![](images/update-card-page-2.png)
+</center>
