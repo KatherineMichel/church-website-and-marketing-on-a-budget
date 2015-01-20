@@ -58,7 +58,7 @@ The success of Upworthy seems to make moot the argument that people are no longe
 
 ### Example Upworthy Story
 
-### The Secret of Upworthy's Success
+### The Secret of Upworthy's Success: Content Formula
 
 So why were a record number of people attracted to Upworthy content? How did Upworthy achieve this unprecedented growth and in such a short time? Feel free to find out from [Upworthy](http://www.slideshare.net/Upworthy) itself. In a nutshell, Upworthy's content is technically and emotionally optimized to induce sharing. Here is a summary of the Upworthy approach:
 
@@ -68,6 +68,8 @@ So why were a record number of people attracted to Upworthy content? How did Upw
 * Content invoking an emotional response
 * Optimization for ease of sharing via the website and the social media networks with the most traffic
 * User Testing to the nth degree
+
+### The Secret of Upworthy's Success: Website Tactics
 
 Upworthy Homepage: Use of Endless Scrolling
 ![](images/upworthy-homepage.jpg)
@@ -81,6 +83,8 @@ Upworthy Modal Tactic: "Ever Seen These?"
 Upworthy Modal Tactic: "How About One More"
 ![](images/upworthy-how-about-one-more-modal.png)
 
+### The Secret of Upworthy's Success: High Traffic Social Media Profiles
+
 Upworthy Facebook Page
 ![](images/upworthy-facebook-page.jpg)
 
@@ -89,6 +93,22 @@ Upworthy Twitter Profile
 
 Upworthy Pinterest Profile
 ![](images/upworthy-pinterest-profile.jpg)
+
+### The Secret of Upworthy's Success: Repeat Posting
+
+Upworthy Example Article Repost #1
+![](images/upworthy-example-article-twitter-repost.jpg)
+
+Upworthy Example Article Repost #2
+![](images/upworthy-example-article-twitter-repost 2.jpg)
+
+Upworthy Example Article Repost #3
+![](images/upworthy-example-article-twitter-repost 3.jpg)
+
+### The Secret of Upworthy's Success: Viral
+
+Uporthy Example Article Trending
+![](images/upworthy-example-article-twitter-trends.jpg)
 
 ### The Changing Global Ministry Landscape and What the Church Can Learn from Upworthy
 
