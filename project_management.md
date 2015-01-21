@@ -11,4 +11,11 @@ The cost of the website and marketing materials would need to fit within the chu
 
 ### Budget
 
+Free social media accounts
+Free sharing
+Free analytics
+Low-cost Web Hosts
+Ads
+
+
  
