@@ -89,7 +89,7 @@ Upworthy Modal Tactic: "Ever Seen These?"
 Upworthy Modal Tactic: "How About One More"
 ![](images/upworthy-how-about-one-more-modal.png)
 
-### The Secret of Upworthy's Success: Responsive Design 
+### The Secret of Upworthy's Success: Responsive Design (Adapts to Device)
 
 Upworthy Ranked #79 Most Popular Desktop Site (U.S.) 
 ![](images/upworthy-quantcast-desktop-rankings.png)
