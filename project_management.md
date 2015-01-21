@@ -25,6 +25,8 @@ Ads
 
 [United Methodist Communications: Brand Guidelines](http://www.umcom.org/tools/brand-guidelines)
 
+[U.S. Digital Services Playbook](http://playbook.cio.gov)
+
 [Website Launch Checklist for Web Designers](https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers)
 
 http://www.umcom.org/tools/update-your-find-a-church
