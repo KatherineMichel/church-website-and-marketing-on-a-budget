@@ -140,10 +140,10 @@ Upworthy Example Article Repost #1
 ![](images/upworthy-als-ice-bucket-challenge-twitter-repost.jpg)
 
 Upworthy Example Article Repost #2
-![](images/upworthy-als-ice-bucket-challenge-twitter-repost 2.jpg)
+![](images/upworthy-als-ice-bucket-challenge-twitter-repost-2.jpg)
 
 Upworthy Example Article Repost #3
-![](images/upworthy-als-ice-bucket-challenge-twitter-repost 3.jpg)
+![](images/upworthy-als-ice-bucket-challenge-twitter-repost-3.jpg)
 
 ### The Secret of Upworthy's Success: Viral
 
