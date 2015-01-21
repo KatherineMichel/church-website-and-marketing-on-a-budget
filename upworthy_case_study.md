@@ -43,10 +43,10 @@ Upworthy is not affiliated with any church and as far as I know, does not intend
 Upworthy Logo
 ![](images/upworthy-logo.png)
 
-Upworthy Footer: "Upworthy is Social Media with a Mission"
+Upworthy: "Social Media with a Mission"
+<center>
 ![](images/upworthy-is-social-media-with-a-mission.png)
-
-Some examples: 
+</center>
 
 This is the Google Trends graph for the phrase ["Upworthy" (region: worldwide)](http://www.google.com/trends/explore#q=upworthy), beginning when Upworthy was founded in 2012, until January 2015: 
 
@@ -56,23 +56,28 @@ If, like me, you were a regular user of Facebook in the Fall of 2013, it's very 
 
 The success of Upworthy seems to make moot the argument that people are no longer interested in that which is uplifting. The viral competitors that Upworthy far surpassed in growth did not have the same social justice mission as Upworthy. 
 
-### Example Upworthy Story
-
-The Last (ALS) Ice Bucket Challenge You Need to See
-![](images/upworthy-als-ice-bucket-challenge-homepage-view-2.jpg)
-
-### The Secret of Upworthy's Success: Content Formula
+### The Secret of Upworthy's Success
 
 So why were a record number of people attracted to Upworthy content? How did Upworthy achieve this unprecedented growth and in such a short time? Feel free to find out from [Upworthy](http://www.slideshare.net/Upworthy) itself. In a nutshell, Upworthy's content is technically and emotionally optimized to induce sharing. Here is a summary of the Upworthy approach:
 
-<br>
-* Comb through "evergreen" content online to identify stories that have the potential to become viral
-* Re-package the content, creating an angle that is most likely to invoke an emotional response 
-* Give the content an ambiguously dramatic headline that provokes the reader to click (this is sometimes referred to negatively as "click-bait"); Upworthy's rule of thumb is to write 25 headlines for each story, then user test to determine the most popular one
-* Optimize the content for ease of sharing from the website and across the most high traffic sites
-* Continue to User Test to the nth degree
+### The Secret of Upworthy's Success: Repurposed Content
+
+Upworthy staff members comb through "evergreen" content online to identify stories that have the potential to create an emotional response and become viral
+
+"Ice Bucket Challenge- Uncensored and Sexy?"
+![](images/anthony-carbajal-als-ice-bucket-challenge-youtube.jpg)
+
+Anthony Carbajal- YouCaring
+![](images/anthony-carbajal-als-ice-bucket-challenge-youcaring.jpg)
+
+The content is repackaged to create an angle, and given an ambiguously dramatic headline that provokes the reader to click (this is sometimes referred to negatively as "click-bait"); Upworthy's rule of thumb is to write 25 headlines for each story, then user test to determine the most popular one
+
+The Last Ice Bucket Challenge You Need to See
+![](images/upworthy-als-ice-bucket-challenge-homepage-view-2.jpg)
 
 ### The Secret of Upworthy's Success: Website Tactics
+
+The Upworthy site is User Tested and optimized to the nth degree, to attract attention, invoke a response, and make sharing easy from website and across the most high traffic sites
 
 Upworthy Homepage: Use of Endless Scrolling
 ![](images/upworthy-homepage.jpg)
