@@ -59,7 +59,7 @@ The success of Upworthy seems to make moot the argument that people are no longe
 ### Example Upworthy Story
 
 The Last (ALS) Ice Bucket Challenge You Need to See
-![](images/upworthy-example-article-homepage-view-2.jpg)
+![](images/upworthy-als-ice-bucket-challenge-homepage-view-2.jpg)
 
 ### The Secret of Upworthy's Success: Content Formula
 
@@ -114,41 +114,41 @@ Upworthy YouTube Page
 ### The Secret of Upworthy's Success: Use of Social Graph
 
 Upworthy Facebook Graph "Object"
-![](images/upworthy-example-article-facebook-share.jpg)
+![](images/upworthy-als-ice-bucket-challenge-facebook-share.jpg)
 
 Upworthy Facebook Graph "Object" Post
-![](images/upworthy-example-article-facebook-post.jpg)
+![](images/upworthy-als-ice-bucket-challenge-facebook-post.jpg)
 
 Upworthy Twitter Share "Intent"
-![](images/upworthy-example-article-twitter-intent.jpg)
+![](images/upworthy-als-ice-bucket-challenge-twitter-intent.jpg)
 
 Upworthy Twitter "Card"
-![](images/upworthy-example-article-twitter-detail.jpg)
+![](images/upworthy-als-ice-bucket-challenge-twitter-detail.jpg)
 
 Upworthy Pinterest "Pin"
-![](images/upworthy-example-article-pinterest.jpg)
+![](images/upworthy-als-ice-bucket-challenge-pinterest.jpg)
 
 Upworthy Pinterest "Pin" Detail
-![](images/upworthy-example-article-pinterest-detail.jpg)
+![](images/upworthy-als-ice-bucket-challenge-pinterest-detail.jpg)
 
 Upworthy Tumblr Article
-![](images/upworthy-example-article-tumblr.jpg)
+![](images/upworthy-als-ice-bucket-challenge-tumblr.jpg)
 
 ### The Secret of Upworthy's Success: Repeat Posting
 
 Upworthy Example Article Repost #1
-![](images/upworthy-example-article-twitter-repost.jpg)
+![](images/upworthy-als-ice-bucket-challenge-twitter-repost.jpg)
 
 Upworthy Example Article Repost #2
-![](images/upworthy-example-article-twitter-repost 2.jpg)
+![](images/upworthy-als-ice-bucket-challenge-twitter-repost 2.jpg)
 
 Upworthy Example Article Repost #3
-![](images/upworthy-example-article-twitter-repost 3.jpg)
+![](images/upworthy-als-ice-bucket-challenge-twitter-repost 3.jpg)
 
 ### The Secret of Upworthy's Success: Viral
 
 Upworthy Example Article Trending on Twitter
-![](images/upworthy-example-article-twitter-trends.jpg)
+![](images/upworthy-als-ice-bucket-challenge-twitter-trends.jpg)
 
 ### The Changing Global Ministry Landscape and What the Church Can Learn from Upworthy
 
