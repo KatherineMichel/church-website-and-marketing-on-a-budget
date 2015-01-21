@@ -67,10 +67,10 @@ So why were a record number of people attracted to Upworthy content? How did Upw
 
 <br>
 * Comb through "evergreen" content online to identify stories that have the potential to become viral
-* Enticing headlines, also called "click-bait" and generally frowned upon by respected media (Upworthy's rule of thumb is to write each headline 25 different ways, then user test to choose the best one)
-* Content invoking an emotional response
-* Optimization for ease of sharing via the website and the social media networks with the most traffic
-* User Testing to the nth degree
+* Re-package the content, creating an angle that is most likely to invoke an emotional response 
+* Give the content an ambiguously dramatic headline that provokes the reader to click (this is sometimes referred to negatively as "click-bait"); Upworthy's rule of thumb is to write 25 headlines for each story, then user test to determine the most popular one
+* Optimize the content for ease of sharing from the website and across the most high traffic sites
+* Continue to User Test to the nth degree
 
 ### The Secret of Upworthy's Success: Website Tactics
 
