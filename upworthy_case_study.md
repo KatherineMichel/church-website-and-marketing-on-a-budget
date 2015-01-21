@@ -170,9 +170,13 @@ Upworthy Example Article Trending on Twitter
 
 The church should not aspire to be like Upworthy. However, there is a market for "uplifting" content. The church may need to repackage its message and how the message is delivered if it is to compete for the public's attention. 
 
-### John Wesley, Social Pioneer
+### Jesus and John Wesley, Social Pioneers
 
-Perhaps the United Methodist Church need look no further than its own founder for inspiration. 
+Perhaps the United Methodist Church need look no further than Jesus and John Wesley for inspiration. 
+
+"After this the Lord appointed seventy-two others and sent them two by two ahead of him to every town and place where he was about to go." Luke 10, NIV
+
+Jesus grew a social network that consisted of family, friends, and followers, who spread his message by word of mouth until it became viral the world over.
 
 "I look upon all the world as my parish" -John Wesley, founder of Methodism
 
