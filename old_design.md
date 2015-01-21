@@ -38,11 +38,15 @@ Inside<br>
 <center>
 ![](images/old-church-brochure-inside.png)
 </center>
+
 ### Old Visitor Postcards
+
 <center>
 ![](images/old-visitor-post-cards.jpg)
 </center>
+
 ### Old Reminder Postcards
+
 <center>
 ![](images/old-post-cards-page-1.jpg)
 
