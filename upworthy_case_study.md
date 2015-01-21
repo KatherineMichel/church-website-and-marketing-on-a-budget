@@ -91,6 +91,12 @@ Upworthy Modal Tactic: "How About One More"
 
 ### The Secret of Upworthy's Success: Responsive Design 
 
+Upworthy Ranked #79 Most Popular Desktop Site (U.S.) 
+![](images/upworthy-quantcast-desktop-rankings.png)
+
+Upworthy Ranked #32 Most Popular Mobile Responsive Site (U.S.)
+![](images/upworthy-quantcast-mobile-rankings.png)
+
 ### The Secret of Upworthy's Success: High Traffic Social Media Profiles
 
 Upworthy Facebook Page
@@ -102,16 +108,8 @@ Upworthy Twitter Profile
 Upworthy Pinterest Profile
 ![](images/upworthy-pinterest-profile.jpg)
 
-### The Secret of Upworthy's Success: Repeat Posting
-
-Upworthy Example Article Repost #1
-![](images/upworthy-example-article-twitter-repost.jpg)
-
-Upworthy Example Article Repost #2
-![](images/upworthy-example-article-twitter-repost 2.jpg)
-
-Upworthy Example Article Repost #3
-![](images/upworthy-example-article-twitter-repost 3.jpg)
+Upworthy YouTube Page
+![](images/upworthy-youtube-profile.png)
 
 ### The Secret of Upworthy's Success: Use of Social Graph
 
@@ -135,6 +133,17 @@ Upworthy Pinterest "Pin" Detail
 
 Upworthy Tumblr Article
 ![](images/upworthy-example-article-tumblr.jpg)
+
+### The Secret of Upworthy's Success: Repeat Posting
+
+Upworthy Example Article Repost #1
+![](images/upworthy-example-article-twitter-repost.jpg)
+
+Upworthy Example Article Repost #2
+![](images/upworthy-example-article-twitter-repost 2.jpg)
+
+Upworthy Example Article Repost #3
+![](images/upworthy-example-article-twitter-repost 3.jpg)
 
 ### The Secret of Upworthy's Success: Viral
 
