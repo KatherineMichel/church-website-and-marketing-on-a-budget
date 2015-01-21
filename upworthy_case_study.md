@@ -180,3 +180,5 @@ Jesus grew a social network that consisted of family, friends, and followers, wh
 
 "I look upon all the world as my parish" -John Wesley, founder of Methodism
 
+John Wesley spread the Methodist religion across the United States by creating a social network of followers who were organized into Class Meetings across geographic territories and ministered to by "Circuit Riders." 
+
