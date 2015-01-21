@@ -27,11 +27,14 @@ Ads
 
 [U.S. Digital Services Playbook](http://playbook.cio.gov)
 
+[DigitalGov Resources](http://www.digitalgov.gov/resources)
+
 [Website Launch Checklist for Web Designers](https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers)
 
-http://www.umcom.org/tools/update-your-find-a-church
+[Google Web Fundamentals](https://developers.google.com/web/fundamentals)
 
-http://www.umc.org/resources/cross-and-flame
+[Google Design](http://www.google.com/design)
+
 
 
 
