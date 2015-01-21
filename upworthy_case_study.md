@@ -89,6 +89,8 @@ Upworthy Modal Tactic: "Ever Seen These?"
 Upworthy Modal Tactic: "How About One More"
 ![](images/upworthy-how-about-one-more-modal.png)
 
+### The Secret of Upworthy's Success: Responsive Design 
+
 ### The Secret of Upworthy's Success: High Traffic Social Media Profiles
 
 Upworthy Facebook Page
@@ -116,7 +118,7 @@ Upworthy Example Article Repost #3
 Upworthy Facebook Graph "Object"
 ![](images/upworthy-example-article-facebook-share.jpg)
 
-Upworthy Facebook Graph Object "Post"
+Upworthy Facebook Graph "Object" Post
 ![](images/upworthy-example-article-facebook-post.jpg)
 
 Upworthy Twitter Share "Intent"
