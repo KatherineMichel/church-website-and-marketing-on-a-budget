@@ -77,7 +77,7 @@ The Last Ice Bucket Challenge You Need to See
 
 ### The Secret of Upworthy's Success: Website Tactics
 
-The Upworthy site is User Tested and optimized to the nth degree, to attract attention, invoke a response, and make sharing easy from website and across the most high traffic sites
+The Upworthy site is user tested and optimized to the nth degree, to attract attention, invoke a response, and make sharing easy from website and across the most high traffic sites
 
 Upworthy Homepage: Use of Endless Scrolling
 ![](images/upworthy-homepage.jpg)
@@ -94,7 +94,9 @@ Upworthy Modal Tactic: "Ever Seen These?"
 Upworthy Modal Tactic: "How About One More"
 ![](images/upworthy-how-about-one-more-modal.png)
 
-### The Secret of Upworthy's Success: Responsive Design (Adapts to Device)
+### The Secret of Upworthy's Success: Responsive Design 
+
+Upworthy's design adapts well to the device being used, resulting in an even higher popularity score for mobile browsing
 
 Upworthy Ranked #79 Most Popular Desktop Site (U.S.) 
 ![](images/upworthy-quantcast-desktop-rankings.png)
@@ -103,6 +105,8 @@ Upworthy Ranked #32 Most Popular Mobile Responsive Site (U.S.)
 ![](images/upworthy-quantcast-mobile-rankings.png)
 
 ### The Secret of Upworthy's Success: High Traffic Social Media Profiles
+
+Upworthy goes to where the most people are
 
 Upworthy Facebook Page
 ![](images/upworthy-facebook-page.jpg)
