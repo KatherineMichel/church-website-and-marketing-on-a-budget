@@ -17,5 +17,20 @@ Free analytics
 Low-cost Web Hosts
 Ads
 
+### Standards Resources
+
+[United Methodist Communications: Market Your Church](http://www.umcom.org/learn/market-your-church-getting-started)
+
+[United Methodist Communications: Marketing Tactics](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/STEP_4_IMPLEMENTATION_HOMEWORK.PDF)
+
+[United Methodist Communications: Brand Guidelines](http://www.umcom.org/tools/brand-guidelines)
+
+[Website Launch Checklist for Web Designers](https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers)
+
+http://www.umcom.org/tools/update-your-find-a-church
+
+http://www.umc.org/resources/cross-and-flame
+
+
 
  
