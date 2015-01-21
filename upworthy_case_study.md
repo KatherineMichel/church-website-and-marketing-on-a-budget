@@ -37,6 +37,7 @@ Even as search interest in the United Methodist Church declined, in a short peri
 <center>
 ![](images/upworthy-quantcast.png)
 </center>
+Source Upworthy/Quantcast
 
 Upworthy is not affiliated with any church and as far as I know, does not intend to compete with churches. However, Upworthy became popular in part by bringing directly to the Facebook news feeds of potential church goers, some of the same type of uplifting content that in the past they would have come across in church through church mission. 
 
