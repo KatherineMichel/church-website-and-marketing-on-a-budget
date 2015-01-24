@@ -6,6 +6,11 @@ Like the Pretty Prairie United Methodist Church itself, the new church theme wil
 
 # Graphics and Logos Sources
 
+United Methodist Church Official Black Cross and Flame
+<center>
+![](new-brand/umc-logo-cross-and-flame-b-w-1058x1818.png)
+</center>
+
 Original, license-free, Morgue File Photo
 ![](new-brand/sunflowers-morgue-file-original.jpg)
 
