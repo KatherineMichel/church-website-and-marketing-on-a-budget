@@ -42,7 +42,7 @@ Source Upworthy/Quantcast
 Upworthy is not affiliated with any church and as far as I know, does not intend to compete with churches. However, Upworthy became popular in part by bringing directly to the Facebook news feeds of potential church goers, some of the same type of uplifting content that in the past they would have come across in church through church mission. 
 
 Upworthy Logo
-![](upworthyimages/upworthy-logo.png)
+![](upworthy/upworthy-logo.png)
 
 Upworthy: "Social Media with a Mission"
 <center>
@@ -159,7 +159,7 @@ Upworthy Example Article Repost #2
 ![](upworthy/upworthy-als-ice-bucket-challenge-twitter-repost-2.jpg)
 
 Upworthy Example Article Repost #3
-![](upworthyimages/upworthy-als-ice-bucket-challenge-twitter-repost-3.jpg)
+![](upworthy/upworthy-als-ice-bucket-challenge-twitter-repost-3.jpg)
 
 ### The Secret of Upworthy's Success: Viral
 
