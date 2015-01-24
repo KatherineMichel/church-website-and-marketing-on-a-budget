@@ -4,6 +4,9 @@ Like the Pretty Prairie United Methodist Church itself, the new church theme wil
 * The black version of the traditional [United Methodist cross and flame](http://www.umc.org/resources/cross-and-flame)
 * A contemporary sunflower motif
 
+Original, license-free, Morgue File Photo
+![](new-brand/sunflowers-morgue-file-original.jpg)
+
 # The Significance of the Sunflower
 
 ![](new-brand/website-sunflowers.png)
