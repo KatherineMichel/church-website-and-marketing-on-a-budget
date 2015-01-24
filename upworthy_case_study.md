@@ -37,6 +37,7 @@ Even as search interest in the United Methodist Church declined, in a short peri
 <center>
 ![](images/upworthy-quantcast.png)
 </center>
+Source Upworthy/Quantcast
 
 Upworthy is not affiliated with any church and as far as I know, does not intend to compete with churches. However, Upworthy became popular in part by bringing directly to the Facebook news feeds of potential church goers, some of the same type of uplifting content that in the past they would have come across in church through church mission. 
 
@@ -72,26 +73,32 @@ Anthony Carbajal- YouCaring
 
 The content is repackaged to create an angle, and given an ambiguously dramatic headline that provokes the reader to click (this is sometimes referred to negatively as "click-bait"); Upworthy's rule of thumb is to write 25 headlines for each story, then user test to determine the most popular one
 
-The Last Ice Bucket Challenge You Need to See
+Upworthy Homepage: "The Last Ice Bucket Challenge You Need to See- And You Really Should See It"
 ![](images/upworthy-als-ice-bucket-challenge-homepage-view-2.jpg)
+
+Upworthy Detail: "The Last Ice Bucket Challenge You Need to See- And You Really Should See It"
+![](images/upworthy-als-ice-bucket-challenge-detail.jpg)
 
 ### The Secret of Upworthy's Success: Website Tactics
 
 The Upworthy site is user tested and optimized to the nth degree, to attract attention, invoke a response, and make sharing easy from website and across the most high traffic sites
 
-Upworthy Homepage: Use of Endless Scrolling
+Homepage: Use of Endless Scrolling
 ![](images/upworthy-homepage.jpg)
 
-Upworthy Menu: Comprehensive
+Comprehensive Header Menu
 ![](images/upworthy-menu.jpg)
 
-Upworthy Modal Tactic: Daily Email
+Prominent Share Buttons and Newsletter Sign Up Form
+![](images/upworthy-header-and-newsletter-sign-up.jpg)
+
+Modal Tactic: Daily Email
 ![](images/upworthy-daily-email-modal.jpg)
 
-Upworthy Modal Tactic: "Ever Seen These?"
+Modal Tactic: "Ever Seen These?"
 ![](images/upworthy-ever-seen-these-modal.jpg)
 
-Upworthy Modal Tactic: "How About One More"
+Modal Tactic: "How About One More"
 ![](images/upworthy-how-about-one-more-modal.png)
 
 ### The Secret of Upworthy's Success: Responsive Design 
@@ -163,9 +170,15 @@ Upworthy Example Article Trending on Twitter
 
 The church should not aspire to be like Upworthy. However, there is a market for "uplifting" content. The church may need to repackage its message and how the message is delivered if it is to compete for the public's attention. 
 
-### John Wesley, Social Pioneer
+### Jesus and John Wesley, Social Pioneers
 
-Perhaps the United Methodist Church need look no further than its own founder for inspiration. 
+Perhaps the United Methodist Church need look no further than Jesus and John Wesley for inspiration. 
+
+"After this the Lord appointed seventy-two others and sent them two by two ahead of him to every town and place where he was about to go." Luke 10, NIV
+
+Jesus grew a social network that consisted of family, friends, and followers, who spread his message by word of mouth until it became viral the world over.
 
 "I look upon all the world as my parish" -John Wesley, founder of Methodism
+
+John Wesley spread the Methodist religion across the United States by creating a social network of followers who were organized into Class Meetings across geographic territories and ministered to by "Circuit Riders." 
 
