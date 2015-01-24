@@ -1,5 +1,7 @@
 # Church Image Rebrand
 
+[United Methodist Church Brand Standards](new-brand/umc-brand-standards-14-05-30.pdf)
+
 Like the Pretty Prairie United Methodist Church itself, the new church theme will beautifully blend the traditional and the conventional by incorporating:
 * The black version of the traditional [United Methodist cross and flame](http://www.umc.org/resources/cross-and-flame)
 * A contemporary sunflower motif
