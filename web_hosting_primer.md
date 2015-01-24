@@ -65,7 +65,11 @@ Static content tends to be created using:
 * CSS (Cascading Style Sheets)
 * JavaScript
 
-By the way, these are the languages associated with "Front End" Web Design. In Web Design and Development, the "Front End" is the part of the website that you can actually see. 
+By the way, these are the languages associated with "Front End" Web Design. In Web Design and Development, the "Front End" is the visual design part of the website that you can actually see (page layout, size, color, font). 
+
+<center>
+![](web-dev-primer/web-programming-languages-iceberg-chart.jpg)
+</center>
 
 Static content can be rendered in a simpler way than dynamic content. Static content can be rendered by a regular web browser, without the use of a more sophisticated tool called a server. Also, the content of a static page does not change after being rendered by the browser. 
 
@@ -74,10 +78,6 @@ However, there is a limit to the level of scale that can be achieved by simply r
 To scale, web developers need to think about "Back End" automation. 
 
 There are a few languages associated with "Back End" automation. 
-
-<center>
-![](web-dev-primer/web-programming-languages-iceberg-chart.jpg)
-</center>
 
 ### Back-End Languages
 * Python (Multi-purpose Web Development language with excellent Data Science tools; Currently, the most taught Computer Science language)  
