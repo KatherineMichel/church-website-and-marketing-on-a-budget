@@ -10,9 +10,9 @@ Order of priority given to web hosting options:
 
 ### Board Meeting Slides- Options Matrix 
 <center>
-![](images/web-hosting-options-matrix-page-1.png)
+![](web-hosting-options/web-hosting-options-matrix-page-1.png)
 
-![](images/web-hosting-options-matrix-page-2.png)
+![](web-hosting-options/web-hosting-options-matrix-page-2.png)
 </center>
 ### Ezekiel 
 
@@ -22,7 +22,7 @@ Ezekiel was initially attractive due to:
 * Potential for a full-website look (rather than a blog-like appearance)
 
 Pretty Prairie United Methodist Church Ezekiel Home Page Mock Up
-![](images/ezekiel-allegiant-theme-desktop-mockup.jpg)
+![](web-hosting-options/ezekiel-allegiant-theme-desktop-mockup.jpg)
 
 Final Verdict: I quickly ruled Ezekiel out because I felt its content management system was not intuitive enough to suit the needs of the church.
 
@@ -34,12 +34,12 @@ United Methodist Church Web Hosting was initially attractive due to:
 * The user-friendliness of the WordPress content management system 
 
 Random Stained Glass Window Mockup
-![](images/catching-everest-stained-glass-window-theme-desktop-mockup.jpg)
+![](web-hosting-options/catching-everest-stained-glass-window-theme-desktop-mockup.jpg)
 
 Pretty Prairie UMC Stained Glass Window Mockup
-![](images/catching-everest-stained-glass-window-theme-umc--window-desktop-mockup.jpg)
+![](web-hosting-options/catching-everest-stained-glass-window-theme-umc--window-desktop-mockup.jpg)
 
 Sunflowers Mockup
-![](images/catching-everest-sunflowers-theme-desktop-mockup-white.jpg)
+![](web-hosting-options/catching-everest-sunflowers-theme-desktop-mockup-white.jpg)
 
 
