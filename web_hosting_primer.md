@@ -8,7 +8,7 @@
 
 Example: Weebly Drag and Drop Website Builder
 
-![](images/weebly.png)
+![](web-dev-primer/weebly.png)
 
 Or, "Making a website" can be as sophisticated as assembling all of the underlying code, to create a highly customized website. 
 
@@ -19,23 +19,23 @@ But with the freedom to customize comes the risk of "jank."
 Many web hosts do offer some middle ground, for instance a content management system that allows for some customization of the [HTML](http://en.wikipedia.org/wiki/HTML) (Hyper Text Markup Language) and/or [CSS](http://en.wikipedia.org/wiki/Cascading_Style_Sheets) (Cascading Style Sheet) code, perhaps without directly touching the code. Here is an example of customizing the CSS of a WordPress theme:
 
 Choose a WordPress theme, for instance [Catch Everest](https://wordpress.org/themes/catch-everest).
-![](images/catch-everest-template-desktop-view-home-page.jpg)
+![](web-dev-primer/catch-everest-template-desktop-view-home-page.jpg)
 
 Identify the WordPress theme's default [Cascading Style Sheet](http://wp-themes.com/wp-content/themes/catch-everest/style.css?ver=4.0-beta2-20140725) (CSS) code. 
 
-![](images/catch-everest-template-css.png)
+![](web-dev-primer/catch-everest-template-css.png)
 
 This could be done by downloading the theme files and searching through them...
 
-![](images/catch-everest-template-files-css.png)
+![](web-dev-primer/catch-everest-template-files-css.png)
 
 The CSS could also be found by opening an online [Catch Everest demo](http://wp-themes.com/catch-everest/?TB_iframe=true&width=600&height=400) in the browser, right clicking and choosing "View page source," then looking through the "head" section of the source for a linkn to a CSS file that can be accessed online. 
 
-![](images/catch-everest-theme-css-head.png)
+![](web-dev-primer/catch-everest-theme-css-head.png)
 
 Determine what aspect of the template's design to change and identify the corresponding CSS code.
 
-![](images/catching-everest-template-css-background.png)
+![](web-dev-primer/catching-everest-template-css-background.png)
 
 Re-write the code to produce the intended change, then enter the altered snippet of code into the designated area of the WordPress content management system that you are using in order to override the default CSS code and make the design change go live.
 
@@ -43,16 +43,16 @@ Another middle ground option is to use a simplified template system to design an
 
 My Portfolio Home Page
 
-![](images/katherine-michel-portfolio-home-page.png)
+![](web-dev-primer/katherine-michel-portfolio-home-page.png)
 
 The downside of this approach is that it tends to involve interacting directly with the code, perhaps via command line, rather than using the kind of content management system dashboard expected by a client.  
 
 No fancy content management system for my Portfolio. Just code...
-![](images/katherine-michel-portfolio-code.png)
+![](web-dev-primer/katherine-michel-portfolio-code.png)
 
 and GitHub via my computer command line. 
 
-![](images/katherine-michel-portfolio-command-line.png)
+![](web-dev-primer/katherine-michel-portfolio-command-line.png)
 
 GitHub offers free hosting on gh-pages. The caveat is that although any sort of code can be stored on GitHub, GitHub gh-pages can only render static content. What does this mean?  
 
