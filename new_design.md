@@ -23,6 +23,8 @@
 ![](images/new-newsletter-page-4.png)
 </center>
 
+### New Bulletin
+
 ### New Multi-Purpose Greeting Card (Example)
 
 Front Cover<br>
@@ -43,7 +45,4 @@ Back Cover<br>
 <center>
 ![](images/new-post-card.png)
 </center>
-
-### New Bulletin
-
 
