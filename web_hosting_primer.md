@@ -4,6 +4,10 @@
 
 "Making a website" can mean many things. 
 
+![](web-dev-primer/idea-maze.jpg)
+
+Web Development Idea Maze
+
 "Making a website" can be as simple as using a content management system to "drag and drop" content into pre-determined spaces, without touching the underlying code, but also without much freedom to customize the structure of the website. 
 
 Example: Weebly Drag and Drop Website Builder
