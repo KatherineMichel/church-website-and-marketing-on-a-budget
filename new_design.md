@@ -1,6 +1,7 @@
 # New Design :) 
 
 #### New Website
+[www.prettyprairieumc.org](www.prettyprairieumc.org)
 
 [![](images/new-website-home-page.jpg)](http://prettyprairieumc.org)
 
