@@ -6,14 +6,14 @@ Like the Pretty Prairie United Methodist Church itself, the new church theme wil
 
 # The Significance of the Sunflower
 
-![](images/website-sunflowers.png)
+![](new-brand/website-sunflowers.png)
 
 Above: A screenshot from the church's new website
 
 The Pretty Prairie United Methodist Church is in the state of Kansas (where the state flower is the sunflower), in a town called Pretty Prairie (where "pretty prairies" of sunflowers can be found in the vicinity). 
 
 <center>
-![](images/warm-cool.jpg)
+![](new-brand/warm-cool.jpg)
 </center>
 <br>
 Yellow is a "warm" color, reminiscent of the sun. The sunflower symbolizes warm welcome, bright optimism, and renewal. 
