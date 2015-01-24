@@ -2,13 +2,16 @@
 
 #### New Website
 
+[![](images/new-website-home-page.jpg)](http://prettyprairieumc.org)
+
 #### New Facebook Page
 
 <center>
-![](images/new-facebook-page.png)
+[![](images/new-facebook-page.png)](https://www.facebook.com/prettyprairieumc)
 </center>
 
 #### New E-Newsletter
+(Some information altered to protect privacy) 
 <center>
 ![](images/new-newsletter-page-1.png)
 
