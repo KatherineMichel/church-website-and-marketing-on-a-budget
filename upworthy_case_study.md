@@ -8,11 +8,11 @@ A technique that I've learned from the tech analysts [I follow on Twitter](https
 
 Unfortunately, Google Trends does not go into enough detail to give results for "Pretty Prairie United Methodist Church," but here is a fun graph for the results for ["Pretty Prairie" (region: worldwide)](http://www.google.com/trends/explore#q=pretty%20prairie), from around 2004 to September 2004; The town of Pretty Prairie, Kansas happens to host the world famous [Pretty Prairie Rodeo](http://www.pprodeo.com) (the biggest night rodeo in Kansas) every July. The spikes in the Google Trends graph below all happened in July :) 
 
-![](images/google-trends-pretty-prairie-worldwide.png)
+![](google-trends/google-trends-pretty-prairie-worldwide.png)
 
 The Google Trends graph for "[Pretty Prairie Rodeo" (region: worldwide)](http://www.google.com/trends/explore#q=%22pretty+prairie+rodeo%22) demonstrates similar spikes in interest. 
 
-![](images/google-trends-pretty-prairie-rodeo-worldwide.png)
+![](google-trends/google-trends-pretty-prairie-rodeo-worldwide.png)
 
 ### Google Trends for "United Methodist Church"
 
@@ -20,38 +20,38 @@ Unfortunately, the Google Trends graphs for the search phrase "United Methodist 
 
 Here is the Google Trends graph for the phrase ["United Methodist Church" (region: worldwide)](http://www.google.com/trends/explore#q=united%20methodist%20church), from around 2004 to January 2015: 
 
-![](images/google-trends-united-methodist-church-worldwide.png)
+![](google-trends/google-trends-united-methodist-church-worldwide.png)
 
 Here is the Google Trends graph for the phrase ["United Methodist Church" (region: Kansas)](http://www.google.com/trends/explore#geo=US-KS&q=united+methodist+church), from around 2004 to January 2015: 
 
-![](images/google-trends-united-methodist-church-kansas.png)
+![](google-trends/google-trends-united-methodist-church-kansas.png)
 
 Here is the Google Trends graph for the phrase ["United Methodist Church" (region: Wichita/Hutchinson, Kansas)](http://www.google.com/trends/explore#geo=US-KS-678&q=united+methodist+church), from around 2004 to January 2015: 
 
-![](images/google-trends-united-methodist-church-wichita-hutchinson.png)
+![](google-trends/google-trends-united-methodist-church-wichita-hutchinson.png)
 
 ### The Competition (Not Who You Might Expect)
 
 Even as search interest in the United Methodist Church declined, in a short period of time during the past few years, a website with something of a mission for social justice called [Upworthy](http://www.upworthy.com) became "[the fastest-growing media site in history](http://www.fastcompany.com/3012649/how-upworthy-used-emotional-data-to-become-the-fastest-growing-media-site-of-all-time)," achieving growth that far surpassed that of its closest viral competitors: Buzzfeed, Huffington Post, and Business Insider. 
 
 <center>
-![](images/upworthy-quantcast.png)
+![](upworthy/upworthy-quantcast.png)
 </center>
 Source Upworthy/Quantcast
 
 Upworthy is not affiliated with any church and as far as I know, does not intend to compete with churches. However, Upworthy became popular in part by bringing directly to the Facebook news feeds of potential church goers, some of the same type of uplifting content that in the past they would have come across in church through church mission. 
 
 Upworthy Logo
-![](images/upworthy-logo.png)
+![](upworthyimages/upworthy-logo.png)
 
 Upworthy: "Social Media with a Mission"
 <center>
-![](images/upworthy-is-social-media-with-a-mission.png)
+![](upworthy/upworthy-is-social-media-with-a-mission.png)
 </center>
 
 This is the Google Trends graph for the phrase ["Upworthy" (region: worldwide)](http://www.google.com/trends/explore#q=upworthy), beginning when Upworthy was founded in 2012, until January 2015: 
 
-![](images/google-trends-upworthy-worldwide.png)
+![](google-trends/google-trends-upworthy-worldwide.png)
 
 If, like me, you were a regular user of Facebook in the Fall of 2013, it's very likely that like me you came across Upworthy content regularly. Facebook has been Upworthy's main source of traffic. When Facebook changed its algorithms at the end of 2013 (reportedly in response to Upworthy's content becoming disportionately popular in the Facebook news feed), Upworthy's traffic dramatically fell. 
 
@@ -66,105 +66,105 @@ So why were a record number of people attracted to Upworthy content? How did Upw
 Upworthy staff members comb through "evergreen" content online to identify stories that have the potential to create an emotional response and become viral
 
 "Ice Bucket Challenge- Uncensored and Sexy?"
-![](images/anthony-carbajal-als-ice-bucket-challenge-youtube.jpg)
+![](upworthy/anthony-carbajal-als-ice-bucket-challenge-youtube.jpg)
 
 Anthony Carbajal- YouCaring
-![](images/anthony-carbajal-als-ice-bucket-challenge-youcaring.jpg)
+![](upworthy/anthony-carbajal-als-ice-bucket-challenge-youcaring.jpg)
 
 The content is repackaged to create an angle, and given an ambiguously dramatic headline that provokes the reader to click (this is sometimes referred to negatively as "click-bait"); Upworthy's rule of thumb is to write 25 headlines for each story, then user test to determine the most popular one
 
 Upworthy Homepage: "The Last Ice Bucket Challenge You Need to See- And You Really Should See It"
-![](images/upworthy-als-ice-bucket-challenge-homepage-view-2.jpg)
+![](upworthy/upworthy-als-ice-bucket-challenge-homepage-view-2.jpg)
 
 Upworthy Detail: "The Last Ice Bucket Challenge You Need to See- And You Really Should See It"
-![](images/upworthy-als-ice-bucket-challenge-detail.jpg)
+![](upworthy/upworthy-als-ice-bucket-challenge-detail.jpg)
 
 ### The Secret of Upworthy's Success: Website Tactics
 
 The Upworthy site is user tested and optimized to the nth degree, to attract attention, invoke a response, and make sharing easy from website and across the most high traffic sites
 
 Homepage: Use of Endless Scrolling
-![](images/upworthy-homepage.jpg)
+![](upworthy/upworthy-homepage.jpg)
 
 Comprehensive Header Menu
-![](images/upworthy-menu.jpg)
+![](upworthy/upworthy-menu.jpg)
 
 Prominent Share Buttons and Newsletter Sign Up Form
-![](images/upworthy-header-and-newsletter-sign-up.jpg)
+![](upworthy/upworthy-header-and-newsletter-sign-up.jpg)
 
 Modal Tactic: Daily Email
-![](images/upworthy-daily-email-modal.jpg)
+![](upworthy/upworthy-daily-email-modal.jpg)
 
 Modal Tactic: "Ever Seen These?"
-![](images/upworthy-ever-seen-these-modal.jpg)
+![](upworthy/upworthy-ever-seen-these-modal.jpg)
 
 Modal Tactic: "How About One More"
-![](images/upworthy-how-about-one-more-modal.png)
+![](upworthy/upworthy-how-about-one-more-modal.png)
 
 ### The Secret of Upworthy's Success: Responsive Design 
 
 Upworthy's design adapts well to the device being used, resulting in an even higher popularity score for mobile browsing
 
 Upworthy Ranked #79 Most Popular Desktop Site (U.S.) 
-![](images/upworthy-quantcast-desktop-rankings.png)
+![](upworthy/upworthy-quantcast-desktop-rankings.png)
 
 Upworthy Ranked #32 Most Popular Mobile Responsive Site (U.S.)
-![](images/upworthy-quantcast-mobile-rankings.png)
+![](upworthy/upworthy-quantcast-mobile-rankings.png)
 
 ### The Secret of Upworthy's Success: High Traffic Social Media Profiles
 
 Upworthy goes to where the most people are
 
 Upworthy Facebook Page
-![](images/upworthy-facebook-page.jpg)
+![](upworthy/upworthy-facebook-page.jpg)
 
 Upworthy Twitter Profile
-![](images/upworthy-twitter-profile.jpg)
+![](upworthy/upworthy-twitter-profile.jpg)
 
 Upworthy Pinterest Profile
-![](images/upworthy-pinterest-profile.jpg)
+![](upworthy/upworthy-pinterest-profile.jpg)
 
 Upworthy YouTube Page
-![](images/upworthy-youtube-profile.png)
+![](upworthy/upworthy-youtube-profile.png)
 
 ### The Secret of Upworthy's Success: Use of Social Graph
 
 Upworthy Facebook Graph "Object"
-![](images/upworthy-als-ice-bucket-challenge-facebook-share.jpg)
+![](upworthy/upworthy-als-ice-bucket-challenge-facebook-share.jpg)
 
 Upworthy Facebook Graph "Object" Post
-![](images/upworthy-als-ice-bucket-challenge-facebook-post.jpg)
+![](upworthy/upworthy-als-ice-bucket-challenge-facebook-post.jpg)
 
 Upworthy Twitter Share "Intent"
-![](images/upworthy-als-ice-bucket-challenge-twitter-intent.jpg)
+![](upworthy/upworthy-als-ice-bucket-challenge-twitter-intent.jpg)
 
 Upworthy Twitter "Card"
-![](images/upworthy-als-ice-bucket-challenge-twitter-detail.jpg)
+![](upworthy/upworthy-als-ice-bucket-challenge-twitter-detail.jpg)
 
 Upworthy Pinterest "Pin"
-![](images/upworthy-als-ice-bucket-challenge-pinterest.jpg)
+![](upworthy/upworthy-als-ice-bucket-challenge-pinterest.jpg)
 
 Upworthy Pinterest "Pin" Detail
-![](images/upworthy-als-ice-bucket-challenge-pinterest-detail.jpg)
+![](upworthy/upworthy-als-ice-bucket-challenge-pinterest-detail.jpg)
 
 Upworthy Tumblr Article
-![](images/upworthy-als-ice-bucket-challenge-tumblr.jpg)
+![](upworthy/upworthy-als-ice-bucket-challenge-tumblr.jpg)
 
 ### The Secret of Upworthy's Success: Repeat Posting
 
 Upworthy Example Article Repost #1
-![](images/upworthy-als-ice-bucket-challenge-twitter-repost.jpg)
+![](upworthy/upworthy-als-ice-bucket-challenge-twitter-repost.jpg)
 
 Upworthy Example Article Repost #2
-![](images/upworthy-als-ice-bucket-challenge-twitter-repost-2.jpg)
+![](upworthy/upworthy-als-ice-bucket-challenge-twitter-repost-2.jpg)
 
 Upworthy Example Article Repost #3
-![](images/upworthy-als-ice-bucket-challenge-twitter-repost-3.jpg)
+![](upworthyimages/upworthy-als-ice-bucket-challenge-twitter-repost-3.jpg)
 
 ### The Secret of Upworthy's Success: Viral
 
 Upworthy Example Article Trending on Twitter
-![](images/upworthy-als-ice-bucket-challenge-twitter-trends.jpg)
+![](upworthy/upworthy-als-ice-bucket-challenge-twitter-trends.jpg)
 
 ### The Changing Global Ministry Landscape and What the Church Can Learn from Upworthy
 
