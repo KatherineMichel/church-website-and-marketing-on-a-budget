@@ -75,7 +75,9 @@ To scale, web developers need to think about "Back End" automation.
 
 There are a few languages associated with "Back End" automation. 
 
+<center>
 ![](web-dev-primer/web-programming-languages-iceberg-chart.jpg)
+</center>
 
 ### Back-End Languages
 * Python (Multi-purpose Web Development language with excellent Data Science tools; Currently, the most taught Computer Science language)  
