@@ -10,13 +10,13 @@ Members of the Pretty Prairie United Methodist Church, a congregation of around 
 ### Problem
 The church's previous website, which had been made using an outdated technique called Flash, was no longer in existence because [the web host had stopped hosting](https://kslib.info/1013/Blue-Skyways-Transition). I made the screenshot below locally using files that I recovered from the web host. See [Old Design](old_design.md) for screenshots of the entire old website.
 
-![](images/old-website-welcome-page.jpg)
+![](old-materials/old-website-welcome-page.jpg)
 
 ### Find-a-Church Page
 
 Without an independent website, the church was making due with a Find-a-Church page, (a basic information page hosted for free by the national United Methodist Church).
 
-![](images/find-a-church-about-us.jpg)
+![](old-materials/find-a-church-about-us.jpg)
 
 ### Solution
 
