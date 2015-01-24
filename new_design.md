@@ -23,7 +23,7 @@
 ![](images/new-newsletter-page-4.png)
 </center>
 
-### New Bulletin
+### New Bulletin (Example)
 
 Front Cover
 
