@@ -6,15 +6,15 @@ Notably, New Jerusalem Church is using the very popular WordPress [Twenty Eleven
 
 Calvary Chapel:
 <center>
-![](images/calvary-chapel.jpg)
+![](area-churches/calvary-chapel.jpg)
 </center>
 <br>
 First Mennonite Church:
 <center>
-![](images/first-mennonite-church.jpg)
+![](area-churches/first-mennonite-church.jpg)
 </center>
 <br>
 New Jerusalem Church:
 <center>
-![](images/new-jerusalem-church.jpg)
+![](area-churches/new-jerusalem-church.jpg)
 </center>
