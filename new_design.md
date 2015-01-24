@@ -25,6 +25,10 @@
 
 ### New Bulletin
 
+Front Cover
+
+Inside
+
 ### New Multi-Purpose Greeting Card (Example)
 
 Front Cover<br>
