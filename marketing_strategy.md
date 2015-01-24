@@ -10,4 +10,6 @@ Church Marketing is strategic planning for said outreach
 
 ### Church Elevator Statement
 
+![](marketing-strategy/product-tier.png)
+
 http://www.umcom.org/tools/update-your-find-a-church
