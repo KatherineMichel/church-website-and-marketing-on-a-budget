@@ -5,7 +5,6 @@
 * [Upworthy Case Study](upworthy_case_study.md)
 * [Project Management](project_management.md)
 * [Marketing Strategy](marketing_strategy.md)
-* [Web Hosting Primer](web_hosting_primer.md)
 * [Website Options](website_options.md)
 * [Website Requirements](website_requirements.md)
 * [Other Area Churches](other_area_churches.md)
