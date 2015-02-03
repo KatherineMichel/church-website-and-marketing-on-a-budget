@@ -89,7 +89,7 @@ Upworthy Detail: "[The Last Ice Bucket Challenge You Need to See- And You Really
 
 ### The Secret of Upworthy's Success: Website Tactics
 
-The Upworthy site is user tested and optimized to the nth degree, to attract attention, invoke a response, and make sharing easy from website and across the most high traffic sites
+The Upworthy site is user tested and optimized to the nth degree, to attract attention, invoke a response, and make sharing easy from website and across the most high traffic sites. 
 
 [Upworthy Homepage](http://www.upworthy.com): Use of Endless Scrolling
 ![](upworthy/upworthy-homepage.jpg)
@@ -97,8 +97,12 @@ The Upworthy site is user tested and optimized to the nth degree, to attract att
 Upworthy Comprehensive Header Menu
 ![](upworthy/upworthy-menu.jpg)
 
+Upworthy forms are designed to be impossible not to notice "[above the fold](http://en.wikipedia.org/wiki/Above_the_fold)," and across the webpage [hotspots](http://en.wikipedia.org/wiki/Screen_hotspots) and common reading patterns (F Pattern, Z Pattern, and Guttenberg Diagram).
+
 Upworthy Prominent Share Buttons and Newsletter Sign Up Form
 ![](upworthy/upworthy-header-and-newsletter-sign-up.jpg)
+
+Upworthy modals are triggered by the movements of the cursor. For example, if the cursor is moving toward the page tab to click x and close the page, a modal might pop up to re-engage.
 
 Upworthy Modal Tactic: Daily Email
 ![](upworthy/upworthy-daily-email-modal.jpg)
@@ -160,13 +164,13 @@ Upworthy Tumblr [Article](http://upworthy.tumblr.com/post/95396522788/the-last-i
 
 ### The Secret of Upworthy's Success: Repeat Posting
 
-Upworthy Example Article [Repost #1](https://twitter.com/Upworthy/status/509090006003384320)
+Upworthy Ice-Bucket Challenge Article [Repost #1](https://twitter.com/Upworthy/status/509090006003384320)
 ![](upworthy/upworthy-als-ice-bucket-challenge-twitter-repost.jpg)
 
-Upworthy Example Article [Repost #2](https://twitter.com/Upworthy/status/509074407009320960)
+Upworthy EIce-Bucket Challenge Article [Repost #2](https://twitter.com/Upworthy/status/509074407009320960)
 ![](upworthy/upworthy-als-ice-bucket-challenge-twitter-repost-2.jpg)
 
-Upworthy Example Article [Repost #3](https://twitter.com/Upworthy/status/509073117441196032)
+Upworthy Ice-Bucket Challenge Article [Repost #3](https://twitter.com/Upworthy/status/509073117441196032)
 ![](upworthy/upworthy-als-ice-bucket-challenge-twitter-repost-3.jpg)
 
 ### The Secret of Upworthy's Success: Viral
@@ -188,5 +192,5 @@ Jesus grew a social network that consisted of family, friends, and followers, wh
 
 "I look upon all the world as my parish" -John Wesley, founder of Methodism
 
-[John Wesley](http://en.wikipedia.org/wiki/John_Wesley) spread the Methodist religion across the United States by creating a social network of followers who were organized into Class Meetings across geographic territories and ministered to by "[Circuit Riders](http://en.wikipedia.org/wiki/Circuit_rider_(religious))." 
+[John Wesley](http://en.wikipedia.org/wiki/John_Wesley) spread the Methodist religion across the United States by creating a social network of followers who were organized into Class Meetings across geographic territories and ministered to by "[Circuit Riders](http://en.wikipedia.org/wiki/Circuit_rider_(religious)." 
 
