@@ -57,7 +57,7 @@ This is the Google Trends graph for the phrase ["Upworthy" (region: worldwide)](
 
 ![](google-trends/google-trends-upworthy-worldwide.png)
 
-If, like me, you were a regular user of Facebook in the Fall of 2013, it's very likely that like me you came across Upworthy content regularly. [Facebook](https://www.facebook.com/Upworthy) has been Upworthy's main source of traffic. When Facebook changed its algorithms at the end of 2013 (reportedly in response to Upworthy's content becoming disportionately popular in the Facebook news feed), Upworthy's traffic dramatically fell. 
+If, like me, you were a regular user of Facebook in the Fall of 2013, it's very likely that like me you came across Upworthy content regularly. [Facebook](https://www.facebook.com/Upworthy) has been Upworthy's main source of traffic. According to Upworthy, Facebook is the "King" of viral. When Facebook changed its algorithms at the end of 2013 (reportedly in response to Upworthy's content becoming disportionately popular in the Facebook news feed), Upworthy's traffic dramatically fell. 
 
 The success of Upworthy seems to make moot the argument that people are no longer interested in that which is uplifting. The viral competitors that Upworthy far surpassed in growth did not have the same social justice mission as Upworthy. 
 
@@ -91,27 +91,27 @@ Upworthy Detail: "[The Last Ice Bucket Challenge You Need to See- And You Really
 
 The Upworthy site is user tested and optimized to the nth degree, to attract attention, invoke a response, and make sharing easy from website and across the most high traffic sites
 
-[Homepage](http://www.upworthy.com): Use of Endless Scrolling
+[Upworthy Homepage](http://www.upworthy.com): Use of Endless Scrolling
 ![](upworthy/upworthy-homepage.jpg)
 
-Comprehensive Header Menu
+Upworthy Comprehensive Header Menu
 ![](upworthy/upworthy-menu.jpg)
 
-Prominent Share Buttons and Newsletter Sign Up Form
+Upworthy Prominent Share Buttons and Newsletter Sign Up Form
 ![](upworthy/upworthy-header-and-newsletter-sign-up.jpg)
 
-Modal Tactic: Daily Email
+Upworthy Modal Tactic: Daily Email
 ![](upworthy/upworthy-daily-email-modal.jpg)
 
-Modal Tactic: "Ever Seen These?"
+Upworthy Modal Tactic: "Ever Seen These?"
 ![](upworthy/upworthy-ever-seen-these-modal.jpg)
 
-Modal Tactic: "How About One More"
+Upworthy Modal Tactic: "How About One More"
 ![](upworthy/upworthy-how-about-one-more-modal.png)
 
 ### The Secret of Upworthy's Success: Responsive Design 
 
-Upworthy's design adapts well to the device being used, resulting in an even higher popularity score for mobile browsing
+Upworthy's [responsive design](http://en.wikipedia.org/wiki/Responsive_web_design) adapts well to the device being used, resulting in an even higher popularity score for mobile browsing
 
 Upworthy Ranked #79 Most Popular Desktop Site (U.S.) by [Quantcast](https://www.quantcast.com/top-sites)
 ![](upworthy/upworthy-quantcast-desktop-rankings.png)
