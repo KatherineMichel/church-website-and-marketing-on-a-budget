@@ -152,26 +152,26 @@ Upworthy Twitter "[Card](https://www.google.com/search?q=Twitter+%22Card%22&oq=T
 Upworthy Pinterest "Pin"
 ![](upworthy/upworthy-als-ice-bucket-challenge-pinterest.jpg)
 
-Upworthy Pinterest "Pin" Detail
+Upworthy Pinterest ["Pin" Detail](https://www.pinterest.com/pin/478296422899252589)
 ![](upworthy/upworthy-als-ice-bucket-challenge-pinterest-detail.jpg)
 
-Upworthy Tumblr Article
+Upworthy Tumblr [Article](http://upworthy.tumblr.com/post/95396522788/the-last-ice-bucket-challenge-you-need-to-see)
 ![](upworthy/upworthy-als-ice-bucket-challenge-tumblr.jpg)
 
 ### The Secret of Upworthy's Success: Repeat Posting
 
-Upworthy Example Article Repost #1
+Upworthy Example Article [Repost #1](https://twitter.com/Upworthy/status/509090006003384320)
 ![](upworthy/upworthy-als-ice-bucket-challenge-twitter-repost.jpg)
 
-Upworthy Example Article Repost #2
+Upworthy Example Article [Repost #2](https://twitter.com/Upworthy/status/509074407009320960)
 ![](upworthy/upworthy-als-ice-bucket-challenge-twitter-repost-2.jpg)
 
-Upworthy Example Article Repost #3
+Upworthy Example Article [Repost #3](https://twitter.com/Upworthy/status/509073117441196032)
 ![](upworthy/upworthy-als-ice-bucket-challenge-twitter-repost-3.jpg)
 
 ### The Secret of Upworthy's Success: Viral
 
-Upworthy Example Article Trending on Twitter
+Upworthy Example Article [Trending on Twitter](https://twitter.com/search?q=%40upworthy%20Literally%20the%20only%20ALS%20%23IceBucketChallenge%20you%20need%20to%20see&src=typd)
 ![](upworthy/upworthy-als-ice-bucket-challenge-twitter-trends.jpg)
 
 ### The Changing Global Ministry Landscape and What the Church Can Learn from Upworthy
