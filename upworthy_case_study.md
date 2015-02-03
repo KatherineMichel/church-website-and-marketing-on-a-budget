@@ -32,43 +32,47 @@ Here is the Google Trends graph for the phrase ["United Methodist Church" (regio
 
 ### The Competition (Not Who You Might Expect)
 
-Even as search interest in the United Methodist Church declined, in a short period of time during the past few years, a website with something of a mission for social justice called [Upworthy](http://www.upworthy.com) became "[the fastest-growing media site in history](http://www.fastcompany.com/3012649/how-upworthy-used-emotional-data-to-become-the-fastest-growing-media-site-of-all-time)," achieving growth that far surpassed that of its closest viral competitors: Buzzfeed, Huffington Post, and Business Insider. 
+Even as search interest in the United Methodist Church declined, in a short period of time during the past few years, a website with something of a mission for social justice called [Upworthy](http://www.upworthy.com) became "[the fastest-growing media site in history](http://www.fastcompany.com/3012649/how-upworthy-used-emotional-data-to-become-the-fastest-growing-media-site-of-all-time)," achieving growth that far surpassed that of its closest viral competitors: [Buzzfeed](http://www.buzzfeed.com), [Huffington Post](http://www.huffingtonpost.com), and [Business Insider](http://www.businessinsider.com). 
 
 <center>
 ![](upworthy/upworthy-quantcast.png)
 </center>
 Source Upworthy/Quantcast
+<br><br>
 
-Upworthy is not affiliated with any church and as far as I know, does not intend to compete with churches. However, Upworthy became popular in part by bringing directly to the Facebook news feeds of potential church goers, some of the same type of uplifting content that in the past they would have come across in church through church mission. 
+Upworthy is not affiliated with any church and as far as I know, does not intend to compete with churches. However, Upworthy became popular in part by bringing directly to the [Facebook](https://www.facebook.com/Upworthy) news feeds of potential church goers, some of the same type of uplifting content that in the past they would have come across in church through church mission. 
+<br><br>
 
 Upworthy Logo
 ![](upworthy/upworthy-logo.png)
+<br><br>
 
 Upworthy: "Social Media with a Mission"
 <center>
 ![](upworthy/upworthy-is-social-media-with-a-mission.png)
 </center>
 
+<br>
 This is the Google Trends graph for the phrase ["Upworthy" (region: worldwide)](http://www.google.com/trends/explore#q=upworthy), beginning when Upworthy was founded in 2012, until January 2015: 
 
 ![](google-trends/google-trends-upworthy-worldwide.png)
 
-If, like me, you were a regular user of Facebook in the Fall of 2013, it's very likely that like me you came across Upworthy content regularly. Facebook has been Upworthy's main source of traffic. When Facebook changed its algorithms at the end of 2013 (reportedly in response to Upworthy's content becoming disportionately popular in the Facebook news feed), Upworthy's traffic dramatically fell. 
+If, like me, you were a regular user of Facebook in the Fall of 2013, it's very likely that like me you came across Upworthy content regularly. [Facebook](https://www.facebook.com/Upworthy) has been Upworthy's main source of traffic. When Facebook changed its algorithms at the end of 2013 (reportedly in response to Upworthy's content becoming disportionately popular in the Facebook news feed), Upworthy's traffic dramatically fell. 
 
 The success of Upworthy seems to make moot the argument that people are no longer interested in that which is uplifting. The viral competitors that Upworthy far surpassed in growth did not have the same social justice mission as Upworthy. 
 
 ### The Secret of Upworthy's Success
 
-So why were a record number of people attracted to Upworthy content? How did Upworthy achieve this unprecedented growth and in such a short time? Feel free to find out from [Upworthy](http://www.slideshare.net/Upworthy) itself. In a nutshell, Upworthy's content is technically and emotionally optimized to induce sharing. Here is a summary of the Upworthy approach:
+So why were a record number of people attracted to Upworthy content? How did Upworthy achieve this unprecedented growth and in such a short time? Feel free to find out from Upworthy's own [About Us Page](http://www.upworthy.com/about) and [PowerPoint Presentations](http://www.slideshare.net/Upworthy) . In a nutshell, Upworthy's content is technically and emotionally optimized to induce sharing. Here is a summary of the Upworthy approach:
 
 ### The Secret of Upworthy's Success: Repurposed Content
 
-Upworthy staff members comb through "evergreen" content online to identify stories that have the potential to create an emotional response and become viral
+Upworthy staff members comb through online content (often "[evergreen](http://en.wikipedia.org/wiki/Evergreen_(journalism))") to identify stories that have the potential to create an emotional response and become viral
 
-"Ice Bucket Challenge- Uncensored and Sexy?"
+Anthony Carbajal YouTube Post: "Ice Bucket Challenge- Uncensored and Sexy?"
 ![](upworthy/anthony-carbajal-als-ice-bucket-challenge-youtube.jpg)
 
-Anthony Carbajal- YouCaring
+Anthony Carbajal- YouCaring Page
 ![](upworthy/anthony-carbajal-als-ice-bucket-challenge-youcaring.jpg)
 
 The content is repackaged to create an angle, and given an ambiguously dramatic headline that provokes the reader to click (this is sometimes referred to negatively as "click-bait"); Upworthy's rule of thumb is to write 25 headlines for each story, then user test to determine the most popular one
