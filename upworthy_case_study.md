@@ -137,16 +137,16 @@ Upworthy goes to where the most people are:
 
 ### The Secret of Upworthy's Success: Use of Social Graph
 
-Upworthy Facebook Graph "Object"
+Upworthy Facebook [Graph "Object"](https://www.google.com/search?q=upworthy+Facebook+Graph+%22Object%22&oq=upworthy+Facebook+Graph+%22Object%22&aqs=chrome..69i57.1673j0j4&sourceid=chrome&es_sm=0&ie=UTF-8#q=Facebook+Graph+%22Object%22)
 ![](upworthy/upworthy-als-ice-bucket-challenge-facebook-share.jpg)
 
-Upworthy Facebook Graph "Object" Post
+Upworthy Facebook [Graph "Object"](https://www.google.com/search?q=upworthy+Facebook+Graph+%22Object%22&oq=upworthy+Facebook+Graph+%22Object%22&aqs=chrome..69i57.1673j0j4&sourceid=chrome&es_sm=0&ie=UTF-8#q=Facebook+Graph+%22Object%22) Post
 ![](upworthy/upworthy-als-ice-bucket-challenge-facebook-post.jpg)
 
-Upworthy Twitter Share "Intent"
+Upworthy Twitter [Share "Intent"](https://dev.twitter.com/web/intents)
 ![](upworthy/upworthy-als-ice-bucket-challenge-twitter-intent.jpg)
 
-Upworthy Twitter "Card"
+Upworthy Twitter "[Card](https://www.google.com/search?q=Twitter+%22Card%22&oq=Twitter+%22Card%22&aqs=chrome..69i57j0l5.2537j0j4&sourceid=chrome&es_sm=0&ie=UTF-8)"
 ![](upworthy/upworthy-als-ice-bucket-challenge-twitter-detail.jpg)
 
 Upworthy Pinterest "Pin"
