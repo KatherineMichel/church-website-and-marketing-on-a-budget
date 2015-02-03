@@ -167,7 +167,7 @@ Upworthy Tumblr [Article](http://upworthy.tumblr.com/post/95396522788/the-last-i
 Upworthy Ice-Bucket Challenge Article [Repost #1](https://twitter.com/Upworthy/status/509090006003384320)
 ![](upworthy/upworthy-als-ice-bucket-challenge-twitter-repost.jpg)
 
-Upworthy EIce-Bucket Challenge Article [Repost #2](https://twitter.com/Upworthy/status/509074407009320960)
+Upworthy Ice-Bucket Challenge Article [Repost #2](https://twitter.com/Upworthy/status/509074407009320960)
 ![](upworthy/upworthy-als-ice-bucket-challenge-twitter-repost-2.jpg)
 
 Upworthy Ice-Bucket Challenge Article [Repost #3](https://twitter.com/Upworthy/status/509073117441196032)
