@@ -67,27 +67,31 @@ So why were a record number of people attracted to Upworthy content? How did Upw
 
 ### The Secret of Upworthy's Success: Repurposed Content
 
-Upworthy staff members comb through online content (often "[evergreen](http://en.wikipedia.org/wiki/Evergreen_(journalism))") to identify stories that have the potential to create an emotional response and become viral
+Upworthy staff members comb through online content (often "[evergreen](http://en.wikipedia.org/wiki/Evergreen_(journalism))") to identify stories that have the potential to become viral
 
-Anthony Carbajal YouTube Post: "Ice Bucket Challenge- Uncensored and Sexy?"
+A recent example is the story of Anthony Carbajal. 
+
+Anthony, a former [photographer](http://anthonycarbajal.com/about-me) who had been recently diagnosed with ALS and has a family history of ALS (he currently cares for his mother, who has ALS), posted an emotional [Ice-Bucket Challenge](http://en.wikipedia.org/wiki/Ice_Bucket_Challenge) video telling his story in his own words. 
+
+Anthony Carbajal YouTube Post: "[Ice Bucket Challenge- Uncensored and Sexy?](https://www.youtube.com/watch?v=h07OT8p8Oik)" 
 ![](upworthy/anthony-carbajal-als-ice-bucket-challenge-youtube.jpg)
 
-Anthony Carbajal- YouCaring Page
+Anthony Carbajal- [YouCaring Page](http://www.youcaring.com/medical-fundraiser/for-anthony-with-love/133001)
 ![](upworthy/anthony-carbajal-als-ice-bucket-challenge-youcaring.jpg)
 
-The content is repackaged to create an angle, and given an ambiguously dramatic headline that provokes the reader to click (this is sometimes referred to negatively as "click-bait"); Upworthy's rule of thumb is to write 25 headlines for each story, then user test to determine the most popular one
+The content was repackaged and given an ambiguously dramatic headline intended to provoke the reader to click (this is sometimes referred to as "[click-bait](http://en.wikipedia.org/wiki/Clickbait)"); Upworthy's rule of thumb is to write 25 headlines for each story, then user test to determine the most popular one
 
 Upworthy Homepage: "The Last Ice Bucket Challenge You Need to See- And You Really Should See It"
 ![](upworthy/upworthy-als-ice-bucket-challenge-homepage-view-2.jpg)
 
-Upworthy Detail: "The Last Ice Bucket Challenge You Need to See- And You Really Should See It"
+Upworthy Detail: "[The Last Ice Bucket Challenge You Need to See- And You Really Should See It](http://www.upworthy.com/the-last-ice-bucket-challenge-you-need-to-see-and-you-really-should-see-it)"
 ![](upworthy/upworthy-als-ice-bucket-challenge-detail.jpg)
 
 ### The Secret of Upworthy's Success: Website Tactics
 
 The Upworthy site is user tested and optimized to the nth degree, to attract attention, invoke a response, and make sharing easy from website and across the most high traffic sites
 
-Homepage: Use of Endless Scrolling
+[Homepage](http://www.upworthy.com): Use of Endless Scrolling
 ![](upworthy/upworthy-homepage.jpg)
 
 Comprehensive Header Menu
@@ -109,26 +113,26 @@ Modal Tactic: "How About One More"
 
 Upworthy's design adapts well to the device being used, resulting in an even higher popularity score for mobile browsing
 
-Upworthy Ranked #79 Most Popular Desktop Site (U.S.) 
+Upworthy Ranked #79 Most Popular Desktop Site (U.S.) by [Quantcast](https://www.quantcast.com/top-sites)
 ![](upworthy/upworthy-quantcast-desktop-rankings.png)
 
-Upworthy Ranked #32 Most Popular Mobile Responsive Site (U.S.)
+Upworthy Ranked #32 Most Popular Mobile Responsive Site (U.S.) by [Quantcast](https://www.quantcast.com/top-mobile-sites)
 ![](upworthy/upworthy-quantcast-mobile-rankings.png)
 
 ### The Secret of Upworthy's Success: High Traffic Social Media Profiles
 
-Upworthy goes to where the most people are
+Upworthy goes to where the most people are:
 
-Upworthy Facebook Page
+[Upworthy Facebook Page](https://www.facebook.com/Upworthy)
 ![](upworthy/upworthy-facebook-page.jpg)
 
-Upworthy Twitter Profile
+[Upworthy Twitter Profile](https://twitter.com/upworthy)
 ![](upworthy/upworthy-twitter-profile.jpg)
 
-Upworthy Pinterest Profile
+[Upworthy Pinterest Profile](https://www.pinterest.com/upworthy)
 ![](upworthy/upworthy-pinterest-profile.jpg)
 
-Upworthy YouTube Page
+[Upworthy YouTube Page](https://www.youtube.com/user/upworthy)
 ![](upworthy/upworthy-youtube-profile.png)
 
 ### The Secret of Upworthy's Success: Use of Social Graph
