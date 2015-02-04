@@ -3,7 +3,7 @@
 ### Heaven or Hell Chart
 
 Placeholder
-![](marketing-strategy/heaven-or-hell-chart.jpg)
+![](marketing-strategy/marketing-strategy-heaven-or-hell-chart.jpg)
 
 ### Church Communication Definition
 
@@ -16,19 +16,19 @@ Church Marketing is strategic planning for said outreach
 ### Church Elevator Statement
 
 Product Tier
-![](marketing-strategy/product-tier.png)
+![](marketing-strategy/marketing-strategy-product-tier.png)
 
 ### Telephone Book
 
-![](marketing-strategy/marketing-strategy-telephone-book.jpeg)
+![](marketing-strategy/marketing-strategy-telephone-book.jpg)
 
 ### Outreach Calendar
 
-![](marketing-strategy/marketing-strategy-outreach-calendar.jpeg)
+![](marketing-strategy/marketing-strategy-outreach-calendar.jpg)
 
-[Goals and Measurable Objectives Chart Example 1](marketing-strategy/goals-measurable-objectives-chart-example-1.png)
+[Goals and Measurable Objectives Chart Example 1](marketing-strategy/marketing-strategy-goals-measurable-objectives-chart-example-1.png)
 
-[Goals and Measurable Objectives Chart Example 2](marketing-strategy/goals-measurable-objectives-chart-example-2.png)
+[Goals and Measurable Objectives Chart Example 2](marketing-strategy/marketing-strategy-goals-measurable-objectives-chart-example-2.png)
 
 ### Skills Inventory
 
