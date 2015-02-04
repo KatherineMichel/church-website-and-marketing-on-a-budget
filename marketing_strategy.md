@@ -20,11 +20,11 @@ Product Tier
 
 ### Telephone Book
 
-![](marketing-strategy/marketing-strategy-telephone-book.jpg)
+![](marketing-strategy/marketing-strategy-telephone-book.JPG)
 
 ### Outreach Calendar
 
-![](marketing-strategy/marketing-strategy-outreach-calendar.jpg)
+![](marketing-strategy/marketing-strategy-outreach-calendar.JPG)
 
 [Goals and Measurable Objectives Chart Example 1](marketing-strategy/marketing-strategy-goals-measurable-objectives-chart-example-1.png)
 
