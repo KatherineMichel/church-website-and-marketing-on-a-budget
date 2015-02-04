@@ -18,6 +18,14 @@ Church Marketing is strategic planning for said outreach
 Product Tier
 ![](marketing-strategy/product-tier.png)
 
+### Telephone Book
+
+![](marketing-strategy/marketing-strategy-telephone-book.jpg)
+
+### Outreach Calendar
+
+![](marketing-strategy/marketing-strategy-outreach-calendar.jpeg)
+
 [Goals and Measurable Objectives Chart Example 1](marketing-strategy/goals-measurable-objectives-chart-example-1.png)
 
 [Goals and Measurable Objectives Chart Example 2](marketing-strategy/goals-measurable-objectives-chart-example-2.png)
