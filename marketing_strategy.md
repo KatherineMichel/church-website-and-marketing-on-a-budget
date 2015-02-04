@@ -20,7 +20,7 @@ Product Tier
 
 ### Telephone Book
 
-![](marketing-strategy/marketing-strategy-telephone-book.jpg)
+![](marketing-strategy/marketing-strategy-telephone-book.jpeg)
 
 ### Outreach Calendar
 
