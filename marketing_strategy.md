@@ -34,6 +34,10 @@ Product Tier
 
 ### Growth Hacking
 
+### Google
+
 SEO
+
+### Find-a-Church
 
 http://www.umcom.org/tools/update-your-find-a-church
