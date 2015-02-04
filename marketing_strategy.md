@@ -1,5 +1,10 @@
 # Marketing Strategy
 
+### Heaven or Hell Chart
+
+Placeholder
+![](marketing-strategy/heaven-or-hell-chart.jpg)
+
 ### Church Communication Definition
 
 Church Communication is church outreach to church members and other potentially interested parties
