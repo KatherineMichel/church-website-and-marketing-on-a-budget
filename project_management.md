@@ -17,6 +17,21 @@ Free analytics
 Low-cost Web Hosts
 Ads
 
+### Soft Systems Rich Picture
+
+Placeholder
+![](project-management/project-management-soft-systems-rich-picture.jpg)
+
+### Critical Path
+
+Placeholder
+![](project-management/project-management-critical-path.jpg)
+
+### PERT
+
+Placeholder
+![](project-management/project-management-pert.jpg)
+
 ### Standards Resources
 
 [United Methodist Communications: Market Your Church](http://www.umcom.org/learn/market-your-church-getting-started)
