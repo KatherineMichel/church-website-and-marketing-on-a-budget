@@ -17,6 +17,8 @@ Product Tier
 
 [Goals and Measurable Objectives Chart Example 2](marketing-strategy/goals-measurable-objectives-chart-example-2.png)
 
+### Skills Inventory
+
 ### Growth Hacking
 
 SEO
