@@ -14,17 +14,6 @@ Order of priority given to web hosting options:
 
 ![](web-hosting-options/web-hosting-options-matrix-page-2.png)
 </center>
-### Ezekiel 
-
-Ezekiel was initially attractive due to:
-* Price ([One time set up fee of $18 + $11/month](http://www.umc.e-zekiel.com/comparison))
-* Vast number of [templates](http://www.umc.e-zekiel.com/templates/viewDesigns.asp?)
-* Potential for a full-website look (rather than a blog-like appearance)
-
-Pretty Prairie United Methodist Church Ezekiel Home Page Mock Up
-![](web-hosting-options/ezekiel-allegiant-theme-desktop-mockup.jpg)
-
-Final Verdict: I quickly ruled Ezekiel out because I felt its content management system was not intuitive enough to suit the needs of the church.
 
 ### United Methodist Church Web Hosting
 
@@ -42,4 +31,20 @@ Pretty Prairie UMC Stained Glass Window Mockup
 Sunflowers Mockup
 ![](web-hosting-options/catching-everest-sunflowers-theme-desktop-mockup-white.jpg)
 
+Final Verdict: 
 
+### Ezekiel 
+
+Ezekiel was initially attractive due to:
+* Price ([One time set up fee of $18 + $11/month](http://www.umc.e-zekiel.com/comparison))
+* Vast number of [templates](http://www.umc.e-zekiel.com/templates/viewDesigns.asp?)
+* Potential for a full-website look (rather than a blog-like appearance)
+
+Pretty Prairie United Methodist Church Ezekiel Home Page Mock Up
+![](web-hosting-options/ezekiel-allegiant-theme-desktop-mockup.jpg)
+
+Final Verdict: I quickly ruled Ezekiel out because I felt its content management system was not intuitive enough to suit the needs of the church. Ezekiel was also a little bit more expensive than the option that I chose. 
+
+### Squarespace
+
+Final Verdict: Squarespace is the web host that I chose for the church. I felt that Squarespace offers the best value for money. Squarespace is in the middle pricewise, but still very reasonably priced. The beautiful, modern templates would ensure a unique look, and the intuitive content management system could potentially be used by non-techies and occasional volunteers in order to keep the content relevant.    
