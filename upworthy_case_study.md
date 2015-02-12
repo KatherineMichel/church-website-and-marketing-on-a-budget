@@ -184,7 +184,7 @@ The church should not aspire to be like Upworthy. However, there is a market for
 
 ### Jesus and John Wesley, Social Pioneers
 
-Perhaps the United Methodist Church need look no further than Jesus and John Wesley for inspiration. 
+Perhaps the United Methodist Church need look no further than [social network](http://en.wikipedia.org/wiki/Social_network) pioneers Jesus and John Wesley for [network effect](http://en.wikipedia.org/wiki/Network_effect) inspiration. 
 
 "After this the Lord appointed seventy-two others and sent them two by two ahead of him to every town and place where he was about to go." Luke 10, NIV
 
