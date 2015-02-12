@@ -2,8 +2,8 @@
 
 * [GitHub README](README.md)
 * [Executive Summary](executive_summary.md)
-* [Upworthy Case Study](upworthy_case_study.md)
 * [Project Management](project_management.md)
+* [Upworthy Case Study](upworthy_case_study.md)
 * [Web Development Primer](web_development_primer.md)
 * [Design Sprint](design_sprint.md)
 * Church Re-Imagined
