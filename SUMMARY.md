@@ -8,8 +8,8 @@
 * [Design Sprint](design_sprint.md)
 * Church Re-Imagined
 * [Marketing Strategy](marketing_strategy.md)
-* [Website Options](website_options.md)
 * [Other Area Churches](other_area_churches.md)
+* [Website Options](website_options.md)
 * [Church Image Rebrand](church_image_rebrand.md)
 * [Old Design](old_design.md)
 * [New Design :) ](new_design.md)
