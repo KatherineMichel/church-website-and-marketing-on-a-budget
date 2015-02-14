@@ -47,6 +47,14 @@ Product Tier
 
 ![Goals and Measurable Objectives Chart Example 2](marketing-strategy/marketing-strategy-goals-measurable-objectives-chart-example-2.png)
 
+### Skills Inventory
+
+### Growth Hacking/Maximizing Social Media Reach
+
+SEO and other options, Facebook 
+Updating Find-a-Church
+http://www.umcom.org/tools/update-your-find-a-church
+
 ### Church Communication Definition
 
 Church Communication is church outreach to church members and other potentially interested parties
@@ -54,14 +62,3 @@ Church Communication is church outreach to church members and other potentially 
 ### Church Marketing Definition
 
 Church Marketing is strategic planning for said outreach
-
-### Skills Inventory
-
-### Growth Hacking
-
-### Google
-
-SEO
-
-### Find-a-Church
-http://www.umcom.org/tools/update-your-find-a-church
