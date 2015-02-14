@@ -1,19 +1,11 @@
 # Church Image Rebrand
 
-[United Methodist Church Brand Guidelines](http://www.umcom.org/tools/brand-guidelines)
-
-[United Methodist Church Brand Manual](http://s3.amazonaws.com/Website_Properties_UGC/tools/documents/brand_manual_12-01.pdf)
-
 Like the Pretty Prairie United Methodist Church itself, the new church theme will beautifully blend the traditional and the conventional by incorporating:
-* The black version of the traditional [United Methodist cross and flame](http://www.umc.org/resources/cross-and-flame)
-* A contemporary sunflower motif
-
-# Graphic and Logo Sources
-
-United Methodist Church Official Black Cross and Flame
+* United Methodist Church [Official Black Cross and Flame](http://www.umc.org/resources/cross-and-flame)
 <center>
 ![](new-brand/umc-logo-cross-and-flame-b-w-1058x1818.png)
 </center><br>
+* A contemporary sunflower motif
 
 Original, license-free, Morgue File Photo
 ![](new-brand/sunflowers-morgue-file-original.jpg)
@@ -35,3 +27,7 @@ Yellow is a "warm" color, reminiscent of the sun. The sunflower symbolizes warm 
 The number of church outreach materials will be streamlined, with a common brand experience incorporated into them all. For example, instead of twelve inconsistently designed post cards, one beautiful postcard template will be created, then altered to suit the purpose at hand. 
 
 Templates in both color and black-and-white will be created to address the impracticality of printing color copies versus sending electronically.
+
+[United Methodist Church Brand Guidelines](http://www.umcom.org/tools/brand-guidelines)
+
+[United Methodist Church Brand Manual](http://s3.amazonaws.com/Website_Properties_UGC/tools/documents/brand_manual_12-01.pdf)
