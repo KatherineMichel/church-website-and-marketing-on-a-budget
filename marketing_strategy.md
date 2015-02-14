@@ -53,6 +53,8 @@ Product Tier
 
 Google is the most popular search engine in most countries. SEO is an important aspect of ensuring that people 'discover' your website
 
+Also, consider creating a Google+ organization page, and/or Google rich snippet for support
+
 ### Updating Find-a-Church
 
 http://www.umcom.org/tools/update-your-find-a-church
