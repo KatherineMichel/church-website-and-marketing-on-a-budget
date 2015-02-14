@@ -5,10 +5,6 @@
 Where is the Church Headed?
 ![](marketing-strategy/marketing-strategy-heaven-or-hell-chart.jpg)
 
-### Church Mission Statement
-
-The church's Mission Statement: 
-
 ### Demographic Info
 
 Through the national United Methodist Church, I obtained the most recent Nielson Company demographic info for the city of Pretty Prairie, Kansas. 
