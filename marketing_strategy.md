@@ -26,7 +26,6 @@ Pretty Prairie [Area Map](https://drive.google.com/file/d/0B02bpu7HZwJRaVp5dGNMO
 ### Outreach Calendar
 
 The church purchased a 2015 wall calendar. The calendar would be hung on a hook on the wall in a high traffic area of the church where it would not be forgotten. A pencil would be nearby so that the calendar could be easily updated. The calendar could be removed from the wall and taken to meetings too.  
-
 ![](marketing-strategy/marketing-strategy-outreach-calendar.JPG)
 
 ### Marketing Plan
