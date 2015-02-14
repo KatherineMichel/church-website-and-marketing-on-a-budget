@@ -19,6 +19,10 @@ Pretty Prairie [Area Map](https://drive.google.com/file/d/0B02bpu7HZwJRaVp5dGNMO
 
 [Population by Age and Race Trend 2014](https://drive.google.com/file/d/0B02bpu7HZwJRelJTXzd1XzVWUE0/view?usp=sharing)
 
+### Church Mission Statement
+
+It's a good time to consider the church's mission statement: 
+
 ### Outreach Calendar
 
 The church purchased a 2015 wall calendar. The calendar would be hung on a hook on the wall in a high traffic area of the church where it would not be forgotten. A pencil would be nearby so that the calendar could be easily updated. The calendar could be removed from the wall and taken to meetings too.  
@@ -36,14 +40,9 @@ Setting aside pre-existing assumptions, members of the church would go through t
 
 ![](marketing-strategy/marketing-strategy-telephone-book.JPG)
 
-Product Tier
-![](marketing-strategy/marketing-strategy-product-tier.png)
-
-![Goals and Measurable Objectives Chart Example 1](marketing-strategy/marketing-strategy-goals-measurable-objectives-chart-example-1.png)
-
-![Goals and Measurable Objectives Chart Example 2](marketing-strategy/marketing-strategy-goals-measurable-objectives-chart-example-2.png)
-
 ### Skills Inventory
+
+Members of the church would take stock of the skills of individual members. 
 
 ### SEO (Search Engine Optimization) 
 
@@ -58,6 +57,12 @@ http://www.umcom.org/tools/update-your-find-a-church
 ### Online Advertising
 
 Facebook is the 'king' of social traffic
+
+### Goals and Measurable Objectives Chart
+
+![Goals and Measurable Objectives Chart Example 1](marketing-strategy/marketing-strategy-goals-measurable-objectives-chart-example-1.png)
+
+![Goals and Measurable Objectives Chart Example 2](marketing-strategy/marketing-strategy-goals-measurable-objectives-chart-example-2.png)
 
 ### Church Communication Definition
 
