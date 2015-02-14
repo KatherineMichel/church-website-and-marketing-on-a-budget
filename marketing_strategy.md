@@ -49,11 +49,17 @@ Product Tier
 
 ### Skills Inventory
 
-### Growth Hacking/Maximizing Social Media Reach
+### SEO (Search Engine Optimization) 
 
-SEO and other options, Facebook 
-Updating Find-a-Church
+Google is the most popular search engine in most countries. SEO is an important aspect of ensuring that people 'discover' your website
+
+### Updating Find-a-Church
+
 http://www.umcom.org/tools/update-your-find-a-church
+
+### Online Advertising
+
+Facebook is the 'king' of social traffic
 
 ### Church Communication Definition
 
