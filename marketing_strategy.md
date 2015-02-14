@@ -7,7 +7,7 @@ Where is the Church Headed?
 
 ### Church Mission Statement
 
-The church already had a mission statement: 
+The church's Mission Statement: 
 
 ### Demographic Info
 
