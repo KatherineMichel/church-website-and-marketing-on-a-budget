@@ -33,14 +33,16 @@ The church purchased a 2015 wall calendar. The calendar would be hung on a hook 
 
 Members of the NOW (Nurture, Outreach, Witness) Committee, which handles community outreach for the church, would begin to collaborate on a new church Marketing Plan. 
 
-Product Tier
-![](marketing-strategy/marketing-strategy-product-tier.png)
+### Contacting Inactive Members
 
 ### Telephone Book
 
-Setting aside pre-existing assumptions, 
+Setting aside pre-existing assumptions, members of the church would go through the Pretty Prairie section of the phone book to identify people for outreach. 
 
 ![](marketing-strategy/marketing-strategy-telephone-book.JPG)
+
+Product Tier
+![](marketing-strategy/marketing-strategy-product-tier.png)
 
 ![Goals and Measurable Objectives Chart Example 1](marketing-strategy/marketing-strategy-goals-measurable-objectives-chart-example-1.png)
 
