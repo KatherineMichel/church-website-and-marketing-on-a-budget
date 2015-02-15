@@ -14,16 +14,11 @@ Pretty Prairie [Area Map](https://drive.google.com/file/d/0B02bpu7HZwJRaVp5dGNMO
 
 [Population by Age and Race Trend 2014](https://drive.google.com/file/d/0B02bpu7HZwJRelJTXzd1XzVWUE0/view?usp=sharing)
 
-### Outreach Calendar
-
-The church purchased a 2015 wall calendar. The calendar would be hung on a hook on the wall in a high traffic area of the church where it would not be forgotten. A pencil would be nearby so that the calendar could be easily updated. The calendar could be removed from the wall and taken to meetings too.  
-![](marketing-strategy/marketing-strategy-outreach-calendar.JPG)
-
 ### Marketing Plan
 
 Members of the NOW (Nurture, Outreach, Witness) Committee, which handles community outreach for the church, would begin to collaborate on a new church Marketing Plan. 
 
-From United Methodist Marketing Plan Implementation Step
+From United Methodist Marketing Plan Implementation Step Tactics
 
 Tactics Less than $300
 ![](marketing-strategy/tactics-less-than-$300.png)
@@ -33,6 +28,23 @@ Tactics from $300 to $1000
 
 Tactics over $1000
 ![](marketing-strategy/tactics-over-$1000.png)
+
+### Cutting Edge Options
+
+Online Advertising: 
+
+Facebook is the 'king' of social traffic. 
+
+SEO (Search Engine Optimization):
+
+Google is the most popular search engine in most countries. SEO is an important aspect of ensuring that people 'discover' your website
+
+Also, consider creating a Google+ organization page, and/or Google rich snippet for support
+
+### Outreach Calendar
+
+The church purchased a 2015 wall calendar. The calendar would be hung on a hook on the wall in a high traffic area of the church where it would not be forgotten. A pencil would be nearby so that the calendar could be easily updated. The calendar could be removed from the wall and taken to meetings too.  
+![](marketing-strategy/marketing-strategy-outreach-calendar.JPG)
 
 ### Contacting Inactive Members
 
@@ -46,19 +58,9 @@ Setting aside pre-existing assumptions, members of the church would go through t
 
 Members of the church would take stock of the skills of individual members. 
 
-### SEO (Search Engine Optimization) 
-
-Google is the most popular search engine in most countries. SEO is an important aspect of ensuring that people 'discover' your website
-
-Also, consider creating a Google+ organization page, and/or Google rich snippet for support
-
 ### Updating Find-a-Church
 
 http://www.umcom.org/tools/update-your-find-a-church
-
-### Online Advertising
-
-Facebook is the 'king' of social traffic
 
 ### Goals and Measurable Objectives Chart
 
