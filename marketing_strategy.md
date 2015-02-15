@@ -48,6 +48,8 @@ The church purchased a 2015 wall calendar. The calendar would be hung on a hook 
 
 ### Contacting Inactive Members
 
+A good starting point for Outreach would be for the church to contact church-goers of the past who are now inactive, and invite them back. 
+
 ### Telephone Book
 
 Setting aside pre-existing assumptions, members of the church would go through the Pretty Prairie section of the phone book to identify people for outreach. 
@@ -56,7 +58,7 @@ Setting aside pre-existing assumptions, members of the church would go through t
 
 ### Skills Inventory
 
-Members of the church would take stock of the skills of individual members. 
+Members of the church would take stock of the skills of individual members. This skills inventory would be used to identify ways to optimize what the church has to offer the community. 
 
 ### Updating Find-a-Church
 
