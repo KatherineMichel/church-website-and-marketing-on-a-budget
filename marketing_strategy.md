@@ -1,8 +1,7 @@
 # Marketing Strategy
 
-### Heaven and Hell Chart
+### Heaven and Hell
 
-Where is the Church Headed?
 ![](marketing-strategy/marketing-strategy-heaven-or-hell-chart.jpg)
 
 ### Demographic Info
