@@ -1,9 +1,5 @@
 # Marketing Strategy
 
-### Heaven and Hell
-
-![](marketing-strategy/marketing-strategy-heaven-or-hell-chart.jpg)
-
 ### Demographic Info
 
 Through the national United Methodist Church, I obtained the most recent Nielson Company demographic info for the city of Pretty Prairie, Kansas. 
@@ -28,6 +24,15 @@ The church purchased a 2015 wall calendar. The calendar would be hung on a hook 
 Members of the NOW (Nurture, Outreach, Witness) Committee, which handles community outreach for the church, would begin to collaborate on a new church Marketing Plan. 
 
 From United Methodist Marketing Plan Implementation Step
+
+Tactics Less than $300
+![](marketing-strategy/tactics-less-than-$300.png)
+
+Tactics from $300 to $1000
+![](marketing-strategy/tactics-$300-$1000.png)
+
+Tactics over $1000
+![](marketing-strategy/tactics-over-$1000.png)
 
 ### Contacting Inactive Members
 
