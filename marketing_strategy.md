@@ -1,8 +1,7 @@
 # Marketing Strategy
 
-### Heaven and Hell Chart
+### Heaven and Hell
 
-Where is the Church Headed?
 ![](marketing-strategy/marketing-strategy-heaven-or-hell-chart.jpg)
 
 ### Demographic Info
@@ -19,10 +18,6 @@ Pretty Prairie [Area Map](https://drive.google.com/file/d/0B02bpu7HZwJRaVp5dGNMO
 
 [Population by Age and Race Trend 2014](https://drive.google.com/file/d/0B02bpu7HZwJRelJTXzd1XzVWUE0/view?usp=sharing)
 
-### Church Mission Statement
-
-It's a good time to consider the church's mission statement: 
-
 ### Outreach Calendar
 
 The church purchased a 2015 wall calendar. The calendar would be hung on a hook on the wall in a high traffic area of the church where it would not be forgotten. A pencil would be nearby so that the calendar could be easily updated. The calendar could be removed from the wall and taken to meetings too.  
@@ -31,6 +26,8 @@ The church purchased a 2015 wall calendar. The calendar would be hung on a hook 
 ### Marketing Plan
 
 Members of the NOW (Nurture, Outreach, Witness) Committee, which handles community outreach for the church, would begin to collaborate on a new church Marketing Plan. 
+
+From United Methodist Marketing Plan Implementation Step
 
 ### Contacting Inactive Members
 
@@ -63,6 +60,10 @@ Facebook is the 'king' of social traffic
 ![Goals and Measurable Objectives Chart Example 1](marketing-strategy/marketing-strategy-goals-measurable-objectives-chart-example-1.png)
 
 ![Goals and Measurable Objectives Chart Example 2](marketing-strategy/marketing-strategy-goals-measurable-objectives-chart-example-2.png)
+
+### Church Mission Statement
+
+It's a good time to consider the church's mission statement: 
 
 ### Church Communication Definition
 
