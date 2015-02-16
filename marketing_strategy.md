@@ -29,9 +29,11 @@ Tactics from $300 to $1000
 Tactics over $1000
 ![](marketing-strategy/tactics-over-$1000.png)
 
-### Online Advertising
+### Facebook Advertising
 
-Facebook is the 'king' of social traffic. 
+Facebook is the 'king' of social traffic, with other networks such as Twitter, Instagram and Pinterest close behind. 
+
+Twitter actually has a Media Playbook devoted to Faith. 
 
 Facebook Page Advertisement Preview
 ![](marketing-strategy/facebook-page-advertisement-preview.png)
