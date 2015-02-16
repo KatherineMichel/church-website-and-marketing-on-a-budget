@@ -33,7 +33,16 @@ Tactics over $1000
 
 Facebook is the 'king' of social traffic, with other networks such as Twitter, Instagram and Pinterest close behind. 
 
-Twitter actually has a Media Playbook devoted to Faith. 
+Twitter has a Media Playbook devoted to Faith and religious ads can be occasionally found on Twitter. 
+
+Twitter for Faith Playbook
+![](marketing-strategy/twitter-for-faith-playbook.png)
+
+Example Religious Ad on Twitter
+
+![](marketing-strategy/twitter-religious-advertisement.png)
+
+However, based on an informal poll, members of the church and surrounding community are much more likely to be on Facebook than Twitter. So, we would first consider the option of advertising the church's Facebook page to people located within Pretty Prairie and its surrounding area.  
 
 Facebook Page Advertisement Preview
 ![](marketing-strategy/facebook-page-advertisement-preview.png)
@@ -52,31 +61,21 @@ Or 1 km...
 
 ### SEO (Search Engine Optimization):
 
-SEO is an important aspect of ensuring that people 'discover' your website. Identify the SEO functionality of your website and verify that it is enabled and optimized. 
+SEO is an important aspect of ensuring that people 'discover' your website. Identify the SEO functionality of your website and verify that it is enabled and optimized. Search engines will 'crawl' the content of your website and give your site a page ranking. 
 
 Website SEO
 
 ![](marketing-strategy/website-seo.jpg)
 
-Google is the most popular search engine in most countries. Identify the most important search phrases associated with your website and test the search results. 
+Google is the most popular search engine in most countries, often followed by Yahoo. Identify the most important search phrases associated with your website and test the search results. Make sure that cookies are not enabled. Otherwise, your search results might be skewed due to the search history of the computer. 
 
-Example Google Search: "Pretty Prairie"
-![](marketing-strategy/google-search-pretty-prairie.jpg)
-
-Example Google Search: "Pretty Prairie United..."
+Example Google Search: "Pretty Prairie United Methodist"
 ![](marketing-strategy/google-search-pretty-prairie-united.jpg)
-
-Make sure that cookies are not enabled. Otherwise, your search results might be skewed due to the search history of the computer. 
 
 Example Google Search Result: "Pretty Prairie United Methodist"
 ![](marketing-strategy/google-search-pretty-prairie-united-methodist.jpg)
 
-Verify that the Google map info for the church is correct. 
-
-Incorrect Google Map Info
-![](marketing-strategy/google-pretty-prairie-united-methodist-church-incorrect-info.png)
-
-If possible, link the website to the map. Consider creating a Google+ organization page, and/or Google rich snippet for support
+Verify that the Google map info for the church is correct. If possible, link the website to the map. Consider creating a Google+ organization page, and/or Google rich snippet for support
 
 Correcting Incorrect Google Map Info
 ![](marketing-strategy/google-pretty-prairie-united-methodist-church-report-a-problem.png)
