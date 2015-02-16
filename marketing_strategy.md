@@ -73,22 +73,23 @@ Correcting Incorrect Google Map Info
 
 And most important of all, encourage church members to use the website! The search ranking of the website will rise naturally as a result.
 
-### Google AdWords
+### Google Adwords
+
+Google Adwords Pretty Prairie "Limited Reach"
+![](marketing-strategy/google-adwords-pretty-prairie.png)
+
+Google Adwords Pretty Prairie Targeting
+![](marketing-strategy/google-adwords-pretty-prairie-targeting.png)
 
 ### Facebook Advertising
 
 Facebook is the 'king' of social traffic, with other networks such as Twitter, Instagram and Pinterest close behind. 
 
-Twitter has a Media Playbook devoted to Faith and religious ads can be occasionally found on Twitter. 
+Based on feedback, members of the church and surrounding community are most likely to be on Facebook. So, we would first consider the option of advertising the church via Facebook. This could be done for free through Facebook sharing
 
-Twitter for Faith Playbook
-![](marketing-strategy/twitter-for-faith-playbook.png)
+This could also be done by paying to advertise the church's Facebook page to people located within Pretty Prairie and its surrounding area, using Facebook's "Local Awareness" ad option.
 
-Example Religious Ad on Twitter
-
-![](marketing-strategy/twitter-religious-advertisement.png)
-
-However, based on an informal poll, members of the church and surrounding community are much more likely to be on Facebook than Twitter. So, we would first consider the option of advertising the church via Facebook. This could be done for free through Facebook sharing, or by paying to advertise the church's Facebook page to people located within Pretty Prairie and its surrounding area, using Facebook's "Local Awareness" ad option. Notably, this may reach a different demographic segment than other forms of advertisement. 
+Notably, this may reach a different demographic segment than other forms of advertisement. 
 
 The Facebook advertisement program defaults to $50 spend for 1 week, advertising to both genders, ages 18 to 65.
 
@@ -106,6 +107,17 @@ Down to 3 km ...
 Or 1 km...
 
 ![](marketing-strategy/facebook-page-advertisement-reach-1km.png)
+
+### Twitter Advertising
+
+Twitter has a Media Playbook devoted to Faith and religious ads can be occasionally found on Twitter. 
+
+Twitter for Faith Playbook
+![](marketing-strategy/twitter-for-faith-playbook.png)
+
+Example Religious Ad on Twitter
+
+![](marketing-strategy/twitter-religious-advertisement.png)
 
 ### Outreach Calendar
 
