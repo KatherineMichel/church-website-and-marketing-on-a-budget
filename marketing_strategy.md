@@ -52,7 +52,15 @@ Or 1 km...
 
 SEO is an important aspect of ensuring that people 'discover' your website. Identify the SEO functionality of your website and verify that it is enabled and optimized. 
 
-Google is the most popular search engine in most countries. Identify the most important search phrases associated with your website and test the search results. Make sure that cookies are not enabled. Otherwise, your search results might be skewed due to the search history of the computer. 
+Google is the most popular search engine in most countries. Identify the most important search phrases associated with your website and test the search results. 
+
+Example Google Search: "Pretty Prairie"
+![](marketing-strategy/google-search-pretty-prairie.jpg)
+
+Example Google Search: "Pretty Prairie United..."
+![](marketing-strategy/google-search-pretty-prairie-united.jpg)
+
+Make sure that cookies are not enabled. Otherwise, your search results might be skewed due to the search history of the computer. 
 
 Verify that the Google map info for the church is correct, and if possible, link the website to the map. Consider creating a Google+ organization page, and/or Google rich snippet for support
 
