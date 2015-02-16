@@ -105,8 +105,12 @@ Members of the church would take stock of the skills of individual members. This
 
 ### Last But Not Least
 
-Updating Find-a-Church
-http://www.umcom.org/tools/update-your-find-a-church
+All of the traditional methods of advertisement should continue to be updated on an ongoing basis, including the new website info:
+
+* Local Newspaper
+* Bulletin
+* Email Signature
+* Find-a-Church
 
 ### Goals and Measurable Objectives Chart
 
