@@ -42,7 +42,9 @@ Example Religious Ad on Twitter
 
 ![](marketing-strategy/twitter-religious-advertisement.png)
 
-However, based on an informal poll, members of the church and surrounding community are much more likely to be on Facebook than Twitter. So, we would first consider the option of advertising the church's Facebook page to people located within Pretty Prairie and its surrounding area.  
+However, based on an informal poll, members of the church and surrounding community are much more likely to be on Facebook than Twitter. So, we would first consider the option of advertising the church via Facebook. This could be done for free through Facebook sharing, or by paying to advertise the church's Facebook page to people located within Pretty Prairie and its surrounding area, using Facebook's "Local Awareness" ad option.  
+
+The Facebook advertisement program defaults to $50 spend for 1 week, advertising to both genders, ages 18 to 65.
 
 Facebook Page Advertisement Preview
 ![](marketing-strategy/facebook-page-advertisement-preview.png)
@@ -101,8 +103,9 @@ Setting aside pre-existing assumptions, members of the church would go through t
 
 Members of the church would take stock of the skills of individual members. This skills inventory would be used to identify ways to optimize what the church has to offer the community. 
 
-### Updating Find-a-Church
+### Last But Not Least
 
+Updating Find-a-Church
 http://www.umcom.org/tools/update-your-find-a-church
 
 ### Goals and Measurable Objectives Chart
