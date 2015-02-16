@@ -114,6 +114,8 @@ All of the traditional methods of advertisement should continue to be updated on
 
 ### Goals and Measurable Objectives Chart
 
+The national United Methodist Church suggests using a Goals and Measurable Objectives Chart as part of its Marketing Plan. 
+
 ![Goals and Measurable Objectives Chart Example 1](marketing-strategy/marketing-strategy-goals-measurable-objectives-chart-example-1.png)
 
 ![Goals and Measurable Objectives Chart Example 2](marketing-strategy/marketing-strategy-goals-measurable-objectives-chart-example-2.png)
