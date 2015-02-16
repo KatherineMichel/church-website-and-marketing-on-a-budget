@@ -35,16 +35,23 @@ Online Advertising:
 
 Facebook is the 'king' of social traffic. 
 
-SEO (Search Engine Optimization):
+Facebook Page Advertisement Preview
+![](marketing-strategy/facebook-page-advertisement-preview.png)
 
-Google is the most popular search engine in most countries. SEO is an important aspect of ensuring that people 'discover' your website
+### SEO (Search Engine Optimization):
 
-Also, consider creating a Google+ organization page, and/or Google rich snippet for support
+SEO is an important aspect of ensuring that people 'discover' your website. Identify the SEO functionality of your website and verify that it is enabled and optimized. 
+
+Google is the most popular search engine in most countries. Identify the most important search phrases associated with your website and test the search results. Make sure that cookies are not enabled. Otherwise, your search results might be skewed due to the search history of the computer. 
+
+Verify that the Google map info for the church is correct, and if possible, link the website to the map. Consider creating a Google+ organization page, and/or Google rich snippet for support
+
+And most important of all, encourage church members to use the website! The search ranking of the website will rise naturally as a result.
 
 ### Outreach Calendar
 
 The church purchased a 2015 wall calendar. The calendar would be hung on a hook on the wall in a high traffic area of the church where it would not be forgotten. A pencil would be nearby so that the calendar could be easily updated. The calendar could be removed from the wall and taken to meetings too.  
-![](marketing-strategy/marketing-strategy-outreach-calendar.JPG)
+![](marketing-strategy/marketing-strategy-outreach-calendar.jpg)
 
 ### Contacting Inactive Members
 
@@ -54,7 +61,7 @@ A good starting point for Outreach would be for the church to contact church-goe
 
 Setting aside pre-existing assumptions, members of the church would go through the Pretty Prairie section of the phone book to identify people for outreach. 
 
-![](marketing-strategy/marketing-strategy-telephone-book.JPG)
+![](marketing-strategy/marketing-strategy-telephone-book.jpg)
 
 ### Skills Inventory
 
