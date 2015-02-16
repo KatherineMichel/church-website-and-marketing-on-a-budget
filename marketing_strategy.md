@@ -29,14 +29,24 @@ Tactics from $300 to $1000
 Tactics over $1000
 ![](marketing-strategy/tactics-over-$1000.png)
 
-### Cutting Edge Options
-
-Online Advertising: 
+### Online Advertising
 
 Facebook is the 'king' of social traffic. 
 
 Facebook Page Advertisement Preview
 ![](marketing-strategy/facebook-page-advertisement-preview.png)
+
+Suggested target audience ranges from 50 km to... 
+
+![](marketing-strategy/facebook-page-advertisement-reach-50km.png)
+
+Down to 3 km ... 
+
+![](marketing-strategy/facebook-page-advertisement-reach-3km.png)
+
+Or 1 km...
+
+![](marketing-strategy/facebook-page-advertisement-reach-1km.png)
 
 ### SEO (Search Engine Optimization):
 
