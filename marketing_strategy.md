@@ -10,6 +10,11 @@ Church Communication is church outreach to church members and other potentially 
 
 Church Marketing is strategic planning for said outreach
 
+### Pretty Prairie
+
+Pretty Prairie, Central Kansas, West of Wichita
+![](marketing-strategy/google-map-pretty-prairie-kansas.png)
+
 ### Demographic Info
 
 Through the national United Methodist Church, I obtained the most recent Nielson Company demographic info for the city of Pretty Prairie, Kansas. 
