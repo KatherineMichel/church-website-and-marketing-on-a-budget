@@ -1,5 +1,15 @@
 # Marketing Strategy
 
+### Church Mission Statement
+
+"To glorify God by sharing the love of God, the teachings of Jesus Christ and the power of the Holy Spirit within our community"
+
+### Church Communication and Markting Definitions
+
+Church Communication is church outreach to church members and other potentially interested parties
+
+Church Marketing is strategic planning for said outreach
+
 ### Demographic Info
 
 Through the national United Methodist Church, I obtained the most recent Nielson Company demographic info for the city of Pretty Prairie, Kansas. 
@@ -42,7 +52,7 @@ Example Religious Ad on Twitter
 
 ![](marketing-strategy/twitter-religious-advertisement.png)
 
-However, based on an informal poll, members of the church and surrounding community are much more likely to be on Facebook than Twitter. So, we would first consider the option of advertising the church via Facebook. This could be done for free through Facebook sharing, or by paying to advertise the church's Facebook page to people located within Pretty Prairie and its surrounding area, using Facebook's "Local Awareness" ad option.  
+However, based on an informal poll, members of the church and surrounding community are much more likely to be on Facebook than Twitter. So, we would first consider the option of advertising the church via Facebook. This could be done for free through Facebook sharing, or by paying to advertise the church's Facebook page to people located within Pretty Prairie and its surrounding area, using Facebook's "Local Awareness" ad option. Notably, this may reach a different demographic segment than other forms of advertisement. 
 
 The Facebook advertisement program defaults to $50 spend for 1 week, advertising to both genders, ages 18 to 65.
 
@@ -107,10 +117,13 @@ Members of the church would take stock of the skills of individual members. This
 
 All of the traditional methods of advertisement should continue to be updated on an ongoing basis, including the new website info:
 
+Traditional Methods of Advertisement
 * Local Newspaper
 * Bulletin
 * Email Signature
+* Facebook Page/Website
 * Find-a-Church
+* Ads and fliers in high traffic locations
 
 ### Goals and Measurable Objectives Chart
 
@@ -119,15 +132,3 @@ The national United Methodist Church suggests using a Goals and Measurable Objec
 ![Goals and Measurable Objectives Chart Example 1](marketing-strategy/marketing-strategy-goals-measurable-objectives-chart-example-1.png)
 
 ![Goals and Measurable Objectives Chart Example 2](marketing-strategy/marketing-strategy-goals-measurable-objectives-chart-example-2.png)
-
-### Church Mission Statement
-
-It's a good time to consider the church's mission statement: 
-
-### Church Communication Definition
-
-Church Communication is church outreach to church members and other potentially interested parties
-
-### Church Marketing Definition
-
-Church Marketing is strategic planning for said outreach
