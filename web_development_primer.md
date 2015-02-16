@@ -4,6 +4,7 @@
 
 "Making a website" can mean many things. 
 
+Placeholder
 ![](web-dev-primer/idea-maze.jpg)
 
 Web Development Idea Maze
@@ -33,7 +34,7 @@ This could be done by downloading the theme files and searching through them...
 
 ![](web-dev-primer/catch-everest-template-files-css.png)
 
-The CSS could also be found by opening an online [Catch Everest demo](http://wp-themes.com/catch-everest/?TB_iframe=true&width=600&height=400) in the browser, right clicking and choosing "View page source," then looking through the "head" section of the source for a linkn to a CSS file that can be accessed online. 
+The CSS could also be found by opening an online [Catch Everest demo](http://wp-themes.com/catch-everest/?TB_iframe=true&width=600&height=400) in the browser, right clicking and choosing "View page source," then looking through the "head" section of the source for a link to a CSS file that can be accessed online. 
 
 ![](web-dev-primer/catch-everest-theme-css-head.png)
 
