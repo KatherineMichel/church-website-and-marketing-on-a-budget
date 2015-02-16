@@ -4,7 +4,7 @@
 
 "To glorify God by sharing the love of God, the teachings of Jesus Christ and the power of the Holy Spirit within our community"
 
-### Church Communication and Markting Definitions
+### Church Communication and Marketing Definitions
 
 Church Communication is church outreach to church members and other potentially interested parties
 
