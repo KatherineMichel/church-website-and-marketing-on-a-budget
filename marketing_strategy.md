@@ -122,6 +122,8 @@ Example Religious Ad on Twitter
 
 ![](marketing-strategy/twitter-religious-advertisement.png)
 
+Members of the church are less likely to use Twitter. However, Twitter is an option to keep in mind for reaching the public at large. 
+
 ### Outreach Calendar
 
 The church purchased a 2015 wall calendar. The calendar would be hung on a hook on the wall in a high traffic area of the church where it would not be forgotten. A pencil would be nearby so that the calendar could be easily updated. The calendar could be removed from the wall and taken to meetings too.  
