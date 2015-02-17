@@ -94,7 +94,7 @@ Chooe the Objective for Your Campaign: "Local Awareness"
 
 Notably, this may reach a different demographic segment than other forms of advertisement. 
 
-The Facebook advertisement program defaults to $50 spend for 1 week, advertising to both genders, ages 18 to 65.
+The Facebook advertisement program defaults to $50 spend for 1 week, advertising to both genders, ages 18 to 65+.
 
 Facebook Page Advertisement Preview
 ![](marketing-strategy/facebook-page-advertisement-preview.png)
