@@ -87,7 +87,10 @@ Facebook is the 'king' of social traffic, with other networks such as Twitter, I
 
 Based on feedback, members of the church and surrounding community are most likely to be on Facebook. So, we would first consider the option of advertising the church via Facebook. This could be done for free through Facebook sharing
 
-This could also be done by paying to advertise the church's Facebook page to people located within Pretty Prairie and its surrounding area, using Facebook's "Local Awareness" ad option.
+This could also be done by paying to advertise the church's Facebook page to people located within Pretty Prairie and its surrounding area, using Facebook's "Reach People Near Your Business" a.k.a. "Local Awareness" ad option.
+
+Chooe the Objective for Your Campaign: "Local Awareness"
+![](marketing-strategy/facebook-page-advertisement-choose-objective.png)
 
 Notably, this may reach a different demographic segment than other forms of advertisement. 
 
