@@ -122,7 +122,7 @@ Example Religious Ad on Twitter
 
 ![](marketing-strategy/twitter-religious-advertisement.png)
 
-Members of the church are less likely to use Twitter. However, Twitter is an option to keep in mind for reaching the public at large. 
+Members of the church are less likely to use Twitter. However, Twitter is an option to keep in mind, particularly for reaching the public at large. 
 
 ### Outreach Calendar
 
@@ -155,7 +155,7 @@ Traditional Methods of Advertisement
 * Find-a-Church
 * Ads and fliers in high traffic locations
 
-### Goals and Measurable Objectives Chart
+### Sample Plan and Metrics
 
 The national United Methodist Church suggests using a Goals and Measurable Objectives Chart as part of its Marketing Plan. 
 
