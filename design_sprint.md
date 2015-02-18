@@ -28,10 +28,11 @@ Supplies Needed:
 * Snacks 
 * Sticky stuff
 
-Understanding the "Problem"
+Understand the "Problem"
 
-* Create Mind Map
-* Create Protoype
+Create Mind Map
+
+Create Protoype
 
 ### User Testing
 
