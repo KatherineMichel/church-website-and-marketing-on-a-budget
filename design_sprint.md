@@ -6,8 +6,13 @@ Taking Stock of Supplies on Hand
 
 ![](design-sprint/supply-cabinet.jpg)
 
-Email Ad to Recruit Users for User Study
+Email to Recruit Users for User Study
 
+Recruitment Screener
+
+Understanding the "Problem"
+
+Mind Map
 
 
 
