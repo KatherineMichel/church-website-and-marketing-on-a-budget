@@ -10,6 +10,8 @@ Email to Recruit Users for User Study
 
 Recruitment Screener
 
+[Google Ventures Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)
+
 Understanding the "Problem"
 
 Mind Map
