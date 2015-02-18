@@ -18,6 +18,16 @@ Research Plan
 
 ### Design Sprint
 
+Supplies Needed:
+* Sticky notes 
+* Drawing pens 
+* Whiteboards 
+* Whiteboard markers
+* Dot stickers (for voting)
+* Time Timer Clock 
+* Snacks 
+* Sticky stuff
+
 Understanding the "Problem"
 
 * Create Mind Map
@@ -38,17 +48,15 @@ Example Confirmation Email
 
 Non-Disclosure Agreement
 
-* Create Interview Guide
+Create Interview Guide
 
-Interview Guide
+Finalize Schedule
 
-* Finalize Schedule
+Conduct pilot User Study
 
-Example Schedule
+Conduct real User Study
 
-* Conduct pilot User Study
-* Conduct real User Study
-* Summarize and analyze findings
+Summarize and analyze findings
 
 
 
