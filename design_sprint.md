@@ -6,6 +6,10 @@ Taking Stock of Supplies on Hand
 
 ![](design-sprint/supply-cabinet.jpg)
 
+###Design Problem
+
+What features/tasks do you want to test? What questions do you want to answer?
+
 ### Research Sprint
 
 [Google Ventures Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)
@@ -40,6 +44,7 @@ Example Schedule
 
 * Conduct pilot User Study
 * Conduct real User Study
+* Summarization of findings
 
 
 
