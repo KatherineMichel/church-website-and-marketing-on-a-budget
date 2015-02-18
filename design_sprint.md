@@ -6,21 +6,27 @@ Taking Stock of Supplies on Hand
 
 ![](design-sprint/supply-cabinet.jpg)
 
-Email to Recruit Users for User Study
-
-Recruitment Screener
+### Research Sprint
 
 [Google Ventures Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)
+
+### Design Sprint
 
 Understanding the "Problem"
 
 * Create Mind Map
 * Create Protoype
 
-* Call Users by phone
-* Follow up with Users via email, including NDA
+### User Testing
 
-Confirmation Email
+Email to Recruit Users for User Study
+
+Recruitment Screener
+
+* Call Users by phone
+* Follow up with Users via email, including NDA and request to reply to confirm
+
+Example Confirmation Email
 
 Non-Disclosure Agreement
 
@@ -30,7 +36,7 @@ Interview Guide
 
 * Finalize Schedule
 
-Final Schedule
+Example Schedule
 
 * Conduct pilot User Study
 * Conduct real User Study
