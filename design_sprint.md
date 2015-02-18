@@ -6,10 +6,6 @@ Taking Stock of Supplies on Hand
 
 ![](design-sprint/supply-cabinet.jpg)
 
-###Design Problem
-
-What features/tasks do you want to test? What questions do you want to answer?
-
 ### Research Sprint
 
 Research Plan 
@@ -17,6 +13,19 @@ Research Plan
 [Google Ventures Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)
 
 ### Design Sprint
+
+Only need 1 person; Optionally, include:
+* Designer
+* CEO (buy-in/decision-maker)
+* Product manager
+* User expert 
+* Engineer
+* Marketer
+* Anybody else who’s interested
+
+Find a facilitator, if needed
+
+Find a working space
 
 Supplies Needed:
 * Sticky notes 
@@ -29,6 +38,8 @@ Supplies Needed:
 * Sticky stuff
 
 Understand the "Problem"
+
+What features/tasks do you want to test? What questions do you want to answer?
 
 Create Mind Map
 
