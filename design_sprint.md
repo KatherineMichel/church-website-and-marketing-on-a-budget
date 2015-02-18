@@ -1,8 +1,6 @@
-# Design Sprint
+# Research and Design Sprint
 
-### Google Ventures Design Sprint
-
-I would conduct a Design Sprint loosely based on the Google Ventures [Design Sprint](http://www.gv.com/sprint) model. 
+I would conduct a Research and Design Sprint loosely based on the Google Ventures [Research and Design Sprint](http://www.gv.com/sprint) model. 
 
 Finding supplies
 
