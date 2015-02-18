@@ -41,9 +41,44 @@ Understand the "Problem"
 
 What features/tasks do you want to test? What questions do you want to answer?
 
-Create Mind Map
+* Business opportunity 
+* Lightning demos 
+* Lay it out 
+* Success metrics — Ex. Kerry Rodden’s HEART framework.
+* Existing research 
+* Team interviews
+* Analytics
+
+Can do User Studies/Microstudies/Team Interviews ahead of time if needed
+
+Sketch the most important user story (as a group) = visual map
+
+* Choose part of the problem (divide up user story)
+* Take notes (5 minutes) "how might we"
+* Mind map (10–15 minutes)
+* Crazy Eights (5 minutes)
+* Storyboard (10–20 minutes)
+* Silent critique (5–10 minutes)
+* Three-minute critiques (3 minutes per idea)
+* Super vote (5 minutes)
+* Repeat
+
+Decide
+
+* Combat the group effect
+* Search for conflicts
+* Best shot or battle royale?
+* Test your assumptions
+* Whiteboard the user story (comic book frames)
+* Keep the gloves off
 
 Create Protoype
+
+* Make it minimally real
+* Write real text
+* Use a timer to maintain focus
+* Lightning critique
+* Review with an outsider
 
 ### User Testing
 
