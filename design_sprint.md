@@ -8,6 +8,12 @@ Finding supplies
 
 ![](design-sprint/supply-cabinet.jpg)
 
+I would recruit users by email rather than using a bona fide [Craigslist ad](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Sample-Craigslist-ad.png). 
+
+Screenshot of Email
+
+
+
 
 
 
