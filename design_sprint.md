@@ -23,9 +23,11 @@ Understanding the "Problem"
 
 ### User Testing
 
-Email to Recruit Users for User Study
+Define ideal User criteria, and criteria to avoid
 
-Recruitment Screener
+Advertise for User Study participants
+
+Include link to Recruiting Screener
 
 * Call Users by phone
 * Follow up with Users via email, including NDA and request to reply to confirm
@@ -44,7 +46,7 @@ Example Schedule
 
 * Conduct pilot User Study
 * Conduct real User Study
-* Summarization of findings
+* Summarize and analyze findings
 
 
 
