@@ -14,7 +14,27 @@ Recruitment Screener
 
 Understanding the "Problem"
 
-Mind Map
+* Create Mind Map
+* Create Protoype
+
+* Call Users by phone
+* Follow up with Users via email, including NDA
+
+Confirmation Email
+
+Non-Disclosure Agreement
+
+* Create Interview Guide
+
+Interview Guide
+
+* Finalize Schedule
+
+Final Schedule
+
+* Conduct pilot User Study
+* Conduct real User Study
+
 
 
 
