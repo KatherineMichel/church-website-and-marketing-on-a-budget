@@ -50,7 +50,11 @@ Tactics from $300 to $1000
 Tactics over $1000
 ![](marketing-strategy/tactics-over-$1000.png)
 
-### SEO (Search Engine Optimization):
+### Sample Budget
+
+### Sample Plan
+
+### SEO (Search Engine Optimization)
 
 SEO is an important aspect of ensuring that people 'discover' your website. Identify the SEO functionality of your website and verify that it is enabled and optimized. Search engines will 'crawl' the content of your website and give your site a page ranking. 
 
