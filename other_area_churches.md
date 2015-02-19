@@ -1,8 +1,10 @@
 # Other Area Churches
 
+## Lightening Demos
+
 When considering web hosting options, it was helpful to look at the websites of other area churches (see below) to see what web hosts and functionality are popular among other churches in the same demographic. In a [Research and Design Sprint](design_sprint.md), this is called a "lightening demo." Participants demo "competitor" product, or non-competitive products that offer insight
 
-## Calvary Chapel
+### Calvary Chapel
 
 <center>
 ![](area-churches/calvary-chapel.jpg)
@@ -12,7 +14,7 @@ Pros:
 
 Cons: 
 
-## First Mennonite Church
+### First Mennonite Church
 
 <center>
 ![](area-churches/first-mennonite-church.jpg)
@@ -22,7 +24,7 @@ Pros:
 
 Cons: 
 
-## New Jerusalem Church
+### New Jerusalem Church
 
 <center>
 ![](area-churches/new-jerusalem-church.jpg)
