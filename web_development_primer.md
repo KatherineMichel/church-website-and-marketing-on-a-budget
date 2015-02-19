@@ -1,6 +1,6 @@
 # Web Development Primer
 
-### What Does "Making a Website" Mean?
+### What does "making a website" mean?
 
 "Making a website" can mean many things. 
 
@@ -15,7 +15,7 @@ Example: Weebly Drag and Drop Website Builder
 
 ![](web-dev-primer/weebly.png)
 
-Or, "Making a website" can be as sophisticated as assembling all of the underlying code, to create a highly customized website. 
+Or, "making a website" can be as sophisticated as assembling all of the underlying code, to create a highly customized website. 
 
 Me using the command line to design a Django Website
 
@@ -44,7 +44,7 @@ Determine what aspect of the template's design to change and identify the corres
 
 Re-write the code to produce the intended change, then enter the altered snippet of code into the designated area of the WordPress content management system that you are using in order to override the default CSS code and make the design change go live.
 
-Another middle ground option is to use a simplified template system to design and deploy your own code (An example is the static portfolio that I made with [Bootstrap](http://getbootstrap.com) then deployed via [GitHub gh-pages](https://github.com/KatherineMichel/portfolio/tree/gh-pages); [Jekyll](http://jekyllrb.com) is another popular option). 
+Another middle ground option is to use a simplified template system to design and deploy your own code (an example is the static portfolio that I made with [Bootstrap](http://getbootstrap.com) then deployed via [GitHub gh-pages](https://github.com/KatherineMichel/portfolio/tree/gh-pages); [Jekyll](http://jekyllrb.com) is another popular option). 
 
 My Portfolio Home Page
 
@@ -66,7 +66,7 @@ Static content tends to be created using:
 * CSS (Cascading Style Sheets)
 * JavaScript
 
-By the way, these are the languages associated with "Front End" Web Design. In Web Design and Development, the "Front End" is the visual design part of the website that you can actually see (page layout, size, color, font). 
+By the way, these are the languages associated with "front-end" web design. In web design and development, the "front-end" is the visual design part of the website that you can actually see (page layout, size, color, font). 
 
 <center>
 ![](web-dev-primer/web-programming-languages-iceberg-chart.jpg)
@@ -78,17 +78,17 @@ However, there is a limit to the level of scale that can be achieved by simply r
 
 To scale, web developers need to think about "Back End" automation. 
 
-There are a few languages associated with "Back End" automation. 
+There are a few languages associated with "back-end" automation. 
 
-### Back-End Languages
-* Python (Multi-purpose Web Development language with excellent Data Science tools; Currently, the most taught Computer Science language)  
-* Ruby (Popular and well-supported)
-* PHP (Used in WordPress, and at a few famous companies such as Facebook and Wikipedia, but otherwise, not as well suported as Python and Ruby)
+### Back-end languages
+* Python (multi-purpose web development language with excellent data science tools; Currently, the most taught computer science language)  
+* Ruby (popular and well-supported)
+* PHP (used in WordPress, and at a few famous companies such as Facebook and Wikipedia, but otherwise, not as well suported as Python and Ruby)
 * Node.js (technically not a language)
 
 ### Hybrid
-* Jekyll (A simplified template system to design and deploy your own code)
+* Jekyll (a simplified template system to design and deploy your own code)
 
-### Front-End (What You See) Design
-* CSS (Think 10,000 page website and you want to have one place to alter the design of every page at once; That place is the Cascading Style Sheet).
+### Front-end (what you see) design
+* CSS (think 10,000 page website and you want to have one place to alter the design of every page at once; that place is the Cascading Style Sheet).
 
