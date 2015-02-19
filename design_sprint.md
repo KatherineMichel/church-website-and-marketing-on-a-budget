@@ -39,17 +39,19 @@ This would be a simpler Research and Design Sprint. I would do most of the work 
 
 ## Let's Identify the "Problem"
 
+### Wanted: Answers
+
 * What questions do you want to answer?
 * What features/tasks do you want to test?
 
-* Business opportunity 
-* Existing research 
-* Team interviews
-* Analytics
+### Opportunity
 
-* Lightning demos ("competitor" products or non-competitive products that offer insight)
-* Lay it out 
-* Success metrics — Ex. Kerry Rodden’s HEART framework.
+* Identify the "business" opportunity
+
+
+* Existing research, Analytics
+
+
 
 Can do User Studies/Microstudies/Team Interviews ahead of time if needed
 
@@ -79,6 +81,10 @@ Pretty Prairie [Area Map](https://drive.google.com/file/d/0B02bpu7HZwJRaVp5dGNMO
 [Population by Age and Race Trend 2014](https://drive.google.com/file/d/0B02bpu7HZwJRelJTXzd1XzVWUE0/view?usp=sharing)
 
 ## Design Sprint
+
+* Print out existing product screens
+* Lightening demo "competitor" products, or non-competitive products that offer insight
+* Identify success metric (ex. HEART framework)
 
 * Understand the "problem"
 * Ponder "how might we"
