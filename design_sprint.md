@@ -6,9 +6,15 @@ Taking stock of supplies on hand
 
 ![](design-sprint/supply-cabinet.jpg)
 
-The point of the Research and Design Sprint is to design and user test a minimal, but realistic solution to a problem without the time and expense of creating a full version. 
+The point of the Research and Design Sprint is to design and user test a minimal, but realistic prototype without the time and expense of creating a full version. 
 
 ## Research Sprint
+
+### Understand the "Problem"
+
+* What questions do you want to answer?
+* What features/tasks do you want to test?
+
 
 [Google Ventures Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)
 
@@ -60,10 +66,6 @@ Supplies Needed:
 * Snacks 
 * Sticky stuff
 
-Understand the "Problem"
-
-What features/tasks do you want to test? What questions do you want to answer?
-
 * Business opportunity 
 * Lightning demos 
 * Lay it out 
@@ -76,26 +78,20 @@ Can do User Studies/Microstudies/Team Interviews ahead of time if needed
 
 Sketch the most important user story (as a group) = visual map
 
-* Choose part of the problem (divide up user story)
+* Choose parts of the problem (divide up user story)
 * Take notes (5 minutes) "how might we"
 * Mind map (10–15 minutes)
 * Crazy Eights (5 minutes)
 * Storyboard (10–20 minutes)
-* Silent critique (5–10 minutes)
 * Three-minute critiques (3 minutes per idea)
-* Super vote (5 minutes)
-* Repeat
 
-Decide
-
-* Whiteboard the user story (comic book frames)
+* Whiteboard the final user story (comic book frames)
 * Create protoype
 
 ### User Testing
 
-Define favorable and unfavorable user criteria
-
-Post ad for users, including link to recruiting screener questionnaire
+* Define favorable and unfavorable user criteria
+* Post ad for users, including link to recruiting screener questionnaire
 
 When you have identified prospective users: 
 
@@ -107,6 +103,9 @@ Example confirmation email
 Example non-disclosure agreement
 
 * Create interview guide
+
+Example interview guide
+
 * Conduct user study
 * Summarize and analyze findings
 
