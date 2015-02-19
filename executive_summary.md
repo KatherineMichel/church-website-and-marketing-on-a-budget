@@ -1,7 +1,7 @@
 # Executive Summary
 
 ### Note: 
-For the TL:DR, check out [Old Design](old_design.md) and [New Design](new_design.md) :) 
+For the tl:dr, check out [Old Design](old_design.md) and [New Design](new_design.md) :) 
 
 ### Proposition
 
@@ -23,4 +23,4 @@ Without an independent website, the church was making due with a Find-a-Church p
 
 ### Solution
 
-I would Project Manage a modern new website and marketing plan for the church, using low-cost tools and available resources.
+I would project manage a modern new website and marketing plan for the church, using low-cost tools and available resources.
