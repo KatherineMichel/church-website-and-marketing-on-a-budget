@@ -79,14 +79,13 @@ Pretty Prairie [Area Map](https://drive.google.com/file/d/0B02bpu7HZwJRaVp5dGNMO
 
 ## Design Sprint
 
+* Ponder "how might we"
 * Sketch the most important user story
-* Choose parts of the problem (divide up user story)
-* Take notes (5 minutes) "how might we"
-* Mind map (10–15 minutes)
+* Divide the user story up into parts
+* Create a mind map (10–15 minutes)
 * Crazy Eights (5 minutes)
 * Storyboard (10–20 minutes)
-* Three-minute critiques (3 minutes per idea)
-
+* Critiques (3 minutes per idea) and decide
 * Whiteboard the final user story (comic book frames)
 * Create protoype for user test
 
@@ -110,13 +109,6 @@ Example interview guide
 
 * Conduct user study
 * Summarize and analyze findings
-
-
-
-
-
-
-
 
 
 
