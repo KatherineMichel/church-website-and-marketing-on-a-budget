@@ -1,6 +1,6 @@
 # Research and Design Sprint
 
-I would conduct a Research and Design Sprint loosely based on the Google Ventures [Research Sprint](http://www.gv.com/lib/the-gv-research-sprint-a-4-day-process-for-answering-important-startup-questions) and [Design Sprint](http://www.gv.com/sprint) models. 
+I conducted a Research and Design Sprint loosely based on the Google Ventures [Research Sprint](http://www.gv.com/lib/the-gv-research-sprint-a-4-day-process-for-answering-important-startup-questions) and [Design Sprint](http://www.gv.com/sprint) models. 
 
 Taking Stock of Supplies on Hand
 
@@ -69,39 +69,37 @@ Decide
 * Search for conflicts
 * Best shot or battle royale?
 * Test your assumptions
-* Whiteboard the user story (comic book frames)
 * Keep the gloves off
+* Whiteboard the user story (comic book frames)
 
-Create Protoype
+Create protoype
 
-* Make it minimally real
-* Write real text
-* Use a timer to maintain focus
+* Make it minimally real, with real text
 * Lightning critique
 * Review with an outsider
 
 ### User Testing
 
-Define ideal User criteria, and criteria to avoid
+Define favorable and unfavorable user criteria
 
-Advertise for User Study participants
+Post ad for users, including link to recruiting screener questionnaire
 
-Include link to Recruiting Screener
+When you have identified prospective users: 
 
-* Call Users by phone
-* Follow up with Users via email, including NDA and request to reply to confirm
+* Call the prospective users by phone
+* Send a follow-up email, including important info and a link to non-disclosure agreement to sign; Request prospective user to reply to confirm
 
-Example Confirmation Email
+Example confirmation email
 
-Non-Disclosure Agreement
+Non-disclosure agreement
 
-Create Interview Guide
+Create interview guide
 
-Finalize Schedule
+Finalize schedule
 
-Conduct pilot User Study
+Conduct pilot user study
 
-Conduct real User Study
+Conduct real user study
 
 Summarize and analyze findings
 
