@@ -6,13 +6,11 @@ Taking stock of supplies on hand
 
 ![](design-sprint/supply-cabinet.jpg)
 
-### Research Sprint
-
-Research Plan 
+## Research Sprint
 
 [Google Ventures Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)
 
-### Pretty Prairie
+### Demographic Info
 
 Pretty Prairie, Central Kansas, West of Wichita
 ![](marketing-strategy/google-map-pretty-prairie-kansas.png)
@@ -20,8 +18,6 @@ Pretty Prairie, Central Kansas, West of Wichita
 North of Kingman, South of Hutchinson, near the Amish community of Yoder
 
 ![](marketing-strategy/google-map-pretty-prairie-wichita.png)
-
-### Demographic Info
 
 Through the national United Methodist Church, I obtained the most recent Nielson Company demographic info for the city of Pretty Prairie, Kansas. 
 
@@ -37,7 +33,7 @@ Pretty Prairie [Area Map](https://drive.google.com/file/d/0B02bpu7HZwJRaVp5dGNMO
 
 [Population by Age and Race Trend 2014](https://drive.google.com/file/d/0B02bpu7HZwJRelJTXzd1XzVWUE0/view?usp=sharing)
 
-### Design Sprint
+## Design Sprint
 
 Only need 1 person; Optionally, include:
 * Designer
@@ -100,8 +96,6 @@ Decide
 Create protoype
 
 * Make it minimally real, with real text
-* Lightning critique
-* Review with an outsider
 
 ### User Testing
 
