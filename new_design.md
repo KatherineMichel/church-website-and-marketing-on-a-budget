@@ -23,13 +23,13 @@
 ![](new-materials/new-newsletter-page-4.png)
 </center>
 
-### New bulletin (example)
+## New bulletin (example)
 
 Front cover
 
 Inside
 
-### New multi-purpose greeting card (example)
+## New multi-purpose greeting card (example)
 
 Front cover<br>
 <center>
@@ -44,7 +44,7 @@ Back cover<br>
 ![](new-materials/new-greeting-card-back-cover.png)
 </center>
 
-### New multi-purpose postcard (example)
+## New multi-purpose postcard (example)
 
 <center>
 ![](new-materials/new-post-card.png)
