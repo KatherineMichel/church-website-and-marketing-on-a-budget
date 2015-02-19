@@ -2,7 +2,7 @@
 
 The old church website and marketing materials were created by different people, at different times, with no thought to creating one consistent church brand experience spanning all materials.
 
-### Old Website
+## Old website
 
 ![](old-materials/old-website-welcome-page.jpg)
 
@@ -16,7 +16,7 @@ The old church website and marketing materials were created by different people,
 
 ![](old-materials/old-website-contact.jpg)
 
-### Old Newsletter
+## Old newsletter
 
 <center>
 ![](old-materials/old-newsletter-page-1.png)
@@ -28,7 +28,7 @@ The old church website and marketing materials were created by different people,
 ![](old-materials/old-newsletter-page-4.png)
 </center>
 
-### Old Church Brochure
+## Old church brochure
 
 Outside<br>
 <center>
@@ -39,13 +39,13 @@ Inside<br>
 ![](old-materials/old-brochure-inside.png)
 </center>
 
-### Old Visitor Postcards
+## Old visitor postcards
 
 <center>
 ![](old-materials/old-visitor-post-cards.jpg)
 </center>
 
-### Old Reminder Postcards
+## Old reminder postcards
 
 <center>
 ![](old-materials/old-post-cards-page-1.jpg)
@@ -55,7 +55,7 @@ Inside<br>
 ![](old-materials/old-post-cards-page-3.jpg)
 </center>
 
-### Old Update Cards 
+## Old update cards 
 <center>
 ![](old-materials/old-update-cards-page-1.jpg)
 
