@@ -1,6 +1,6 @@
 # Web Development Primer
 
-## What does "making a website" mean?
+## What Does "Making a Website" Mean?
 
 "Making a website" can mean many things. 
 
@@ -77,7 +77,7 @@ To scale, web developers need to think about "back-end" automation.
 
 There are a few languages associated with "back-end" automation. 
 
-### Back-end languages
+### Back-End Languages
 * Python (multi-purpose web development language with excellent data science tools; Currently, the most taught computer science language)  
 * Ruby (popular and well-supported)
 * PHP (used in WordPress, and at a few famous companies such as Facebook and Wikipedia, but otherwise, not as well suported as Python and Ruby)
@@ -86,6 +86,6 @@ There are a few languages associated with "back-end" automation.
 ### Hybrid
 * Jekyll (a simplified template system to design and deploy your own code)
 
-### Front-end (what you see) design
+### Front-End (What You See) Design
 * CSS (think 10,000 page website and you want to have one place to alter the design of every page at once; that place is the Cascading Style Sheet).
 
