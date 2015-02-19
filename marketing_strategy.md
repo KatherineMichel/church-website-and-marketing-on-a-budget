@@ -86,10 +86,9 @@ Setting aside pre-existing assumptions, members of the church would go through t
 
 SEO is an important aspect of ensuring that people 'discover' your website. Identify the SEO functionality of your website and verify that it is enabled and optimized. Search engines will 'crawl' the content of your website and give your site a page ranking. 
 
-Website SEO
-
 In some websites, SEO will be optimized manually via the "head" part of the code. In other websites, SEO will be automatic. 
 
+Website SEO
 ![](marketing-strategy/website-seo.jpg)
 
 Google is the most popular search engine in most countries, often followed by Yahoo. Identify the most important search phrases associated with your website and test the search results. Make sure that cookies are not enabled. Otherwise, your search results might be skewed due to the search history of the computer. 
