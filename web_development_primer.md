@@ -1,11 +1,8 @@
 # Web Development Primer
 
-### What does "making a website" mean?
+## What does "making a website" mean?
 
 "Making a website" can mean many things. 
-
-Placeholder
-![](web-dev-primer/idea-maze.jpg)
 
 Web Development Idea Maze
 
@@ -76,7 +73,7 @@ Static content can be rendered in a simpler way than dynamic content. Static con
 
 However, there is a limit to the level of scale that can be achieved by simply rendering HTML, CSS, and JavaScript via browser. 
 
-To scale, web developers need to think about "Back End" automation. 
+To scale, web developers need to think about "back-end" automation. 
 
 There are a few languages associated with "back-end" automation. 
 
