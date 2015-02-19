@@ -178,7 +178,7 @@ Upworthy Ice-Bucket Challenge article [repost #3](https://twitter.com/Upworthy/s
 Upworthy example article [trending on Twitter](https://twitter.com/search?q=%40upworthy%20Literally%20the%20only%20ALS%20%23IceBucketChallenge%20you%20need%20to%20see&src=typd)
 ![](upworthy/upworthy-als-ice-bucket-challenge-twitter-trends.jpg)
 
-#### 8. Network effect
+#### 8. [Network effect](http://en.wikipedia.org/wiki/Network_effect)
 
 Placeholder
 
