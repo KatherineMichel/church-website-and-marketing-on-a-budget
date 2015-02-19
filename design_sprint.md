@@ -6,6 +6,8 @@ Taking stock of supplies on hand
 
 ![](design-sprint/supply-cabinet.jpg)
 
+The point of the Research and Design Sprint is to design and user test a minimal, but realistic solution to a problem without the time and expense of creating a full version. 
+
 ## Research Sprint
 
 [Google Ventures Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)
@@ -86,16 +88,8 @@ Sketch the most important user story (as a group) = visual map
 
 Decide
 
-* Combat the group effect
-* Search for conflicts
-* Best shot or battle royale?
-* Test your assumptions
-* Keep the gloves off
 * Whiteboard the user story (comic book frames)
-
-Create protoype
-
-* Make it minimally real, with real text
+* Create protoype
 
 ### User Testing
 
@@ -110,17 +104,12 @@ When you have identified prospective users:
 
 Example confirmation email
 
-Non-disclosure agreement
+Example non-disclosure agreement
 
-Create interview guide
+* Create interview guide
+* Conduct user study
+* Summarize and analyze findings
 
-Finalize schedule
-
-Conduct pilot user study
-
-Conduct real user study
-
-Summarize and analyze findings
 
 
 
