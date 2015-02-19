@@ -10,7 +10,7 @@ Church Communication is church outreach to church members and other potentially 
 
 Church Marketing is strategic planning for said outreach
 
-## Marketing plan
+## Marketing Plan
 
 Members of the NOW (Nurture, Outreach, Witness) Committee, which handles community outreach for the church, would begin to collaborate on a new church marketing plan. 
 
@@ -25,11 +25,11 @@ Tactics from $300 to $1000
 Tactics over $1000
 ![](marketing-strategy/tactics-over-$1000.png)
 
-# Sample plan
+# Sample Plan
 
-## Example budget
+## Example Budget
 
-## Low-hanging fruit
+## Low-Hanging Fruit
 
 All of the traditional methods of advertisement should continue to be updated on an ongoing basis, including the new website info.
 
@@ -40,20 +40,20 @@ All of the traditional methods of advertisement should continue to be updated on
 * Email signature
 * Ads and fliers in high traffic locations
 
-### Outreach calendar
+### Outreach Calendar
 
 The church purchased a 2015 wall calendar. The calendar would be hung on a hook on the wall in a high traffic area of the church where it would not be forgotten. A pencil would be nearby so that the calendar could be easily updated. The calendar could be removed from the wall and taken to meetings too.  
 ![](marketing-strategy/marketing-strategy-outreach-calendar.jpg)
 
-### Skills inventory
+### Skills Inventory
 
 Members of the church would take stock of the skills of individual members. This skills inventory would be used to identify ways to optimize what the church has to offer the community. 
 
-### Contacting inactive members
+### Contacting Inactive Members
 
 A good starting point for outreach would be for the church to contact church-goers of the past who are now inactive, and invite them back. 
 
-### Telephone book
+### Telephone Book
 
 Setting aside pre-existing assumptions, members of the church would go through the Pretty Prairie section of the phone book to identify people for outreach. 
 
@@ -82,7 +82,7 @@ Correcting incorrect Google Map info
 
 And most important of all, encourage church members to use the website! The search ranking of the website will rise naturally as a result.
 
-## Online sharing and advertising
+## Online Sharing and Advertising
 
 ### Google Adwords
 
@@ -92,7 +92,7 @@ Google Adwords Pretty Prairie "Limited reach"
 Google Adwords Pretty Prairie targeting
 ![](marketing-strategy/google-adwords-pretty-prairie-targeting.png)
 
-### Facebook sharing and advertising
+### Facebook Sharing and Advertising
 
 Facebook is the 'king' of social traffic, with other networks such as Twitter, Instagram and Pinterest close behind. 
 
@@ -122,7 +122,7 @@ Or 1 km...
 
 ![](marketing-strategy/facebook-page-advertisement-reach-1km.png)
 
-### Twitter advertising
+### Twitter Advertising
 
 Twitter has a media playbook devoted to faith and religious ads can be occasionally found on Twitter. 
 
@@ -135,7 +135,7 @@ Example religious ad on Twitter
 
 Members of the church are less likely to use Twitter. However, Twitter is an option to keep in mind, particularly for reaching the public at large. 
 
-## Sample metrics
+## Sample Metrics
 
 The national United Methodist Church suggests using a Goals and Measurable Objectives Chart as part of its Marketing Plan Audit process. 
 
