@@ -35,9 +35,9 @@ A complex Research and Design Sprint might include:
 * Engineer
 * Marketer
 
-## Research Sprint Basics
+This would be a simpler Research and Design Sprint. I would do most of the work alone, and act as facilitator for select group work. 
 
-### Understand the "Problem"
+## Let's Identify the "Problem"
 
 * What questions do you want to answer?
 * What features/tasks do you want to test?
