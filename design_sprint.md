@@ -43,12 +43,13 @@ This would be a simpler Research and Design Sprint. I would do most of the work 
 * What features/tasks do you want to test?
 
 * Business opportunity 
-* Lightning demos 
-* Lay it out 
-* Success metrics — Ex. Kerry Rodden’s HEART framework.
 * Existing research 
 * Team interviews
 * Analytics
+
+* Lightning demos ("competitor" products or non-competitive products that offer insight)
+* Lay it out 
+* Success metrics — Ex. Kerry Rodden’s HEART framework.
 
 Can do User Studies/Microstudies/Team Interviews ahead of time if needed
 
@@ -79,6 +80,7 @@ Pretty Prairie [Area Map](https://drive.google.com/file/d/0B02bpu7HZwJRaVp5dGNMO
 
 ## Design Sprint
 
+* Understand the "problem"
 * Ponder "how might we"
 * Sketch the most important user story
 * Divide the user story up into parts
