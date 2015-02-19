@@ -88,6 +88,8 @@ SEO is an important aspect of ensuring that people 'discover' your website. Iden
 
 Website SEO
 
+In some websites, SEO will be optimized manually via the "head" part of the code. In other websites, SEO will be automatic. 
+
 ![](marketing-strategy/website-seo.jpg)
 
 Google is the most popular search engine in most countries, often followed by Yahoo. Identify the most important search phrases associated with your website and test the search results. Make sure that cookies are not enabled. Otherwise, your search results might be skewed due to the search history of the computer. 
