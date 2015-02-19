@@ -1,6 +1,6 @@
 # Website Options
 
-## Options order of priority
+## Options Order of Priority
 
 The web options chosen all provided value for money, with the two associated with the United Methodist Church being given first priority.
 
@@ -8,7 +8,7 @@ The web options chosen all provided value for money, with the two associated wit
 2. [Ezekial Web Hosting](http://umc.e-zekiel.com) (discount due to United Methodist partnership)
 3. [Squarespace](http://www.squarespace.com) (a low cost web host with beautiful [templates](http://www.squarespace.com/templates))
 
-## Options matrix 
+## Options Matrix 
 Board meeting slides
 <center>
 ![](web-hosting-options/web-hosting-options-matrix-page-1.png)
@@ -32,7 +32,7 @@ Pretty Prairie UMC Stained Glass Window Mockup
 Sunflowers Mockup
 ![](web-hosting-options/catching-everest-sunflowers-theme-desktop-mockup-white.jpg)
 
-Final verdict: The United Methodist Web Hosting templates that I felt were the most modern looking are two very popular and similar looking WordPress templates called [Twenty Eleven](https://wordpress.org/themes/twentyeleven) and [Catching Everest](https://wordpress.org/themes/catch-everest). As noted in Other Area Churches, nearby New Jerusalem Church is already using the [Twenty Eleven](https://wordpress.org/themes/twentyeleven) theme. I decided to forgo these in order to have something unique to Pretty Prairie United Methodist Church. 
+Final verdict: The United Methodist Web Hosting templates that I felt were the most modern looking are two very popular and similar looking WordPress templates called [Twenty Eleven](https://wordpress.org/themes/twentyeleven) and [Catching Everest](https://wordpress.org/themes/catch-everest). As noted in [Other Area Churches](other_area_churches.md), nearby New Jerusalem Church is already using the [Twenty Eleven](https://wordpress.org/themes/twentyeleven) theme. I decided to forgo these in order to have something unique to Pretty Prairie United Methodist Church. 
 
 ## Ezekiel 
 
