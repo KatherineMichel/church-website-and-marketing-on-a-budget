@@ -30,7 +30,7 @@ Here is the Google Trends graph for the phrase ["United Methodist Church" (regio
 
 ![](google-trends/google-trends-united-methodist-church-wichita-hutchinson.png)
 
-## The competition (not who you might expect)
+## The Competition (Not Who You Might Expect)
 
 Even as search interest in the United Methodist Church declined, in a short period of time during the past few years, a website with something of a mission for social justice called [Upworthy](http://www.upworthy.com) became "[the fastest-growing media site in history](http://www.fastcompany.com/3012649/how-upworthy-used-emotional-data-to-become-the-fastest-growing-media-site-of-all-time)," achieving growth that far surpassed that of its closest viral competitors: [Buzzfeed](http://www.buzzfeed.com), [Huffington Post](http://www.huffingtonpost.com), and [Business Insider](http://www.businessinsider.com). 
 
@@ -61,11 +61,11 @@ If, like me, you were a regular user of Facebook in the Fall of 2013, it's very 
 
 The success of Upworthy seems to make moot the argument that people are no longer interested in that which is uplifting. The viral competitors that Upworthy far surpassed in growth did not have the same social justice mission as Upworthy. 
 
-### The secret of Upworthy's success
+### The Secret of Upworthy's Success
 
 So why were a record number of people attracted to Upworthy content? How did Upworthy achieve this unprecedented growth and in such a short time? Feel free to find out from Upworthy's own [About Us Page](http://www.upworthy.com/about) and [PowerPoint presentations](http://www.slideshare.net/Upworthy) . In a nutshell, Upworthy's content is technically and emotionally optimized to induce sharing. Here is a summary of the Upworthy approach:
 
-#### 1. Repurposed and repackaged content
+#### 1. Repurposed and Repackaged Content
 
 Upworthy staff members comb through online content (often "[evergreen](http://en.wikipedia.org/wiki/Evergreen_(journalism))") to identify stories that have the potential to become viral
 
@@ -87,7 +87,7 @@ Upworthy Homepage: "The Last Ice Bucket Challenge You Need to See- And You Reall
 Upworthy detail: "[The Last Ice Bucket Challenge You Need to See- And You Really Should See It](http://www.upworthy.com/the-last-ice-bucket-challenge-you-need-to-see-and-you-really-should-see-it)"
 ![](upworthy/upworthy-als-ice-bucket-challenge-detail.jpg)
 
-#### 2. Website tactics
+#### 2. Website Tactics
 
 The Upworthy site is user tested and optimized to the nth degree, to attract attention, invoke a response, and make sharing easy from website and across the most high traffic sites. 
 
@@ -113,7 +113,7 @@ Upworthy modal tactic: "Ever seen these?"
 Upworthy modal tactic: "How about one more"
 ![](upworthy/upworthy-how-about-one-more-modal.png)
 
-#### 3. Responsive design 
+#### 3. Responsive Design 
 
 Upworthy's [responsive design](http://en.wikipedia.org/wiki/Responsive_web_design) adapts well to the device being used, resulting in an even higher popularity score for mobile browsing
 
@@ -123,7 +123,7 @@ Upworthy ranked #79 most popular desktop site (U.S.) by [Quantcast](https://www.
 Upworthy ranked #32 most popular mobile responsive site (U.S.) by [Quantcast](https://www.quantcast.com/top-mobile-sites)
 ![](upworthy/upworthy-quantcast-mobile-rankings.png)
 
-#### 4. High traffic social media profiles
+#### 4. High Traffic Social Media Profiles
 
 Upworthy goes to where the most people are:
 
@@ -139,7 +139,7 @@ Upworthy goes to where the most people are:
 [Upworthy YouTube Page](https://www.youtube.com/user/upworthy)
 ![](upworthy/upworthy-youtube-profile.png)
 
-#### 5. Use of social graph
+#### 5. Use of Social Graph
 
 Upworthy Facebook [graph "object"](https://www.google.com/search?q=upworthy+Facebook+Graph+%22Object%22&oq=upworthy+Facebook+Graph+%22Object%22&aqs=chrome..69i57.1673j0j4&sourceid=chrome&es_sm=0&ie=UTF-8#q=Facebook+Graph+%22Object%22)
 ![](upworthy/upworthy-als-ice-bucket-challenge-facebook-share.jpg)
@@ -162,7 +162,7 @@ Upworthy Pinterest ["pin" detail](https://www.pinterest.com/pin/4782964228992525
 Upworthy Tumblr [article](http://upworthy.tumblr.com/post/95396522788/the-last-ice-bucket-challenge-you-need-to-see)
 ![](upworthy/upworthy-als-ice-bucket-challenge-tumblr.jpg)
 
-#### 6. Repeat posting
+#### 6. Repeat Posting
 
 Upworthy Ice-Bucket Challenge article [repost #1](https://twitter.com/Upworthy/status/509090006003384320)
 ![](upworthy/upworthy-als-ice-bucket-challenge-twitter-repost.jpg)
@@ -178,15 +178,15 @@ Upworthy Ice-Bucket Challenge article [repost #3](https://twitter.com/Upworthy/s
 Upworthy example article [trending on Twitter](https://twitter.com/search?q=%40upworthy%20Literally%20the%20only%20ALS%20%23IceBucketChallenge%20you%20need%20to%20see&src=typd)
 ![](upworthy/upworthy-als-ice-bucket-challenge-twitter-trends.jpg)
 
-#### 8. [Network effect](http://en.wikipedia.org/wiki/Network_effect)
+#### 8. [Network Effect](http://en.wikipedia.org/wiki/Network_effect)
 
 Placeholder
 
-### The changing global ministry landscape and what the church can learn from Upworthy
+### The Changing Global Ministry Landscape and What the Church Can Learn from Upworthy
 
 The church should not aspire to be like Upworthy. However, there is a market for "uplifting" content. The church may need to repackage its message and how the message is delivered if it is to compete for the public's attention. 
 
-### Jesus and John Wesley, social pioneers
+### Jesus and John Wesley, Social Pioneers
 
 Perhaps the United Methodist Church need look no further than [social network](http://en.wikipedia.org/wiki/Social_network) pioneers Jesus and John Wesley for inspiration. 
 
