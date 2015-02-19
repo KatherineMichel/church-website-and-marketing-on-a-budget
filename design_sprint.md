@@ -1,14 +1,41 @@
 # Research and Design Sprint
 
+## What is This All About?
 I conducted a Research and Design Sprint loosely based on the Google Ventures [Research Sprint](http://www.gv.com/lib/the-gv-research-sprint-a-4-day-process-for-answering-important-startup-questions) and [Design Sprint](http://www.gv.com/sprint) models. 
 
+The point of the Research and Design Sprint is to design and user test a minimal, but realistic prototype without the time and expense of creating a full version. 
+
+## People and Supplies
 Taking stock of supplies on hand
 
 ![](design-sprint/supply-cabinet.jpg)
 
-The point of the Research and Design Sprint is to design and user test a minimal, but realistic prototype without the time and expense of creating a full version. 
+#### Supplies Needed
+* Sticky notes 
+* Drawing pens 
+* Whiteboard
+* Whiteboard markers
+* Dot stickers (for voting)
+* Timer 
+* Snacks 
+* Sticky stuff
 
-## Research Sprint
+* And a working space
+
+#### People Needed
+
+At least one person
+
+A complex Research and Design Sprint might include: 
+* Facilitator
+* CEO (buy-in/decision-maker)
+* Designer
+* Product manager
+* User expert 
+* Engineer
+* Marketer
+
+## Research Sprint Basics
 
 ### Understand the "Problem"
 
@@ -42,29 +69,6 @@ Pretty Prairie [Area Map](https://drive.google.com/file/d/0B02bpu7HZwJRaVp5dGNMO
 [Population by Age and Race Trend 2014](https://drive.google.com/file/d/0B02bpu7HZwJRelJTXzd1XzVWUE0/view?usp=sharing)
 
 ## Design Sprint
-
-Only need 1 person; Optionally, include:
-* Designer
-* CEO (buy-in/decision-maker)
-* Product manager
-* User expert 
-* Engineer
-* Marketer
-* Anybody else who’s interested
-
-Find a facilitator, if needed
-
-Find a working space
-
-Supplies Needed:
-* Sticky notes 
-* Drawing pens 
-* Whiteboards 
-* Whiteboard markers
-* Dot stickers (for voting)
-* Time Timer Clock 
-* Snacks 
-* Sticky stuff
 
 * Business opportunity 
 * Lightning demos 
