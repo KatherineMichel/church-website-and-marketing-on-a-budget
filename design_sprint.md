@@ -42,6 +42,15 @@ This would be a simpler Research and Design Sprint. I would do most of the work 
 * What questions do you want to answer?
 * What features/tasks do you want to test?
 
+* Business opportunity 
+* Lightning demos 
+* Lay it out 
+* Success metrics — Ex. Kerry Rodden’s HEART framework.
+* Existing research 
+* Team interviews
+* Analytics
+
+Can do User Studies/Microstudies/Team Interviews ahead of time if needed
 
 [Google Ventures Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)
 
@@ -70,18 +79,7 @@ Pretty Prairie [Area Map](https://drive.google.com/file/d/0B02bpu7HZwJRaVp5dGNMO
 
 ## Design Sprint
 
-* Business opportunity 
-* Lightning demos 
-* Lay it out 
-* Success metrics — Ex. Kerry Rodden’s HEART framework.
-* Existing research 
-* Team interviews
-* Analytics
-
-Can do User Studies/Microstudies/Team Interviews ahead of time if needed
-
-Sketch the most important user story (as a group) = visual map
-
+* Sketch the most important user story
 * Choose parts of the problem (divide up user story)
 * Take notes (5 minutes) "how might we"
 * Mind map (10–15 minutes)
@@ -90,7 +88,7 @@ Sketch the most important user story (as a group) = visual map
 * Three-minute critiques (3 minutes per idea)
 
 * Whiteboard the final user story (comic book frames)
-* Create protoype
+* Create protoype for user test
 
 ### User Testing
 
