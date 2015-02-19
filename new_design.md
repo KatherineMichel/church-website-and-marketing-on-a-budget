@@ -1,6 +1,6 @@
 # New Design :) 
 
-## New website
+## New Website
 [www.prettyprairieumc.org](www.prettyprairieumc.org)
 
 [![](new-materials/new-website-home-page.jpg)](http://prettyprairieumc.org)
@@ -11,7 +11,7 @@
 [![](new-materials/new-facebook-page.png)](https://www.facebook.com/prettyprairieumc)
 </center>
 
-## New e-newsletter
+## New e-Newsletter
 (Some information altered to protect privacy) 
 <center>
 ![](new-materials/new-newsletter-page-1.png)
@@ -23,13 +23,13 @@
 ![](new-materials/new-newsletter-page-4.png)
 </center>
 
-## New bulletin (example)
+## New Bulletin (example)
 
 Front cover
 
 Inside
 
-## New multi-purpose greeting card (example)
+## New Multi-Purpose Greeting Card (example)
 
 Front cover<br>
 <center>
@@ -44,7 +44,7 @@ Back cover<br>
 ![](new-materials/new-greeting-card-back-cover.png)
 </center>
 
-## New multi-purpose postcard (example)
+## New Multi-Purpose Postcard (example)
 
 <center>
 ![](new-materials/new-post-card.png)
