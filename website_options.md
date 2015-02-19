@@ -51,6 +51,6 @@ Final verdict: I quickly ruled Ezekiel out because I felt its content management
 Final verdict: Squarespace is the web host that I chose for the church. I felt that Squarespace offers the best value for money. Squarespace is in the middle pricewise, but still very reasonably priced. The beautiful, modern templates would ensure a unique look, and the intuitive content management system could potentially be used by non-techies and occasional volunteers in order to keep the content relevant.    
 
 Screenshot of finished website: [www.prettyprairieumc.org](www.prettyprairieumc.org). <br>
-To check out more of the design process, go to [Design Sprint](design_sprint.md). <br>
+To check out more of the design process, go to [Research and Design Sprint](design_sprint.md). <br>
 To see more of the finished materials, go to [New Design](new_design.md) :) 
 [![](new-materials/new-website-home-page.jpg)](http://prettyprairieumc.org)
