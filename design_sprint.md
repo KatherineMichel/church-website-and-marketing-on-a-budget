@@ -44,41 +44,16 @@ This would be a simpler Research and Design Sprint. I would do most of the work 
 * What questions do you want to answer?
 * What features/tasks do you want to test?
 
+Go through the [Google Ventures Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research) 
+
 ### Opportunity
 
 * Identify the "business" opportunity
 
+### Leverage
 
-* Existing research, Analytics
-
-
-
-Can do User Studies/Microstudies/Team Interviews ahead of time if needed
-
-[Google Ventures Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)
-
-### Demographic Info
-
-Pretty Prairie, Central Kansas, West of Wichita
-![](marketing-strategy/google-map-pretty-prairie-kansas.png)
-
-North of Kingman, South of Hutchinson, near the Amish community of Yoder
-
-![](marketing-strategy/google-map-pretty-prairie-wichita.png)
-
-Through the national United Methodist Church, I obtained the most recent Nielson Company demographic info for the city of Pretty Prairie, Kansas. 
-
-Important points:
-
-Pretty Prairie [Area Map](https://drive.google.com/file/d/0B02bpu7HZwJRaVp5dGNMOUpYbU0/view?usp=sharing)
-
-[Executive Summary](https://drive.google.com/file/d/0B02bpu7HZwJRMFJTM3BWZXprbWM/view?usp=sharing)
-
-[Household Trends](https://drive.google.com/file/d/0B02bpu7HZwJRV1dnSGplRUxmMDg/view?usp=sharing)
-
-[Pop-Facts: Census Demographic Overview 2014 Report](https://drive.google.com/file/d/0B02bpu7HZwJRSHFwVm5kX0FHMmc/view?usp=sharing)
-
-[Population by Age and Race Trend 2014](https://drive.google.com/file/d/0B02bpu7HZwJRelJTXzd1XzVWUE0/view?usp=sharing)
+* Gather existing research, analytics
+* If needed, conduct interviews, microstudies
 
 ## Design Sprint
 
