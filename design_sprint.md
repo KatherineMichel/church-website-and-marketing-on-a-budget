@@ -2,7 +2,7 @@
 
 I conducted a Research and Design Sprint loosely based on the Google Ventures [Research Sprint](http://www.gv.com/lib/the-gv-research-sprint-a-4-day-process-for-answering-important-startup-questions) and [Design Sprint](http://www.gv.com/sprint) models. 
 
-Taking Stock of Supplies on Hand
+Taking stock of supplies on hand
 
 ![](design-sprint/supply-cabinet.jpg)
 
