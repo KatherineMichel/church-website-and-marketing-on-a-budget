@@ -91,11 +91,9 @@ Example recruiting screener
 
 Phone call to prospective user
 
-Follow up email with request to prospective user to reply to confirm; Optionally, include a link to a non-disclosure agreement to sign
+Follow up email with request to prospective user to reply to confirm; If applicable, include a link to a non-disclosure agreement to sign (Google Ventures [example non-disclosure agreement](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Sample-NDA.pdf))
 
 Confirmation email
-
-Google Ventures [example non-disclosure agreement](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Sample-NDA.pdf)
 
 Interview guide
 
