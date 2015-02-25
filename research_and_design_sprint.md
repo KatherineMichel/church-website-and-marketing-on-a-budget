@@ -36,8 +36,13 @@ Helpful resource: the [Google Ventures Questions to Ask Before Starting User Res
 * Dwindling local population 
 * Aged local population
 * Four churches in close proximity
+* Decreasing effectiveness of traditional methods due to modern lifestyle 
 
 ### The "business" opportunity
+ 
+* Untapped potential of modernization
+* More ways than ever to reach people
+* Decreasing importance of physical proximity
  
 ### Leverage
 
