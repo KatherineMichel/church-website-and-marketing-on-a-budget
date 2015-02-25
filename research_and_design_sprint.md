@@ -74,24 +74,31 @@ Go through the [Google Ventures Questions to Ask Before Starting User Research](
 
 ### User Testing
 
-* Define favorable and unfavorable user criteria
-* Post ad for users, including link to recruiting screener questionnaire
+Favorable user criteria 
 
-When you have identified prospective users: 
+Unfavorable user criteria
 
-* Call the prospective users by phone
-* Send a follow-up email, including important info and a link to non-disclosure agreement to sign; Request prospective user to reply to confirm
+Example user ad with link to recruiting screener
+
+Example recruiting screener
+
+Phone call to prospective user
+
+Follow up email with link to non-disclosure agreement to sign and request to prospective user to reply to confirm
+
+Non-disclosure agreement
 
 Example confirmation email
 
 Example non-disclosure agreement
 
-* Create interview guide
-
 Example interview guide
 
-* Conduct user study
-* Summarize and analyze findings
+Picture of user study
+
+Summary and analysis of findings
+
+
 
 
 
