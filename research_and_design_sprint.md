@@ -57,12 +57,15 @@ Go through the [Google Ventures Questions to Ask Before Starting User Research](
 
 ## Design Sprint
 
-* Print out existing product screens
-* Lightening demo "competitor" products, or non-competitive products that offer insight
-* Identify success metric (ex. HEART framework)
+Existing product screens
 
-* Understand the "problem"
-* Ponder "how might we"
+Lightening demo of "competitor" products, or non-competitive products that offer insight
+
+Success metrics (ex. HEART framework)
+
+Understanding the "problem"
+
+"How might we"
 
 Sketch of most important user story
 
