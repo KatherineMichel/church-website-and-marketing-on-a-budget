@@ -1,5 +1,7 @@
 # Marketing Strategy
 
+The new marketing strategy would incorporate both traditional and modern methods in order to fit with changing lifestyles, and to reach the most people possible, perhaps even beyond city boundaries. 
+
 ## Church Mission Statement
 
 "To glorify God by sharing the love of God, the teachings of Jesus Christ and the power of the Holy Spirit within our community"
