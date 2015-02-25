@@ -1,7 +1,5 @@
 # Church Re-Imagined
 
-And the new marketing strategy would incorporate both traditional and modern methods in order to fit with changing lifestyles, and to reach the most people possible, perhaps even beyond city boundaries. 
-
 ## Church Image Rebrand
 
 Like the Pretty Prairie United Methodist Church itself, the new church theme will beautifully blend the traditional and the conventional by incorporating:
