@@ -34,9 +34,9 @@ Helpful resource: the [Google Ventures Questions to Ask Before Starting User Res
 ### The "business" problem
 
 * Dwindling local population 
-* Aged local population
+* Predominantly middle age and older local population
 * Four churches in close proximity
-* Decreasing effectiveness of traditional methods due to modern lifestyle 
+* Increasingly digital lifestyles
 
 ### The "business" opportunity
  
