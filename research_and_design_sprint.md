@@ -35,7 +35,9 @@ I would do most of the work alone, and act as facilitator for select group work.
 
 Go through the [Google Ventures Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research) 
 
-### Opportunity
+### Problem and Opportunity
+
+The "business" problem
 
 The "business" opportunity
 
