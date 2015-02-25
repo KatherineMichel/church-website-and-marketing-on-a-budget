@@ -63,14 +63,22 @@ Go through the [Google Ventures Questions to Ask Before Starting User Research](
 
 * Understand the "problem"
 * Ponder "how might we"
-* Sketch the most important user story
-* Divide the user story up into parts
-* Create a mind map (10–15 minutes)
-* Crazy Eights (5 minutes)
-* Storyboard (10–20 minutes)
-* Critiques (3 minutes per idea) and decide
-* Whiteboard the final user story (comic book frames)
-* Create protoype for user test
+
+Sketch of most important user story
+
+User story divided into parts
+
+Mind map 
+
+Crazy Eights 
+
+Storyboard 
+
+Critiques to decide final user story
+
+Whiteboard of final user story 
+
+Prototype to user test
 
 ### User Testing
 
