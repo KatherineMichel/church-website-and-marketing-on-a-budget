@@ -55,9 +55,9 @@ Existing research, analytics
 
 Notes from previous church strategy meetings
 
-## Design Sprint
-
 Existing product screens
+
+## Design Sprint
 
 See [Lightning Demos](lightning_demos.md) section for analysis of similar products that offer insight
 
