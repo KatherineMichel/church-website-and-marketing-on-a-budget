@@ -91,8 +91,6 @@ Phone call to prospective user
 
 Follow up email with request to prospective user to reply to confirm; Optionally, include a link to a non-disclosure agreement to sign
 
-Non-disclosure agreement
-
 Example confirmation email
 
 Google Ventures example non-disclosure agreement
