@@ -40,8 +40,9 @@ Helpful resource: the [Google Ventures Questions to Ask Before Starting User Res
 
 ### The "business" opportunity
  
-* Untapped potential of modernization
+* Untapped potential via modernization
 * More channels than ever to reach people
+* Greater accessibility of resources and knowledge
 * Decreasing importance of physical proximity
 * Larger potential user base
  
