@@ -95,7 +95,7 @@ Confirmation email
 
 Google Ventures example non-disclosure agreement
 
-Example interview guide
+Interview guide
 
 Picture of user study
 
