@@ -1,9 +1,9 @@
 # Research and Design Sprint
 
-## What is This All About?
+## Purpose
 I conducted a Research and Design Sprint loosely based on the Google Ventures [Research Sprint](http://www.gv.com/lib/the-gv-research-sprint-a-4-day-process-for-answering-important-startup-questions) and [Design Sprint](http://www.gv.com/sprint) models. 
 
-The point of the Research and Design Sprint is to design and user test a minimal, but realistic prototype (that potentially solves a problem) without the time and expense of creating a full version. 
+The purpose of the Research and Design Sprint is to design and user test a minimal, but realistic prototype (that potentially solves a problem) without the time and expense of creating a full version. 
 
 ## People and Supplies
 Taking stock of supplies on hand
@@ -26,22 +26,20 @@ Taking stock of supplies on hand
 
 I would do most of the design work alone, and act as facilitator for select brainstorming and planning group work, particularly involving the church's Nurture Outreach Witness (NOW) Committee. 
 
-## Let's Identify the "Problem"
+## Identifying the Problem and Opportunity
 
-### Wanted: Answers
+Helpful resource: the [Google Ventures Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research) 
 
 * What questions do you want to answer?
 * What features/tasks do you want to test?
 
-Go through the [Google Ventures Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research) 
+### The "business" problem
 
-### Problem and Opportunity
-
-The "business" problem
-
-The "business" opportunity
-
+### The "business" opportunity
+ 
 ### Leverage
+
+Understanding the "problem"
 
 Existing research, analytics
 
@@ -59,7 +57,7 @@ Success metrics (ex. [HEART framework](https://www.gv.com/lib/how-to-choose-the-
 
 [Goals-Signals-Metrics process](https://www.gv.com/lib/how-to-choose-the-right-ux-metrics-for-your-product)
 
-Understanding the "problem"
+UMC Metrics
 
 "How might we"
 
