@@ -85,9 +85,9 @@ Favorable user criteria
 
 Unfavorable user criteria
 
-Example user ad with link to recruiting screener
+Email with link to recruiting screener
 
-Example recruiting screener
+Recruiting screener
 
 Phone call to prospective user
 
