@@ -3,7 +3,7 @@
 ## What is This All About?
 I conducted a Research and Design Sprint loosely based on the Google Ventures [Research Sprint](http://www.gv.com/lib/the-gv-research-sprint-a-4-day-process-for-answering-important-startup-questions) and [Design Sprint](http://www.gv.com/sprint) models. 
 
-The point of the Research and Design Sprint is to design and user test a minimal, but realistic prototype without the time and expense of creating a full version. 
+The point of the Research and Design Sprint is to design and user test a minimal, but realistic prototype (that potentially solves a problem) without the time and expense of creating a full version. 
 
 ## People and Supplies
 Taking stock of supplies on hand
@@ -24,18 +24,7 @@ Taking stock of supplies on hand
 
 #### People Needed
 
-At least one person
-
-A complex Research and Design Sprint might include: 
-* Facilitator
-* CEO (buy-in/decision-maker)
-* Designer
-* Product manager
-* User expert 
-* Engineer
-* Marketer
-
-This would be a simpler Research and Design Sprint. I would do most of the work alone, and act as facilitator for select group work. 
+I would do most of the work alone, and act as facilitator for select group work. 
 
 ## Let's Identify the "Problem"
 
@@ -48,12 +37,15 @@ Go through the [Google Ventures Questions to Ask Before Starting User Research](
 
 ### Opportunity
 
-* Identify the "business" opportunity
+The "business" opportunity
 
 ### Leverage
 
-* Gather existing research, analytics
-* If needed, conduct interviews, microstudies
+Existing research, analytics
+
+Notes from previous church strategy meetings
+
+Interviews notes
 
 ## Design Sprint
 
