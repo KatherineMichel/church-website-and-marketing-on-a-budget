@@ -10,7 +10,8 @@ Taking stock of supplies on hand
 
 ![](design-sprint/supply-cabinet.jpg)
 
-#### Supplies Needed
+#### [Supplies Needed](http://amzn.com/lm/RS9AYY6BTLDCM)
+* Paper
 * Sticky notes 
 * Drawing pens 
 * Whiteboard
@@ -30,14 +31,14 @@ I would do most of the design work alone, and act as facilitator for select brai
 
 Helpful resource: the [Google Ventures Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research) 
 
-* What questions do you want to answer?
-* What features/tasks do you want to test?
-
 ### The "business" problem
 
 ### The "business" opportunity
  
 ### Leverage
+
+* What questions do you want to answer?
+* What features/tasks do you want to test?
 
 Understanding the "problem"
 
