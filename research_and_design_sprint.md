@@ -16,9 +16,9 @@ Taking stock of supplies on hand
 * Whiteboard
 * Whiteboard markers
 * Dot stickers (for voting)
+* Sticky stuff
 * Timer 
 * Snacks 
-* Sticky stuff
 
 * And a working space
 
