@@ -53,7 +53,7 @@ Interviews notes
 
 Existing product screens
 
-Lightening demo of "competitor" products, or non-competitive products that offer insight
+See Lightening Demo section for analysis of similar products that offer insight
 
 Success metrics (ex. HEART framework)
 
