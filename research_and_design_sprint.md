@@ -55,7 +55,9 @@ Existing product screens
 
 See [Lightning Demos](lightning_demos.md) section for analysis of similar products that offer insight
 
-Success metrics (ex. HEART framework)
+Success metrics (ex. [HEART framework](https://www.gv.com/lib/how-to-choose-the-right-ux-metrics-for-your-product))
+
+[Goals-Signals-Metrics process](https://www.gv.com/lib/how-to-choose-the-right-ux-metrics-for-your-product)
 
 Understanding the "problem"
 
