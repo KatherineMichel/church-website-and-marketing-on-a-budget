@@ -95,7 +95,7 @@ Follow up email with request to prospective user to reply to confirm; Optionally
 
 Confirmation email
 
-Google Ventures example non-disclosure agreement
+Google Ventures [example non-disclosure agreement](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Sample-NDA.pdf)
 
 Interview guide
 
