@@ -55,8 +55,6 @@ Existing research, analytics
 
 Notes from previous church strategy meetings
 
-Interviews notes
-
 ## Design Sprint
 
 Existing product screens
