@@ -24,7 +24,7 @@ Taking stock of supplies on hand
 
 #### People Needed
 
-I would do most of the work alone, and act as facilitator for select group work. 
+I would do most of the work alone, and act as facilitator for select group work, particularly involving the church's Nurture Outreach Witness (NOW) Committee. 
 
 ## Let's Identify the "Problem"
 
