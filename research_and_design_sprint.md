@@ -33,6 +33,10 @@ Helpful resource: the [Google Ventures Questions to Ask Before Starting User Res
 
 ### The "business" problem
 
+* Dwindling local population 
+* Aged local population
+* Four churches in close proximity
+
 ### The "business" opportunity
  
 ### Leverage
