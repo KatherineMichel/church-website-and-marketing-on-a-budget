@@ -1,5 +1,7 @@
 # Website Options
 
+Ideally, the church website and other materials would have a clean, modern, minimalistic look, with a lightweight, responsive layout that adapts well from desktop to mobile, and other devices. The website would have an intuitive content management system that could be used by non-techies and occasional volunteers. 
+
 ## Options Order of Priority
 
 The web options chosen all provided value for money, with the two associated with the United Methodist Church being given first priority.
