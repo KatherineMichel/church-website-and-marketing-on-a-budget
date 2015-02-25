@@ -8,7 +8,7 @@
 * [Research and Design Sprint](research_and_design_sprint.md)
 * [Church Re-Imagined](church_re-imagined.md)
 * [Marketing Strategy](marketing_strategy.md)
-* [Other Area Churches](other_area_churches.md)
+* [Lightning Demos](lightning_demos.md)
 * [Website Options](website_options.md)
 * [Old Design](old_design.md)
 * [New Design :) ](new_design.md)
