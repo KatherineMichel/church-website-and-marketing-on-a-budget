@@ -53,7 +53,7 @@ Interviews notes
 
 Existing product screens
 
-See Lightning Demo section for analysis of similar products that offer insight
+See [Lightning Demos](lightning_demos.md) section for analysis of similar products that offer insight
 
 Success metrics (ex. HEART framework)
 
