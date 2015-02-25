@@ -40,8 +40,6 @@ Helpful resource: the [Google Ventures Questions to Ask Before Starting User Res
 * What questions do you want to answer?
 * What features/tasks do you want to test?
 
-Understanding the "problem"
-
 Existing research, analytics
 
 Notes from previous church strategy meetings
