@@ -27,29 +27,6 @@ Tactics from $300 to $1000
 Tactics over $1000
 ![](marketing-strategy/tactics-over-$1000.png)
 
-## Demographic Info
-
-Pretty Prairie, Central Kansas, West of Wichita
-![](marketing-strategy/google-map-pretty-prairie-kansas.png)
-
-North of Kingman, South of Hutchinson, near the Amish community of Yoder
-
-![](marketing-strategy/google-map-pretty-prairie-wichita.png)
-
-Through the national United Methodist Church, I obtained the most recent Nielson Company demographic info for the city of Pretty Prairie, Kansas. 
-
-Important points:
-
-Pretty Prairie [Area Map](https://drive.google.com/file/d/0B02bpu7HZwJRaVp5dGNMOUpYbU0/view?usp=sharing)
-
-[Executive Summary](https://drive.google.com/file/d/0B02bpu7HZwJRMFJTM3BWZXprbWM/view?usp=sharing)
-
-[Household Trends](https://drive.google.com/file/d/0B02bpu7HZwJRV1dnSGplRUxmMDg/view?usp=sharing)
-
-[Pop-Facts: Census Demographic Overview 2014 Report](https://drive.google.com/file/d/0B02bpu7HZwJRSHFwVm5kX0FHMmc/view?usp=sharing)
-
-[Population by Age and Race Trend 2014](https://drive.google.com/file/d/0B02bpu7HZwJRelJTXzd1XzVWUE0/view?usp=sharing)
-
 # Sample Plan
 
 ## Example Budget
