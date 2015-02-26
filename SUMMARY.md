@@ -12,5 +12,5 @@
 * [Old Design](old_design.md)
 * [Church Re-Brand](church_re-brand.md)
 * [New Design :)](new_design.md)
-* Church Re-Imagined
+* [Church Re-Imagined](church_re-imagined.md)
 
