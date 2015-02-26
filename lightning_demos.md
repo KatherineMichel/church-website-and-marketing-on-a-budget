@@ -1,8 +1,10 @@
 # Other Area Churches
 
+In a [Research and Design Sprint](research_and_design_sprint.md), a "lightning demo" is a demo of a "competitor" product, or non-competitive product that offers insight
+
 ## Lightning Demos
 
-When considering web hosting options, it was helpful to look at the websites of other area churches (see below) to see what web hosts and functionality are popular among other churches in the same demographic. In a [Research and Design Sprint](research_and_design_sprint.md), this is called a "lightning demo." Participants demo "competitor" product, or non-competitive products that offer insight
+When considering web hosting options, it was helpful to look at the websites of other area churches (see below) to see what web hosts and functionality are popular among other churches in the same demographic. 
 
 ### Calvary Chapel
 
