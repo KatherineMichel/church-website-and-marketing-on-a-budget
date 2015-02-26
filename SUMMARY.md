@@ -10,8 +10,8 @@
 * [Marketing Strategy](marketing_strategy.md)
 * [Lightning Demos](lightning_demos.md)
 * [Website Options](website_options.md)
+* [Church Re-Brand](church_re-brand.md)
 * [Old Design](old_design.md)
 * [New Design :)](new_design.md)
 * Church Re-Imagined
-* [Church Re-Brand](church_re-brand.md)
 
