@@ -31,5 +31,3 @@ The number of church outreach materials will be streamlined, with a common brand
 Templates in both color and black-and-white will be created to address the impracticality of printing color copies versus sending electronically.
 
 [United Methodist Church Brand Guidelines](http://www.umcom.org/tools/brand-guidelines)
-
-[United Methodist Church Brand Manual](http://s3.amazonaws.com/Website_Properties_UGC/tools/documents/brand_manual_12-01.pdf)
