@@ -160,11 +160,3 @@ Example religious ad on Twitter
 ![](marketing-strategy/twitter-religious-advertisement.png)
 
 Members of the church are less likely to use Twitter. However, Twitter is an option to keep in mind, particularly for reaching the public at large. 
-
-## Sample Metrics
-
-The national United Methodist Church suggests using a Goals and Measurable Objectives Chart as part of its Marketing Plan Audit process. 
-
-![Goals and Measurable Objectives Chart Example 1](marketing-strategy/marketing-strategy-goals-measurable-objectives-chart-example-1.png)
-
-![Goals and Measurable Objectives Chart Example 2](marketing-strategy/marketing-strategy-goals-measurable-objectives-chart-example-2.png)
