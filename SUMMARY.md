@@ -13,4 +13,5 @@
 * [Old Design](old_design.md)
 * [New Design :)](new_design.md)
 * Church Re-Imagined
+* Church Re-Brand
 
