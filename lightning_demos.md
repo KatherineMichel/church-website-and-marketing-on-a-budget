@@ -23,6 +23,8 @@ Cons:
 </center>
 
 Pros:
+* Service livestreaming
+* Weekly content
 
 Cons: 
 
@@ -32,7 +34,10 @@ Cons:
 ![](area-churches/new-jerusalem-church.jpg)
 </center>
 Pros:
+* Online donations
 
 Cons: 
-
+* Commonly seen WordPress template used
+* Color and photo choice could be more attractive
+ 
 Notably, New Jerusalem Church is using the very popular WordPress [Twenty Eleven](https://wordpress.org/themes/twentyeleven) theme. I also considered this template for Pretty Prairie United Methodist Church because the national United Methodist Church offers this template as part of its hosting platform. But, I decided to forgo it in order to have something unique to Pretty Prairie United Methodist Church. 
