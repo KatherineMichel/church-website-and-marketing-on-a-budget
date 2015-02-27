@@ -1,6 +1,6 @@
 # Website Options
 
-## Options Order of Priority
+## Website Options Order of Priority
 
 The web options chosen all provided value for money, with the two associated with the United Methodist Church being given first priority.
 
