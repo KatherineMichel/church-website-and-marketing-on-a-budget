@@ -7,6 +7,8 @@ Like the Pretty Prairie United Methodist Church itself, the new church theme wil
 Original, license-free, Morgue File Photo used in new materials
 ![](new-brand/sunflowers-morgue-file-original.jpg)
 
+## Church Scheme
+
 ## New Materials
 
 The number of church outreach materials will be streamlined, with a common brand experience incorporated into them all. For example, instead of twelve inconsistently designed post cards, one beautiful postcard template will be altered to suit the purpose at hand. 
