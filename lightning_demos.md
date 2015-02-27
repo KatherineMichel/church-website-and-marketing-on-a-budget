@@ -59,11 +59,13 @@ Pros:
 * Up-to-date calendar
 * Online donations
 * Facebook share and like buttons
+* Facebook Page like buttons
 * Messages accepted via website
 
 Cons: 
 * Commonly seen WordPress template used
 * Color and photo choice/editing could at times be used to better effect
 * Pictures and Videos page looks as though it stopped being updated years ago
+* Could do with a direct link to New Jerusalem's often-updated [Facebook Page](https://www.facebook.com/newjerusalemchurchprettyprairieks)
 
 Notably, New Jerusalem Church is using the very popular WordPress [Twenty Eleven](https://wordpress.org/themes/twentyeleven) theme. I also considered this template for Pretty Prairie United Methodist Church because the national United Methodist Church offers this template as part of its hosting platform. But, I decided to forgo it in order to have something unique to Pretty Prairie United Methodist Church. 
