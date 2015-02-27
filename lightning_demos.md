@@ -8,12 +8,13 @@ When considering web hosting options, it was helpful to look at the websites of 
 
 ### Calvary Chapel
 
+http://calvarychapel-pp.com
 <center>
 [![](area-churches/calvary-chapel.jpg)](http://calvarychapel-pp.com)
 </center>
 
 Pros:
-* Nice, logical look to website, with prairie color schemes and pictures of wheat
+* Nice, logical look to website, with prairie color scheme and pictures of wheat
 * Layout makes good use of white space
 * Easy to navigate menu
 * Sermon MP3 files posted weekly
