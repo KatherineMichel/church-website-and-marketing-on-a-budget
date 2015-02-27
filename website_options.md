@@ -54,5 +54,5 @@ Final verdict: Squarespace is the web host that I chose for the church. I felt t
 
 Screenshot of finished website: [www.prettyprairieumc.org](www.prettyprairieumc.org). <br>
 To check out more of the design process, go to [Research and Design Sprint](research_and_design_sprint.md). <br>
-To see more of the finished materials, go to [New Design](new_design.md) :) 
-[![](new-materials/new-website-home-page.jpg)](http://prettyprairieumc.org)
+To see more of the finished materials, go to [Church Re-Imagined](church_re-imagined.md) :) 
+[![](church-re-imagined/new-website-home-page.jpg)](http://prettyprairieumc.org)
