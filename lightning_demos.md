@@ -19,7 +19,7 @@ Pros:
 * Easy to navigate menu
 * Sermon MP3 files posted weekly
 * Up-to-date calendar
-* Photos albums hosted directly on website
+* Photo albums hosted directly on website
 * Prayer requests accepted online
 
 Cons: 
