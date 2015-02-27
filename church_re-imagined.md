@@ -2,7 +2,7 @@
 
 ## Church Image Rebrand
 
-Like the Pretty Prairie United Methodist Church itself, the new church theme will beautifully blend the traditional and the contemporary by incorporating the traditional United Methodist Church [black cross and flame](http://www.umc.org/resources/cross-and-flame) with a contemporary sunflower motif. 
+Like the Pretty Prairie United Methodist Church itself, the new church theme will beautifully blend the traditional and the contemporary by incorporating the traditional United Methodist Church [black cross and flame](http://cdnfiles.umc.org/Website_Properties/Resources/graphics-library/cross-and-flame-bw-1058x1818.png) with a contemporary sunflower motif. 
 
 Original, license-free, Morgue File Photo used in new materials
 ![](church-re-imagined/sunflowers-morgue-file-original.jpg)
