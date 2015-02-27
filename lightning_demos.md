@@ -26,18 +26,25 @@ Cons:
 * Blog out-of-date
 * Sparse photos with no reference to year
 * Lack of link to Calvary Chapel's often-updated Facebook Page
-
+* Lack of share buttons
+ 
 ### First Mennonite Church
 
+http://www.fmcprettyprairie.org
 <center>
-![](area-churches/first-mennonite-church.jpg)
+[![](area-churches/first-mennonite-church.jpg)](http://www.fmcprettyprairie.org)
 </center>
 
 Pros:
-* Service livestreaming
-* Weekly content
+* Live video streaming with video archive and "message" resources updated weekly
+* Share buttons
+* Up-to-date calendar
+* Messages accepted online
 
 Cons: 
+* Somewhat outdated looking design; gimmicky lighthouse gif at the top of site; use of whitespace could be better
+* Drop-down menu slightly convoluted 
+* Lack of obvious photos = missed opportunity 
 
 ### New Jerusalem Church
 
