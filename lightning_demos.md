@@ -20,7 +20,7 @@ Pros:
 * Sermon MP3 files posted weekly
 * Up-to-date calendar
 * Photo albums hosted directly on website
-* Prayer requests accepted online
+* Prayer requests accepted via website
 
 Cons: 
 * Blog out-of-date
@@ -39,14 +39,14 @@ Pros:
 * Live video streaming with video archive and "message" resources updated weekly
 * Share buttons
 * Up-to-date calendar
-* Messages accepted online
+* Messages accepted via website
 
 Cons: 
 * Somewhat outdated looking design; gimmicky lighthouse gif at the top of site; use of whitespace could be better
 * Drop-down menu slightly convoluted 
 * Lack of obvious photos = missed opportunity 
 * Apparent lack of a blog
-* Archive that looks as though it stopped being updated years ago
+* Archive looks as though it stopped being updated years ago
 
 ### New Jerusalem Church
 
@@ -58,11 +58,12 @@ Pros:
 * Up-to-date blog posts
 * Up-to-date calendar
 * Online donations
-* Share buttons
+* Facebook share and like buttons
+* Messages accepted via website
 
 Cons: 
 * Commonly seen WordPress template used
 * Color and photo choice/editing could at times be used to better effect
-* Pictures and Videos page that looks as though it stopped being updated years ago
+* Pictures and Videos page looks as though it stopped being updated years ago
 
 Notably, New Jerusalem Church is using the very popular WordPress [Twenty Eleven](https://wordpress.org/themes/twentyeleven) theme. I also considered this template for Pretty Prairie United Methodist Church because the national United Methodist Church offers this template as part of its hosting platform. But, I decided to forgo it in order to have something unique to Pretty Prairie United Methodist Church. 
