@@ -11,6 +11,5 @@
 * [Lightning Demos](lightning_demos.md)
 * [Old Design](old_design.md)
 * [Website Options](website_options.md)
-* [Church Re-Brand](church_re-brand.md)
 * [Church Re-Imagined :)](church_re-imagined.md)
 
