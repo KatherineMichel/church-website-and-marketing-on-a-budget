@@ -9,6 +9,9 @@ The web options chosen all provided value for money, with the two associated wit
 3. [Squarespace](http://www.squarespace.com) (a low cost web host with beautiful, responsive [templates](http://www.squarespace.com/templates))
 
 ## Options Matrix 
+
+After presenting my preliminary research and mock ups to the church's Administrative Council, a motion was made that I choose the option that I felt was best. 
+
 Board meeting slides
 <center>
 ![](web-hosting-options/web-hosting-options-matrix-page-1.png)
@@ -49,7 +52,7 @@ Final verdict: I quickly ruled Ezekiel out because I felt its content management
 ## Squarespace
 
 Squarespace was attractive due to:
-* Its low price ([$8/month including domain with year commitment](http://www.squarespace.com/pricing))
+* Its low price ([$8/month including domain, with year commitment](http://www.squarespace.com/pricing))
 * Beautiful, responsive [templates](http://www.squarespace.com/templates)
 * Intuitive content management system 
 
