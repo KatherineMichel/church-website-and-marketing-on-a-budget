@@ -9,12 +9,22 @@ When considering web hosting options, it was helpful to look at the websites of 
 ### Calvary Chapel
 
 <center>
-![](area-churches/calvary-chapel.jpg)
+[![](area-churches/calvary-chapel.jpg)](http://calvarychapel-pp.com)
 </center>
 
 Pros:
+* Nice, logical look to website, with prairie color schemes and pictures of wheat
+* Layout makes good use of white space
+* Easy to navigate menu
+* Sermon MP3 files posted weekly
+* Up-to-date calendar
+* Photos albums hosted directly on website
+* Prayer requests accepted online
 
 Cons: 
+* Blog out-of-date
+* Sparse photos with no reference to year
+* Lack of link to Calvary Chapel's often-updated Facebook Page
 
 ### First Mennonite Church
 
