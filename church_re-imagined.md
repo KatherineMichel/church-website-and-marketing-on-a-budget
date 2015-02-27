@@ -20,7 +20,7 @@ The number of church outreach materials will be streamlined, with a common brand
 Templates in both color and black-and-white will be used to address the impracticality of printing color copies versus sending electronically.
 
 ### New Website
-The church website has a clean, modern, minimalistic look, with a lightweight, responsive layout that adapts well from desktop to mobile, and other devices. The website is reasonably priced and has an intuitive content management system that can be used by non-techies and occasional volunteers. 
+The church website has a clean, modern, minimalistic look, with a lightweight, responsive layout that adapts well from desktop to mobile, and other devices. The website is reasonably priced and has an intuitive content management system that can be used by non-techies and occasional volunteers in order to keep the content relevant. 
 
 [www.prettyprairieumc.org](www.prettyprairieumc.org)
 
