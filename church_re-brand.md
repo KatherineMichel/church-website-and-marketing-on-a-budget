@@ -1,14 +1,7 @@
 # Church Re-Brand
 
 
-* United Methodist Church [Official Black Cross and Flame](http://www.umc.org/resources/cross-and-flame)
-<center>
-![](new-brand/umc-logo-cross-and-flame-b-w-1058x1818.png)
-</center><br>
-* A contemporary sunflower motif
 
-Original, license-free, Morgue File Photo
-![](new-brand/sunflowers-morgue-file-original.jpg)
 
 ### The Significance of the Sunflower
 
