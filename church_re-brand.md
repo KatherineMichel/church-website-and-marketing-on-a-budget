@@ -1,7 +1,9 @@
 # Church Re-Brand
 
-
-
+* United Methodist Church [Official Black Cross and Flame](http://www.umc.org/resources/cross-and-flame)
+<center>
+![](new-brand/umc-logo-cross-and-flame-b-w-1058x1818.png)
+</center><br>
 
 ### The Significance of the Sunflower
 
@@ -17,8 +19,6 @@ The Pretty Prairie United Methodist Church is in the state of Kansas (where the 
 <br>
 Yellow is a "warm" color, reminiscent of the sun. The sunflower symbolizes warm welcome, bright optimism, and renewal. 
 
-The number of church outreach materials will be streamlined, with a common brand experience incorporated into them all. For example, instead of twelve inconsistently designed post cards, one beautiful postcard template will be created, then altered to suit the purpose at hand. 
 
-Templates in both color and black-and-white will be created to address the impracticality of printing color copies versus sending electronically.
 
 [United Methodist Church Brand Guidelines](http://www.umcom.org/tools/brand-guidelines)
