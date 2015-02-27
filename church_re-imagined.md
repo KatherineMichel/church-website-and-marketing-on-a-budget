@@ -13,7 +13,7 @@ The Pretty Prairie United Methodist Church is in the state of Kansas (where the 
 
 ### Color Scheme
 
-## New Materials
+## New Marketing Materials
 
 The number of church outreach materials will be streamlined, with a common brand experience incorporated into them all. For example, instead of twelve inconsistently designed post cards, one beautiful postcard template will be altered to suit the purpose at hand. 
 
@@ -72,3 +72,5 @@ Back cover<br>
 <center>
 ![](church-re-imagined/new-post-card.png)
 </center>
+
+## New Marketing Plan
