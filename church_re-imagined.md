@@ -7,9 +7,9 @@ Like the Pretty Prairie United Methodist Church itself, the new church theme wil
 Original, license-free, Morgue File Photo used in new materials
 ![](church-re-imagined/sunflowers-morgue-file-original.jpg)
 
-## Significance of the Sunflower
+### Significance of the Sunflower
 
-## Color Scheme
+### Color Scheme
 
 ## New Materials
 
