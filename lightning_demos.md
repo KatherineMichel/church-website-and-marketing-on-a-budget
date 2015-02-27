@@ -48,6 +48,8 @@ Cons:
 * Apparent lack of a blog
 * Archive looks as though it stopped being updated years ago
 
+Note: First Mennonite Church has a [private Facebook group](https://www.facebook.com/groups/227093304023264/?fref=ts), rather than a public page
+
 ### New Jerusalem Church
 
 http://prettyprairiechurch.org
