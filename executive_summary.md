@@ -3,8 +3,6 @@
 ## Note: 
 For the tl:dr, check out [Old Design](old_design.md) and [Church Re-Imagined](church_re-imagined.md) :) 
 
-[Church Re-Imaged](church_re-imagined.md)
-
 ## Proposition
 
 Members of the Pretty Prairie United Methodist Church, a congregation of around 65 in the rural farming community of [Pretty Prairie](http://en.wikipedia.org/wiki/Pretty_Prairie,_Kansas) in Kansas, contacted me about designing a new website and marketing plan for the church. 
