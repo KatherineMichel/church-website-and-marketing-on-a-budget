@@ -19,6 +19,20 @@ Board meeting slides
 ![](web-hosting-options/web-hosting-options-matrix-page-2.png)
 </center>
 
+## Squarespace
+
+Squarespace was attractive due to:
+* Its low price ([$8/month including domain, with year commitment](http://www.squarespace.com/pricing))
+* Beautiful, responsive [templates](http://www.squarespace.com/templates)
+* Intuitive content management system 
+
+Final verdict: Squarespace is the web host that I chose for the church. I felt that Squarespace offers the best value for money. Although Squarespace was $3/month more expensive than the cheapest option (which offered the same/similar templates as one used by a nearby church), the beautiful, modern Squarespace templates would ensure a unique look, and the intuitive content management system could potentially be used by non-techies and occasional volunteers.    
+
+To find out more and see more of the finished materials, go to [Church Re-Imagined](church_re-imagined.md) :) 
+
+Screenshot of finished website: [www.prettyprairieumc.org](www.prettyprairieumc.org). <br>
+[![](church-re-imagined/new-website-home-page.jpg)](http://prettyprairieumc.org)
+
 ## United Methodist Church Web Hosting
 
 United Methodist Church Web Hosting was initially attractive due to:
@@ -48,17 +62,3 @@ Pretty Prairie United Methodist Church Ezekiel Home Page Mock Up
 ![](web-hosting-options/ezekiel-allegiant-theme-desktop-mockup.jpg)
 
 Final verdict: I quickly ruled Ezekiel out because I felt its content management system was not intuitive enough to suit the needs of the church. Ezekiel was also a little bit more expensive than the option that I chose. 
-
-## Squarespace
-
-Squarespace was attractive due to:
-* Its low price ([$8/month including domain, with year commitment](http://www.squarespace.com/pricing))
-* Beautiful, responsive [templates](http://www.squarespace.com/templates)
-* Intuitive content management system 
-
-Final verdict: Squarespace is the web host that I chose for the church. I felt that Squarespace offers the best value for money. Although Squarespace was $3/month more expensive than the cheapest option (which offered the same/similar templates as one used by a nearby church), the beautiful, modern Squarespace templates would ensure a unique look, and the intuitive content management system could potentially be used by non-techies and occasional volunteers.    
-
-To find out more and see more of the finished materials, go to [Church Re-Imagined](church_re-imagined.md) :) 
-
-Screenshot of finished website: [www.prettyprairieumc.org](www.prettyprairieumc.org). <br>
-[![](church-re-imagined/new-website-home-page.jpg)](http://prettyprairieumc.org)
