@@ -2,9 +2,9 @@
 
 * [GitHub README](README.md)
 * [Executive Summary](executive_summary.md)
-* [Demographic Info](demographic_info.md)
 * [Old Design](old_design.md)
 * [Project Management](project_management.md)
+* [Demographic Info](demographic_info.md)
 * [Web Development Primer](web_development_primer.md)
 * [Upworthy Case Study](upworthy_case_study.md)
 * [Research and Design Sprint](research_and_design_sprint.md)
