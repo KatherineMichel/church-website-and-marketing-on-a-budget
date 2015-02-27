@@ -1,8 +1,6 @@
 # Church Re-Brand
 
-## Church Image Rebrand
 
-Like the Pretty Prairie United Methodist Church itself, the new church theme will beautifully blend the traditional and the conventional by incorporating:
 * United Methodist Church [Official Black Cross and Flame](http://www.umc.org/resources/cross-and-flame)
 <center>
 ![](new-brand/umc-logo-cross-and-flame-b-w-1058x1818.png)
