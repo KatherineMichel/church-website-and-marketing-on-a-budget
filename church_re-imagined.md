@@ -1,4 +1,4 @@
-# Church Re-Imagined
+# Church Re-Imagined :)
 
 ## New Website
 [www.prettyprairieumc.org](www.prettyprairieumc.org)
