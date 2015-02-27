@@ -2,8 +2,8 @@
 
 * [GitHub README](README.md)
 * [Executive Summary](executive_summary.md)
-* [Old Design](old_design.md)
 * Church Un-Imagined
+* [Old Design](old_design.md)
 * [Demographic Info](demographic_info.md)
 * [Project Management](project_management.md)
 * [Web Development Primer](web_development_primer.md)
