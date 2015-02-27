@@ -6,12 +6,6 @@ The new marketing strategy would incorporate both traditional and modern methods
 
 "To glorify God by sharing the love of God, the teachings of Jesus Christ and the power of the Holy Spirit within our community"
 
-### Church Communication and Marketing Definitions
-
-Church Communication is church outreach to church members and other potentially interested parties
-
-Church Marketing is strategic planning for said outreach
-
 ## Marketing Plan
 
 Members of the NOW (Nurture, Outreach, Witness) Committee, which handles community outreach for the church, would begin to collaborate on a new church marketing plan. 
