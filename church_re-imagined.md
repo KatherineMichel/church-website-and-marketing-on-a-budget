@@ -74,3 +74,9 @@ Back cover<br>
 </center>
 
 ## New Marketing Plan
+
+### Church Communication and Marketing Definitions
+
+Church Communication is church outreach to church members and other potentially interested parties
+
+Church Marketing is strategic planning for said outreach
