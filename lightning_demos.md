@@ -25,7 +25,7 @@ Pros:
 Cons: 
 * Blog out-of-date
 * Sparse photos with no reference to year
-* Lack of link to Calvary Chapel's often-updated Facebook Page
+* Lack of link to Calvary Chapel's often-updated [Facebook Page](https://www.facebook.com/CalvaryChapelOfPrettyPrairie)
 * Lack of share buttons
  
 ### First Mennonite Church
@@ -45,17 +45,24 @@ Cons:
 * Somewhat outdated looking design; gimmicky lighthouse gif at the top of site; use of whitespace could be better
 * Drop-down menu slightly convoluted 
 * Lack of obvious photos = missed opportunity 
+* Apparent lack of a blog
+* Archive that looks as though it stopped being updated years ago
 
 ### New Jerusalem Church
 
+http://prettyprairiechurch.org
 <center>
-![](area-churches/new-jerusalem-church.jpg)
+[![](area-churches/new-jerusalem-church.jpg)](http://prettyprairiechurch.org)
 </center>
 Pros:
+* Up-to-date blog posts
+* Up-to-date calendar
 * Online donations
+* Share buttons
 
 Cons: 
 * Commonly seen WordPress template used
-* Color and photo choice could be more attractive
- 
+* Color and photo choice/editing could at times be used to better effect
+* Pictures and Videos page that looks as though it stopped being updated years ago
+
 Notably, New Jerusalem Church is using the very popular WordPress [Twenty Eleven](https://wordpress.org/themes/twentyeleven) theme. I also considered this template for Pretty Prairie United Methodist Church because the national United Methodist Church offers this template as part of its hosting platform. But, I decided to forgo it in order to have something unique to Pretty Prairie United Methodist Church. 
