@@ -2,7 +2,7 @@
 
 * [GitHub README](README.md)
 * [Executive Summary](executive_summary.md)
-* Church Un-Imagined
+* [Church Un-Imagined](church_un-imagined.md)
 * [Old Design](old_design.md)
 * [Demographic Info](demographic_info.md)
 * [Project Management](project_management.md)
