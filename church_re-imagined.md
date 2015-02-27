@@ -2,20 +2,25 @@
 
 ## Church Image Rebrand
 
-Like the Pretty Prairie United Methodist Church itself, the new church theme will beautifully blend the traditional and the conventional by incorporating:
+Like the Pretty Prairie United Methodist Church itself, the new church theme will beautifully blend the traditional and the contemporary by incorporating the traditional United Methodist Church black cross and flame with a contemporary sunflower motif. 
 
-## New Website
+Original, license-free, Morgue File Photo
+![](new-brand/sunflowers-morgue-file-original.jpg)
+
+## New Materials
+
+### New Website
 [www.prettyprairieumc.org](www.prettyprairieumc.org)
 
 [![](new-materials/new-website-home-page.jpg)](http://prettyprairieumc.org)
 
-## New Facebook Page
+### New Facebook Page
 
 <center>
 [![](new-materials/new-facebook-page.png)](https://www.facebook.com/prettyprairieumc)
 </center>
 
-## New e-Newsletter
+### New e-Newsletter
 (Some information altered to protect privacy) 
 <center>
 ![](new-materials/new-newsletter-page-1.png)
@@ -27,13 +32,13 @@ Like the Pretty Prairie United Methodist Church itself, the new church theme wil
 ![](new-materials/new-newsletter-page-4.png)
 </center>
 
-## New Bulletin (example)
+### New Bulletin (example)
 
 Front cover
 
 Inside
 
-## New Multi-Purpose Greeting Card (example)
+### New Multi-Purpose Greeting Card (example)
 
 Front cover<br>
 <center>
@@ -48,8 +53,13 @@ Back cover<br>
 ![](new-materials/new-greeting-card-back-cover.png)
 </center>
 
-## New Multi-Purpose Postcard (example)
+### New Multi-Purpose Postcard (example)
 
 <center>
 ![](new-materials/new-post-card.png)
 </center>
+
+* United Methodist Church [Official Black Cross and Flame](http://www.umc.org/resources/cross-and-flame)
+<center>
+![](new-brand/umc-logo-cross-and-flame-b-w-1058x1818.png)
+</center><br>
