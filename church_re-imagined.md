@@ -1,5 +1,9 @@
 # Church Re-Imagined :)
 
+## Church Image Rebrand
+
+Like the Pretty Prairie United Methodist Church itself, the new church theme will beautifully blend the traditional and the conventional by incorporating:
+
 ## New Website
 [www.prettyprairieumc.org](www.prettyprairieumc.org)
 
