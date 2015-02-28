@@ -28,7 +28,7 @@ I would do most of the design work alone, and act as facilitator for select brai
 
 Members of the NOW (Nurture, Outreach, Witness) Committee, which handles community outreach for the church, would begin to collaborate on a new church marketing plan. 
 
-I provided a list of 'tactics' by cost taken from the United Methodist Marketing Plan Audit Implementation Step.
+I provided a list of "Tactics" by cost taken from the United Methodist [Marketing Plan Audit Implementation Step](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/STEP_4_IMPLEMENTATION_HOMEWORK.PDF).
 
 Tactics less than $300
 ![](new-marketing-strategy/tactics-less-than-$300.png)
@@ -41,9 +41,9 @@ Tactics over $1000
 
 ### Lightening Demos
 
-Existing product screens
+See [Marketing As Is](marketing_as_is.md) for an analysis of Pretty Prairie United Methodist Church's marketing as is. 
 
-See [Lightning Demos](lightning_demos.md) section for analysis of similar products that offer insight
+See [Lightning Demos](lightning_demos.md) for analysis of the websites of other area churches. 
 
 Sketch of most important user story
 
