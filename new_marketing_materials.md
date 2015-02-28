@@ -1,9 +1,5 @@
 # New Marketing Materials
 
-The number of church outreach materials will be streamlined, with a common brand experience incorporated into them all. For example, instead of twelve inconsistently designed post cards, one beautiful postcard template will be altered to suit the purpose at hand. 
-
-Templates in both color and black-and-white will be used to address the impracticality of printing color copies versus sending electronically.
-
 ## New Website
 The church website has a clean, modern, minimalistic look, with a lightweight, responsive layout that adapts well from desktop to mobile, and other devices. The website is reasonably priced and has an intuitive content management system that can be used by non-techies and occasional volunteers in order to keep the content relevant. 
 
