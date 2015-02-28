@@ -10,6 +10,18 @@ Helpful resource: [Google Ventures Questions to Ask Before Starting User Researc
 * Church opportunities
 * Church threats
 
+### Other Strategy Methods
+* PESTLIED
+* Porter's Five Forces
+* ANSOF
+* Strategic Groups
+* Resource-Based Approach
+* N-Step
+* Prescriptive
+* Kaleidoscope
+* Kant
+* Kotter
+
 ### The "business" problem
 
 * Dwindling local population 
