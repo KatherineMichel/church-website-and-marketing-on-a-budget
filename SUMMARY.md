@@ -11,7 +11,6 @@
    * [Design Sprint](design_sprint.md)
    * [Website Options](website_options.md)
    * [User Testing](user_testing.md)
-* [Marketing Strategy](marketing_strategy.md)
 * [Church Re-Imagined :)](church_re-imagined.md)
    * [New Marketing Materials](new_marketing_materials.md)
    * [New Marketing Strategy](new_marketing_strategy.md)
