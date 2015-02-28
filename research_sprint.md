@@ -30,6 +30,8 @@ Notes from previous church strategy meetings
 
 ## Geographic and Demographic Info
 
+### Data Gathering Methods
+
 ### Data Sources
 
 #### Internal Data Sources
