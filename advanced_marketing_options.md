@@ -44,21 +44,9 @@ SEO is an important aspect of ensuring that people 'discover' your website. Iden
 
 In some websites, SEO will be optimized manually via the "head" part of the code. In other websites, SEO will be automatic. 
 
-Website SEO
-![](new-marketing-strategy/website-seo.jpg)
-
 Google is the most popular search engine in most countries, often followed by Yahoo. Identify the most important search phrases associated with your website and test the search results. Make sure that cookies are not enabled. Otherwise, your search results might be skewed due to the search history of the computer. 
 
-Example Google search: "Pretty Prairie United Methodist"
-![](new-marketing-strategy/google-search-pretty-prairie-united.jpg)
-
-Example Google search result: "Pretty Prairie United Methodist"
-![](new-marketing-strategy/google-search-pretty-prairie-united-methodist.jpg)
-
 Verify that the Google map info for the church is correct. If possible, link the website to the map. Consider creating a Google+ organization page, and/or Google rich snippet for support
-
-Correcting incorrect Google Map info
-![](new-marketing-strategy/google-pretty-prairie-united-methodist-church-report-a-problem.png)
 
 And most important of all, encourage church members to use the website! The search ranking of the website will rise naturally as a result.
 
