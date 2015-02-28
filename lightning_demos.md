@@ -13,6 +13,12 @@ When considering web hosting options, it was helpful to look at the old Pretty P
 Pros: 
 
 Cons:
+* Non-complimentary color scheme
+* Poor use of white space throughout
+* Ragged, amateurish looking menu bar
+* The welcome page is a "data dump"
+* Unnecessary use of clip art
+* Overly simplistic photo album layout
 
 ### Calvary Chapel
 
