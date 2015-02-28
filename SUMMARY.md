@@ -7,11 +7,11 @@
    * [Research Sprint](research_sprint.md)
    * [Upworthy Case Study](upworthy_case_study.md)
    * [Marketing As Is](marketing_as_is.md)
+   * Advanced Marketing Options
    * [Lightning Demos](lightning_demos.md)
    * [Design Sprint](design_sprint.md)
    * [Website Options](website_options.md)
    * [User Testing](user_testing.md)
-   * Advanced Marketing Options
 * [Church Re-Imagined :)](church_re-imagined.md)
    * [Church Image Re-Brand](church_image_re-brand.md)
    * [New Marketing Materials](new_marketing_materials.md)
