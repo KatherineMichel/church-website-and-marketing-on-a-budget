@@ -13,4 +13,5 @@
 * [User Testing](user_testing.md)
 * [Church Re-Imagined :)](church_re-imagined.md)
 * Res
+* Research and Design Sprint
 
