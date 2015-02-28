@@ -11,7 +11,7 @@ Pretty Prairie, Kansas, U.S.A.
 ![](executive-summary/google-map-usa-pretty-prairie.png)
 
 ## Problem
-The church's previous website, which had been made using a technique called [Flash](http://en.wikipedia.org/wiki/Adobe_Flash), was no longer in existence because [the web host had stopped hosting](https://kslib.info/1013/Blue-Skyways-Transition). I made the screenshot below of the website Welcome Page by locally rendering files that I recovered from the web host. See [As Is](as_is.md) for screenshots of the entire old website.
+The church's previous website, which had been made using a technique called [Flash](http://en.wikipedia.org/wiki/Adobe_Flash), was no longer in existence because [the web host had stopped hosting](https://kslib.info/1013/Blue-Skyways-Transition). I made the screenshot below of the website welcome page by locally rendering files that I recovered from the web host. See [As Is](as_is.md) for screenshots of the entire old website.
 
 ![](as-is/old-website-welcome-page.jpg)
 
