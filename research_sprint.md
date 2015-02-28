@@ -28,11 +28,9 @@ Existing research, analytics
 
 Notes from previous church strategy meetings
 
-## Pretty Prairie United Methodist Church Mission Statement
+## Geographic and Demographic Info
 
-"To glorify God by sharing the love of God, the teachings of Jesus Christ and the power of the Holy Spirit within our community"
-
-## Demographic Info
+### Geographic Info
 
 Pretty Prairie, Central Kansas, West of Wichita
 ![](google-maps-and-trends/google-map-pretty-prairie-kansas.png)
@@ -40,6 +38,8 @@ Pretty Prairie, Central Kansas, West of Wichita
 North of Kingman, South of Hutchinson, near the Amish community of Yoder
 
 ![](google-maps-and-trends/google-map-pretty-prairie-wichita.png)
+
+### Nielson Company Demographic Info
 
 Through the national United Methodist Church, I obtained the most recent Nielson Company demographic info for the city of Pretty Prairie, Kansas. 
 
