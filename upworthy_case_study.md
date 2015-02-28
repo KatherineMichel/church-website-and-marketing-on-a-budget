@@ -8,11 +8,11 @@ A technique that I've learned from the tech analysts [I follow on Twitter](https
 
 Unfortunately, Google Trends does not go into enough detail to give results for "Pretty Prairie United Methodist Church," but here is a fun graph for the results for ["Pretty Prairie" (region: worldwide)](http://www.google.com/trends/explore#q=pretty%20prairie), from around 2004 to September 2004; The town of Pretty Prairie, Kansas happens to host the world famous [Pretty Prairie Rodeo](http://www.pprodeo.com) (the biggest night rodeo in Kansas) every July. The spikes in the Google Trends graph below all happened in July :) 
 
-![](google-trends/google-trends-pretty-prairie-worldwide.png)
+![](google-maps-and-trends/google-trends-pretty-prairie-worldwide.png)
 
 The Google Trends graph for "[Pretty Prairie Rodeo" (region: worldwide)](http://www.google.com/trends/explore#q=%22pretty+prairie+rodeo%22) demonstrates similar spikes in interest. 
 
-![](google-trends/google-trends-pretty-prairie-rodeo-worldwide.png)
+![](google-maps-and-trends/google-trends-pretty-prairie-rodeo-worldwide.png)
 
 ### Google Trends for "United Methodist Church"
 
@@ -20,15 +20,15 @@ Unfortunately, the Google Trends graphs for the search phrase "United Methodist 
 
 Here is the Google Trends graph for the phrase ["United Methodist Church" (region: worldwide)](http://www.google.com/trends/explore#q=united%20methodist%20church), from around 2004 to January 2015: 
 
-![](google-trends/google-trends-united-methodist-church-worldwide.png)
+![](google-maps-and-trends/google-trends-united-methodist-church-worldwide.png)
 
 Here is the Google Trends graph for the phrase ["United Methodist Church" (region: Kansas)](http://www.google.com/trends/explore#geo=US-KS&q=united+methodist+church), from around 2004 to January 2015: 
 
-![](google-trends/google-trends-united-methodist-church-kansas.png)
+![](google-maps-and-trends/google-trends-united-methodist-church-kansas.png)
 
 Here is the Google Trends graph for the phrase ["United Methodist Church" (region: Wichita/Hutchinson, Kansas)](http://www.google.com/trends/explore#geo=US-KS-678&q=united+methodist+church), from around 2004 to January 2015: 
 
-![](google-trends/google-trends-united-methodist-church-wichita-hutchinson.png)
+![](google-maps-and-trends/google-trends-united-methodist-church-wichita-hutchinson.png)
 
 ## The Competition (Not Who You Might Expect)
  
