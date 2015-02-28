@@ -22,6 +22,8 @@ Taking stock of supplies on hand
 
 I would do most of the design work alone, and act as facilitator for select brainstorming and planning group work, particularly involving the church's Nurture Outreach Witness (NOW) Committee. 
 
+## Design Sprint Process
+
 Existing product screens
 
 See [Lightning Demos](lightning_demos.md) section for analysis of similar products that offer insight
