@@ -58,16 +58,6 @@ Correcting incorrect Google Map info
 
 #### Facebook Advertisement
 
-Based on feedback, members of the church and surrounding community are more likely to be on Facebook than Twitter. So, we would first consider the option of reaching people via Facebook. 
-
-Outreach can be done for free through Facebook sharing.
-
-Outreach can also be done by paying to advertise the church's Facebook page to people located within Pretty Prairie and its surrounding area.
-
-Notably, this may reach a different demographic segment than other forms of advertisement. 
-
-The Facebook advertisement program defaults to $50 spend for 1 week, advertising to both genders, ages 18 to 65+.
-
 Facebook's "Reach people near your business" a.k.a. "Local Awareness" ad option
 ![](new-marketing-strategy/facebook-page-advertisement-choose-objective.png)
 
