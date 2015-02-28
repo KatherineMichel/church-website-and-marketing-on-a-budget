@@ -6,10 +6,10 @@
 * [Project Management](project_management.md)
 * [Research and Design Sprint](research_and_design_sprint.md)
 * [Upworthy Case Study](upworthy_case_study.md)
+* [Design Sprint](design_sprint.md)
 * [Marketing Strategy](marketing_strategy.md)
 * [Lightning Demos](lightning_demos.md)
 * [Website Options](website_options.md)
 * [User Testing](user_testing.md)
 * [Church Re-Imagined :)](church_re-imagined.md)
-* [Design Sprint](design_sprint.md)
 
