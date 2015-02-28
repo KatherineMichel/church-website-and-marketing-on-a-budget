@@ -13,4 +13,5 @@
    * [User Testing](user_testing.md)
 * [Marketing Strategy](marketing_strategy.md)
 * [Church Re-Imagined :)](church_re-imagined.md)
+   * New Marketing Materials
 
