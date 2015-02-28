@@ -4,19 +4,6 @@ The new marketing strategy would incorporate both traditional and modern methods
 
 ## Marketing Plan
 
-Members of the NOW (Nurture, Outreach, Witness) Committee, which handles community outreach for the church, would begin to collaborate on a new church marketing plan. 
-
-I provided a list of 'tactics' by cost taken from the United Methodist Marketing Plan Audit Implementation Step.
-
-Tactics less than $300
-![](new-marketing-strategy/tactics-less-than-$300.png)
-
-Tactics from $300 to $1000
-![](new-marketing-strategy/tactics-$300-$1000.png)
-
-Tactics over $1000
-![](new-marketing-strategy/tactics-over-$1000.png)
-
 # Sample Plan
 
 ## Example Budget
