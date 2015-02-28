@@ -30,6 +30,14 @@ Notes from previous church strategy meetings
 
 ## Geographic and Demographic Info
 
+### Community Demographic and Behaviour Data to Collect
+
+* Age
+* Family/household info (single/married, children/no children, other household members)
+* Education level
+* Income level
+* Ethnicity
+
 ### Geographic Info
 
 Pretty Prairie, Central Kansas, West of Wichita
