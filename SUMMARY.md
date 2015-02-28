@@ -14,4 +14,5 @@
 * [Church Re-Imagined :)](church_re-imagined.md)
    * [New Marketing Materials](new_marketing_materials.md)
    * [New Marketing Strategy](new_marketing_strategy.md)
+   * Church Image Re-Brand
 
