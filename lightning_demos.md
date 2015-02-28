@@ -10,6 +10,16 @@ When considering web hosting options, it was helpful to look at the old Pretty P
 
 ![](as-is/old-website-welcome-page.jpg)
 
+![](as-is/old-website-fellowship-and-outreach.jpg)
+
+![](as-is/old-website-photos.jpg)
+
+![](as-is/old-website-youth-activities.jpg)
+
+![](as-is/old-website-times-of-worship.jpg)
+
+![](as-is/old-website-contact.jpg)
+
 Pros: 
 
 Cons:
