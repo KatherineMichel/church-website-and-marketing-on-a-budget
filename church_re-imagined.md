@@ -2,8 +2,7 @@
 
 ## New Website
 
-The church website has a clean, modern, minimalistic look, with a lightweight, responsive layout that adapts well from desktop to mobile, and other devices. The website is reasonably priced and has an intuitive content management system that can be used by non-techies and occasional volunteers in order to keep the content relevant. 
-
+The church website has a clean, modern, minimalistic look, with a lightweight, responsive layout that adapts well from desktop to mobile, and other devices. 
 For more info about the selection process, go to [Website Options](website_options.md). 
 
 [www.prettyprairieumc.org](www.prettyprairieumc.org)
