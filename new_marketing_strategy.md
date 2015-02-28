@@ -34,7 +34,21 @@ A good starting point for outreach would be for the church to contact church-goe
 
 Setting aside pre-existing assumptions, members of the church would go through the Pretty Prairie section of the phone book to identify people for outreach. 
 
+## Advanced Marketing Options
+
 ![](new-marketing-strategy/marketing-strategy-telephone-book.jpg)
+
+Website SEO
+![](new-marketing-strategy/website-seo.jpg)
+
+Example Google search: "Pretty Prairie United Methodist"
+![](new-marketing-strategy/google-search-pretty-prairie-united.jpg)
+
+Example Google search result: "Pretty Prairie United Methodist"
+![](new-marketing-strategy/google-search-pretty-prairie-united-methodist.jpg)
+
+Correcting incorrect Google Map info
+![](new-marketing-strategy/google-pretty-prairie-united-methodist-church-report-a-problem.png)
 
 ##Public at Large
 
