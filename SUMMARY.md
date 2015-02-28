@@ -8,7 +8,7 @@
    * [Upworthy Case Study](upworthy_case_study.md)
    * [Marketing As Is](marketing_as_is.md)
    * [Lightning Demos](lightning_demos.md)
-   * Advanced Marketing Options
+   * [Advanced Marketing Options](advanced_marketing_options.md)
    * [Design Sprint](design_sprint.md)
    * [Website Options](website_options.md)
    * [User Testing](user_testing.md)
