@@ -22,8 +22,6 @@ Taking stock of supplies on hand
 
 I would do most of the design work alone, and act as facilitator for select brainstorming and planning group work, particularly involving the church's Nurture Outreach Witness (NOW) Committee, which handles community outreach for the church. 
 
-* Problem structuring/Problem solving methods
-
 ## Design Sprint Process
 
 ### "How might we"
@@ -51,21 +49,23 @@ See [Marketing As Is](marketing_as_is.md) for an analysis of Pretty Prairie Unit
 
 See [Lightning Demos](lightning_demos.md) for analysis of the websites of other area churches. 
 
-### User Story
+### Problem Structuring and Problem Solving Methods
+
+#### User Story
 
 Sketch of most important user story
 
 User story divided into parts
 
-### Mind map
+#### Mind map
 
 Mind map 
 
-### Crazy Eights
+#### Crazy Eights
 
 Crazy Eights 
 
-### Storyboard
+#### Storyboard
 
 Storyboard 
 
@@ -73,7 +73,7 @@ Critiques to decide final user story
 
 Whiteboard of final user story 
 
-### Prototype
+#### Prototype
 
 Prototype to user test
 
