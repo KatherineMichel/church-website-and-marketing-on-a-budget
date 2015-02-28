@@ -2,13 +2,11 @@
 
 The new marketing strategy would incorporate both traditional and modern methods in order to fit with changing lifestyles, and to reach the most people possible, perhaps even beyond city boundaries. 
 
-## Marketing Plan
-
 # Sample Plan
 
 ## Example Budget
 
-## Low-Hanging Fruit
+## Traditional Methods
 
 All of the traditional methods of advertisement should continue to be updated on an ongoing basis, including the new website info.
 
@@ -38,7 +36,9 @@ Setting aside pre-existing assumptions, members of the church would go through t
 
 ![](new-marketing-strategy/marketing-strategy-telephone-book.jpg)
 
-## SEO (Search Engine Optimization)
+## Unconventional Methods
+
+### SEO (Search Engine Optimization)
 
 SEO is an important aspect of ensuring that people 'discover' your website. Identify the SEO functionality of your website and verify that it is enabled and optimized. Search engines will 'crawl' the content of your website and give your site a page ranking. 
 
@@ -62,9 +62,9 @@ Correcting incorrect Google Map info
 
 And most important of all, encourage church members to use the website! The search ranking of the website will rise naturally as a result.
 
-## Online Sharing and Advertising
+### Online Sharing and Advertising
 
-### Google Adwords
+#### Google Adwords
 
 Google Adwords Pretty Prairie "Limited reach"
 ![](new-marketing-strategy/google-adwords-pretty-prairie.png)
@@ -72,7 +72,7 @@ Google Adwords Pretty Prairie "Limited reach"
 Google Adwords Pretty Prairie targeting
 ![](new-marketing-strategy/google-adwords-pretty-prairie-targeting.png)
 
-### Facebook Sharing and Advertising
+#### Facebook Sharing and Advertising
 
 Facebook is the 'king' of social traffic, with other networks such as Twitter, Instagram and Pinterest close behind. 
 
@@ -102,7 +102,9 @@ Or 1 km...
 
 ![](new-marketing-strategy/facebook-page-advertisement-reach-1km.png)
 
-### Twitter Advertising
+##Public at Large
+
+#### Twitter Advertising
 
 Twitter has a media playbook devoted to faith and religious ads can be occasionally found on Twitter. 
 
