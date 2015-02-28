@@ -48,6 +48,14 @@ Notes from previous church strategy meetings
 
 ### Community Demographic Data to Collect
 
+* Age
+* Family/household info (single/married, children/no children, other household members)
+* Education level
+* Income level
+* Ethnicity
+* Geography (zip code report)
+* Church association (member, regular attendee, new comer)
+
 ### Community Behavior Data to Collect
 
 ### Geographic Info
