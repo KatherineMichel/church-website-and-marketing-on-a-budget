@@ -12,6 +12,9 @@
 [![](church-re-imagined/new-facebook-page.png)](https://www.facebook.com/prettyprairieumc)
 </center>
 
+## Facebook Page Ad
+![](new-marketing-strategy/facebook-page-advertisement-preview.png)
+
 ## New e-Newsletter
 (Some information altered to protect privacy) 
 <center>
