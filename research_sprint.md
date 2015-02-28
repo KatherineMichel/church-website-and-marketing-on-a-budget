@@ -54,9 +54,15 @@ Notes from previous church strategy meetings
 * Income level
 * Ethnicity
 * Geography (zip code report)
-* Church association (member, regular attendee, new comer)
+* Church association (member, regular attendee, newcomer)
 
 ### Community Behavior Data to Collect
+
+From past year, all ages:
+* Attendance (service, classes, events)
+* Level of financial giving
+* Responses to requests for volunteers and donations
+* Other relevant numbers
 
 ### Geographic Info
 
