@@ -30,7 +30,15 @@ Notes from previous church strategy meetings
 
 ## Geographic and Demographic Info
 
-### Community Demographic and Behaviour Data to Collect
+### Example Demographics
+
+* Male/female
+* Youth/young adult/adult
+* Ages 18-24, 25-34, 35-44, 45-54, 55+
+* Geography- country, state, city
+* Technology user? If so what kind of device? (desktop, mobile phone?)
+
+### Community Demographic and Behavior Data to Collect
 
 * Age
 * Family/household info (single/married, children/no children, other household members)
