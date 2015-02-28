@@ -1,6 +1,6 @@
 # Other Area Churches
 
-In a [Research and Design Sprint](research_and_design_sprint.md), a "lightning demo" is a demo of a "competitor" product, or non-competitive product that offers insight
+In a [Design Sprint](design_sprint.md), a "lightning demo" is a demo of a "competitor" product, or non-competitive product that offers insight
 
 ## Lightning Demos
 
