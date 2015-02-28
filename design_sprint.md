@@ -39,6 +39,10 @@ Tactics from $300 to $1000
 Tactics over $1000
 ![](new-marketing-strategy/tactics-over-$1000.png)
 
+#### Example Plan
+
+Here is an example plan that I gave to the NOW Committee: 
+
 ### Lightening Demos
 
 See [Marketing As Is](marketing_as_is.md) for an analysis of Pretty Prairie United Methodist Church's marketing as is. 
