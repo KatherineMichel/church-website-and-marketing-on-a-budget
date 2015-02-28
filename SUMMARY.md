@@ -9,8 +9,8 @@
    * [Upworthy Case Study](upworthy_case_study.md)
    * [Lightning Demos](lightning_demos.md)
    * [Design Sprint](design_sprint.md)
+   * [Website Options](website_options.md)
    * [User Testing](user_testing.md)
 * [Marketing Strategy](marketing_strategy.md)
-* [Website Options](website_options.md)
 * [Church Re-Imagined :)](church_re-imagined.md)
 
