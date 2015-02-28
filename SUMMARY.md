@@ -14,5 +14,5 @@
 * [Marketing Strategy](marketing_strategy.md)
 * [Church Re-Imagined :)](church_re-imagined.md)
    * [New Marketing Materials](new_marketing_materials.md)
-   * New Marketing Strategy
+   * [New Marketing Strategy](new_marketing_strategy.md)
 
