@@ -20,13 +20,13 @@ Taking stock of supplies on hand
 
 ### People Needed
 
-I would do most of the design work alone, and act as facilitator for select brainstorming and planning group work, particularly involving the church's Nurture Outreach Witness (NOW) Committee. 
+I would do most of the design work alone, and act as facilitator for select brainstorming and planning group work, particularly involving the church's Nurture Outreach Witness (NOW) Committee, which handles community outreach for the church. 
 
 ## Design Sprint Process
 
 ### "How might we"
 
-Members of the NOW (Nurture, Outreach, Witness) Committee, which handles community outreach for the church, would begin to collaborate on a new church marketing plan. 
+Members of the NOW (Nurture, Outreach, Witness) Committee would begin to collaborate on a new church marketing plan. 
 
 I provided a list of "Tactics" by cost taken from the United Methodist [Marketing Plan Audit Implementation Step](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/STEP_4_IMPLEMENTATION_HOMEWORK.PDF).
 
@@ -44,6 +44,8 @@ Tactics over $1000
 See [Marketing As Is](marketing_as_is.md) for an analysis of Pretty Prairie United Methodist Church's marketing as is. 
 
 See [Lightning Demos](lightning_demos.md) for analysis of the websites of other area churches. 
+
+### User Story
 
 Sketch of most important user story
 
