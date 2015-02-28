@@ -7,7 +7,7 @@
 * [Research and Design Sprint](research_and_design_sprint.md)
    * [Research Sprint](research_sprint.md)
    * [Upworthy Case Study](upworthy_case_study.md)
-   * [Lightning Demos](lightning_demos.md)
+   * [Lightning Demos- Other Churches](lightning_demos_other_churches.md)
    * [Design Sprint](design_sprint.md)
    * [Website Options](website_options.md)
    * [User Testing](user_testing.md)
