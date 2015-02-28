@@ -62,6 +62,8 @@ If, like me, you were a regular user of Facebook in the Fall of 2013, it's very 
 The success of Upworthy seems to make moot the argument that people are no longer interested in that which is uplifting. The viral competitors that Upworthy far surpassed in growth did not have the same social justice mission as Upworthy. 
 
 
+
+
 ### The Changing Global Ministry Landscape and What the Church Can Learn from Upworthy
 
 The church should not aspire to be like Upworthy. However, there is a market for "uplifting" content. The church may need to repackage its message and how the message is delivered if it is to compete for the public's attention. 
