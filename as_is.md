@@ -5,6 +5,7 @@ The old church website and marketing materials were created by different people,
 ## Old Marketing Materials
 
 ### Old Website
+See [Lightning Demos](lightning_demos.md) section for a critique
 
 ![](as-is/old-website-welcome-page.jpg)
 
