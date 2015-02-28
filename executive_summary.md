@@ -13,13 +13,13 @@ Pretty Prairie, Kansas, U.S.A.
 ## Problem
 The church's previous website, which had been made using a technique called [Flash](http://en.wikipedia.org/wiki/Adobe_Flash), was no longer in existence because [the web host had stopped hosting](https://kslib.info/1013/Blue-Skyways-Transition). I made the screenshot below of the website Welcome Page by locally rendering files that I recovered from the web host. See [Church Un-Imagined](church_un-imagined.md) for screenshots of the entire old website.
 
-![](old-materials/old-website-welcome-page.jpg)
+![](church-un-imagined/old-website-welcome-page.jpg)
 
 ### Find-a-Church Page
 
 Without an independent website, the church was making due with a Find-a-Church page, (a basic information page hosted for free by the national [United Methodist Church](http://www.umc.org)).
 
-![](old-materials/find-a-church-about-us.jpg)
+![](church-un-imagined/find-a-church-about-us.jpg)
 
 ## Solution
 
