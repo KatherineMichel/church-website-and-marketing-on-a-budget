@@ -35,10 +35,13 @@ Notes from previous church strategy meetings
 #### Internal Data Sources
 
 #### External Data Sources
+* United Methodist Communications Office
+* Research Office of the General Board of Global Ministries
+* Annual Conference Office
 
 ##### Nielson Company Demographic Info
 
-Through the national United Methodist Church, I obtained the most recent Nielson Company demographic info for the city of Pretty Prairie, Kansas. 
+Through the national United Methodist Church Communications Office, I obtained the most recent Nielson Company demographic info for the city of Pretty Prairie, Kansas. 
 
 Pretty Prairie [Area Map](https://drive.google.com/file/d/0B02bpu7HZwJRaVp5dGNMOUpYbU0/view?usp=sharing)
 
