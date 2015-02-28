@@ -33,7 +33,9 @@ Notes from previous church strategy meetings
 ### Data Sources
 
 #### Internal Data Sources
-
+* Determine of the church collects and tracks congregational data. For instance, if the church maintains a database, contact the administrator who has access. 
+* Contact lead pastor for official Table 1 and 2 info
+* If data is not readily available, consider conducting a survey during several Sunday worship services
 
 #### External Data Sources
 * United Methodist Communications Office
