@@ -37,6 +37,26 @@ Setting aside pre-existing assumptions, members of the church would go through t
 ![](new-marketing-strategy/marketing-strategy-telephone-book.jpg)
 
 ## Advanced Marketing Methods
+* Google Webmaster
+* Google Analytics
+* Search Engine Optimization (SEO)
+* Google Rich Snippets
+* Facebook OpenGraph
+* Twitter Cards
+* Facebook Analytics
+* Twitter Analytics
+* Share Buttons
+* Google Ads
+* Facebook Ads
+* Twitter Ads
+* Google Trends
+* Google Consumer Surveys
+* Google Keyword Planner
+* Google AdWords
+* Google Forms
+* Deep Linking
+
+MailChimp
 
 ### SEO (Search Engine Optimization)
 
