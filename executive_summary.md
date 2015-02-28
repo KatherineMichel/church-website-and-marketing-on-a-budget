@@ -1,7 +1,7 @@
 # Executive Summary
 
 ## Note: 
-For the tl:dr, check out [Church Un-Imagined](church_un-imagined.md) and [Church Re-Imagined](church_re-imagined.md) :) 
+For the tl:dr, check out [As Is](as_is.md) and [Church Re-Imagined](church_re-imagined.md) :) 
 
 ## Proposition
 
@@ -11,7 +11,7 @@ Pretty Prairie, Kansas, U.S.A.
 ![](executive-summary/google-map-usa-pretty-prairie.png)
 
 ## Problem
-The church's previous website, which had been made using a technique called [Flash](http://en.wikipedia.org/wiki/Adobe_Flash), was no longer in existence because [the web host had stopped hosting](https://kslib.info/1013/Blue-Skyways-Transition). I made the screenshot below of the website Welcome Page by locally rendering files that I recovered from the web host. See [Church Un-Imagined](church_un-imagined.md) for screenshots of the entire old website.
+The church's previous website, which had been made using a technique called [Flash](http://en.wikipedia.org/wiki/Adobe_Flash), was no longer in existence because [the web host had stopped hosting](https://kslib.info/1013/Blue-Skyways-Transition). I made the screenshot below of the website Welcome Page by locally rendering files that I recovered from the web host. See [Church Un-Imagined](as_is.md) for screenshots of the entire old website.
 
 ![](church-un-imagined/old-website-welcome-page.jpg)
 
