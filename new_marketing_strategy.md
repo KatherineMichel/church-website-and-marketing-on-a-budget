@@ -45,12 +45,13 @@ Setting aside pre-existing assumptions, members of the church would go through t
 * Twitter Cards
 * Facebook Analytics
 * Twitter Analytics
-* Share Buttons
-* Google Ads
-* Facebook Ads
-* Twitter Ads
+* Share Buttons (Add This/Share This)
+* Facebook/Twitter Sharing
+* Google Ads (pay)
+* Facebook Ads (pay)
+* Twitter Ads (pay)
 * Google Trends
-* Google Consumer Surveys
+* Google Consumer Surveys (pay)
 * Google Keyword Planner
 * Google AdWords
 * Google Forms
@@ -59,7 +60,6 @@ Setting aside pre-existing assumptions, members of the church would go through t
 MailChimp
 Social Media Engagement
 Facebook Insights
-Add This/Share This
 Facebook Audience Network (Mobile Ads)
 
 ### SEO (Search Engine Optimization)
