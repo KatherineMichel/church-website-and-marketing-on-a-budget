@@ -2,10 +2,10 @@
 
 * [GitHub README](README.md)
 * [Executive Summary](executive_summary.md)
+* As Is
 * [As Is](as_is.md)
    * Test
 * [Project Management](project_management.md)
-* As Is
 * [Research Sprint](research_sprint.md)
 * [Upworthy Case Study](upworthy_case_study.md)
 * [Marketing Strategy](marketing_strategy.md)
