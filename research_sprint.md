@@ -31,6 +31,11 @@ Notes from previous church strategy meetings
 ## Geographic and Demographic Info
 
 ### Data Gathering Methods
+* Surveys/polls
+* Interviews
+* Focus groups
+* Facilitation
+* Forums/panels
 
 ### Data Sources
 
