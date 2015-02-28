@@ -12,5 +12,5 @@
 * [Website Options](website_options.md)
 * [User Testing](user_testing.md)
 * [Church Re-Imagined :)](church_re-imagined.md)
-* Research and Design Sprint
+* [Research and Design Sprint](research_and_design_sprint.md)
 
