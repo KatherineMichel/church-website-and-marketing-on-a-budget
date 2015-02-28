@@ -14,5 +14,5 @@
 * [Marketing Strategy](marketing_strategy.md)
 * [Website Options](website_options.md)
 * [Church Re-Imagined :)](church_re-imagined.md)
-* As Is
+* [As Is](as_is.md)
 
