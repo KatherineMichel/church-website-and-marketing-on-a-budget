@@ -64,32 +64,6 @@ Google Adwords Pretty Prairie targeting
 
 Facebook is the 'king' of social traffic, with other networks such as Twitter, Instagram and Pinterest close behind. 
 
-Based on feedback, members of the church and surrounding community are most likely to be on Facebook. So, we would first consider the option of advertising the church via Facebook. This could be done for free through Facebook sharing
-
-This could also be done by paying to advertise the church's Facebook page to people located within Pretty Prairie and its surrounding area, using Facebook's "Reach people near your business" a.k.a. "Local Awareness" ad option.
-
-Choose the objective for your campaign: "Local Awareness"
-![](new-marketing-strategy/facebook-page-advertisement-choose-objective.png)
-
-Notably, this may reach a different demographic segment than other forms of advertisement. 
-
-The Facebook advertisement program defaults to $50 spend for 1 week, advertising to both genders, ages 18 to 65+.
-
-Facebook Page advertisement preview
-![](new-marketing-strategy/facebook-page-advertisement-preview.png)
-
-Suggested target audience ranges from 50 km to... 
-
-![](new-marketing-strategy/facebook-page-advertisement-reach-50km.png)
-
-Down to 3 km ... 
-
-![](new-marketing-strategy/facebook-page-advertisement-reach-3km.png)
-
-Or 1 km...
-
-![](new-marketing-strategy/facebook-page-advertisement-reach-1km.png)
-
 #### Twitter Advertising
 
 Twitter has a media playbook devoted to faith and religious ads can be occasionally found on Twitter. 
