@@ -4,7 +4,7 @@
 
 Helpful resource: [Google Ventures Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research) 
 
-### S.W.O.T. Analysis
+### S.W.O.T. Analysis (Strategy)
 * Church strengths
 * Church weaknesses
 * Church opportunities
