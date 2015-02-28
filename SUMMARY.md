@@ -9,7 +9,6 @@
    * [Design Sprint](design_sprint.md)
 * [Upworthy Case Study](upworthy_case_study.md)
 * [Marketing Strategy](marketing_strategy.md)
-* [Design Sprint](design_sprint.md)
 * [Lightning Demos](lightning_demos.md)
 * [Website Options](website_options.md)
 * [User Testing](user_testing.md)
