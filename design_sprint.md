@@ -1,7 +1,5 @@
 # Design Sprint
 
-## Design Sprint
-
 See [Lightning Demos](lightning_demos.md) section for analysis of similar products that offer insight
 
 "How might we"
