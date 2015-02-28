@@ -8,17 +8,17 @@ When considering web hosting options, it was helpful to look at the websites of 
 
 ### Old Pretty Prairie United Methodist Church Website
 
-![](as-is/old-website-welcome-page.jpg)
+![](marketing-as-is/old-website-welcome-page.jpg)
 
-![](as-is/old-website-fellowship-and-outreach.jpg)
+![](marketing-as-is/old-website-fellowship-and-outreach.jpg)
 
-![](as-is/old-website-photos.jpg)
+![](marketing-as-is/old-website-photos.jpg)
 
-![](as-is/old-website-youth-activities.jpg)
+![](marketing-as-is/old-website-youth-activities.jpg)
 
-![](as-is/old-website-times-of-worship.jpg)
+![](marketing-as-is/old-website-times-of-worship.jpg)
 
-![](as-is/old-website-contact.jpg)
+![](marketing-as-is/old-website-contact.jpg)
 
 Pros: 
 * Straight forward design that could lend itself to mobile responsiveness
@@ -40,7 +40,7 @@ Note: lack of any social media presence (i.e. Facebook)
 
 http://calvarychapel-pp.com
 <center>
-[![](area-churches/calvary-chapel.jpg)](http://calvarychapel-pp.com)
+[![](lightning-demos/calvary-chapel.jpg)](http://calvarychapel-pp.com)
 </center>
 
 Pros:
@@ -62,7 +62,7 @@ Cons:
 
 http://www.fmcprettyprairie.org
 <center>
-[![](area-churches/first-mennonite-church.jpg)](http://www.fmcprettyprairie.org)
+[![](lightning-demos/first-mennonite-church.jpg)](http://www.fmcprettyprairie.org)
 </center>
 
 Pros:
@@ -84,7 +84,7 @@ Note: First Mennonite Church has a [private Facebook group](https://www.facebook
 
 http://prettyprairiechurch.org
 <center>
-[![](area-churches/new-jerusalem-church.jpg)](http://prettyprairiechurch.org)
+[![](lightning-demos/new-jerusalem-church.jpg)](http://prettyprairiechurch.org)
 </center>
 Pros:
 * Up-to-date blog posts
