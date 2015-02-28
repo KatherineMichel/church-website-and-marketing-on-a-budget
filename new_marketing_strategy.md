@@ -57,6 +57,9 @@ Setting aside pre-existing assumptions, members of the church would go through t
 * Deep Linking
 
 MailChimp
+Social Media Engagement
+Facebook Insights
+Add This/Share This
 
 ### SEO (Search Engine Optimization)
 
