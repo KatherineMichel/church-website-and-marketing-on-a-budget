@@ -11,4 +11,4 @@ The Pretty Prairie United Methodist Church is in the state of Kansas (where the 
 
 ## Color Scheme
 
-## New Equipment
+## New Sanctuary Equipment
