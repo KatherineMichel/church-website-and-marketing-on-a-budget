@@ -3,11 +3,11 @@
 ## Demographic Info
 
 Pretty Prairie, Central Kansas, West of Wichita
-![](new-marketing-strategy/google-map-pretty-prairie-kansas.png)
+![](google-maps-and-trends/google-map-pretty-prairie-kansas.png)
 
 North of Kingman, South of Hutchinson, near the Amish community of Yoder
 
-![](new-marketing-strategy/google-map-pretty-prairie-wichita.png)
+![](google-maps-and-trends/google-map-pretty-prairie-wichita.png)
 
 Through the national United Methodist Church, I obtained the most recent Nielson Company demographic info for the city of Pretty Prairie, Kansas. 
 
