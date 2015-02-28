@@ -1,42 +1,45 @@
 # Advanced Marketing Options
 
-## Advanced Marketing Methods
-
-### Research
+## Research
 * Google Trends
-* Google Consumer Surveys (pay)
 * Google Forms
+* Google Consumer Surveys (pay)
 
-### SEO and Webmaster
+## SEO and Webmaster
 * Search Engine Optimization (SEO)
 * Google Rich Snippets
 * Google Webmaster
 * Google Analytics
 
-### Social Media Engagement and Analytics
+## Social Media Engagement
 * Facebook OpenGraph
 * Twitter Cards
-* Share Buttons (Add This/Share This)
 * Facebook/Twitter Sharing
+* Share Buttons (Add This/Share This)
+
+## Social Media Analytics
 * Facebook Analytics
+* Facebook Insights
 * Twitter Analytics
 
-### Social Media Advertisement
+## Social Media Advertisement
 * Google Ads (pay)
-* Facebook Ads (pay)
-* Twitter Ads (pay)
 * Google Keyword Planner
 * Google AdWords
+* Facebook Ads (pay)
+* Twitter Ads (pay)
 
+## Mobile
+* Facebook Audience Network (Mobile Ads)
 * Deep Linking
 
-MailChimp
-Social Media Engagement
-Facebook Insights
-Facebook Audience Network (Mobile Ads)
+## Email
+* MailChimp
 
-### SEO (Search Engine Optimization)
 
+### Search Engine Optimization (SEO) and Webmaster
+
+#### Search Engine Optimization (SEO)
 SEO is an important aspect of ensuring that people 'discover' your website. Identify the SEO functionality of your website and verify that it is enabled and optimized. Search engines will 'crawl' the content of your website and give your site a page ranking. 
 
 In some websites, SEO will be optimized manually via the "head" part of the code. In other websites, SEO will be automatic. 
@@ -59,7 +62,7 @@ Correcting incorrect Google Map info
 
 And most important of all, encourage church members to use the website! The search ranking of the website will rise naturally as a result.
 
-### Online Sharing and Advertising
+### Social Media Advertisement
 
 #### Google Adwords
 
@@ -98,8 +101,6 @@ Down to 3 km ...
 Or 1 km...
 
 ![](new-marketing-strategy/facebook-page-advertisement-reach-1km.png)
-
-##Public at Large
 
 #### Twitter Advertising
 
