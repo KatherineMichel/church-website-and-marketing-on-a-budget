@@ -36,3 +36,7 @@ Setting aside pre-existing assumptions, members of the church would go through t
 
 ![](new-marketing-strategy/marketing-strategy-telephone-book.jpg)
 
+##Public at Large
+
+
+
