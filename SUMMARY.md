@@ -7,7 +7,6 @@
 * [Web Development Primer](web_development_primer.md)
 * [Research and Design Sprint](research_and_design_sprint.md)
 * [Upworthy Case Study](upworthy_case_study.md)
-* [Demographic Info](demographic_info.md)
 * [Marketing Strategy](marketing_strategy.md)
 * [Lightning Demos](lightning_demos.md)
 * [Website Options](website_options.md)
