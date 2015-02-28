@@ -42,6 +42,7 @@ Setting aside pre-existing assumptions, members of the church would go through t
 
 ![](new-marketing-strategy/website-seo.jpg)
 
+### Google Rich Snippet
 Example Google search: "Pretty Prairie United Methodist"
 ![](new-marketing-strategy/google-search-pretty-prairie-united.jpg)
 
@@ -55,33 +56,20 @@ Correcting incorrect Google Map info
 Based on feedback, members of the church and surrounding community are more likely to be on Facebook than Twitter. So, we would first consider the option of reaching people via Facebook. 
 
 #### Facebook Sharing
+Outreach can be done for free through Facebook sharing.
 
 #### Facebook Advertisement
-This could be done for free through Facebook sharing
-
-This could also be done by paying to advertise the church's Facebook page to people located within Pretty Prairie and its surrounding area, using Facebook's "Reach people near your business" a.k.a. "Local Awareness" ad option.
-
-Choose the objective for your campaign: "Local Awareness"
-![](new-marketing-strategy/facebook-page-advertisement-choose-objective.png)
+Outreach can also be done by paying to advertise the church's Facebook page to people located within Pretty Prairie and its surrounding area, using Facebook's "Reach people near your business" a.k.a. "Local Awareness" ad option.
 
 Notably, this may reach a different demographic segment than other forms of advertisement. 
 
 The Facebook advertisement program defaults to $50 spend for 1 week, advertising to both genders, ages 18 to 65+.
 
+Choose the objective for your campaign: "Local Awareness"
+![](new-marketing-strategy/facebook-page-advertisement-choose-objective.png)
+
 Facebook Page advertisement preview
 ![](new-marketing-strategy/facebook-page-advertisement-preview.png)
-
-Suggested target audience ranges from 50 km to... 
-
-![](new-marketing-strategy/facebook-page-advertisement-reach-50km.png)
-
-Down to 3 km ... 
-
-![](new-marketing-strategy/facebook-page-advertisement-reach-3km.png)
-
-Or 1 km...
-
-![](new-marketing-strategy/facebook-page-advertisement-reach-1km.png)
 
 ##Public at Large
 
