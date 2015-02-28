@@ -6,6 +6,7 @@
 * [Project Management](project_management.md)
 * [Research and Design Sprint](research_and_design_sprint.md)
    * [Research Sprint](research_sprint.md)
+   * Design Sprint
 * [Upworthy Case Study](upworthy_case_study.md)
 * [Marketing Strategy](marketing_strategy.md)
 * [Design Sprint](design_sprint.md)
