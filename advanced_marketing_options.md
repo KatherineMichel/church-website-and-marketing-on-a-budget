@@ -64,6 +64,14 @@ Google Adwords Pretty Prairie targeting
 
 Facebook is the 'king' of social traffic, with other networks such as Twitter, Instagram and Pinterest close behind. 
 
+Outreach can be done for free through Facebook sharing.
+
+Outreach can also be done by paying to advertise
+
+Notably, this may reach a different demographic segment than other forms of advertisement. 
+
+The Facebook advertisement program defaults to $50 spend for 1 week, advertising to both genders, ages 18 to 65+.
+
 #### Twitter Advertising
 
 Twitter has a media playbook devoted to faith and religious ads can be occasionally found on Twitter. 
