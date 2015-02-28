@@ -5,7 +5,16 @@ I conducted a Research and Design Sprint loosely based on the Google Ventures [R
 
 The purpose of the Research and Design Sprint is to design and user test a minimal, but realistic prototype (that potentially solves a problem) without the time and expense of creating a full version. 
 
+## People and Supplies
 
+#### Supplies Needed
+
+
+* And a working space
+
+#### People Needed
+
+I would do most of the work alone
 
 ## Identifying the Problem and Opportunity
 
