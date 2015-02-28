@@ -10,6 +10,6 @@
 * [Marketing Strategy](marketing_strategy.md)
 * [Lightning Demos](lightning_demos.md)
 * [Website Options](website_options.md)
-* User Testing
+* [User Testing](user_testing.md)
 * [Church Re-Imagined :)](church_re-imagined.md)
 
