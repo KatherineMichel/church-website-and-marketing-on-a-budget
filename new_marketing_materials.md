@@ -1,10 +1,7 @@
 # New Marketing Materials
 
 ## New Website
-The church website has a clean, modern, minimalistic look, with a lightweight, responsive layout that adapts well from desktop to mobile, and other devices. The website is reasonably priced and has an intuitive content management system that can be used by non-techies and occasional volunteers in order to keep the content relevant. 
-
-Rather than one prominent homepage photo, the homepage features a patchwork quilt of photos that represent a number of people and activities in the church. Clicking on a photo brings up a small bite of info about the photo subject. This format is straight forward, easy to navigate, and highly mobile optimized.  
-
+ 
 [www.prettyprairieumc.org](www.prettyprairieumc.org)
 
 [![](church-re-imagined/new-website-home-page.jpg)](http://prettyprairieumc.org)
