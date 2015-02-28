@@ -55,15 +55,23 @@ Sketch of most important user story
 
 User story divided into parts
 
+### Mind map
+
 Mind map 
 
+### Crazy Eights
+
 Crazy Eights 
+
+### Storyboard
 
 Storyboard 
 
 Critiques to decide final user story
 
 Whiteboard of final user story 
+
+### Prototype
 
 Prototype to user test
 
