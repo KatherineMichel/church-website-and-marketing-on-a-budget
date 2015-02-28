@@ -1,7 +1,7 @@
 # Executive Summary
 
 ## Note: 
-For the tl:dr, check out [Old Design](old_design.md) and [Church Re-Imagined](church_re-imagined.md) :) 
+For the tl:dr, check out [Old Design](church_un-imagined.md) and [Church Re-Imagined](church_re-imagined.md) :) 
 
 ## Proposition
 
