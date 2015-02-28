@@ -19,7 +19,7 @@ The church's previous website, which had been made using a technique called [Fla
 
 Without an independent website, the church was making due with a Find-a-Church page, (a basic information page hosted for free by the national [United Methodist Church](http://www.umc.org)).
 
-![](as-is/find-a-church-about-us.jpg)
+![](marketing-as-is/find-a-church-about-us.jpg)
 
 ## Solution
 
