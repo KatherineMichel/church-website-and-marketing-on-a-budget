@@ -24,6 +24,8 @@ Picture of user study
 
 Summary and analysis of findings
 
+Summary report
+
 ## Sample Metrics
 
 Success metrics (ex. [HEART framework](https://www.gv.com/lib/how-to-choose-the-right-ux-metrics-for-your-product))
