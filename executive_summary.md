@@ -1,7 +1,7 @@
 # Executive Summary
 
 ## Note: 
-For the tl:dr, check out [As Is](as_is.md) and [Church Re-Imagined](church_re-imagined.md) :) 
+For the tl:dr, check out [Marketing As Is](marketing_as_is.md) and [Church Re-Imagined](church_re-imagined.md) :) 
 
 ## Proposition
 
