@@ -2,7 +2,7 @@
 
 ## Identifying the Problem and Opportunity
 
-Helpful resource: the [Google Ventures Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research) 
+Helpful resource: [Google Ventures Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research) 
 
 ### The "business" problem
 
