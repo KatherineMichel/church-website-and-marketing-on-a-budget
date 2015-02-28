@@ -4,7 +4,6 @@
 * [Executive Summary](executive_summary.md)
 * [Church Un-Imagined](church_un-imagined.md)
 * [Project Management](project_management.md)
-* [Web Development Primer](web_development_primer.md)
 * [Research and Design Sprint](research_and_design_sprint.md)
 * [Upworthy Case Study](upworthy_case_study.md)
 * [Marketing Strategy](marketing_strategy.md)
