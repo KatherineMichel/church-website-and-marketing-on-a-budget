@@ -34,6 +34,7 @@ Notes from previous church strategy meetings
 
 #### Internal Data Sources
 
+
 #### External Data Sources
 * United Methodist Communications Office
 * Research Office of the General Board of Global Ministries
