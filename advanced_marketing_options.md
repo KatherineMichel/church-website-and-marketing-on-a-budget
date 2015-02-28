@@ -1,2 +1,116 @@
 # Advanced Marketing Options
 
+## Advanced Marketing Methods
+
+### Research
+* Google Trends
+* Google Consumer Surveys (pay)
+* Google Forms
+
+### SEO and Webmaster
+* Search Engine Optimization (SEO)
+* Google Rich Snippets
+* Google Webmaster
+* Google Analytics
+
+### Social Media Engagement and Analytics
+* Facebook OpenGraph
+* Twitter Cards
+* Share Buttons (Add This/Share This)
+* Facebook/Twitter Sharing
+* Facebook Analytics
+* Twitter Analytics
+
+### Social Media Advertisement
+* Google Ads (pay)
+* Facebook Ads (pay)
+* Twitter Ads (pay)
+* Google Keyword Planner
+* Google AdWords
+
+* Deep Linking
+
+MailChimp
+Social Media Engagement
+Facebook Insights
+Facebook Audience Network (Mobile Ads)
+
+### SEO (Search Engine Optimization)
+
+SEO is an important aspect of ensuring that people 'discover' your website. Identify the SEO functionality of your website and verify that it is enabled and optimized. Search engines will 'crawl' the content of your website and give your site a page ranking. 
+
+In some websites, SEO will be optimized manually via the "head" part of the code. In other websites, SEO will be automatic. 
+
+Website SEO
+![](new-marketing-strategy/website-seo.jpg)
+
+Google is the most popular search engine in most countries, often followed by Yahoo. Identify the most important search phrases associated with your website and test the search results. Make sure that cookies are not enabled. Otherwise, your search results might be skewed due to the search history of the computer. 
+
+Example Google search: "Pretty Prairie United Methodist"
+![](new-marketing-strategy/google-search-pretty-prairie-united.jpg)
+
+Example Google search result: "Pretty Prairie United Methodist"
+![](new-marketing-strategy/google-search-pretty-prairie-united-methodist.jpg)
+
+Verify that the Google map info for the church is correct. If possible, link the website to the map. Consider creating a Google+ organization page, and/or Google rich snippet for support
+
+Correcting incorrect Google Map info
+![](new-marketing-strategy/google-pretty-prairie-united-methodist-church-report-a-problem.png)
+
+And most important of all, encourage church members to use the website! The search ranking of the website will rise naturally as a result.
+
+### Online Sharing and Advertising
+
+#### Google Adwords
+
+Google Adwords Pretty Prairie "Limited reach"
+![](new-marketing-strategy/google-adwords-pretty-prairie.png)
+
+Google Adwords Pretty Prairie targeting
+![](new-marketing-strategy/google-adwords-pretty-prairie-targeting.png)
+
+#### Facebook Sharing and Advertising
+
+Facebook is the 'king' of social traffic, with other networks such as Twitter, Instagram and Pinterest close behind. 
+
+Based on feedback, members of the church and surrounding community are most likely to be on Facebook. So, we would first consider the option of advertising the church via Facebook. This could be done for free through Facebook sharing
+
+This could also be done by paying to advertise the church's Facebook page to people located within Pretty Prairie and its surrounding area, using Facebook's "Reach people near your business" a.k.a. "Local Awareness" ad option.
+
+Choose the objective for your campaign: "Local Awareness"
+![](new-marketing-strategy/facebook-page-advertisement-choose-objective.png)
+
+Notably, this may reach a different demographic segment than other forms of advertisement. 
+
+The Facebook advertisement program defaults to $50 spend for 1 week, advertising to both genders, ages 18 to 65+.
+
+Facebook Page advertisement preview
+![](new-marketing-strategy/facebook-page-advertisement-preview.png)
+
+Suggested target audience ranges from 50 km to... 
+
+![](new-marketing-strategy/facebook-page-advertisement-reach-50km.png)
+
+Down to 3 km ... 
+
+![](new-marketing-strategy/facebook-page-advertisement-reach-3km.png)
+
+Or 1 km...
+
+![](new-marketing-strategy/facebook-page-advertisement-reach-1km.png)
+
+##Public at Large
+
+#### Twitter Advertising
+
+Twitter has a media playbook devoted to faith and religious ads can be occasionally found on Twitter. 
+
+Twitter for Faith Playbook
+![](new-marketing-strategy/twitter-for-faith-playbook.png)
+
+Example religious ad on Twitter
+
+![](new-marketing-strategy/twitter-religious-advertisement.png)
+
+Members of the church are less likely to use Twitter. However, Twitter is an option to keep in mind, particularly for reaching the public at large. 
+
