@@ -21,6 +21,9 @@ When considering web hosting options, it was helpful to look at the old Pretty P
 ![](as-is/old-website-contact.jpg)
 
 Pros: 
+* Straight forward design that could lend itself to mobile responsiveness
+* Use of photos and photo albums is positive, if only execution were better
+* Representation of a variety of church activities
 
 Cons:
 * Non-complimentary color scheme
@@ -29,6 +32,7 @@ Cons:
 * The welcome page is a "data dump"
 * Unnecessary use of clip art
 * Overly simplistic photo album layout
+* Lack of many modern features (blog, calendar, share/like buttons, video/audio, donations, messaging)
 
 Note: lack of any social media presence (i.e. Facebook)
 
