@@ -6,6 +6,14 @@ In a [Design Sprint](design_sprint.md), a "lightning demo" is a demo of a "compe
 
 When considering web hosting options, it was helpful to look at the websites of other area churches (see below) to see what web hosts and functionality are popular among other churches in the same demographic. 
 
+### Old Pretty Prairie United Methodist Church Website
+
+![](as-is/old-website-welcome-page.jpg)
+
+Pros: 
+
+Cons:
+
 ### Calvary Chapel
 
 http://calvarychapel-pp.com
