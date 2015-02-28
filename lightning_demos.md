@@ -30,6 +30,8 @@ Cons:
 * Unnecessary use of clip art
 * Overly simplistic photo album layout
 
+Note: lack of any social media presence (i.e. Facebook)
+
 ### Calvary Chapel
 
 http://calvarychapel-pp.com
