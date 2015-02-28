@@ -6,7 +6,7 @@
 * [Research and Design Sprint](research_and_design_sprint.md)
    * [Research Sprint](research_sprint.md)
    * [Upworthy Case Study](upworthy_case_study.md)
-   * [As Is](as_is.md)
+   * [Marketing Materials As Is](marketing_materials_as_is.md)
    * [Lightning Demos](lightning_demos.md)
    * [Design Sprint](design_sprint.md)
    * [Website Options](website_options.md)
