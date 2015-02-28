@@ -5,7 +5,7 @@ Taking stock of supplies on hand
 
 ![](design-sprint/supply-cabinet.jpg)
 
-#### [Supplies Needed](http://amzn.com/lm/RS9AYY6BTLDCM)
+### [Supplies Needed](http://amzn.com/lm/RS9AYY6BTLDCM)
 * Paper
 * Sticky notes 
 * Drawing pens 
@@ -18,9 +18,13 @@ Taking stock of supplies on hand
 
 * And a working space
 
-#### People Needed
+### People Needed
 
 I would do most of the design work alone, and act as facilitator for select brainstorming and planning group work, particularly involving the church's Nurture Outreach Witness (NOW) Committee. 
+
+## Design Sprint Process
+
+### "How might we"
 
 Members of the NOW (Nurture, Outreach, Witness) Committee, which handles community outreach for the church, would begin to collaborate on a new church marketing plan. 
 
@@ -35,13 +39,11 @@ Tactics from $300 to $1000
 Tactics over $1000
 ![](new-marketing-strategy/tactics-over-$1000.png)
 
-## Design Sprint Process
+### Lightening Demos
 
 Existing product screens
 
 See [Lightning Demos](lightning_demos.md) section for analysis of similar products that offer insight
-
-"How might we"
 
 Sketch of most important user story
 
