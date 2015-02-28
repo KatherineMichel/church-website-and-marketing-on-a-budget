@@ -1,11 +1,10 @@
-# Marketing Materials As Is
+# Marketing As Is
 
-The old church website and marketing materials were created by different people, at different times, with no thought to creating one consistent church brand experience spanning all materials.
+The old Pretty Prairie United Methodist Church website and marketing materials were created by different people, at different times, with no thought to creating one consistent church brand experience spanning all materials, and one consistent marketing plan spanning all channels available to the church.
 
 ## Old Marketing Materials
 
 ### Old Website
-See [Lightning Demos](lightning_demos.md) section for a critique
 
 ![](marketing-as-is/old-website-welcome-page.jpg)
 
@@ -18,6 +17,22 @@ See [Lightning Demos](lightning_demos.md) section for a critique
 ![](marketing-as-is/old-website-times-of-worship.jpg)
 
 ![](marketing-as-is/old-website-contact.jpg)
+
+Pros: 
+* Straight forward design that could lend itself to mobile responsiveness
+* Use of photos and photo albums is positive, if only execution were better
+* Representation of a variety of church activities
+
+Cons:
+* Non-complimentary color scheme
+* Poor use of white space throughout
+* Ragged, amateurish looking menu bar
+* The welcome page is a "data dump"
+* Unnecessary use of clip art
+* Overly simplistic photo album layout
+* Lack of many modern features (blog, calendar, share/like buttons, video/audio, donations, messaging)
+
+Note: lack of any social media presence (i.e. Facebook)
 
 ### Old Newsletter
 
