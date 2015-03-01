@@ -15,10 +15,10 @@ Members of the Nurture, Outreach, Witness (NOW) Committee would begin to collabo
 * Google Analytics
 
 ## Social Media Engagement
-* Facebook OpenGraph
-* Twitter Cards
-* Facebook/Twitter Sharing
-* Share Buttons (Add This/Share This)
+* [Facebook OpenGraph](http://ogp.me)
+* [Twitter Cards](https://dev.twitter.com/cards/overview)
+* [Twitter Intents](https://dev.twitter.com/web/intents)
+* Share Buttons ([AddThis](http://www.addthis.com)/[ShareThi](http://www.sharethis.com)s)
 
 ## Social Media Analytics
 * [Facebook Insights](https://www.facebook.com/help/336893449723054) (analytics)
@@ -32,7 +32,7 @@ Members of the Nurture, Outreach, Witness (NOW) Committee would begin to collabo
 * [Twitter Ads](https://ads.twitter.com) (pay)
 
 ## Mobile
-* [Facebook Audience Network](https://www.facebook.com/business/news/audience-network) (Mobile Ads) (pay)
+* [Facebook Audience Network](https://www.facebook.com/business/news/audience-network) (mobile ads) (pay)
 * [Deep Linking](http://en.wikipedia.org/wiki/Mobile_deep_linking)
 
 ## Email
