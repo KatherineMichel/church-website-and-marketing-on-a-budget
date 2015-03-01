@@ -54,9 +54,6 @@ Correcting incorrect Google Map info
 
 ### Google's Reach 
 
-Google Adwords Pretty Prairie "Limited reach"
-![](new-marketing-strategy/google-adwords-pretty-prairie.png)
-
 Google Adwords Pretty Prairie targeting
 ![](new-marketing-strategy/google-adwords-pretty-prairie-targeting.png)
 
