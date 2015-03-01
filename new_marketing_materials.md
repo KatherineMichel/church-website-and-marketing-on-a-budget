@@ -13,7 +13,7 @@
 </center>
 
 ## Facebook Page Ad
-![](new-marketing-strategy/facebook-page-advertisement-preview.png)
+![](church-re-imagined/facebook-page-advertisement.png)
 
 ## New e-Newsletter
 (Some information altered to protect privacy) 
