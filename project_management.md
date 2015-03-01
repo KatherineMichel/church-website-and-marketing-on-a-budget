@@ -17,11 +17,6 @@ Free analytics
 Low-cost Web Hosts
 Ads
 
-### Soft Systems Rich Picture
-
-Placeholder
-![](project-management/project-management-soft-systems-rich-picture.jpg)
-
 ### Critical Path
 
 Placeholder
