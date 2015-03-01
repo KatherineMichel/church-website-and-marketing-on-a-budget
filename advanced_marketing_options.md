@@ -1,5 +1,6 @@
 # Advanced Marketing Options
 
+
 Members of the Nurture, Outreach, Witness (NOW) Committee would begin to collaborate on a new church marketing plan. In preparation for their group work, I provided to the Nurture, Outreach, Witness (NOW) Committee an example plan and a ["Tactics" List](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/STEP_4_IMPLEMENTATION_HOMEWORK.PDF) by cost taken from the United Methodist Marketing Plan Audit Implementation Step.
 
 ## Research
@@ -51,12 +52,4 @@ Google is the most popular search engine in most countries, often followed by Ya
 Verify that the Google map info for the church is correct. If possible, link the website to the map. Consider creating a Google+ organization page, and/or Google rich snippet for support
 
 And most important of all, encourage church members to use the website! The search ranking of the website will rise naturally as a result.
-
-### Social Media Advertisement
-
-#### Google Adwords
-
-#### Facebook Sharing and Advertising
-
-Notably, this may reach a different demographic segment than other forms of advertisement. 
 
