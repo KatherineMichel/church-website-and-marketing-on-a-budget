@@ -2,25 +2,16 @@
 
 ## Identifying the Problem and Opportunity
 
+* What questions do you want to answer?
+* What features/tasks do you want to test?
+
 Helpful resource: [Google Ventures Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research) 
 
-### S.W.O.T. Analysis (Strategy)
-* Church strengths
-* Church weaknesses
-* Church opportunities
-* Church threats
+Existing research, analytics
 
-### Other Strategy Methods
-* PESTLIED
-* Porter's Five Forces
-* ANSOF
-* Strategic Groups
-* Resource-Based Approach
-* N-Step
-* Prescriptive
-* Kaleidoscope
-* Kant
-* Kotter
+Comment cards/pads at the end of pews
+
+Notes from previous church strategy meetings
 
 ### The "business" problem
 
@@ -36,33 +27,14 @@ Helpful resource: [Google Ventures Questions to Ask Before Starting User Researc
 * Greater accessibility of resources and knowledge
 * Decreasing importance of physical proximity
 * Larger potential user base
- 
-### Leverage
 
-* What questions do you want to answer?
-* What features/tasks do you want to test?
-
-Existing research, analytics
-
-Notes from previous church strategy meetings
+## S.W.O.T. Analysis (Strategy)
+* Church strengths
+* Church weaknesses
+* Church opportunities
+* Church threats
 
 ## Geographic and Demographic Info
-
-### Data Gathering Methods
-Method
-* Surveys/polls
-* Interviews
-* Focus groups
-* Facilitation
-* Forums/panels
-
-Channel
-* Online
-* Email
-* Telephone
-* Mail
-* Comment cards/pads at the end of pews
-* In person/on the street
 
 ### Data Sources
 
