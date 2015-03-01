@@ -61,6 +61,8 @@ Google Adwords Pretty Prairie targeting
 
 ### Facebook 
 
+In general, Facebook is considered to be the 'king' of social traffic, with other networks such as Twitter, Instagram and Pinterest close behind.
+
 Based on feedback, members of the church and surrounding community are more likely to be on Facebook than Twitter. So, we would first consider the option of reaching people via Facebook, by advertising the church's Facebook page to people located within Pretty Prairie and its surrounding area through free sharing and paid advertisements.
 
 #### Facebook's Reach
