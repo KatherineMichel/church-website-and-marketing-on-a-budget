@@ -1,5 +1,24 @@
 # Advanced Marketing Options
 
+I provided guidance and a list of "Tactics" by cost taken from the United Methodist [Marketing Plan Audit Implementation Step](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/STEP_4_IMPLEMENTATION_HOMEWORK.PDF).
+
+Tactics less than $300
+![](new-marketing-strategy/tactics-less-than-$300.png)
+
+Tactics from $300 to $1000
+![](new-marketing-strategy/tactics-$300-$1000.png)
+
+Tactics over $1000
+![](new-marketing-strategy/tactics-over-$1000.png)
+
+#### Facebook Sharing and Advertising
+Based on feedback, members of the church and surrounding community are more likely to be on Facebook than Twitter. So, we would first consider the option of reaching people via Facebook, by advertising the church's Facebook page to people located within Pretty Prairie and its surrounding area through free sharing and paid advertisements.
+
+See also: [Advanced Marketing Options](advanced_marketing_options.md)
+
+#### Example Plan
+
+Here is an example plan that I gave to the NOW Committee: 
 ## Research
 * [Google Trends](http://www.google.com/trends)
 * [Google Forms](http://www.google.com/forms/about)
