@@ -1,9 +1,9 @@
 # Advanced Marketing Options
 
 ## Research
-* Google Trends
-* Google Forms
-* Google Consumer Surveys (pay)
+* [Google Trends](http://www.google.com/trends)
+* [Google Forms](http://www.google.com/forms/about)
+* [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home) (pay)
 
 ## SEO and Webmaster
 * Search Engine Optimization (SEO)
