@@ -64,6 +64,8 @@ Google Adwords Pretty Prairie targeting
 Based on feedback, members of the church and surrounding community are more likely to be on Facebook than Twitter. So, we would first consider the option of reaching people via Facebook, by advertising the church's Facebook page to people located within Pretty Prairie and its surrounding area through free sharing and paid advertisements.
 
 #### Facebook's Reach
+Facebook advertises a "potential reach" of 120,000,000 people
+
 Suggested target audience ranges from 50 km to... 
 
 ![](new-marketing-strategy/facebook-page-advertisement-reach-50km.png)
@@ -80,9 +82,7 @@ Or 1 km...
 
 #### Facebook Advertisement
 
-Facebook's "Reach people near your business" a.k.a. "Local Awareness" ad option
-
-Facebook page advertisement preview
+Facebook page "Local Awareness" advertisement preview to "reach people near your business" 
 ![](new-marketing-strategy/facebook-page-advertisement-preview.png)
 
 ##Public at Large
