@@ -19,13 +19,7 @@ Ads
 
 ### Critical Path
 
-Placeholder
-![](project-management/project-management-critical-path.jpg)
-
 ### PERT
-
-Placeholder
-![](project-management/project-management-pert.jpg)
 
 ### Standards Resources
 
