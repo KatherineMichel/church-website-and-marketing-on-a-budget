@@ -84,7 +84,6 @@ Or 1 km...
 #### Facebook Advertisement
 
 Facebook's "Reach people near your business" a.k.a. "Local Awareness" ad option
-![](new-marketing-strategy/facebook-page-advertisement-choose-objective.png)
 
 Facebook page advertisement preview
 ![](new-marketing-strategy/facebook-page-advertisement-preview.png)
