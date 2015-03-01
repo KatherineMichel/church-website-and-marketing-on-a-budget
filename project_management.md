@@ -36,10 +36,6 @@ Placeholder
 
 [United Methodist Communications: Market Your Church](http://www.umcom.org/learn/market-your-church-getting-started)
 
-[United Methodist Communications: Marketing Tactics](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/STEP_4_IMPLEMENTATION_HOMEWORK.PDF)
-
-[United Methodist Communications: Brand Guidelines](http://www.umcom.org/tools/brand-guidelines)
-
 [U.S. Digital Services Playbook](http://playbook.cio.gov)
 
 [DigitalGov Resources](http://www.digitalgov.gov/resources)
