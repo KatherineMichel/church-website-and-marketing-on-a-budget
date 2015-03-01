@@ -25,8 +25,10 @@ New website mobile home page detail
 [![](church-re-imagined/new-facebook-page.png)](https://www.facebook.com/prettyprairieumc)
 </center>
 
+<center>
 ## Facebook Page Ad
 ![](church-re-imagined/new-facebook-page-advertisement.png)
+</center>
 
 ## New e-Newsletter
 (Some information altered to protect privacy) 
