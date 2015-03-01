@@ -65,9 +65,6 @@ And most important of all, encourage church members to use the website! The sear
 
 #### Google Adwords
 
-Google Adwords Pretty Prairie "Limited reach"
-![](new-marketing-strategy/google-adwords-pretty-prairie.png)
-
 Google Adwords Pretty Prairie targeting
 ![](new-marketing-strategy/google-adwords-pretty-prairie-targeting.png)
 
@@ -82,17 +79,4 @@ Outreach can also be done by paying to advertise
 Notably, this may reach a different demographic segment than other forms of advertisement. 
 
 The Facebook advertisement program defaults to $50 spend for 1 week, advertising to both genders, ages 18 to 65+.
-
-#### Twitter Advertising
-
-Twitter has a media playbook devoted to faith and religious ads can be occasionally found on Twitter. 
-
-Twitter for Faith Playbook
-![](new-marketing-strategy/twitter-for-faith-playbook.png)
-
-Example religious ad on Twitter
-
-![](new-marketing-strategy/twitter-religious-advertisement.png)
-
-Members of the church are less likely to use Twitter. However, Twitter is an option to keep in mind, particularly for reaching the public at large. 
 
