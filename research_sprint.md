@@ -96,7 +96,7 @@ From past year, all ages:
 * Responses to requests for volunteers and donations
 * Other relevant numbers
 
-### Geographic Info
+
 
 Pretty Prairie, Central Kansas, West of Wichita
 ![](google-maps-and-trends/google-map-pretty-prairie-kansas.png)
@@ -104,3 +104,6 @@ Pretty Prairie, Central Kansas, West of Wichita
 North of Kingman, South of Hutchinson, near the Amish community of Yoder
 
 ![](google-maps-and-trends/google-map-pretty-prairie-wichita.png)
+
+## Who to Reach and How
+Notably, this may reach a different demographic segment than other forms of advertisement. 
