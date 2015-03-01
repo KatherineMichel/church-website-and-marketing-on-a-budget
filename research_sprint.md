@@ -104,16 +104,3 @@ Pretty Prairie, Central Kansas, West of Wichita
 North of Kingman, South of Hutchinson, near the Amish community of Yoder
 
 ![](google-maps-and-trends/google-map-pretty-prairie-wichita.png)
-
-### Digital Targeting
-Suggested target audience ranges from 50 km to... 
-
-![](new-marketing-strategy/facebook-page-advertisement-reach-50km.png)
-
-Down to 3 km ... 
-
-![](new-marketing-strategy/facebook-page-advertisement-reach-3km.png)
-
-Or 1 km...
-
-![](new-marketing-strategy/facebook-page-advertisement-reach-1km.png)
