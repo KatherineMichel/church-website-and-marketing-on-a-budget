@@ -3,6 +3,7 @@
 * [GitHub README](README.md)
 * [Executive Summary](executive_summary.md)
 * [Project Management](project_management.md)
+* [Design Sprint](design_sprint.md)
 * [Research and Design Sprint](research_and_design_sprint.md)
    * [Research Sprint](research_sprint.md)
    * [Upworthy Case Study](upworthy_case_study.md)
