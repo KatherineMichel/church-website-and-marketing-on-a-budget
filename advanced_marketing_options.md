@@ -16,9 +16,7 @@ Based on feedback, members of the church and surrounding community are more like
 
 See also: [Advanced Marketing Options](advanced_marketing_options.md)
 
-#### Example Plan
 
-Here is an example plan that I gave to the NOW Committee: 
 ## Research
 * [Google Trends](http://www.google.com/trends)
 * [Google Forms](http://www.google.com/forms/about)
