@@ -18,7 +18,7 @@ Members of the Nurture, Outreach, Witness (NOW) Committee would begin to collabo
 * [Facebook OpenGraph](http://ogp.me)
 * [Twitter Cards](https://dev.twitter.com/cards/overview)
 * [Twitter Intents](https://dev.twitter.com/web/intents)
-* Share Buttons ([AddThis](http://www.addthis.com)/[ShareThi](http://www.sharethis.com)s)
+* Share Buttons ([AddThis](http://www.addthis.com)/[ShareThis](http://www.sharethis.com))
 
 ## Social Media Analytics
 * [Facebook Insights](https://www.facebook.com/help/336893449723054) (analytics)
