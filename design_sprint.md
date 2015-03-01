@@ -28,6 +28,8 @@ I would do most of the design work alone, and act as facilitator for select brai
 
 Members of the NOW (Nurture, Outreach, Witness) Committee would begin to collaborate on a new church marketing plan. 
 
+See [Advanced Marketing Options](advanced_marketing_options.md) for . 
+
 ### Lightening Demos
 
 See [Marketing As Is](marketing_as_is.md) for an analysis of Pretty Prairie United Methodist Church's marketing as is. 
