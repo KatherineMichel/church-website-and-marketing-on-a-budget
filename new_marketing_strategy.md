@@ -85,5 +85,18 @@ Facebook page "Local Awareness" advertisement preview to "reach people near your
 
 ##Public at Large
 
+### Twitter Advertising
+
+Twitter has a media playbook devoted to faith and religious ads can be occasionally found on Twitter. 
+
+Twitter for Faith Playbook
+![](new-marketing-strategy/twitter-for-faith-playbook.png)
+
+Example religious ad on Twitter
+
+![](new-marketing-strategy/twitter-religious-advertisement.png)
+
+Members of the church are less likely to use Twitter. However, Twitter is an option to keep in mind, particularly for reaching the public at large. 
+
 
 
