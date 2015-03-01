@@ -2,15 +2,13 @@
 
 ## Identifying the Problem and Opportunity
 
+Helpful resource: [Google Ventures Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research) 
+
 * What questions do you want to answer?
 * What features/tasks do you want to test?
 
-Helpful resource: [Google Ventures Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research) 
-
-Existing research, analytics
-
 Comment cards/pads at the end of pews
-
+Existing research, analytics
 Notes from previous church strategy meetings
 
 ### The "business" problem
