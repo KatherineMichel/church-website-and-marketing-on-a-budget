@@ -64,7 +64,7 @@ Based on feedback, members of the church and surrounding community are more like
 #### Facebook's Reach
 Facebook advertises a "potential reach" of 120,000,000 people
 
-Suggested target audience ranges from 50 km to... 
+Suggested target audience ranges from radius of 50 km around Pretty Prairie... 
 
 ![](new-marketing-strategy/facebook-page-advertisement-reach-50km.png)
 
