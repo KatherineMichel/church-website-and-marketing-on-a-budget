@@ -28,7 +28,7 @@ I would do most of the design work alone, and act as facilitator for select brai
 
 Members of the Nurture, Outreach, Witness (NOW) Committee would begin to collaborate on a new church marketing plan. 
 
-See [Advanced Marketing Options](advanced_marketing_options.md) for the guidance and list of "[Tactics](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/STEP_4_IMPLEMENTATION_HOMEWORK.PDF)" that I provided to the Nurture, Outreach, Witness (NOW) Committee in preparation.
+See [Advanced Marketing Options](advanced_marketing_options.md) for the guidance and list of "[Tactics](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/STEP_4_IMPLEMENTATION_HOMEWORK.PDF)" that I provided to the Nurture, Outreach, Witness (NOW) Committee in preparation for their group work.
 
 ### Lightening Demos
 
