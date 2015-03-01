@@ -78,7 +78,7 @@ Pretty Prairie [Area Map](https://drive.google.com/file/d/0B02bpu7HZwJRaVp5dGNMO
 * Income level
 * Ethnicity
 
-### Community Demographic Data to Collect
+### Church Demographic Data to Collect
 
 * Age
 * Family/household info (single/married, children/no children, other household members)
@@ -88,7 +88,7 @@ Pretty Prairie [Area Map](https://drive.google.com/file/d/0B02bpu7HZwJRaVp5dGNMO
 * Geography (zip code report)
 * Church association (member, regular attendee, newcomer)
 
-### Community Behavior Data to Collect
+### Church Behavior Data to Collect
 
 From past year, all ages:
 * Attendance (service, classes, events)
