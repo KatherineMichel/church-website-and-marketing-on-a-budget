@@ -1,5 +1,7 @@
 # Advanced Marketing Options
 
+that I provided to the Nurture, Outreach, Witness (NOW) Committee in preparation for their group work.
+
 I provided guidance and a list of "Tactics" by cost taken from the United Methodist [Marketing Plan Audit Implementation Step](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/STEP_4_IMPLEMENTATION_HOMEWORK.PDF).
 
 Tactics less than $300
