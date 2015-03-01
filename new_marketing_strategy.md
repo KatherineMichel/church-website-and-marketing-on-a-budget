@@ -2,9 +2,9 @@
 
 The new marketing strategy would incorporate both traditional and modern methods in order to fit with changing lifestyles, and to reach the most people possible, perhaps even beyond city boundaries. 
 
-# Sample Plan
-
 ## Example Budget
+
+## Example Plan
 
 ## Traditional Methods
 
