@@ -21,21 +21,20 @@ Members of the Nurture, Outreach, Witness (NOW) Committee would begin to collabo
 * Share Buttons (Add This/Share This)
 
 ## Social Media Analytics
-* Facebook Analytics
-* Facebook Insights
-* Twitter Analytics
+* [Facebook Insights](https://www.facebook.com/help/336893449723054) (analytics)
+* [Twitter Analytics](https://analytics.twitter.com)
 
 ## Social Media Advertisement
-* Google Ads (pay)
-* Google Keyword Planner
-* Google AdWords
-* Facebook Ads (pay)
-* Twitter Ads (pay)
+* [Google AdSense](http://www.google.com/adsense) 
+* [Google Keyword Planner](https://support.google.com/adwords/answer/3114286?hl=en)
+* [Google AdWords](https://www.google.com/adwords) (pay)
+* [Facebook Ads](https://www.facebook.com/business/products/ads) (pay)
+* [Twitter Ads](https://ads.twitter.com) (pay)
 
 ## Mobile
-* Facebook Audience Network (Mobile Ads)
-* Deep Linking
+* [Facebook Audience Network](https://www.facebook.com/business/news/audience-network) (Mobile Ads) (pay)
+* [Deep Linking](http://en.wikipedia.org/wiki/Mobile_deep_linking)
 
 ## Email
-* MailChimp
+* [MailChimp](http://mailchimp.com)
 
