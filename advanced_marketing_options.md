@@ -2,15 +2,6 @@
 
 Members of the Nurture, Outreach, Witness (NOW) Committee would begin to collaborate on a new church marketing plan. In preparation for their group work, I provided to the Nurture, Outreach, Witness (NOW) Committee an example plan and a ["Tactics" List](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/STEP_4_IMPLEMENTATION_HOMEWORK.PDF) by cost taken from the United Methodist Marketing Plan Audit Implementation Step.
 
-Tactics less than $300
-![](new-marketing-strategy/tactics-less-than-$300.png)
-
-Tactics from $300 to $1000
-![](new-marketing-strategy/tactics-$300-$1000.png)
-
-Tactics over $1000
-![](new-marketing-strategy/tactics-over-$1000.png)
-
 ## Research
 * [Google Trends](http://www.google.com/trends)
 * [Google Forms](http://www.google.com/forms/about)
@@ -66,8 +57,6 @@ And most important of all, encourage church members to use the website! The sear
 #### Google Adwords
 
 #### Facebook Sharing and Advertising
-
-Facebook is the 'king' of social traffic, with other networks such as Twitter, Instagram and Pinterest close behind. 
 
 Notably, this may reach a different demographic segment than other forms of advertisement. 
 
