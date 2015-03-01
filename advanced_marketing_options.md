@@ -1,7 +1,6 @@
 # Advanced Marketing Options
 
-
-Members of the Nurture, Outreach, Witness (NOW) Committee would begin to collaborate on a new church marketing plan. In preparation for their group work, I provided to the Nurture, Outreach, Witness (NOW) Committee an example plan and a ["Tactics" List](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/STEP_4_IMPLEMENTATION_HOMEWORK.PDF) by cost taken from the United Methodist Marketing Plan Audit Implementation Step.
+In addition to the ["Tactics" List](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/STEP_4_IMPLEMENTATION_HOMEWORK.PDF) that I gave the Nurture, Outreach, Witness (NOW) Committee as part of the [Design Sprint](design_sprint.md), in preparation for creating a new church marketing plan, here is a list of advanced marketing tools that I have collected:
 
 ## Research
 * [Google Trends](http://www.google.com/trends)
