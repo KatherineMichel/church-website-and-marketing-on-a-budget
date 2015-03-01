@@ -16,5 +16,5 @@
    * [Church Image Re-Brand](church_image_re-brand.md)
    * [New Marketing Materials](new_marketing_materials.md)
    * [New Marketing Strategy](new_marketing_strategy.md)
-* Bibliography
+* [Bibliography](bibliography.md)
 
