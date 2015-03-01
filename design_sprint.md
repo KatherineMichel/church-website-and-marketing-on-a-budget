@@ -47,6 +47,11 @@ See [Lightning Demos](lightning_demos.md) for analysis of the websites of other 
 
 ### Problem Structuring and Problem Solving Methods
 
+#### Soft Systems Rich Picture
+
+Placeholder
+![](project-management/project-management-soft-systems-rich-picture.jpg)
+
 #### User Story
 
 Sketch of most important user story
