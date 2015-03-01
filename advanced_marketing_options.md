@@ -9,10 +9,10 @@ Members of the Nurture, Outreach, Witness (NOW) Committee would begin to collabo
 * [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home) (pay)
 
 ## SEO and Webmaster
-* Search Engine Optimization (SEO)
-* Google Rich Snippets
-* Google Webmaster
-* Google Analytics
+* [Search Engine Optimization](http://en.wikipedia.org/wiki/Search_engine_optimization) (SEO)
+* [Google Rich Snippets](https://support.google.com/webmasters/answer/99170?hl=en)
+* [Google Webmaster](http://www.google.com/intl/en-US/webmasters)
+* [Google Analytics](http://www.google.com/analytics)
 
 ## Social Media Engagement
 * [Facebook OpenGraph](http://ogp.me)
