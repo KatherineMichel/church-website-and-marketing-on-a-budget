@@ -69,9 +69,5 @@ And most important of all, encourage church members to use the website! The sear
 
 Facebook is the 'king' of social traffic, with other networks such as Twitter, Instagram and Pinterest close behind. 
 
-Outreach can be done for free through Facebook sharing.
-
-Outreach can also be done by paying to advertise
-
 Notably, this may reach a different demographic segment than other forms of advertisement. 
 
