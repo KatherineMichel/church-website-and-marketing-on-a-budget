@@ -12,7 +12,7 @@
    * [Advanced Marketing Options](advanced_marketing_options.md)
    * [Website Options](website_options.md)
    * [User Testing](user_testing.md)
-   * The Bible App Case Study
+   * [The Bible App Case Study](the_bible_app_case_study.md)
 * [Church Re-Imagined :)](church_re-imagined.md)
    * [Church Image Re-Brand](church_image_re-brand.md)
    * [New Marketing Materials](new_marketing_materials.md)
