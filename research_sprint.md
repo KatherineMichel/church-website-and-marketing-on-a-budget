@@ -4,13 +4,18 @@
 
 Helpful resource: [Google Ventures Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research) 
 
-* What questions do you want to answer?
-* What features/tasks do you want to test?
+## Question to Answer
+
+Who to Reach and How?
+
+## Features/Tasks to Test?
+
 
 Comment cards/pads at the end of pews
 Existing research, analytics
 Notes from previous church strategy meetings
 
+Notably, this may reach a different demographic segment than other forms of advertisement. 
 ### The "business" problem
 
 * Dwindling local population 
@@ -102,6 +107,3 @@ Pretty Prairie, Central Kansas, West of Wichita
 North of Kingman, South of Hutchinson, near the Amish community of Yoder
 
 ![](google-maps-and-trends/google-map-pretty-prairie-wichita.png)
-
-## Who to Reach and How
-Notably, this may reach a different demographic segment than other forms of advertisement. 
