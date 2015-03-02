@@ -8,13 +8,13 @@ The old Pretty Prairie United Methodist Church website and marketing materials w
 
 ![](marketing-as-is/old-website-welcome-page.jpg)
 
+![](marketing-as-is/old-website-times-of-worship.jpg)
+
 ![](marketing-as-is/old-website-fellowship-and-outreach.jpg)
 
 ![](marketing-as-is/old-website-photos.jpg)
 
 ![](marketing-as-is/old-website-youth-activities.jpg)
-
-![](marketing-as-is/old-website-times-of-worship.jpg)
 
 ![](marketing-as-is/old-website-contact.jpg)
 
