@@ -13,8 +13,20 @@
 ### Project (SMART) Objectives
 ### Oranizational Structure
 ### Project Stakeholders and Responsibilities
-#### Project Stateholders
+#### Project Stakeholders
 #### Church Governance Structure
+#### Church Stakeholders
+* National/District Church Organization
+* Pastor
+* Staff
+* Leaders
+* Volunteers
+* Members
+* Regular attendees
+* Visitors
+* Community members
+* Online seekers
+
 #### Responsibilities Matrix
 ### Statement of Requirements
 
