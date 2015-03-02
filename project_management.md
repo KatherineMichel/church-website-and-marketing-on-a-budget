@@ -2,7 +2,19 @@
 
 ## Project Definition Plan
 
-### Church Governance Structure
+### Project (SMART) Objectives
+### Oranizational Structure
+### Project Stakeholders and Responsibilities
+#### Church Governance Structure
+### Statement of Requirements
+### Requirements Capture
+### Product Descriptions
+### Mission Breakdown Structure
+### Milestones
+#### Milestone Responsibility Chart
+### Work Breakdown Structure
+### GANTT Chart
+### Network Diagram
 
 ### Constraints
 The cost of the website and marketing materials would need to fit within the church's budget. Where possible, the project would use low cost tools and available resources:
