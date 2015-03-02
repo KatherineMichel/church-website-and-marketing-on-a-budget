@@ -8,7 +8,7 @@ Helpful resource: [Google Ventures Questions to Ask Before Starting User Researc
 
 [Software is Reorganizing the World Chart](http://balajis.com/2013/11/25/software-is-reorganizing-the-world)
 
-http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations/
+[Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations)
 
 [Mobile is Eating the World](http://www.avc.com/a_vc/2013/06/mobile-is-eating-the-world.html)
 
