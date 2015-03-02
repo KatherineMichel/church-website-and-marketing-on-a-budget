@@ -10,6 +10,8 @@ Helpful resource: [Google Ventures Questions to Ask Before Starting User Researc
 
 [Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations)
 
+Though there is an "upper bound" to area population, as Balaji Srinivasan points out, "when cloud formations take physical shape, neither their scale nor duration has an upper bound." 
+
 [Mobile is Eating the World](http://www.avc.com/a_vc/2013/06/mobile-is-eating-the-world.html)
 
 ## Question to Answer
