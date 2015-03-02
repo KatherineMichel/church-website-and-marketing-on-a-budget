@@ -6,5 +6,7 @@ http://www.businessinsider.com/youversion-bible-app-has-100-million-downloads-20
 
 http://techcrunch.com/2012/05/10/bible-youversion-lifechurch
 
+http://www.lifechurch.tv/giving
+
 
 
