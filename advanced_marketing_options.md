@@ -12,6 +12,7 @@ In addition to the ["Tactics" List](http://s3.amazonaws.com/Website_Properties_U
 * [Google Rich Snippets](https://support.google.com/webmasters/answer/99170?hl=en)
 * [Google Webmaster](http://www.google.com/intl/en-US/webmasters)
 * [Google Analytics](http://www.google.com/analytics)
+* [Yahoo and Bing Webmaster](http://www.bing.com/toolbox/webmaster)
 
 ## Social Media Engagement
 * [Facebook OpenGraph](http://ogp.me)
