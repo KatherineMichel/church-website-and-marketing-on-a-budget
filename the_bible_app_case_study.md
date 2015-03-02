@@ -4,9 +4,25 @@
 
 [The Bible App for Kids](https://www.bible.com/kids)
 
+## Corporate Structure 
+
 Non-profit
 
-Business model
+## Business Model
+
+
+
+Available for: 
+* iPhone/iPad
+* Android
+* BlackBerry
+* Windows Phone
+* Windows 8
+* HP/Palm
+* Java
+* Symbian
+* Mobile Web
+* Kindle Fire
 
 http://www.businessinsider.com/youversion-bible-app-has-100-million-downloads-2013-7
 
