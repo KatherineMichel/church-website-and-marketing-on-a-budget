@@ -1,18 +1,12 @@
 # Website Options
 
-## Website Options Order of Priority
+## Website Requirements
 
-The web options chosen all provided value for money, with the two associated with the United Methodist Church being given first priority.
+## Board Meeting
 
-1. [United Methodist Web Hosting](http://www.umcchurches.org) (tiers 2 and 3, both based on WordPress)
-2. [Ezekial Web Hosting](http://umc.e-zekiel.com) (discount due to United Methodist partnership)
-3. [Squarespace](http://www.squarespace.com) (a low cost web host with beautiful, responsive [templates](http://www.squarespace.com/templates))
+After presenting my preliminary research and mock ups to the church's Administrative Council, a motion was made that I choose the option that I felt was best.
 
-## Requirements
-
-## Options Matrix 
-
-After presenting my preliminary research and mock ups to the church's Administrative Council, a motion was made that I choose the option that I felt was best. 
+### Options Matrix 
 
 Board meeting slides
 <center>
@@ -20,6 +14,14 @@ Board meeting slides
 
 ![](web-hosting-options/web-hosting-options-matrix-page-2.png)
 </center>
+
+## Website Options Order of Priority
+
+The web options chosen all provided value for money, with the two associated with the United Methodist Church being given first priority.
+
+1. [United Methodist Web Hosting](http://www.umcchurches.org) (tiers 2 and 3, both based on WordPress)
+2. [Ezekial Web Hosting](http://umc.e-zekiel.com) (discount due to United Methodist partnership)
+3. [Squarespace](http://www.squarespace.com) (a low cost web host with beautiful, responsive [templates](http://www.squarespace.com/templates))
 
 ## Squarespace
 
