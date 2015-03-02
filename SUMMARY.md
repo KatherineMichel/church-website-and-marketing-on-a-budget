@@ -14,8 +14,8 @@
    * [User Testing](user_testing.md)
 * [Church Re-Imagined :)](church_re-imagined.md)
    * [Church Image Re-Brand](church_image_re-brand.md)
-   * New Website
    * [New Marketing Materials](new_marketing_materials.md)
+   * New Website
    * [New Marketing Strategy](new_marketing_strategy.md)
    * [Mobile App](mobile_app.md)
 
