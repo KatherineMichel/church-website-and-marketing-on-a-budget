@@ -13,10 +13,6 @@ Pretty Prairie, Kansas, U.S.A.
 In Central Kansas, West of Wichita
 ![](google-maps-and-trends/google-map-pretty-prairie-kansas.png)
 
-## Pretty Prairie United Methodist Church Mission Statement
-
-"To glorify God by sharing the love of God, the teachings of Jesus Christ and the power of the Holy Spirit within our community"
-
 ## Problem
 The church's previous website, which had been made using a technique called [Flash](http://en.wikipedia.org/wiki/Adobe_Flash), was no longer in existence because [the web host had stopped hosting](https://kslib.info/1013/Blue-Skyways-Transition). I made the screenshot below of the website welcome page by locally rendering files that I recovered from the web host. See [Marketing As Is](marketing_as_is.md) for screenshots of the entire old website.
 
