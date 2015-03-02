@@ -10,6 +10,9 @@ Members of the Pretty Prairie United Methodist Church, a congregation of around 
 Pretty Prairie, Kansas, U.S.A.
 ![](google-maps-and-trends/google-map-usa-pretty-prairie.png)
 
+In Central Kansas, West of Wichita
+![](google-maps-and-trends/google-map-pretty-prairie-kansas.png)
+
 ## Pretty Prairie United Methodist Church Mission Statement
 
 "To glorify God by sharing the love of God, the teachings of Jesus Christ and the power of the Holy Spirit within our community"
