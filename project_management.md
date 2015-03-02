@@ -52,22 +52,3 @@ Ads
 ### Critical Path
 
 ### PERT
-
-### Standards Resources
-
-[United Methodist Communications: Market Your Church](http://www.umcom.org/learn/market-your-church-getting-started)
-
-[U.S. Digital Services Playbook](http://playbook.cio.gov)
-
-[DigitalGov Resources](http://www.digitalgov.gov/resources)
-
-[Website Launch Checklist for Web Designers](https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers)
-
-[Google Web Fundamentals](https://developers.google.com/web/fundamentals)
-
-[Google Design](http://www.google.com/design)
-
-
-
-
- 
