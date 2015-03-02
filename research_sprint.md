@@ -39,6 +39,9 @@ http://www.umcom.org/learn/market-your-church
 
 ### Data Sources
 
+Congregational Survey and Results Report
+Community Survey and Results Report
+
 #### Internal Data Sources
 * Determine of the church collects and tracks congregational data. For instance, if the church maintains a database, contact the administrator who has access. 
 * Contact lead pastor for official Table 1 and 2 info
