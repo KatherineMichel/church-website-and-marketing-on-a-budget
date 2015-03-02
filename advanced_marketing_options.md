@@ -1,4 +1,4 @@
-# Advanced Marketing Options
+# Advanced Marketing Options (Webmaster)
 
 In addition to the ["Tactics" List](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/STEP_4_IMPLEMENTATION_HOMEWORK.PDF) that I gave the Nurture, Outreach, Witness (NOW) Committee as part of the [Design Sprint](design_sprint.md), here is a list of advanced marketing tools that I have collected:
 
