@@ -3,7 +3,6 @@
 * [GitHub README](README.md)
 * [Executive Summary](executive_summary.md)
 * [Project Management](project_management.md)
-
 * [Case Studies](case_studies.md)
    * [The Bible App Case Study](the_bible_app_case_study.md)
    * [Upworthy Case Study](upworthy_case_study.md)
