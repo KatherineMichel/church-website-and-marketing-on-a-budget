@@ -14,7 +14,6 @@
 ### Oranizational Structure
 ### Project Stakeholders and Responsibilities
 #### Project Stakeholders
-#### Church Governance Structure
 #### Church Stakeholders
 * National/District Church Organization
 * Pastor
@@ -26,6 +25,15 @@
 * Visitors
 * Community members
 * Online seekers
+
+#### Church Governance Structure
+* Administrative Council
+* Finance Committee (includes Stewardship)
+* Audit Committee
+* Lay Leadership and Development Committee
+* Pastor Parish Relations Committee/SPRC
+* Trustees Committee
+* Worship Committee
 
 #### Responsibilities Matrix
 ### Statement of Requirements
