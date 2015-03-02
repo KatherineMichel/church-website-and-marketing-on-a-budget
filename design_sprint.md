@@ -90,3 +90,7 @@ The national United Methodist Church suggests using a Goals and Measurable Objec
 United Methodist Goals and Measurable Objectives example chart
 
 ![](design-sprint/goals-measurable-objectives-chart.png)
+
+### Quality Function Deployment
+
+[House of Quality](http://en.wikipedia.org/wiki/House_of_Quality)
