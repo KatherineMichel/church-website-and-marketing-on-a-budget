@@ -4,7 +4,7 @@ In a [Design Sprint](design_sprint.md), a "lightning demo" is a demo of a "compe
 
 ## Other Area Churches
 
-When considering web hosting options, it was helpful to look at the websites of other area churches (see below) to see what web hosts and functionality are popular among churches in the same demographic. 
+When considering web hosting options, it was helpful to look at the websites of other area churches to see what web hosts and functionality are popular among churches in the same demographic. See below for a critique. 
 
 ### Calvary Chapel
 
