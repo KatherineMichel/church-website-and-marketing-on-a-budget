@@ -8,6 +8,10 @@ Helpful resource: [Google Ventures Questions to Ask Before Starting User Researc
 
 Who to reach and how?
 
+http://www.umcom.org/learn/market-your-church
+
+[Marketing Plan Worksheet](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/UMCOM_YOUR_MARKETING_PLAN_WORKSHEET.PDF)
+
 ## Features/Tasks to Test?
 
 ### The "business" problem
