@@ -8,6 +8,8 @@ The web options chosen all provided value for money, with the two associated wit
 2. [Ezekial Web Hosting](http://umc.e-zekiel.com) (discount due to United Methodist partnership)
 3. [Squarespace](http://www.squarespace.com) (a low cost web host with beautiful, responsive [templates](http://www.squarespace.com/templates))
 
+## Requirements
+
 ## Options Matrix 
 
 After presenting my preliminary research and mock ups to the church's Administrative Council, a motion was made that I choose the option that I felt was best. 
