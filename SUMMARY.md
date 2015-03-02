@@ -3,6 +3,7 @@
 * [GitHub README](README.md)
 * [Executive Summary](executive_summary.md)
 * [Project Management](project_management.md)
+   * Reverse Engineering
 * [Research and Design Sprint](research_and_design_sprint.md)
    * [Research Sprint](research_sprint.md)
    * [The Bible App Case Study](the_bible_app_case_study.md)
