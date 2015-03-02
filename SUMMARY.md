@@ -15,6 +15,7 @@
    * [Advanced Marketing Options](advanced_marketing_options.md)
    * [Website Options](website_options.md)
    * [User Testing](user_testing.md)
+   * Reverse Engineering
 * [Church Re-Imagined :)](church_re-imagined.md)
    * [Church Image Re-Brand](church_image_re-brand.md)
    * [New Marketing Materials](new_marketing_materials.md)
