@@ -21,4 +21,5 @@
    * [New Website](new_website.md)
    * [New Marketing Strategy](new_marketing_strategy.md)
    * [Mobile App](mobile_app.md)
+* Case Studies
 
