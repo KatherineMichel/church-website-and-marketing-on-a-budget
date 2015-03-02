@@ -35,6 +35,22 @@
 * Trustees Committee
 * Worship Committee
 
+#### Church Service Roles
+* Pastor
+* Liturgists
+* Lay people
+* Ushers
+* Greeters
+* Candle Lighters (Acolytes)
+* Communion Stewards
+* Sunday School Teachers
+* Nursery Helpers
+* Choir
+* Organist
+* Sound System/CD “Tape”  Ministry
+* Special Music
+* Counters
+
 #### Responsibilities Matrix
 ### Statement of Requirements
 
