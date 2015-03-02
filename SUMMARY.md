@@ -9,8 +9,8 @@
    * [Research Sprint](research_sprint.md)
    * [The Bible App Case Study](the_bible_app_case_study.md)
    * [Upworthy Case Study](upworthy_case_study.md)
-   * [Design Sprint](design_sprint.md)
    * Reverse Engineering
+   * [Design Sprint](design_sprint.md)
    * [Prototype](prototype.md)
    * [Marketing As Is](marketing_as_is.md)
    * [Lightning Demos](lightning_demos.md)
