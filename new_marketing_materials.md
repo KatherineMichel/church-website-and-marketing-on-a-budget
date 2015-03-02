@@ -7,26 +7,6 @@ New website home page: [www.prettyprairieumc.org](www.prettyprairieumc.org)
 [![](church-re-imagined/new-website-home-page.jpg)](http://prettyprairieumc.org)
 </center>
 
-<center>
-New website home page detail
-[![](church-re-imagined/new-website-home-page-detail.png)](http://www.prettyprairieumc.org/#/worship)
-</center>
-
-<center>
-New website menu
-[![](church-re-imagined/new-website-menu.png)](http://prettyprairieumc.org)
-</center>
-
-<center>
-New website mobile home page 
-[![](church-re-imagined/new-website-mobile-home-page.png)](http://prettyprairieumc.org)
-</center>
-
-<center>
-New website mobile home page detail
-[![](church-re-imagined/new-website-mobile-home-page-detail.png)](http://prettyprairieumc.org)
-</center>
-
 ## New Facebook Page
 
 <center>
