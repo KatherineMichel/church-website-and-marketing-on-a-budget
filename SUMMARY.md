@@ -2,6 +2,7 @@
 
 * [GitHub README](README.md)
 * [Executive Summary](executive_summary.md)
+* Reverse Engineering
 * [Project Management](project_management.md)
    * Reverse Engineering
 * [Research and Design Sprint](research_and_design_sprint.md)
