@@ -73,7 +73,7 @@ Whiteboard of final user story
 
 #### Prototype
 
-Prototype to user test
+See [Prototype](prototype.md)
 
 ## Metrics
 
