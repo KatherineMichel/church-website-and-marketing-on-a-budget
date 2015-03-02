@@ -18,16 +18,17 @@ The old Pretty Prairie United Methodist Church website and marketing materials w
 
 ![](marketing-as-is/old-website-contact.jpg)
 
+Mobile view
 ![](marketing-as-is/old-website-mobile.png)
 
-Website Pros: 
-* Straight forward design that could lend itself to mobile responsiveness
+Pros: 
+* Straight forward design
 * Use of photos and photo albums is positive, if only execution were better
 * Representation of a variety of church activities
 
-Website Cons:
+Cons:
 * Non-complimentary color scheme
-* Poor use of white space throughout
+* Poor use of white space (especially mobile)
 * Ragged, amateurish looking menu bar
 * The welcome page is a "data dump"
 * Unnecessary use of clip art
