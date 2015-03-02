@@ -28,14 +28,4 @@ Summary and analysis of findings
 
 Summary report
 
-## Sample Metrics
-
-Success metrics (ex. [HEART framework](https://www.gv.com/lib/how-to-choose-the-right-ux-metrics-for-your-product))
-
-[Goals-Signals-Metrics process](https://www.gv.com/lib/how-to-choose-the-right-ux-metrics-for-your-product)
-
-The national United Methodist Church suggests using a Goals and Measurable Objectives Chart as part of its Marketing Plan Audit process. 
-
-Goals and Measurable Objectives Chart Example
-
 
