@@ -75,12 +75,14 @@ Whiteboard of final user story
 
 Prototype to user test
 
-## Sample Metrics
+## Metrics
 
-Success metrics (ex. [HEART/Goals-Signals-Metrics Framework](https://www.gv.com/lib/how-to-choose-the-right-ux-metrics-for-your-product))
+### HEART/Goals-Signals-Metrics Framework
 
-Google Ventures example chart
+Example [HEART/Goals-Signals-Metrics](https://www.gv.com/lib/how-to-choose-the-right-ux-metrics-for-your-product) chart from Google Ventures
 [](design-sprint/heart-goals-signals-metrics.png)
+
+### Goals and Measurable Objectives Chart
 
 The national United Methodist Church suggests using a Goals and Measurable Objectives Chart as part of its Marketing Plan Audit process. 
 
