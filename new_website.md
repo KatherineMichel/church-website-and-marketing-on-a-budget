@@ -1,6 +1,7 @@
 # New Website
 
 New website home page: [www.prettyprairieumc.org](www.prettyprairieumc.org)
+See [New Website](new_website.md) for a more detailed explanation of the new website
 <center>
 [![](church-re-imagined/new-website-home-page.jpg)](http://prettyprairieumc.org)
 </center>
