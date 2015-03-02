@@ -14,6 +14,8 @@ Though there is an "upper bound" to area population, as Balaji Srinivasan points
 
 [Mobile is Eating the World](http://www.avc.com/a_vc/2013/06/mobile-is-eating-the-world.html)
 
+Mobile leap-frogging desktop
+
 ## Question to Answer
 
 Who to reach and how?
