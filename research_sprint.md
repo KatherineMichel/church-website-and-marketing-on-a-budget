@@ -4,6 +4,12 @@
 
 Helpful resource: [Google Ventures Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research) 
 
+## Pretty Prairie United Methodist Church Mission Statement
+
+"To glorify God by sharing the love of God, the teachings of Jesus Christ and the power of the Holy Spirit within our community"
+
+## Changing Landscape
+
 [Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html)
 
 [Software is Reorganizing the World Chart](http://balajis.com/2013/11/25/software-is-reorganizing-the-world)
@@ -18,7 +24,7 @@ Mobile leap-frogging desktop
 
 ## Question to Answer
 
-Who to reach and how?
+Who to reach and how? How to remain vital?
 
 http://www.umcom.org/learn/market-your-church
 
