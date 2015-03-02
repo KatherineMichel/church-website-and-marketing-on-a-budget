@@ -17,7 +17,7 @@ Options Matrix slides
 
 The web options chosen all provided value for money, with the two associated with the United Methodist Church being given first priority.
 
-1. [United Methodist Web Hosting](http://www.umcchurches.org) (tiers 2 and 3, both based on WordPress)
+1. [United Methodist Web Hosting](http://www.umcchurches.org) ([tiers 2 and 3](http://umcchurches.org/billing/hostingplans.php), both based on WordPress)
 2. [Ezekial Web Hosting](http://umc.e-zekiel.com) (discount due to United Methodist partnership)
 3. [Squarespace](http://www.squarespace.com) (a low cost web host with beautiful, responsive [templates](http://www.squarespace.com/templates))
 
