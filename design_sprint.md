@@ -85,7 +85,9 @@ Example [HEART/Goals-Signals-Metrics](https://www.gv.com/lib/how-to-choose-the-r
 
 ### Goals and Measurable Objectives Chart
 
-The national United Methodist Church suggests using a Goals and Measurable Objectives Chart as part of its Marketing Plan Audit process. 
+[United Methodist Communications](http://www.umcom.org) suggests using a Goals and Measurable Objectives Chart as part of the [Evaluation Step](http://www.umcom.org/learn/evaluation-adjustment-resources) of its [Marketing Audit](http://www.umcom.org/learn/market-your-church-getting-started). 
+
+[Marketing Plan Worksheet](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/UMCOM_YOUR_MARKETING_PLAN_WORKSHEET.PDF)
 
 United Methodist Goals and Measurable Objectives example chart
 
