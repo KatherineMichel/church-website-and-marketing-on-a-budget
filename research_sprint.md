@@ -113,7 +113,6 @@ From past year, all ages:
 * Other relevant numbers
 
 Pretty Prairie, Central Kansas, West of Wichita
-![](google-maps-and-trends/google-map-pretty-prairie-kansas.png)
 
 North of Kingman, South of Hutchinson, near the Amish community of Yoder
 
