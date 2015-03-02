@@ -26,6 +26,8 @@ Mobile leap-frogging desktop
 
 Who to reach and how? How to remain vital?
 
+Of course, the method that best reaches one demographic segment may not reach another so well. 
+
 http://www.umcom.org/learn/market-your-church
 
 [Marketing Plan Worksheet](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/UMCOM_YOUR_MARKETING_PLAN_WORKSHEET.PDF)
@@ -121,5 +123,3 @@ From past year, all ages:
 Pretty Prairie, in Central Kansas, West of Wichita, North of Kingman, South of Hutchinson, near the Amish community of Yoder
 
 ![](google-maps-and-trends/google-map-pretty-prairie-wichita.png)
-
-Notably, this may reach a different demographic segment than other forms of advertisement.
