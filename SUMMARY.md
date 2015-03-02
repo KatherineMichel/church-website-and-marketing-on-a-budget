@@ -3,6 +3,7 @@
 * [GitHub README](README.md)
 * [Executive Summary](executive_summary.md)
 * [Project Management](project_management.md)
+* [Case Studies](case_studies.md)
 * [Research and Design Sprint](research_and_design_sprint.md)
    * [Research Sprint](research_sprint.md)
    * [The Bible App Case Study](the_bible_app_case_study.md)
@@ -21,5 +22,4 @@
    * [New Website](new_website.md)
    * [New Marketing Strategy](new_marketing_strategy.md)
    * [Mobile App](mobile_app.md)
-* [Case Studies](case_studies.md)
 
