@@ -4,8 +4,7 @@
 
 ## Board Meeting
 
-I presented my preliminary research and mock ups to the church's Administrative Council. A motion was made that I choose the option that I felt was best. See slides below. 
-
+I emailed preliminary research and mock ups to the church's Administrative Council before meeting. During the meeting, I answered their impromptu questions. A motion was made and approved that I choose the option that I felt was best. See slides, mockups, and notes below. 
 Options Matrix slides
 <center>
 ![](web-hosting-options/web-hosting-options-matrix-page-1.png)
