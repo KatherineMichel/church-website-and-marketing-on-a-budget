@@ -4,11 +4,9 @@
 
 ## Board Meeting
 
-After presenting my preliminary research and mock ups to the church's Administrative Council, a motion was made that I choose the option that I felt was best.
+I presented my preliminary research and mock ups to the church's Administrative Council. A motion was made that I choose the option that I felt was best. See slides below. 
 
-### Options Matrix 
-
-Board meeting slides
+Options Matrix slides
 <center>
 ![](web-hosting-options/web-hosting-options-matrix-page-1.png)
 
