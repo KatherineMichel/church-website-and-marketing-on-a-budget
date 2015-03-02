@@ -4,7 +4,7 @@
 * [Executive Summary](executive_summary.md)
 * [Project Management](project_management.md)
    * Reverse Engineering
-* Reverse Engineering
+* [Reverse Engineering](reverse_engineering.md)
 * [Research and Design Sprint](research_and_design_sprint.md)
    * [Research Sprint](research_sprint.md)
    * [The Bible App Case Study](the_bible_app_case_study.md)
