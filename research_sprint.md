@@ -11,9 +11,7 @@ Who to Reach and How?
 ## Features/Tasks to Test?
 
 
-Comment cards/pads at the end of pews
-Existing research, analytics
-Notes from previous church strategy meetings
+
 
 Notably, this may reach a different demographic segment than other forms of advertisement. 
 ### The "business" problem
