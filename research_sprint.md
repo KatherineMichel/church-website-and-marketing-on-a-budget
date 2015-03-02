@@ -4,6 +4,10 @@
 
 Helpful resource: [Google Ventures Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research) 
 
+[Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html)
+
+[Mobile is Eating the World](http://www.avc.com/a_vc/2013/06/mobile-is-eating-the-world.html)
+
 ## Question to Answer
 
 Who to reach and how?
