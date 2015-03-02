@@ -89,4 +89,4 @@ The national United Methodist Church suggests using a Goals and Measurable Objec
 
 United Methodist Goals and Measurable Objectives example chart
 
-![](design-sprint/goals-measurable-objective-chart.png)
+![](design-sprint/goals-measurable-objectives-chart.png)
