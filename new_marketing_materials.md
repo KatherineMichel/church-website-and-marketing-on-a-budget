@@ -39,7 +39,9 @@ See [New Website](new_website.md) for a more detailed explanation of the new web
 ## New Bulletin (example)
 
 Front cover
-
+<center>
+![](church-re-imagined/new-bulletin-cover.png)
+</center>
 Inside
 
 ## New Multi-Purpose Greeting Card (example)
