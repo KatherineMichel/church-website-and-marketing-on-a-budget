@@ -29,10 +29,6 @@
 * More channels than ever to reach people
 * Untapped digital resources
 
-## Pretty Prairie United Methodist Church Mission Statement
-
-"To glorify God by sharing the love of God, the teachings of Jesus Christ and the power of the Holy Spirit within our community"
-
 ## Changing Landscape
 
 [Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html)
