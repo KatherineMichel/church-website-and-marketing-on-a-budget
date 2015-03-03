@@ -2,9 +2,11 @@
 
 [The Bible App Case Study](the_bible_app_case_study.md)
 
-## Business Model
+## Corporate Structure
 
 Corporate Structure: Non-profit/B Corporation
+
+## Business Model
 
 Product Tier Selection
 
