@@ -23,7 +23,7 @@ Upworthy: "social media with a mission"
 </center>
 
 <br>
-This is the Google Trends graph for the phrase ["Upworthy" (region: worldwide)](http://www.google.com/trends/explore#q=upworthy), beginning when Upworthy was founded in 2012, until January 2015: 
+Google Trends graph for the phrase ["Upworthy" (region: worldwide)](http://www.google.com/trends/explore#q=upworthy), beginning when Upworthy was founded in 2012, until January 2015: 
 
 ![](google-maps-and-trends/google-trends-upworthy-worldwide.png)
 

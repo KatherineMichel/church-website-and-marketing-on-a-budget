@@ -4,6 +4,7 @@
 * [Executive Summary](executive_summary.md)
 * [Project Management](project_management.md)
 * [Case Studies](case_studies.md)
+   * [Google Trends](google_trends.md)
    * [Upworthy Case Study](upworthy_case_study.md)
    * [The Bible App Case Study](the_bible_app_case_study.md)
 * [Research and Design Sprint](research_and_design_sprint.md)

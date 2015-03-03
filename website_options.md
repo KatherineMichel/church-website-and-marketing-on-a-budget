@@ -43,7 +43,7 @@ Final verdict: Squarespace is the web host that I chose for the church. I felt t
 To find out more and see more of the finished materials, go to [Church Re-Imagined](church_re-imagined.md) :) 
 
 Screenshot of finished website: [www.prettyprairieumc.org](www.prettyprairieumc.org). <br>
-[![](church-re-imagined/new-website-home-page.jpg)](http://prettyprairieumc.org)
+[![](new-marketing-materials/new-website-home-page.jpg)](http://prettyprairieumc.org)
 
 ## United Methodist Church Web Hosting
 
