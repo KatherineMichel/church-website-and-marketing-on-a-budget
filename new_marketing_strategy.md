@@ -4,13 +4,21 @@ The new marketing strategy would incorporate both traditional and modern methods
 
 ## Publicity Engine
 
+Website easy to use
+
+Multiple Admin
+
+Youth Leadership Initiative
+
+Involving various areas of the church
+
 ## Example Budget and Plan
 
 The Facebook advertisement program defaults to $50 spend for 1 week, advertising to both genders, ages 18 to 65+.
 
 ## Traditional Methods
 
-All of the traditional methods of advertisement should continue to be updated on an ongoing basis, including the new website info.
+All of the traditional methods of advertisement should continue to be updated on an ongoing basis, including the new website info. This is low-hanging fruit. 
 
 * Website/Facebook Page
 * Find-a-Church
