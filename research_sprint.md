@@ -11,13 +11,10 @@ Helpful resource: [Google Ventures Questions to Ask Before Starting User Researc
 
 ## Question to Answer
 
-Who to reach and how? How to remain vital?
+* Who to reach and how?
+* How to remain vital?
 
 Of course, the method that best reaches one demographic segment may not reach another so well. 
-
-http://www.umcom.org/learn/market-your-church
-
-[Marketing Plan Worksheet](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/UMCOM_YOUR_MARKETING_PLAN_WORKSHEET.PDF)
 
 ## Pretty Prairie United Methodist Church Mission Statement
 
