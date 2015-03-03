@@ -27,7 +27,7 @@
 * Decreasing importance of physical proximity
 * Larger potential user base
 * More channels than ever to reach people
-* Untapped digital potential resources and knowledge
+* Untapped digital resources
 
 ## Pretty Prairie United Methodist Church Mission Statement
 
@@ -53,8 +53,6 @@ Mobile leap-frogging desktop
 
 Congregational Survey and Results Report
 Community Survey and Results Report
-
-Of course, the method that best reaches one demographic segment may not reach another so well.
 
 #### Internal Data Sources
 * Determine of the church collects and tracks congregational data. For instance, if the church maintains a database, contact the administrator who has access. 
