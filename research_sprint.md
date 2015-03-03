@@ -39,23 +39,6 @@ The Google Trends graph for "[Pretty Prairie Rodeo" (region: worldwide)](http://
 
 ![](google-maps-and-trends/google-trends-pretty-prairie-rodeo-worldwide.png)
 
-### Google Trends for "United Methodist Church"
-
-Unfortunately, the Google Trends graphs for the search phrase "United Methodist Church" are not so fun, because they show a steady decline in search interest. 
-
-Here is the Google Trends graph for the phrase ["United Methodist Church" (region: worldwide)](http://www.google.com/trends/explore#q=united%20methodist%20church), from around 2004 to January 2015: 
-
-![](google-maps-and-trends/google-trends-united-methodist-church-worldwide.png)
-
-Here is the Google Trends graph for the phrase ["United Methodist Church" (region: Kansas)](http://www.google.com/trends/explore#geo=US-KS&q=united+methodist+church), from around 2004 to January 2015: 
-
-![](google-maps-and-trends/google-trends-united-methodist-church-kansas.png)
-
-Here is the Google Trends graph for the phrase ["United Methodist Church" (region: Wichita/Hutchinson, Kansas)](http://www.google.com/trends/explore#geo=US-KS-678&q=united+methodist+church), from around 2004 to January 2015: 
-
-![](google-maps-and-trends/google-trends-united-methodist-church-wichita-hutchinson.png)
-
-
 ## Changing Landscape
 
 According to Marc Andreessen, [Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html)
