@@ -4,6 +4,8 @@ The new marketing strategy would incorporate both traditional and modern methods
 
 ## Publicity Engine
 
+Self-sustaining
+
 Website easy to use
 
 Multiple Admin
