@@ -6,7 +6,8 @@ Templates in both color and black-and-white will be used to address the impracti
 
 ## New Website
  
-New website home page: [www.prettyprairieumc.org](www.prettyprairieumc.org)
+New website home page: [www.prettyprairieumc.org](www.prettyprairieumc.org)<br>
+See [New Website](new_website.md) for a more detailed explanation of the new website
 <center>
 [![](church-re-imagined/new-website-home-page.jpg)](http://prettyprairieumc.org)
 </center>
