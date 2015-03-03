@@ -70,21 +70,6 @@ Mobile leap-frogging desktop
 
 ## Geographic and Demographic Info
 
-### Data Sources
-
-Congregational Survey and Results Report
-Community Survey and Results Report
-
-#### Internal Data Sources
-* Determine of the church collects and tracks congregational data. For instance, if the church maintains a database, contact the administrator who has access. 
-* Contact lead pastor for official Table 1 and 2 info
-* If data is not readily available, consider conducting a survey during several Sunday worship services
-
-#### External Data Sources
-* United Methodist Communications Office
-* Research Office of the General Board of Global Ministries
-* Annual Conference Office
-
 ##### Nielson Company Demographic Info
 
 Through the national United Methodist Church Communications Office, I obtained the most recent Nielson Company demographic info for the city of Pretty Prairie, Kansas. 
