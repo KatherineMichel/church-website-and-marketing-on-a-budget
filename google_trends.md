@@ -39,7 +39,7 @@ Google Trends graph for phrases ["mobile" versus "desktop" (region: worldwide)](
 
 ![](google-maps-and-trends/google-trends-mobile-versus-desktop.png)
 
-### Phrases "mobile" for region worldwide
+### Phrase "mobile" for region worldwide
 
 Regional interest
 ![](google-maps-and-trends/google-trends-mobile-regional-interest.png)
