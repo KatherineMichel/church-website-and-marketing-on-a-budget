@@ -1,6 +1,6 @@
 # Case Studies
 
-## The Changing Global Ministry Landscape and What the Church Can Learn from The Bible App and Upworthy
+## The Changing Global Ministry Landscape and What the Church Can Learn from Upworthy and The Bible App. 
 
 The church should not aspire to be like Upworthy or to copy The Bible App. However, there is a market for "uplifting" content. The church may need to repackage its message and how the message is delivered if it is to compete for the public's attention. 
 
