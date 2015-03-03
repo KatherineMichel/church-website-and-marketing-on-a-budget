@@ -24,6 +24,10 @@ Without an independent website, the church was making due with a Find-a-Church p
 
 ![](marketing-as-is/find-a-church-about-us.jpg)
 
+## Pretty Prairie United Methodist Church Mission Statement
+
+"To glorify God by sharing the love of God, the teachings of Jesus Christ and the power of the Holy Spirit within our community"
+
 ## Solution
 
 I would project manage a modern new website and marketing plan for the church, using low-cost tools and available resources.
