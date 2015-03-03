@@ -7,6 +7,10 @@ In addition to the ["Tactics" List](http://s3.amazonaws.com/Website_Properties_U
 * [Google Forms](http://www.google.com/forms/about)
 * [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home) (pay)
 
+### Google Trends
+
+A technique that I've learned from the tech analysts whom [I follow on Twitter](https://twitter.com/katimichel/following) is to use [Google Trends](http://www.google.com/trends) to gauge the level of interest in a word (or words), including by region. 
+
 ## Search Engine Optimization (SEO) and Webmaster
 * [Search Engine Optimization](http://en.wikipedia.org/wiki/Search_engine_optimization) (SEO)
 * [Google+](https://plus.google.com/) and [Google Rich Snippets](https://support.google.com/webmasters/answer/99170?hl=en)
