@@ -19,6 +19,7 @@ Original, license-free, [Morgue File photo](http://www.morguefile.com/archive/di
 
 The Pretty Prairie United Methodist Church is in the state of Kansas (where the state flower is the sunflower), in a town called Pretty Prairie (where "pretty prairies" of sunflowers can be found in the vicinity). Yellow is a "warm" color, reminiscent of the sun. The sunflower symbolizes warm welcome, bright optimism, and renewal. 
 
+Yellow = warm
 <center>
 ![](church-re-imagined/warm-cool.jpg)
 </center>
@@ -29,5 +30,3 @@ The new color scheme is the Microsoft Publisher "Tuscany" color scheme plus blac
 <center>
 ![](church-re-imagined/new-color-scheme.png)
 </center>
-
-## New Sanctuary Equipment
