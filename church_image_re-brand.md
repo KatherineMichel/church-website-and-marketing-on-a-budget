@@ -26,7 +26,7 @@ Yellow = warm
 
 ## New Color Scheme
 
-The new color scheme is the Microsoft Publisher "Tuscany" color scheme plus black
+The new marketing materials color scheme is the Microsoft Publisher "Tuscany" color scheme plus black
 <center>
 ![](church-re-imagined/new-color-scheme.png)
 </center>
