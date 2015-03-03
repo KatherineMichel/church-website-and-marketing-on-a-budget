@@ -2,7 +2,7 @@
 
 ## Helpful Resource
 
-[Google Ventures Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research) 
+[Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research) by Google Ventures.
 
 ## Identify
 
