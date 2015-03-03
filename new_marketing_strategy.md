@@ -34,7 +34,7 @@ Members of the church would take stock of the skills of individual members. This
 
 A good starting point for outreach would be for the church to contact church-goers of the past who are now inactive, and invite them back. 
 
-Directory
+Updating directory/letter
 
 ### Telephone Book
 
