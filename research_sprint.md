@@ -39,7 +39,7 @@ According to Marc Andreessen, [Software is Eating the World](http://online.wsj.c
 
 Though there is an "upper bound" to area population, as Balaji Srinivasan points out, "when cloud formations take physical shape, neither their scale nor duration has an upper bound." 
 
-Furthermore, Fred Wilson points out that [Mobile is Eating the World](http://www.avc.com/a_vc/2013/06/mobile-is-eating-the-world.html)
+Furthermore, according to Fred Wilson, [Mobile is Eating the World](http://www.avc.com/a_vc/2013/06/mobile-is-eating-the-world.html)
 
 Mobile leap-frogging desktop
 
