@@ -40,8 +40,9 @@ See [New Website](new_website.md) for a more detailed explanation of the new web
 
 Front cover
 <center>
-![](church-re-imagined/new-bulletin-cover.png)
+![](church-re-imagined/new-bulletin-cover.jpg)
 </center>
+
 Inside
 
 ## New Multi-Purpose Greeting Card (example)
