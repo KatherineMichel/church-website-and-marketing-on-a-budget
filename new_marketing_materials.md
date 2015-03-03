@@ -39,6 +39,9 @@ See [New Website](new_website.md) for a more detailed explanation of the new web
 ## New Bulletin (example)
 
 Front cover
+<center>
+![](church-re-imagined/new-bulletin-cover.jpg)
+</center>
 
 Inside
 
@@ -61,6 +64,12 @@ Back cover<br>
 
 <center>
 ![](church-re-imagined/new-post-card.png)
+</center>
+
+## Twitter Ad
+
+<center>
+![](church-re-imagined/new-twitter-advertisement.png)
 </center>
 
 
