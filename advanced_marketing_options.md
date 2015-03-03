@@ -9,7 +9,7 @@ In addition to the ["Tactics" List](http://s3.amazonaws.com/Website_Properties_U
 
 ## Search Engine Optimization (SEO) and Webmaster
 * [Search Engine Optimization](http://en.wikipedia.org/wiki/Search_engine_optimization) (SEO)
-* [Google Rich Snippets](https://support.google.com/webmasters/answer/99170?hl=en)
+* [Google+](https://plus.google.com/) and [Google Rich Snippets](https://support.google.com/webmasters/answer/99170?hl=en)
 * [Google Webmaster](http://www.google.com/intl/en-US/webmasters)
 * [Google Analytics](http://www.google.com/analytics)
 * [Yahoo and Bing Webmaster](http://www.bing.com/toolbox/webmaster)
@@ -23,7 +23,7 @@ Google is the most popular search engine in most countries, often followed by Ya
 
 And most important of all, encourage people to use the website! The search ranking of the website will rise naturally as a result.
 
-### Rich Snippets
+### Google+ and Google Rich Snippets
 Verify that the Google map info is correct. If possible, link the website to the map. Consider creating a Google+ organization page, and/or Google rich snippet for support
 
 ## Social Media Engagement
