@@ -2,6 +2,8 @@
 
 ## Project Definition Plan
 
+![](project-management/project-definition-plan-cover.png)
+
 ### Executive Summary
 #### Background
 #### Objectives and Scope
