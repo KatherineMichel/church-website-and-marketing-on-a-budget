@@ -1,18 +1,33 @@
 # Research Sprint
 
+## Helpful Resource
+
+[Google Ventures Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research) 
+
 ## Identify
 
+* Question(s) to answer
 * Business problem
 * Business opportunity
-* Question(s) to answer
 * Features/tasks to test
-
-Helpful resource: [Google Ventures Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research) 
 
 ## Question to Answer
 
 * Whom should the church reach and how?
 * How does the church remain vital?
+
+### The "Business" Problem
+
+* Dwindling, predominantly older adult local population 
+* Changing lifestyles (digital and philosophical reorganization)
+* Four churches in close proximity
+
+### The "Business" Opportunity
+
+* Decreasing importance of physical proximity
+* Larger potential user base
+* More channels than ever to reach people
+* Untapped digital potential resources and knowledge
 
 ## Pretty Prairie United Methodist Church Mission Statement
 
@@ -31,21 +46,6 @@ Though there is an "upper bound" to area population, as Balaji Srinivasan points
 [Mobile is Eating the World](http://www.avc.com/a_vc/2013/06/mobile-is-eating-the-world.html)
 
 Mobile leap-frogging desktop
-
-### The "business" problem
-
-* Dwindling local population 
-* Predominantly middle age and older local population
-* Four churches in close proximity
-* Increasingly digital lifestyles
-
-### The "business" opportunity
- 
-* Untapped potential via modernization
-* More channels than ever to reach people
-* Greater accessibility of resources and knowledge
-* Decreasing importance of physical proximity
-* Larger potential user base
 
 ## Geographic and Demographic Info
 
