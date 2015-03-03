@@ -23,6 +23,8 @@ Example tactics over $1000
 
 See also [Advanced Marketing Options](advanced_marketing_options.md) for a list of advanced marketing options :).
 
+## New Sanctuary Equipment
+
 ## Publicity Engine
 
 Self-sustaining
