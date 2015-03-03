@@ -2,7 +2,14 @@
 
 ## Website Requirements
 The website would need to meet certain criteria to meet the needs of the church. 
+
+High level requirement:
 * Low cost
+* Responsive design
+
+High level preferable:
+* Beautiful appearance
+* Intuitive content management system
 
 ## Board Meeting
 
