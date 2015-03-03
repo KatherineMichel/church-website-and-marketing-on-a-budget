@@ -9,6 +9,7 @@ Black cross and flame
 ![](church-re-imagined/black-cross-and-flame.png)
 </center>
 
+<br>
 Original, license-free, [Morgue File photo](http://www.morguefile.com/archive/display/662765) used in new materials
 <center>
 [![](church-re-imagined/sunflowers-morgue-file-original.jpg)](http://www.morguefile.com/archive/display/662765)
