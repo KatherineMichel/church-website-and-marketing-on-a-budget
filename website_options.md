@@ -42,13 +42,13 @@ United Methodist Church Web Hosting was initially attractive due to:
 * Its affiliation with the church, including church-related content
 * The user-friendliness of the WordPress content management system 
 
-Random Stained Glass Window Mockup
+Stained glass window mockup using [Mogue File photo](http://www.morguefile.com/archive/display/67223)
 ![](web-hosting-options/catching-everest-stained-glass-window-theme-desktop-mockup.jpg)
 
-Pretty Prairie UMC Stained Glass Window Mockup
+Stained glass window mockup using pic of Pretty Prairie UMC stained glass window
 ![](web-hosting-options/catching-everest-stained-glass-window-theme-umc--window-desktop-mockup.jpg)
 
-Sunflowers Mockup
+Sunflowers mockup using [Morgue File photo](http://www.morguefile.com/archive/display/662765)
 ![](web-hosting-options/catching-everest-sunflowers-theme-desktop-mockup-white.jpg)
 
 Final verdict: The United Methodist Web Hosting templates that I felt were the most modern looking are three very popular and similar looking WordPress templates called [Twenty Eleven](https://wordpress.org/themes/twentyeleven), [Twenty Twelve](https://wordpress.org/themes/twentytwelve), and [Catching Everest](https://wordpress.org/themes/catch-everest). Notably, (see [Lightning Demos](lightning_demos.md)), nearby New Jerusalem Church is already using the [Twenty Eleven](https://wordpress.org/themes/twentyeleven) theme. Because of this, I decided to forgo the United Methodist Web Hosting in order to have something unique to Pretty Prairie United Methodist Church. 
