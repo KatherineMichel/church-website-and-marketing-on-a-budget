@@ -1,8 +1,23 @@
 # Research Sprint
 
-## Identifying the Problem and Opportunity
+## Identify
+
+* Business problem
+* Business opportunity
+* Question(s) to answer
+* Features/tasks to test
 
 Helpful resource: [Google Ventures Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research) 
+
+## Question to Answer
+
+Who to reach and how? How to remain vital?
+
+Of course, the method that best reaches one demographic segment may not reach another so well. 
+
+http://www.umcom.org/learn/market-your-church
+
+[Marketing Plan Worksheet](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/UMCOM_YOUR_MARKETING_PLAN_WORKSHEET.PDF)
 
 ## Pretty Prairie United Methodist Church Mission Statement
 
@@ -21,18 +36,6 @@ Though there is an "upper bound" to area population, as Balaji Srinivasan points
 [Mobile is Eating the World](http://www.avc.com/a_vc/2013/06/mobile-is-eating-the-world.html)
 
 Mobile leap-frogging desktop
-
-## Question to Answer
-
-Who to reach and how? How to remain vital?
-
-Of course, the method that best reaches one demographic segment may not reach another so well. 
-
-http://www.umcom.org/learn/market-your-church
-
-[Marketing Plan Worksheet](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/UMCOM_YOUR_MARKETING_PLAN_WORKSHEET.PDF)
-
-## Features/Tasks to Test?
 
 ### The "business" problem
 
