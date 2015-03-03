@@ -10,6 +10,7 @@ High level requirement:
 High level preferable:
 * Beautiful appearance
 * Intuitive content management system
+* Ability to integrate website into larger marketing strategy
 
 ## Board Meeting
 
