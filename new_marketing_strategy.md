@@ -14,6 +14,8 @@ Involving various areas of the church
 
 ## Example Budget and Plan
 
+Special occassions
+
 The Facebook advertisement program defaults to $50 spend for 1 week, advertising to both genders, ages 18 to 65+.
 
 ## Traditional Methods
