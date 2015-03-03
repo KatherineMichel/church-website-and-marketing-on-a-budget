@@ -28,3 +28,6 @@ Google Trends graph for the phrase ["The Bible App" (region: worldwide)](http://
 
 ![](google-maps-and-trends/google-trends-the-bible-app.png)
 
+### Phrase "app" versus "website" for region worldwide
+
+![](google-maps-and-trends/google-trends-app-versus-website.png)
