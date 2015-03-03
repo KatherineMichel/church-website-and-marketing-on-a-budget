@@ -37,7 +37,7 @@ Example tactics from $300 to $1000
 Example tactics over $1000
 ![](design-sprint/tactics-over-$1000.png)
 
-See also [Advanced Marketing Options](advanced_marketing_options.md) for a list of Advanced Marketing Options :).
+See also [Advanced Marketing Options](advanced_marketing_options.md) for a list of advanced marketing options :).
 
 ### Lightening Demos
 
