@@ -24,10 +24,14 @@ Google Trends graph for the phrase ["Upworthy" (region: worldwide)](http://www.g
 
 ### Phrase "The Bible App," for region worldwide
 
-Google Trends graph for the phrase ["The Bible App" (region: worldwide)](http://www.google.com/trends/explore#q=upworthy), beginning when The Bible App was founded in 2008, until January 2015. The Bible App's popularity remains high: 
+Google Trends graph for the phrase ["Bible App" (region: worldwide)](http://www.google.com/trends/explore#q=Bible%20App), beginning when The Bible App was founded in 2008, until January 2015. The Bible App's popularity remains high: 
 
 ![](google-maps-and-trends/google-trends-the-bible-app.png)
 
-### Phrase "app" versus "website" for region worldwide
+### Phrases "app" versus "website" for region worldwide
+
+Google Trends graph for phrases ["app" versus "website" (region: worldwide)](http://www.google.com/trends/explore#q=app%2C%20website&cmpt=q&tz=), beginning when The Bible App was founded in 2008, until January 2015. The Bible App's popularity remains high:
 
 ![](google-maps-and-trends/google-trends-app-versus-website.png)
+
+
