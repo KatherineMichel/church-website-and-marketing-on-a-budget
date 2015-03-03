@@ -99,40 +99,6 @@ Pretty Prairie [Area Map](https://drive.google.com/file/d/0B02bpu7HZwJRaVp5dGNMO
 
 [Population by Age and Race Trend 2014](https://drive.google.com/file/d/0B02bpu7HZwJRelJTXzd1XzVWUE0/view?usp=sharing)
 
-### Example Demographics
-
-* Male/female
-* Youth/young adult/adult
-* Ages 18-24, 25-34, 35-44, 45-54, 55+
-* Geography- country, state, city
-* Technology user? If so what kind of device? (desktop, mobile phone?)
-
-### Community Demographic and Behavior Data to Collect
-
-* Age
-* Family/household info (single/married, children/no children, other household members)
-* Education level
-* Income level
-* Ethnicity
-
-### Church Demographic Data to Collect
-
-* Age
-* Family/household info (single/married, children/no children, other household members)
-* Education level
-* Income level
-* Ethnicity
-* Geography (zip code report)
-* Church association (member, regular attendee, newcomer)
-
-### Church Behavior Data to Collect
-
-From past year, all ages:
-* Attendance (service, classes, events)
-* Level of financial giving
-* Responses to requests for volunteers and donations
-* Other relevant numbers
-
 Pretty Prairie, in Central Kansas, West of Wichita, North of Kingman, South of Hutchinson, near the Amish community of Yoder
 
 ![](google-maps-and-trends/google-map-pretty-prairie-wichita.png)
