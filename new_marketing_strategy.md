@@ -2,6 +2,10 @@
 
 The new marketing strategy would incorporate both traditional and modern methods in order to fit with changing lifestyles, and to reach the most people possible, perhaps even beyond city boundaries. 
 
+## Pretty Prairie United Methodist Church Mission Statement
+
+"To glorify God by sharing the love of God, the teachings of Jesus Christ and the power of the Holy Spirit within our community"
+
 ## Example Budget and Plan
 
 The Facebook advertisement program defaults to $50 spend for 1 week, advertising to both genders, ages 18 to 65+.
