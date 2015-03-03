@@ -11,10 +11,8 @@ Helpful resource: [Google Ventures Questions to Ask Before Starting User Researc
 
 ## Question to Answer
 
-* Who to reach and how?
-* How to remain vital?
-
-Of course, the method that best reaches one demographic segment may not reach another so well. 
+* Whom should the church reach and how?
+* How does the church remain vital?
 
 ## Pretty Prairie United Methodist Church Mission Statement
 
@@ -49,18 +47,14 @@ Mobile leap-frogging desktop
 * Decreasing importance of physical proximity
 * Larger potential user base
 
-## S.W.O.T. Analysis (Strategy)
-* Church strengths
-* Church weaknesses
-* Church opportunities
-* Church threats
-
 ## Geographic and Demographic Info
 
 ### Data Sources
 
 Congregational Survey and Results Report
 Community Survey and Results Report
+
+Of course, the method that best reaches one demographic segment may not reach another so well.
 
 #### Internal Data Sources
 * Determine of the church collects and tracks congregational data. For instance, if the church maintains a database, contact the administrator who has access. 
