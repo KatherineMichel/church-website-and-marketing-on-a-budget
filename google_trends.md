@@ -28,6 +28,12 @@ Google Trends graph for the phrase ["Bible App" (region: worldwide)](http://www.
 
 ![](google-maps-and-trends/google-trends-the-bible-app.png)
 
+### Phrases "mobile" versus "desktop" for region worldwide
+
+Google Trends graph for phrases ["mobile" versus "desktop" (region: worldwide)](http://www.google.com/trends/explore#q=mobile%2C%20desktop&cmpt=q&tz=), beginning when The Bible App was founded in 2008, until January 2015. The Bible App's popularity remains high:
+
+![](google-maps-and-trends/google-trends-mobile-versus-desktop.png)
+
 ### Phrases "app" versus "website" for region worldwide
 
 Google Trends graph for phrases ["app" versus "website" (region: worldwide)](http://www.google.com/trends/explore#q=app%2C%20website&cmpt=q&tz=), beginning when The Bible App was founded in 2008, until January 2015. The Bible App's popularity remains high:
