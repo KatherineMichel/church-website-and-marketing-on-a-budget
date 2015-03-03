@@ -6,13 +6,13 @@ Like the Pretty Prairie United Methodist Church itself, the new church theme wil
 
 Black cross and flame
 <center>
-![](church-re-imagined/black-cross-and-flame.png)
+![](church-image-re-brand/black-cross-and-flame.png)
 </center>
 
 <br>
 Original, license-free, [Morgue File photo](http://www.morguefile.com/archive/display/662765) used in new materials
 <center>
-[![](church-re-imagined/sunflowers-morgue-file-original.jpg)](http://www.morguefile.com/archive/display/662765)
+[![](church-image-re-brand/sunflowers-morgue-file-original.jpg)](http://www.morguefile.com/archive/display/662765)
 </center>
 
 ## Significance of the Sunflower
@@ -21,12 +21,12 @@ The Pretty Prairie United Methodist Church is in the state of Kansas (where the 
 
 Yellow = warm
 <center>
-![](church-re-imagined/warm-cool.jpg)
+![](church-image-re-brand/warm-cool.jpg)
 </center>
 
 ## New Color Scheme
 
 The new marketing materials color scheme is the Microsoft Publisher "Tuscany" color scheme plus black
 <center>
-![](church-re-imagined/new-color-scheme.png)
+![](church-image-re-brand/new-color-scheme.png)
 </center>
