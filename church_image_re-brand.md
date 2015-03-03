@@ -15,6 +15,7 @@ The Pretty Prairie United Methodist Church is in the state of Kansas (where the 
 
 ## New Color Scheme
 
+Microsoft Publisher "Tuscany" color scheme plus black:
 <center>
 ![](church-re-imagined/new-color-scheme.png)
 </center>
