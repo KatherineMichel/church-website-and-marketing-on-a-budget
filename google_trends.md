@@ -18,7 +18,7 @@ Google Trends graph for the phrase ["United Methodist Church" (region: Wichita/H
 
 ### Phrase "Upworthy," for region worldwide
 
-Google Trends graph for the phrase ["Upworthy" (region: worldwide)](http://www.google.com/trends/explore#q=upworthy), beginning when Upworthy was founded in 2012, until 2015: 
+Google Trends graph for the phrase ["Upworthy" (region: worldwide)](http://www.google.com/trends/explore#q=upworthy), from 2004 to 2015. Upworthy was founded in 2012,: 
 
 ![](google-maps-and-trends/google-trends-upworthy-worldwide.png)
 
@@ -26,7 +26,7 @@ Regional interest
 
 ### Phrase "Bible App," for region worldwide
 
-Google Trends graph for the phrase ["Bible App" (region: worldwide)](http://www.google.com/trends/explore#q=Bible%20App), beginning when The Bible App was founded in 2008, until 2015. The Bible App's popularity remains high: 
+Google Trends graph for the phrase ["Bible App" (region: worldwide)](http://www.google.com/trends/explore#q=Bible%20App), from 2004 to 2015. The Bible App was founded in 2008. The Bible App's popularity remains high: 
 
 ![](google-maps-and-trends/google-trends-the-bible-app.png)
 
@@ -35,7 +35,7 @@ Regional interest
 
 ### Phrases "mobile" versus "desktop" for region worldwide
 
-Google Trends graph for phrases ["mobile" versus "desktop" (region: worldwide)](http://www.google.com/trends/explore#q=mobile%2C%20desktop&cmpt=q&tz=) until 2015:
+Google Trends graph for phrases ["mobile" versus "desktop" (region: worldwide)](http://www.google.com/trends/explore#q=mobile%2C%20desktop&cmpt=q&tz=), from 2004 to 2015:
 
 ![](google-maps-and-trends/google-trends-mobile-versus-desktop.png)
 
@@ -46,6 +46,6 @@ Regional interest
 
 ### Phrases "app" versus "website" for region worldwide
 
-Google Trends graph for phrases ["app" versus "website" (region: worldwide)](http://www.google.com/trends/explore#q=app%2C%20website&cmpt=q&tz=) until 2015:
+Google Trends graph for phrases ["app" versus "website" (region: worldwide)](http://www.google.com/trends/explore#q=app%2C%20website&cmpt=q&tz=), from 2004 to 2015:
 
 ![](google-maps-and-trends/google-trends-app-versus-website.png)
