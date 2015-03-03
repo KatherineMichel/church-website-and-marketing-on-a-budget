@@ -4,7 +4,6 @@ The church website has a clean, modern, minimalistic look, with a lightweight, r
 For more info about the selection process, go to [Website Options](website_options.md). 
 
 New website home page: [www.prettyprairieumc.org](www.prettyprairieumc.org)<br>
-See [New Website](new_website.md) for a more detailed explanation of the new website
 <center>
 [![](church-re-imagined/new-website-home-page.jpg)](http://prettyprairieumc.org)
 </center>
