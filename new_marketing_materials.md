@@ -63,5 +63,11 @@ Back cover<br>
 ![](church-re-imagined/new-post-card.png)
 </center>
 
+## Twitter Ad
+
+<center>
+![](church-re-imagined/new-twitter-advertisement.png)
+</center>
+
 
 
