@@ -7,12 +7,6 @@
    * [Upworthy Case Study](upworthy_case_study.md)
    * [The Bible App Case Study](the_bible_app_case_study.md)
    * Google Trends
-* [Church Re-Imagined :)](church_re-imagined.md)
-   * [Church Image Re-Brand](church_image_re-brand.md)
-   * [New Marketing Materials](new_marketing_materials.md)
-   * [New Website](new_website.md)
-   * [New Marketing Strategy](new_marketing_strategy.md)
-   * [Mobile App](mobile_app.md)
 * [Research and Design Sprint](research_and_design_sprint.md)
    * [Research Sprint](research_sprint.md)
    * [Reverse Engineering](reverse_engineering.md)
@@ -23,4 +17,10 @@
    * [Website Options](website_options.md)
    * [Prototype](prototype.md)
    * [User Testing](user_testing.md)
+* [Church Re-Imagined :)](church_re-imagined.md)
+   * [Church Image Re-Brand](church_image_re-brand.md)
+   * [New Marketing Materials](new_marketing_materials.md)
+   * [New Website](new_website.md)
+   * [New Marketing Strategy](new_marketing_strategy.md)
+   * [Mobile App](mobile_app.md)
 
