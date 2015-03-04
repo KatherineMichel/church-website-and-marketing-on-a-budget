@@ -1,5 +1,10 @@
 # Upworthy Case Study
 
+## Google Trends Graph for Upworthy
+Google Trends graph for the phrase ["Upworthy" (region: worldwide)](http://www.google.com/trends/explore#q=upworthy), beginning when Upworthy was founded in 2012, until January 2015: 
+
+![](google-maps-and-trends/google-trends-upworthy-worldwide.png)
+
 ## The Competition (Not Who You Might Expect)
  
 Even as search interest in the United Methodist Church declined (see [Google Trends](google_trends.md)), in a short period of time during the past few years, a website with something of a mission for social justice called [Upworthy](http://www.upworthy.com) became "[the fastest-growing media site in history](http://www.fastcompany.com/3012649/how-upworthy-used-emotional-data-to-become-the-fastest-growing-media-site-of-all-time)," achieving growth that far surpassed that of its closest viral competitors: [Buzzfeed](http://www.buzzfeed.com), [Huffington Post](http://www.huffingtonpost.com), and [Business Insider](http://www.businessinsider.com). 
@@ -21,11 +26,6 @@ Upworthy: "social media with a mission"
 <center>
 ![](upworthy/upworthy-is-social-media-with-a-mission.png)
 </center>
-
-<br>
-Google Trends graph for the phrase ["Upworthy" (region: worldwide)](http://www.google.com/trends/explore#q=upworthy), beginning when Upworthy was founded in 2012, until January 2015: 
-
-![](google-maps-and-trends/google-trends-upworthy-worldwide.png)
 
 If, like me, you were a regular user of Facebook in the Fall of 2013, it's very likely that like me you came across Upworthy content regularly. [Facebook](https://www.facebook.com/Upworthy) has been Upworthy's main source of traffic. According to Upworthy, Facebook is the "king" of viral. When Facebook changed its algorithms at the end of 2013 (reportedly in response to Upworthy's content becoming disportionately popular in the Facebook news feed), Upworthy's traffic dramatically fell. 
 
