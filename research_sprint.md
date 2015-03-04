@@ -40,7 +40,7 @@ Pretty Prairie [Area Map](https://drive.google.com/file/d/0B02bpu7HZwJRaVp5dGNMO
 
 [Population by Age and Race Trend 2014](https://drive.google.com/file/d/0B02bpu7HZwJRelJTXzd1XzVWUE0/view?usp=sharing)
 
-## How Should the Church Reach Them?
+
 
 ### Pretty Prairie United Methodist Church Mission Statement
 
