@@ -17,7 +17,7 @@ Pretty Prairie tends to be a very quiet place, except for every July when Pretty
 
 * Up to date marketing materials (newsletter, bulletin, email signature, ect.)
 * Word of mouth/visit/call/letter
-* Local newspaper (permanent ad and special occassions)
+* Local newspaper (permanent ad and special occasions)
 * Ads and fliers in high traffic locations
 
 ### Digital Outreach
@@ -42,7 +42,11 @@ Down to 3 km or 1km (shown here)...
 
 ![](new-marketing-strategy/facebook-page-advertisement-reach-1km.png)
 
-#### Google Advertising (Pay)
+#### Google Advertising 
+
+##### Google [AdSense](http://www.google.com/adsense)
+
+##### Google [AdWords](https://www.google.com/adwords) (Pay)
 
 Google Adwords targeting Pretty Prairie 
 ![](new-marketing-strategy/google-adwords-pretty-prairie-targeting.png)
