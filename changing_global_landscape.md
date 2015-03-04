@@ -27,6 +27,14 @@ Google Trends graph for phrases ["mobile" versus "desktop" (region: worldwide)](
 Regional interest
 ![](google-maps-and-trends/google-trends-mobile-regional-interest.png)
 
+1. Pakistan
+2. India
+3. Bangladesh
+4. Nepal
+5. Bhutan
+6. Uganda
+7. Papua New Guinea
+
 ## Google Trends Graph for Phrases "app" Versus "website"
 
 Google Trends graph for phrases ["app" versus "website" (region: worldwide)](http://www.google.com/trends/explore#q=app%2C%20website&cmpt=q&tz=), from 2004 to 2015:
