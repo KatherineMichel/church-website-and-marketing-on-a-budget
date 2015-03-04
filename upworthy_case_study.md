@@ -1,5 +1,7 @@
 # Upworthy Case Study
 
+[Upworthy Case Study](upworthy_case_study.md): Upworthy's rise as "the fastest-growing media site in history" (with a mission for social justice), and downfall.
+
 ## Google Trends Graph for Phrase "Upworthy"
 
 Google Trends graph for the phrase ["Upworthy" (region: worldwide)](http://www.google.com/trends/explore#q=upworthy), from 2004 to 2015. [Upworthy](http://www.upworthy.com) was founded in 2012. 
@@ -7,6 +9,16 @@ Google Trends graph for the phrase ["Upworthy" (region: worldwide)](http://www.g
 ![](google-maps-and-trends/google-trends-upworthy-worldwide.png)
 
 Regional interest
+
+1. Canada
+2. United States
+3. New Zealand
+4. Australia
+5. United Kingdom
+6. Sweden
+7. Netherlands
+
+
 
 ## The Competition (Not Who You Might Expect)
  
