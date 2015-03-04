@@ -30,6 +30,14 @@ Pretty Prairie tends to be a very quiet place, except for every July when Pretty
 
 * Find-a-Church
 
+#### Search Engine Optimization (SEO)
+
+* [Search Engine Optimization](http://en.wikipedia.org/wiki/Search_engine_optimization) (SEO)
+
+#### Google+ and Google Rich Snippets
+* [Google+](https://plus.google.com/)
+* [Google Rich Snippets](https://support.google.com/webmasters/answer/99170?hl=en)
+
 #### Facebook Sharing Amongst Friends
 
 #### [Facebook Advertising](https://www.facebook.com/business/products/ads) (Pay)
@@ -55,12 +63,16 @@ Google Adwords targeting Pretty Prairie
 
 ### Advanced Marketing (Webmaster)
 
-#### Google [AdSense](http://www.google.com/adsense)
+* [Google Webmaster](http://www.google.com/intl/en-US/webmasters)
+* [Google Analytics](http://www.google.com/analytics)
+* [Yahoo and Bing Webmaster](http://www.bing.com/toolbox/webmaster)
+* [Google AdSense](http://www.google.com/adsense)
 
 * [Facebook OpenGraph](http://ogp.me)
 * [Twitter Cards](https://dev.twitter.com/cards/overview)
 * [Twitter Intents](https://dev.twitter.com/web/intents)
 * Share Buttons ([AddThis](http://www.addthis.com)/[ShareThis](http://www.sharethis.com))
+
 
 
 ## The "Business" Problem
