@@ -134,7 +134,6 @@ Or 1 km...
 #### Facebook Advertisement
 
 Facebook page "Local Awareness" advertisement preview to "reach people near your business" 
-![](new-marketing-strategy/facebook-page-advertisement-preview.png)
 
 ##Public at Large
 
