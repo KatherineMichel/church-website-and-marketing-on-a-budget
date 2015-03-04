@@ -16,14 +16,6 @@ Google Trends graph for the phrase ["United Methodist Church" (region: Wichita/H
 
 ![](google-maps-and-trends/google-trends-united-methodist-church-wichita-hutchinson.png)
 
-### Phrase "Upworthy," for region worldwide
-
-Google Trends graph for the phrase ["Upworthy" (region: worldwide)](http://www.google.com/trends/explore#q=upworthy), from 2004 to 2015. [Upworthy](http://www.upworthy.com) was founded in 2012. When [Facebook](https://www.facebook.com/Upworthy), Upworthy's main source of traffic, changed its algorithms at the end of 2013 (reportedly in response to Upworthy's content becoming disportionately popular in the Facebook news feed), Upworthy's traffic dramatically fell. 
-
-![](google-maps-and-trends/google-trends-upworthy-worldwide.png)
-
-Regional interest
-
 ### Phrase "Bible App," for region worldwide
 
 Google Trends graph for the phrase ["Bible App" (region: worldwide)](http://www.google.com/trends/explore#q=Bible%20App), from 2004 to 2015. [The Bible App](https://www.bible.com/app) was founded in 2008. The Bible App's popularity remains high: 
