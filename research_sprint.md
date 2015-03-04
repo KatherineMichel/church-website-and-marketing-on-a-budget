@@ -61,17 +61,25 @@ Google Adwords targeting Pretty Prairie
 
 * [MailChimp](http://mailchimp.com)
 
-### Advanced Marketing (Webmaster)
+### Advanced Marketing 
 
+#### Webmaster
 * [Google Webmaster](http://www.google.com/intl/en-US/webmasters)
-* [Google Analytics](http://www.google.com/analytics)
 * [Yahoo and Bing Webmaster](http://www.bing.com/toolbox/webmaster)
-* [Google AdSense](http://www.google.com/adsense)
 
+#### Analytics
+* [Google Analytics](http://www.google.com/analytics)
+* [Facebook Insights](https://www.facebook.com/help/336893449723054) (analytics)
+* [Twitter Analytics](https://analytics.twitter.com)
+
+#### Sharing and Engagement
 * [Facebook OpenGraph](http://ogp.me)
 * [Twitter Cards](https://dev.twitter.com/cards/overview)
 * [Twitter Intents](https://dev.twitter.com/web/intents)
 * Share Buttons ([AddThis](http://www.addthis.com)/[ShareThis](http://www.sharethis.com))
+
+#### Embedded Ads
+* [Google AdSense](http://www.google.com/adsense)
 
 
 
