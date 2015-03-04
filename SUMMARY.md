@@ -11,7 +11,6 @@
 * [Research and Design Sprint](research_and_design_sprint.md)
    * [Research Sprint](research_sprint.md)
    * [Reverse Engineering](reverse_engineering.md)
-   * [Advanced Marketing Options](advanced_marketing_options.md)
    * [Design Sprint](design_sprint.md)
    * [Marketing As Is](marketing_as_is.md)
    * [Lightning Demos](lightning_demos.md)
