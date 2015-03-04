@@ -28,15 +28,13 @@ Self-sustaining
 * Crowd-funding
 * Use of Twitter Cards/mobile video
 
+[Deep Linking](http://en.wikipedia.org/wiki/Mobile_deep_linking)
+
 ## Large Scale Marketing
 
 * Network effect
 * Facebook advertises a "potential reach" of 120,000,000 people
 * Twitter
-
-Pirate metrics
-
-* [Deep Linking](http://en.wikipedia.org/wiki/Mobile_deep_linking)
 
 ### Stats
 
