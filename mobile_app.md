@@ -14,6 +14,10 @@ Gamification
 
 See [The Bible App Case Study](the_bible_app_case_study.md) for the inspiration for this mobile app idea. 
 
+### Stats
+
+http://en.wikipedia.org/wiki/United_Methodist_Church
+
 ## Corporate Structure
 
 Corporate Structure: Non-profit/B Corporation
