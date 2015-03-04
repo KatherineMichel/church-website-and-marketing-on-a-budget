@@ -45,12 +45,6 @@ Involving various areas of the church
 
 All of the traditional methods of advertisement should continue to be updated on an ongoing basis, including the new website info. This is low-hanging fruit. 
 
-* Website/Facebook Page
-* Find-a-Church
-
-* Local newspaper
-* Ads and fliers in high traffic locations
-
 * Bulletin
 * Email signature
 
@@ -108,8 +102,6 @@ Based on feedback, members of the church and surrounding community are more like
 #### Facebook Advertisement
 
 Facebook page "Local Awareness" advertisement preview to "reach people near your business" 
-
-### Google Adwords
 
 ##Public at Large
 
