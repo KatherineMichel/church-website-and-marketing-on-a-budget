@@ -22,6 +22,8 @@ Taking stock of supplies on hand
 
 I would do most of the design work alone, and act as facilitator for select brainstorming and planning group work, particularly involving the church's Nurture Outreach Witness (NOW) Committee, which handles community outreach for the church. 
 
+See [Research Sprint](research_sprint.md) for more information about the Nurture Outreach Witness (NOW) Committee's involvement. 
+
 ## Design Sprint Process
 
 ### Lightening Demos
