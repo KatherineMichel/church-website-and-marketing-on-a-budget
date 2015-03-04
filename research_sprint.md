@@ -15,6 +15,7 @@ Pretty Prairie tends to be a very quiet place, except for every July when Pretty
 
 ### Traditional Outreach
 
+* Word of mouth/visits
 * Local newspaper
 * Ads and fliers in high traffic locations
 
