@@ -4,6 +4,8 @@ Advanced marketing techniques matter, which can be seen in [Upworthy Case Study]
 
 ### Digital Outreach
 
+Pirate metrics
+
 #### Church Administered
 * Website
 * Facebook Page
