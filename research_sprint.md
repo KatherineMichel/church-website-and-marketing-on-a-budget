@@ -17,6 +17,22 @@ Pretty Prairie tends to be a very quiet place, except for every July when Pretty
 
 ### Digital Outreach
 
+#### Google's Reach 
+
+Google Adwords targeting Pretty Prairie 
+![](new-marketing-strategy/google-adwords-pretty-prairie-targeting.png)
+
+#### Facebook's Reach
+
+Suggested target audience ranging from a radius of 50 km around Pretty Prairie... 
+
+![](new-marketing-strategy/facebook-page-advertisement-reach-50km.png)
+
+Down to 3 km or 1km (shown here)... 
+
+![](new-marketing-strategy/facebook-page-advertisement-reach-1km.png)
+
+
 
 ## The "Business" Problem
 
@@ -53,18 +69,3 @@ Pretty Prairie [Area Map](https://drive.google.com/file/d/0B02bpu7HZwJRaVp5dGNMO
 
 
 
-##### Google's Reach 
-
-Google Adwords Pretty Prairie targeting
-![](new-marketing-strategy/google-adwords-pretty-prairie-targeting.png)
-
-##### Facebook's Reach
-Facebook advertises a "potential reach" of 120,000,000 people
-
-Suggested target audience ranging from a radius of 50 km around Pretty Prairie... 
-
-![](new-marketing-strategy/facebook-page-advertisement-reach-50km.png)
-
-Down to 3 km or 1km (shown here)... 
-
-![](new-marketing-strategy/facebook-page-advertisement-reach-1km.png)
