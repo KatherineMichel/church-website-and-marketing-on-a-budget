@@ -18,6 +18,13 @@ Youth Leadership Initiative
 
 Involving various areas of the church
 
+### Traditional Outreach
+
+* Up to date marketing materials (newsletter, bulletin, email signature, ect.)
+* Word of mouth/visit/call/letter
+* Local newspaper (permanent ad and special occasions)
+* Ads and fliers in high traffic locations
+
 ### Contacting Inactive Members
 
 A good starting point for outreach would be for the church to contact church-goers of the past who are now inactive, and invite them back. 
@@ -89,10 +96,6 @@ Twitter for Faith Playbook
 ![](new-marketing-strategy/twitter-for-faith-playbook.png)
 
 Members of the church are less likely to use Twitter. However, Twitter is an option to keep in mind, particularly for reaching the public at large. 
-
-### 
-
-A technique that I've learned from the tech analysts whom [I follow on Twitter](https://twitter.com/katimichel/following) is to use [Google Trends](http://www.google.com/trends) to gauge the level of interest in a word (or words), including by region. 
 
 ## New Sanctuary Equipment
 
