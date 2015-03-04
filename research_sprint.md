@@ -4,22 +4,19 @@
 
 [Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research) by Google Ventures.
 
-## Identify
-* Features/tasks to test
-
 ## Question to Answer
 
 * Whom should the church reach and how?
 * How does the church remain vital?
+* Features/tasks to test
 
-### The "Business" Problem
+## The "Business" Problem
 
 * Dwindling, predominantly older adult local population 
 * Changing lifestyles (digital and philosophical reorganization)
 * Four churches in close proximity
-* 
 
-### The "Business" Opportunity
+## The "Business" Opportunity
 
 * Decreasing importance of physical proximity
 * Larger potential user base
@@ -28,7 +25,7 @@
 
 ## Geographic and Demographic Info
 
-Pretty Prairie, in Central Kansas, West of Wichita, North of Kingman, South of Hutchinson, near the Amish community of Yoder
+Pretty Prairie, in central Kansas, west of Wichita, north of Kingman, south of Hutchinson, near the Amish community of Yoder, and the host of the world famous Pretty Prairie Rode (the largest night rodeo in Kansas), every July.
 
 ![](google-maps-and-trends/google-map-pretty-prairie-wichita.png)
 
@@ -54,14 +51,10 @@ Google Adwords Pretty Prairie targeting
 #### Facebook's Reach
 Facebook advertises a "potential reach" of 120,000,000 people
 
-Suggested target audience ranges from radius of 50 km around Pretty Prairie... 
+Suggested target audience ranging from a radius of 50 km around Pretty Prairie... 
 
 ![](new-marketing-strategy/facebook-page-advertisement-reach-50km.png)
 
-Down to 3 km ... 
-
-![](new-marketing-strategy/facebook-page-advertisement-reach-3km.png)
-
-Or 1 km...
+Down to 3 km or 1km (shown here)... 
 
 ![](new-marketing-strategy/facebook-page-advertisement-reach-1km.png)
