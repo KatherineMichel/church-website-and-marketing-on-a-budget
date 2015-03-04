@@ -17,12 +17,12 @@ Pretty Prairie tends to be a very quiet place, except for every July when Pretty
 
 ### Digital Outreach
 
-#### Google's Reach 
+#### Google Advertising 
 
 Google Adwords targeting Pretty Prairie 
 ![](new-marketing-strategy/google-adwords-pretty-prairie-targeting.png)
 
-#### Facebook's Reach
+#### Facebook Advertising
 
 Suggested target audience ranging from a radius of 50 km around Pretty Prairie... 
 
