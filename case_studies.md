@@ -41,7 +41,7 @@ Regional interest
 
 ## The Bible App Case Study
 
-[The Bible App Case Study](the_bible_app_case_study.md): How has a religion app achieved 100 million+ downloads, with popularity remaining steadily high?
+[The Bible App Case Study](the_bible_app_case_study.md): How has a religious app achieved 100 million+ downloads, with popularity remaining steadily high?
 
 ### Google Trends Graph for Phrase "Bible App"
 
