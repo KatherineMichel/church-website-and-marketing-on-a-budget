@@ -26,6 +26,10 @@
 * More channels than ever to reach people
 * Untapped digital resources
 
+### Google Trends for "Pretty Prairie"
+
+Unfortunately, Google Trends does not go into enough detail to give results for "Pretty Prairie United Methodist Church," but here is a fun graph for the results for , from around 2004 to September 2004;  
+
 ## Geographic and Demographic Info
 
 Pretty Prairie, in Central Kansas, West of Wichita, North of Kingman, South of Hutchinson, near the Amish community of Yoder
