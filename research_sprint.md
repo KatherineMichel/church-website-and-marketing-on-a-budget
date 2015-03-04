@@ -118,8 +118,11 @@ Google Adwords targeting Pretty Prairie
 * [Twitter Intents](https://dev.twitter.com/web/intents)
 * Share Buttons ([AddThis](http://www.addthis.com)/[ShareThis](http://www.sharethis.com))
 
-#### Embedded Ads
+#### Embedded Advertising
 * [Google AdSense](http://www.google.com/adsense)
+
+#### Mobile Advertising (Pay)
+* [Facebook Audience Network](https://www.facebook.com/business/news/audience-network) 
 
 
 
