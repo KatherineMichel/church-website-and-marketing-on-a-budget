@@ -2,11 +2,15 @@
 
 ## The Changing Global Ministry Landscape 
 
-The following case studies demonstrate the challenge faced by churches to stay relevant.
+Churches are struggling to stay relevant. The following case studies demonstrate the challenges faced and untapped opportunities.
 
-### Google Trends 
+### [Google Trends](google_trends.md) 
 
-* Steadily decline in search interest for the phrase "United Methodist Church
+### [Upworthy](upworthy_case_study.md)
+
+How Upworthy became "the fastest-growing media site in history," and with a mission for social justice.
+
+### [The Bible App](the_bible_app_case_study.md)
 
 
 
