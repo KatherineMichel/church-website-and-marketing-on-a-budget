@@ -4,6 +4,9 @@
 
 The church should not aspire to be like Upworthy or to copy The Bible App. However, there is a market for "uplifting" content. The church may need to repackage its message and how the message is delivered if it is to compete for the public's attention. 
 
+* [Advanced Marketing](advanced_marketing_options.md) techniques matter
+* Desktop computers and websites are not exactly going away, but mobile and apps are increasing in popularity. In some developing countries, a mobile phone may be the first and only "computer" people can afford
+
 ### Jesus and John Wesley, Social Pioneers
 
 Perhaps the United Methodist Church need look no further than [social network](http://en.wikipedia.org/wiki/Social_network) pioneers Jesus and John Wesley for inspiration. 
