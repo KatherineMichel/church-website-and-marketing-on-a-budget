@@ -30,11 +30,20 @@ Self-sustaining
 
 [Deep Linking](http://en.wikipedia.org/wiki/Mobile_deep_linking)
 
-## Large Scale Marketing
+## Large Scale Marketing/Public at Large
 
 * Network effect
 * Facebook advertises a "potential reach" of 120,000,000 people
 * Twitter
+
+### Twitter Advertising
+
+Twitter has a Faith Playbook devoted to faith and religious ads can be occasionally found on Twitter. 
+
+Twitter for Faith Playbook
+![](new-marketing-strategy/twitter-for-faith-playbook.png)
+
+Members of the church are less likely to use Twitter. However, Twitter is an option to keep in mind, particularly for reaching the public at large. 
 
 ### Stats
 
