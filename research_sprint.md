@@ -18,11 +18,6 @@
 * Changing lifestyles (digital and philosophical reorganization)
 * Four churches in close proximity
 * 
-### Google Trends for "Pretty Prairie"
-
-Unfortunately, Google Trends does not go into enough detail to give results for "Pretty Prairie United Methodist Church," but here is a fun graph for the results for ["Pretty Prairie" (region: worldwide)](http://www.google.com/trends/explore#q=pretty%20prairie), from around 2004 to September 2004; The town of Pretty Prairie, Kansas happens to host the world famous [Pretty Prairie Rodeo](http://www.pprodeo.com) (the biggest night rodeo in Kansas) every July. The spikes in the Google Trends graph below all happened in July :) 
-
-![](google-maps-and-trends/google-trends-pretty-prairie-worldwide.png)
 
 ### The "Business" Opportunity
 
