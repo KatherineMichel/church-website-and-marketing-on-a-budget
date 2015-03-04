@@ -25,7 +25,7 @@ Without an independent website, the church was making due with a Find-a-Church p
 
 ### Revitalization Effort
 
-The church was also ready for a new community outreach campaign. In the process of doing research for this outreach campaign, I would learn more about the problems facing the Pretty Prairie United Methodist Church and the national [United Methodist Church](http://www.umc.org).
+The church was also ready for a new community outreach campaign. In the process of doing research for this outreach campaign, I would learn more about the problems (and opportunities) facing the Pretty Prairie United Methodist Church and the national [United Methodist Church](http://www.umc.org).
 
 ## Solution
 
