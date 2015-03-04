@@ -1,6 +1,6 @@
 # The Bible App Case Study
 
-How has a religion app achieved 100 million+ downloads, with popularity remaining steadily high?
+How has a religious app achieved 100 million+ downloads, with popularity remaining steadily high?
 
 ## Google Trends Graph for Phrase "Bible App"
 
@@ -11,6 +11,14 @@ Google Trends graph for the phrase ["Bible App" (region: worldwide)](http://www.
 Regional interest
 ![](google-maps-and-trends/google-trends-the-bible-app-regional-interest.png)
 
+1. Ghana
+2. Kenya
+3. Nigeria
+4. South Africa
+5. Philippines
+6. United States
+7. Singapore
+8. 
 [The Bible App](https://www.bible.com/app)
 
 [The Bible App for Kids](https://www.bible.com/kids)
