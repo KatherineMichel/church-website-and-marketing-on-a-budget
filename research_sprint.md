@@ -17,8 +17,6 @@ Pretty Prairie (population 688) tends to be a very quiet place, except for every
 
 ![](google-maps-and-trends/google-trends-pretty-prairie-worldwide.png)
 
-As I learned more about Pretty Prairie and the local and national United Methodist Church, I became increasingly more aware of the problem and opportunity. 
-
 ### The "Business" Problem
 
 * Dwindling, predominantly older adult local population 
