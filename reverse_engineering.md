@@ -7,3 +7,5 @@ The idea for reverse engineering came from this article:
 ## What Does a Successful National Church Look Like?
 
 ## Whom Should the Church Reach?
+
+## How Should the Church Reach Them?
