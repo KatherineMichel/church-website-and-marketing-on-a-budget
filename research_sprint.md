@@ -15,6 +15,7 @@ Pretty Prairie tends to be a very quiet place, except for every July when Pretty
 
 ### Traditional Outreach
 
+* Up to date marketing materials (newsletter, bulletin, email signature, ect.)
 * Word of mouth/visit/call/letter
 * Local newspaper
 * Ads and fliers in high traffic locations
