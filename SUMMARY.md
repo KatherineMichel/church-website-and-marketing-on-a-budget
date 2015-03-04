@@ -8,7 +8,7 @@
    * [Upworthy Case Study](upworthy_case_study.md)
    * [The Bible App Case Study](the_bible_app_case_study.md)
 * [Changing Global Landscape](changing_global_landscape.md)
-* Advanced Marketing
+* [Advanced Marketing](advanced_marketing.md)
 * [Research and Design Sprint](research_and_design_sprint.md)
    * [Research Sprint](research_sprint.md)
    * [Reverse Engineering](reverse_engineering.md)
