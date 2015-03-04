@@ -25,6 +25,8 @@ Novel
 
 Pirate metrics
 
+Facebook advertises a "potential reach" of 120,000,000 people
+
 See [The Bible App Case Study](the_bible_app_case_study.md) for the inspiration for this mobile app idea. 
 
 ### Stats
