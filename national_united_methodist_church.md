@@ -18,7 +18,7 @@ Google Trends graph for the phrase ["United Methodist Church" (region: Wichita/H
 
 ### Church Decline
 
-This is not exclusive to Kansas. 
+Churches are struggling to stay relevant. This problem is not exclusive to theh United Methodist Church. 
 
 ## Jesus and John Wesley, Social Pioneers
 
