@@ -12,11 +12,11 @@ A technique that I've learned from the tech analysts whom [I follow on Twitter](
 
 Looking at search interest via Google Trends to gauge the effectiveness of traditional and modern religious methods amid changing lifestyles. Insight into tech trends and which channels could be the best to use to reach people locally, or perhaps even worldwide. 
 
-### [National United Methodist Church](national_united_methodist_church.md)
+### National United Methodist Church
 
-## Phrase "United Methodist Church," for regions worldwide, Kansas, and Wichita/Hutchinson (Kansas)
+[National United Methodist Church Case Study](national_united_methodist_church.md): What's the matter with the United Methodist Church? Looking at the steady decline of interest in the United Methodist Church and how it can be fixed. 
 
-The Google Trends graphs for the search phrase "United Methodist Church" show a steady decline in search interest. 
+### Google Trends Graph for Phrase "United Methodist Church"
 
 Google Trends graph for the phrase ["United Methodist Church" (region: worldwide)](http://www.google.com/trends/explore#q=united%20methodist%20church), from around 2004 to 2015: 
 
@@ -29,13 +29,14 @@ Google Trends graph for the phrase ["United Methodist Church" (region: Kansas)](
 Google Trends graph for the phrase ["United Methodist Church" (region: Wichita/Hutchinson, Kansas)](http://www.google.com/trends/explore#geo=US-KS-678&q=united+methodist+church), from around 2004 to 2015: 
 
 ![](google-maps-and-trends/google-trends-united-methodist-church-wichita-hutchinson.png)
-### [Upworthy Case Study](upworthy_case_study.md)
 
-How Upworthy became "the fastest-growing media site in history," and with a mission for social justice.
+### Upworthy 
+
+[Upworthy Case Study](upworthy_case_study.md): Upworthy's rise as "the fastest-growing media site in history" (with a mission for social justice), and downfall.
 
 ### Google Trends Graph for Phrase "Upworthy"
 
-Google Trends graph for the phrase ["Upworthy" (region: worldwide)](http://www.google.com/trends/explore#q=upworthy), from 2004 to 2015. [Upworthy](http://www.upworthy.com) was founded in 2012. When [Facebook](https://www.facebook.com/Upworthy), Upworthy's main source of traffic, changed its algorithms at the end of 2013 (reportedly in response to Upworthy's content becoming disportionately popular in the Facebook news feed), Upworthy's traffic dramatically fell. 
+Google Trends graph for the phrase ["Upworthy" (region: worldwide)](http://www.google.com/trends/explore#q=upworthy), from 2004 to 2015. [Upworthy](http://www.upworthy.com) was founded in 2012. 
 
 ![](google-maps-and-trends/google-trends-upworthy-worldwide.png)
 
