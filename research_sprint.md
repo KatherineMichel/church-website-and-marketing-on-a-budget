@@ -4,12 +4,6 @@
 
 [Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research) by Google Ventures.
 
-## Question to Answer
-
-* Whom should the church reach and how?
-* How does the church remain vital?
-* Features/tasks to test
-
 ## The "Business" Problem
 
 * Dwindling, predominantly older adult local population 
@@ -22,6 +16,32 @@
 * Larger potential user base
 * More channels than ever to reach people
 * Untapped digital resources
+
+## Question to Answer
+
+* Whom should the church reach and how?
+* How does the church remain vital?
+* Features/tasks to test
+
+### Whom Should the Church Reach?
+
+### How Should the Church Reach Them?
+
+#### Google's Reach 
+
+Google Adwords Pretty Prairie targeting
+![](new-marketing-strategy/google-adwords-pretty-prairie-targeting.png)
+
+##### Facebook's Reach
+Facebook advertises a "potential reach" of 120,000,000 people
+
+Suggested target audience ranging from a radius of 50 km around Pretty Prairie... 
+
+![](new-marketing-strategy/facebook-page-advertisement-reach-50km.png)
+
+Down to 3 km or 1km (shown here)... 
+
+![](new-marketing-strategy/facebook-page-advertisement-reach-1km.png)
 
 ## Geographic and Demographic Info
 
@@ -42,19 +62,3 @@ Pretty Prairie [Area Map](https://drive.google.com/file/d/0B02bpu7HZwJRaVp5dGNMO
 [Pop-Facts: Census Demographic Overview 2014 Report](https://drive.google.com/file/d/0B02bpu7HZwJRSHFwVm5kX0FHMmc/view?usp=sharing)
 
 [Population by Age and Race Trend 2014](https://drive.google.com/file/d/0B02bpu7HZwJRelJTXzd1XzVWUE0/view?usp=sharing)
-
-### Google's Reach 
-
-Google Adwords Pretty Prairie targeting
-![](new-marketing-strategy/google-adwords-pretty-prairie-targeting.png)
-
-#### Facebook's Reach
-Facebook advertises a "potential reach" of 120,000,000 people
-
-Suggested target audience ranging from a radius of 50 km around Pretty Prairie... 
-
-![](new-marketing-strategy/facebook-page-advertisement-reach-50km.png)
-
-Down to 3 km or 1km (shown here)... 
-
-![](new-marketing-strategy/facebook-page-advertisement-reach-1km.png)
