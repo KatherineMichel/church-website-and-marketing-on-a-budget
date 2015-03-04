@@ -14,11 +14,9 @@ And most important of all, encourage people to use the website! The search ranki
 ### Google+ and Google Rich Snippets
 Verify that the Google map info is correct. If possible, link the website to the map. Consider creating a Google+ organization page, and/or Google rich snippet for support
 
-## Social Media Engagement
-
 ## Mobile
 * [Facebook Audience Network](https://www.facebook.com/business/news/audience-network) (mobile ads) (pay)
-* [Deep Linking](http://en.wikipedia.org/wiki/Mobile_deep_linking)
+
 
 
 
