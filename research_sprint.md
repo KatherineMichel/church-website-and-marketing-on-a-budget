@@ -15,14 +15,22 @@ Pretty Prairie tends to be a very quiet place, except for every July when Pretty
 
 ### Traditional Outreach
 
+* Local newspaper
+* Ads and fliers in high traffic locations
+
 ### Digital Outreach
 
-#### Google Advertising 
+* Website/Facebook Page
 
-Google Adwords targeting Pretty Prairie 
-![](new-marketing-strategy/google-adwords-pretty-prairie-targeting.png)
 
-#### Facebook Advertising
+
+#### National United Methodist Church
+
+* Find-a-Church
+
+#### Facebook Sharing Amongst Friends
+
+#### Facebook Advertising (Paid)
 
 Suggested target audience ranging from a radius of 50 km around Pretty Prairie... 
 
@@ -31,6 +39,11 @@ Suggested target audience ranging from a radius of 50 km around Pretty Prairie..
 Down to 3 km or 1km (shown here)... 
 
 ![](new-marketing-strategy/facebook-page-advertisement-reach-1km.png)
+
+#### Google Advertising (Paid)
+
+Google Adwords targeting Pretty Prairie 
+![](new-marketing-strategy/google-adwords-pretty-prairie-targeting.png)
 
 
 
