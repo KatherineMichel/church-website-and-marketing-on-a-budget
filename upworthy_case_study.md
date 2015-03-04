@@ -1,9 +1,12 @@
 # Upworthy Case Study
 
-## Google Trends Graph for Upworthy
-Google Trends graph for the phrase ["Upworthy" (region: worldwide)](http://www.google.com/trends/explore#q=upworthy), beginning when Upworthy was founded in 2012, until January 2015: 
+## Google Trends Graph for Phrase "Upworthy"
+
+Google Trends graph for the phrase ["Upworthy" (region: worldwide)](http://www.google.com/trends/explore#q=upworthy), from 2004 to 2015. [Upworthy](http://www.upworthy.com) was founded in 2012. 
 
 ![](google-maps-and-trends/google-trends-upworthy-worldwide.png)
+
+Regional interest
 
 ## The Competition (Not Who You Might Expect)
  
