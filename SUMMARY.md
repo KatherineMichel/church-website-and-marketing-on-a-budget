@@ -23,5 +23,5 @@
    * [New Marketing Materials](new_marketing_materials.md)
    * [New Website](new_website.md)
    * [New Marketing Strategy](new_marketing_strategy.md)
-   * [Church Re-Imagined App](church_re_imagined_app.md)
+   * [Church Re-Imagined App](church_re-imagined_app.md)
 
