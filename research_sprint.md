@@ -1,8 +1,20 @@
 # Research Sprint
 
-## Helpful Resource
+Helpful Resource: [Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research) by Google Ventures.
 
-[Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research) by Google Ventures.
+## How Can the Church Remain Vital?
+
+Pretty Prairie tends to be a very quiet place, except for every July when Pretty Prairie hosts the world famous 
+[Pretty Prairie Rodeo](http://www.pprodeo.com) (the largest night rodeo in Kansas). The spikes in the Google Trends search interest graph below for phrase ["Pretty Prairie" (region: worldwide)](http://www.google.com/trends/explore#q=pretty%20prairie) all happened in July. 
+
+![](google-maps-and-trends/google-trends-pretty-prairie-worldwide.png)
+
+## Whom Should the Church Reach?
+
+## How Should the Church Reach Them?
+
+
+
 
 ## The "Business" Problem
 
@@ -16,12 +28,6 @@
 * Larger potential user base
 * More channels than ever to reach people
 * Untapped digital resources
-
-## Question to Answer
-
-* Whom should the church reach and how?
-* How does the church remain vital?
-* Features/tasks to test
 
 ### Whom Should the Church Reach?
 
