@@ -26,8 +26,6 @@ As I learned more about Pretty Prairie and the local and national United Methodi
 
 * Members receptive to a community outreach campaign and revitalization effort
 
-## Whom Should the Church Reach?
-
 ### Nielson Company Demographic Info
 
 Through the national United Methodist Church Communications Office, I obtained the most recent Nielson Company demographic info for the city of Pretty Prairie, Kansas. 
