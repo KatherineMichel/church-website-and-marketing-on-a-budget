@@ -30,6 +30,14 @@ Google Trends graph for the phrase ["Upworthy" (region: worldwide)](http://www.g
 
 Regional interest
 
+1. Canada
+2. United States
+3. New Zealand
+4. Australia
+5. United Kingdom
+6. Sweden
+7. Netherlands
+
 ## The Bible App Case Study
 
 [The Bible App Case Study](the_bible_app_case_study.md): 
@@ -44,6 +52,14 @@ Google Trends graph for the phrase ["Bible App" (region: worldwide)](http://www.
 
 Regional interest
 ![](google-maps-and-trends/google-trends-the-bible-app-regional-interest.png)
+
+1. Ghana
+2. Kenya
+3. Nigeria
+4. South Africa
+5. Philippines
+6. United States
+7. Singapore
 
 
 
