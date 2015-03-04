@@ -6,17 +6,13 @@ In addition to the ["Tactics" List](http://s3.amazonaws.com/Website_Properties_U
 * [Google Trends](http://www.google.com/trends)
 * [Google Forms](http://www.google.com/forms/about)
 * [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home) (pay)
+* [Google Keyword Planner](https://support.google.com/adwords/answer/3114286?hl=en)
 
 ### Google Trends
 
 A technique that I've learned from the tech analysts whom [I follow on Twitter](https://twitter.com/katimichel/following) is to use [Google Trends](http://www.google.com/trends) to gauge the level of interest in a word (or words), including by region. 
 
-## Search Engine Optimization (SEO) and Webmaster
-* [Search Engine Optimization](http://en.wikipedia.org/wiki/Search_engine_optimization) (SEO)
-* [Google+](https://plus.google.com/) and [Google Rich Snippets](https://support.google.com/webmasters/answer/99170?hl=en)
-* [Google Webmaster](http://www.google.com/intl/en-US/webmasters)
-* [Google Analytics](http://www.google.com/analytics)
-* [Yahoo and Bing Webmaster](http://www.bing.com/toolbox/webmaster)
+
 
 ### Search Engine Optimization (SEO)
 SEO is an important aspect of ensuring that people 'discover' your website. Identify the SEO functionality of your website and verify that it is enabled and optimized. Search engines will 'crawl' the content of your website and give your site a page ranking. 
@@ -35,8 +31,6 @@ Verify that the Google map info is correct. If possible, link the website to the
 ## Social Media Analytics
 * [Facebook Insights](https://www.facebook.com/help/336893449723054) (analytics)
 * [Twitter Analytics](https://analytics.twitter.com)
-
-* [Google Keyword Planner](https://support.google.com/adwords/answer/3114286?hl=en)
 
 ## Mobile
 * [Facebook Audience Network](https://www.facebook.com/business/news/audience-network) (mobile ads) (pay)
