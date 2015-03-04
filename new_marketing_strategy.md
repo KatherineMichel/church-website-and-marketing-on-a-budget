@@ -97,31 +97,11 @@ Example Google search result: "Pretty Prairie United Methodist"
 Correcting incorrect Google Map info
 ![](new-marketing-strategy/google-pretty-prairie-united-methodist-church-report-a-problem.png)
 
-### Google's Reach 
-
-Google Adwords Pretty Prairie targeting
-![](new-marketing-strategy/google-adwords-pretty-prairie-targeting.png)
-
 ### Facebook 
 
 In general, Facebook is considered to be the 'king' of social traffic, with other networks such as Twitter, Instagram and Pinterest close behind.
 
 Based on feedback, members of the church and surrounding community are more likely to be on Facebook than Twitter. So, we would first consider the option of reaching people via Facebook, by advertising the church's Facebook page to people located within Pretty Prairie and its surrounding area through free sharing and paid advertisements.
-
-#### Facebook's Reach
-Facebook advertises a "potential reach" of 120,000,000 people
-
-Suggested target audience ranges from radius of 50 km around Pretty Prairie... 
-
-![](new-marketing-strategy/facebook-page-advertisement-reach-50km.png)
-
-Down to 3 km ... 
-
-![](new-marketing-strategy/facebook-page-advertisement-reach-3km.png)
-
-Or 1 km...
-
-![](new-marketing-strategy/facebook-page-advertisement-reach-1km.png)
 
 #### Facebook Sharing
 
