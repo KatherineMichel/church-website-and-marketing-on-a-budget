@@ -44,8 +44,6 @@ Verify that the Google map info is correct. If possible, link the website to the
 * [Google AdSense](http://www.google.com/adsense) 
 * [Google Keyword Planner](https://support.google.com/adwords/answer/3114286?hl=en)
 * [Google AdWords](https://www.google.com/adwords) (pay)
-* [Facebook Ads](https://www.facebook.com/business/products/ads) (pay)
-* [Twitter Ads](https://ads.twitter.com) (pay)
 
 ## Mobile
 * [Facebook Audience Network](https://www.facebook.com/business/news/audience-network) (mobile ads) (pay)
