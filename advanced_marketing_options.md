@@ -10,7 +10,7 @@ In addition to the ["Tactics" List](http://s3.amazonaws.com/Website_Properties_U
 
 ### Google Trends
 
-A technique that I've learned from the tech analysts whom [I follow on Twitter](https://twitter.com/katimichel/following) is to use [Google Trends](http://www.google.com/trends) to gauge the level of interest in a word (or words), including by region. 
+
 
 
 
