@@ -1,6 +1,6 @@
 # Upworthy Case Study
 
-Upworthy's rise as "the fastest-growing media site in history" (with a mission for social justice), and downfall.
+[Upworthy](http://www.upworthy.com)'s rise as "the fastest-growing media site in history" (with a mission for social justice), and downfall.
 
 ## Google Trends Graph for Phrase "Upworthy"
 
