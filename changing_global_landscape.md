@@ -52,6 +52,9 @@ gauge the effectiveness of traditional and modern religious methods amid changin
 
 The church should not aspire to be exactly like Upworthy or to copy The Bible App. However, the success of Upworthy and The Bible App provides important clues about how the United Methodist Church can stay relevant. There is still a market for religious and "uplifting" content. However, the messenger that stays relevant is increasingly the one that adapts to changes in today's modern lifestyles. The church may need to repackage its message and how the message is delivered if it is to continue to compete for the public's attention. 
 
+http://en.wikipedia.org/wiki/List_of_countries_by_number_of_mobile_phones_in_use
+http://en.wikipedia.org/wiki/Religions_by_country
+
 * mobile and apps are increasing in popularity. In some developing countries, a mobile phone may be the first and only "computer" people can afford, which is perhaps why many of the countries recording the highest levels of Google Trends search interest for [The Bible App](the_bible_app_case_study.md) are African countries. 
 
 * Changing lifestyles (digital and philosophical reorganization)
