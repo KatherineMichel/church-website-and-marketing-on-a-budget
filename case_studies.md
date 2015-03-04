@@ -6,6 +6,10 @@ Churches are struggling to stay relevant. The following case studies illustrate 
 
 ### [Google Trends](google_trends.md) 
 
+"I skate to where the puck is going to be, not where it has been." - Wayne Gretzky
+
+A technique that I've learned from the tech analysts whom [I follow on Twitter](https://twitter.com/katimichel/following) is to use [Google Trends](http://www.google.com/trends) to gauge the level of interest in a word (or words), including by region. 
+
 Looking at search interest via Google Trends to gauge the effectiveness of traditional and modern religious methods amid changing lifestyles. Insight into tech trends and which channels could be the best to use to reach people locally, or perhaps even worldwide. 
 
 ### [National United Methodist Church](national_united_methodist_church.md)
