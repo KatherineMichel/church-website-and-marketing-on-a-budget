@@ -1,14 +1,5 @@
 # Mobile App
 
-Power Laws
-* Moore's Law
-* The Law of Accelerating Returns
-* Network Effect
-
-Missed opportunities
-* Due to lack of knowledge/foresight
-* Pre-existing assumptions
-
 Novel
 * Gamification
 * Bitcoin- small payments
