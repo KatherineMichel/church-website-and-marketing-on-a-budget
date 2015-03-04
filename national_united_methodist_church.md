@@ -8,5 +8,12 @@ Google Trends graph for the phrase ["United Methodist Church" (region: worldwide
 
 ![](google-maps-and-trends/google-trends-united-methodist-church-worldwide.png)
 
+Google Trends graph for the phrase ["United Methodist Church" (region: Kansas)](http://www.google.com/trends/explore#geo=US-KS&q=united+methodist+church), from around 2004 to 2015: 
+
+![](google-maps-and-trends/google-trends-united-methodist-church-kansas.png)
+
+Google Trends graph for the phrase ["United Methodist Church" (region: Wichita/Hutchinson, Kansas)](http://www.google.com/trends/explore#geo=US-KS-678&q=united+methodist+church), from around 2004 to 2015: 
+
+![](google-maps-and-trends/google-trends-united-methodist-church-wichita-hutchinson.png)
 
 
