@@ -47,8 +47,6 @@ Members of the church would take stock of the skills of individual members. This
 
 Skills list
 
-## Webmaster
-
 ## Website SEO
 
 ## Google Rich Snippet
