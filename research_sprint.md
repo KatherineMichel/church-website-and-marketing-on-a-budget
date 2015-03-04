@@ -6,11 +6,11 @@ Helpful Resource: [Questions to Ask Before Starting User Research](http://www.gv
 
 Pretty Prairie, in central Kansas, west of Wichita, north of Kingman, south of Hutchinson, near the Amish community of Yoder.
 
+![](google-maps-and-trends/google-map-pretty-prairie-kansas.png)
+
 ![](google-maps-and-trends/google-map-pretty-prairie-wichita.png)
 
-Pretty Prairie population: 
-
-Pretty Prairie tends to be a very quiet place, except for every July when Pretty Prairie hosts the world famous 
+Pretty Prairie (population 688) tends to be a very quiet place, except for every July when Pretty Prairie hosts the world famous 
 [Pretty Prairie Rodeo](http://www.pprodeo.com) (the largest night rodeo in Kansas). The spikes in the Google Trends search interest graph below for phrase ["Pretty Prairie" (region: worldwide)](http://www.google.com/trends/explore#q=pretty%20prairie) all happened in July. 
 
 ![](google-maps-and-trends/google-trends-pretty-prairie-worldwide.png)
