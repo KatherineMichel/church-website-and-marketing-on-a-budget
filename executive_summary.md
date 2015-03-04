@@ -10,9 +10,6 @@ Members of the Pretty Prairie United Methodist Church, a congregation of around 
 Pretty Prairie, Kansas, U.S.A.
 ![](google-maps-and-trends/google-map-usa-pretty-prairie.png)
 
-In central Kansas, west of Wichita
-![](google-maps-and-trends/google-map-pretty-prairie-kansas.png)
-
 ## Problem
 
 ### No Website
