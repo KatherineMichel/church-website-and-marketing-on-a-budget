@@ -65,10 +65,10 @@ Google is the most popular search engine in most countries, often followed by Ya
 
 And most important of all, encourage people to use the website! The search ranking of the website will rise naturally as a result.
 
-### Google+ and Google Rich Snippets
+## Google+ and Google Rich Snippets
 Verify that the Google map info is correct. If possible, link the website to the map. Consider creating a Google+ organization page, and/or Google rich snippet for support
 
-## Google Rich Snippet
+### Google Rich Snippet
 Example Google search: "Pretty Prairie United Methodist"
 ![](new-marketing-strategy/google-search-pretty-prairie-united.jpg)
 
