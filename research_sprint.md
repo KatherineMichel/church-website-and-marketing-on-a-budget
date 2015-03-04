@@ -4,13 +4,47 @@ Helpful Resource: [Questions to Ask Before Starting User Research](http://www.gv
 
 ## How Can the Church Remain Vital?
 
+Pretty Prairie, in central Kansas, west of Wichita, north of Kingman, south of Hutchinson, near the Amish community of Yoder.
+
+![](google-maps-and-trends/google-map-pretty-prairie-wichita.png)
+
 Pretty Prairie tends to be a very quiet place, except for every July when Pretty Prairie hosts the world famous 
 [Pretty Prairie Rodeo](http://www.pprodeo.com) (the largest night rodeo in Kansas). The spikes in the Google Trends search interest graph below for phrase ["Pretty Prairie" (region: worldwide)](http://www.google.com/trends/explore#q=pretty%20prairie) all happened in July. 
 
 ![](google-maps-and-trends/google-trends-pretty-prairie-worldwide.png)
 
+Pretty Prairie population: 
+
+As I learned more about Pretty Prairie and the local and national United Methodist Church, I became increasingly more aware of the problem and opportunity. 
+
+### The "Business" Problem
+
+* Dwindling, predominantly older adult local population 
+* Changing lifestyles (digital and philosophical reorganization)
+* Four churches in close proximity
+
+### The "Business" Opportunity
+
+* Members receptive to a community outreach campaign and revitalization effort
+* Decreasing importance of physical proximity
+* More channels (traditional and digital) than ever to reach people and more people than ever to reach
+* New and undiscovered ways to minister
+
 ## Whom Should the Church Reach?
 
+### Nielson Company Demographic Info
+
+Through the national United Methodist Church Communications Office, I obtained the most recent Nielson Company demographic info for the city of Pretty Prairie, Kansas. 
+
+Pretty Prairie [Area Map](https://drive.google.com/file/d/0B02bpu7HZwJRaVp5dGNMOUpYbU0/view?usp=sharing)
+
+[Executive Summary](https://drive.google.com/file/d/0B02bpu7HZwJRMFJTM3BWZXprbWM/view?usp=sharing)
+
+[Household Trends](https://drive.google.com/file/d/0B02bpu7HZwJRV1dnSGplRUxmMDg/view?usp=sharing)
+
+[Pop-Facts: Census Demographic Overview 2014 Report](https://drive.google.com/file/d/0B02bpu7HZwJRSHFwVm5kX0FHMmc/view?usp=sharing)
+
+[Population by Age and Race Trend 2014](https://drive.google.com/file/d/0B02bpu7HZwJRelJTXzd1XzVWUE0/view?usp=sharing)
 ## How Should the Church Reach Them?
 
 ### Traditional Outreach
@@ -82,39 +116,6 @@ Google Adwords targeting Pretty Prairie
 * [Google AdSense](http://www.google.com/adsense)
 
 
-
-## The "Business" Problem
-
-* Dwindling, predominantly older adult local population 
-* Changing lifestyles (digital and philosophical reorganization)
-* Four churches in close proximity
-
-## The "Business" Opportunity
-
-* Decreasing importance of physical proximity
-* Larger potential user base
-* More channels than ever to reach people
-* Untapped digital resources
-
-#### Geographic and Demographic Info
-
-Pretty Prairie, in central Kansas, west of Wichita, north of Kingman, south of Hutchinson, near the Amish community of Yoder, and the host of the world famous Pretty Prairie Rode (the largest night rodeo in Kansas), every July.
-
-![](google-maps-and-trends/google-map-pretty-prairie-wichita.png)
-
-##### Nielson Company Demographic Info
-
-Through the national United Methodist Church Communications Office, I obtained the most recent Nielson Company demographic info for the city of Pretty Prairie, Kansas. 
-
-Pretty Prairie [Area Map](https://drive.google.com/file/d/0B02bpu7HZwJRaVp5dGNMOUpYbU0/view?usp=sharing)
-
-[Executive Summary](https://drive.google.com/file/d/0B02bpu7HZwJRMFJTM3BWZXprbWM/view?usp=sharing)
-
-[Household Trends](https://drive.google.com/file/d/0B02bpu7HZwJRV1dnSGplRUxmMDg/view?usp=sharing)
-
-[Pop-Facts: Census Demographic Overview 2014 Report](https://drive.google.com/file/d/0B02bpu7HZwJRSHFwVm5kX0FHMmc/view?usp=sharing)
-
-[Population by Age and Race Trend 2014](https://drive.google.com/file/d/0B02bpu7HZwJRelJTXzd1XzVWUE0/view?usp=sharing)
 
 
 
