@@ -18,10 +18,6 @@ Youth Leadership Initiative
 
 Involving various areas of the church
 
-## Traditional Methods
-
-All of the traditional methods of advertisement should continue to be updated on an ongoing basis, including the new website info. This is low-hanging fruit. 
-
 ### Contacting Inactive Members
 
 A good starting point for outreach would be for the church to contact church-goers of the past who are now inactive, and invite them back. 
