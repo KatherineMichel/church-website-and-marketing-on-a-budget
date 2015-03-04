@@ -24,5 +24,5 @@
    * [New Website](new_website.md)
    * [New Marketing Strategy](new_marketing_strategy.md)
    * [Mobile App](mobile_app.md)
-* Changing Global Landscape
+* [Changing Global Landscape](changing_global_landscape.md)
 
