@@ -5,7 +5,7 @@ For the tl:dr, check out [Marketing As Is](marketing_as_is.md) and [Church Re-Im
 
 ## Proposition
 
-Members of the Pretty Prairie United Methodist Church, a congregation of around 65 in the rural farming community of [Pretty Prairie](http://en.wikipedia.org/wiki/Pretty_Prairie,_Kansas) in Kansas, contacted me about designing a new website and marketing plan for the church. 
+Members of the Pretty Prairie United Methodist Church, a congregation of around 65 in the rural farming community of [Pretty Prairie](http://en.wikipedia.org/wiki/Pretty_Prairie,_Kansas), Kansas (population 688), contacted me about designing a new website and marketing plan for the church. 
 
 Pretty Prairie, Kansas, U.S.A.
 ![](google-maps-and-trends/google-map-usa-pretty-prairie.png)
@@ -14,6 +14,8 @@ In central Kansas, west of Wichita
 ![](google-maps-and-trends/google-map-pretty-prairie-kansas.png)
 
 ## Problem
+
+### No Website
 The church's previous website, which had been made using a technique called [Flash](http://en.wikipedia.org/wiki/Adobe_Flash), was no longer in existence because [the web host had stopped hosting](https://kslib.info/1013/Blue-Skyways-Transition). I made the screenshot below of the website welcome page by locally rendering files that I recovered from the web host. See [Marketing As Is](marketing_as_is.md) for screenshots of the entire old website.
 
 ![](marketing-as-is/old-website-welcome-page.jpg)
@@ -23,6 +25,10 @@ The church's previous website, which had been made using a technique called [Fla
 Without an independent website, the church was making due with a Find-a-Church page, (a basic information page hosted for free by the national [United Methodist Church](http://www.umc.org)).
 
 ![](marketing-as-is/find-a-church-about-us.jpg)
+
+### Revitalization Effort
+
+The church was also ready for a new community outreach campaign. 
 
 ## Solution
 
