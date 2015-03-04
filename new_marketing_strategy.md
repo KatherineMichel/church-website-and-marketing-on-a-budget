@@ -81,6 +81,8 @@ The church purchased a 2015 wall calendar. The calendar would be hung on a hook 
 
 Members of the church would take stock of the skills of individual members. This skills inventory would be used to identify ways to optimize what the church has to offer the community. 
 
+Skills list
+
 ## Advanced Marketing Options
 
 ### Search Engine Optimization (SEO) and Webmaster
