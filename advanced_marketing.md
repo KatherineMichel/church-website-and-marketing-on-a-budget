@@ -1,13 +1,6 @@
 # Advanced Marketing
 
 Advanced marketing techniques matter, which can be seen in [Upworthy Case Study](upworthy_case_study.md)
-* 
-### Traditional Outreach
-
-* Up to date marketing materials (newsletter, bulletin, email signature, ect.)
-* Word of mouth/visit/call/letter
-* Local newspaper (permanent ad and special occasions)
-* Ads and fliers in high traffic locations
 
 ### Digital Outreach
 
