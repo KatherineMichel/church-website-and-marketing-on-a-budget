@@ -2,7 +2,7 @@
 
 ## National United Methodist Church
 
-[National United Methodist Church Case Study](national_united_methodist_church.md): What's the matter with the United Methodist Church? Looking at the steady decline of interest in the United Methodist Church and how it can be fixed. 
+[National United Methodist Church Case Study](national_united_methodist_church.md): What's the matter with the [United Methodist Church](http://www.umc.org)? Looking at the steady decline of interest in the United Methodist Church and how it can be fixed. 
 
 ### Google Trends Graph for Phrase "United Methodist Church"
 
@@ -20,7 +20,7 @@ Google Trends graph for the phrase ["United Methodist Church" (region: Wichita/H
 
 ## Upworthy 
 
-[Upworthy Case Study](upworthy_case_study.md): Upworthy's rise as "the fastest-growing media site in history" (with a mission for social justice), and downfall.
+[Upworthy Case Study](upworthy_case_study.md): [Upworthy](http://www.upworthy.com)'s rise as "the fastest-growing media site in history" (with a mission for social justice), and downfall.
 
 ### Google Trends Graph for Phrase "Upworthy"
 
