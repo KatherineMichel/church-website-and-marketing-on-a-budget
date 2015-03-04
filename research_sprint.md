@@ -4,44 +4,48 @@
 
 [Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research) by Google Ventures.
 
-## Identify
-
-* Question(s) to answer
-* Business problem
-* Business opportunity
-* Features/tasks to test
-
-## Question to Answer
-
-* Whom should the church reach and how?
-* How does the church remain vital?
-
-### The "Business" Problem
+## The "Business" Problem
 
 * Dwindling, predominantly older adult local population 
 * Changing lifestyles (digital and philosophical reorganization)
 * Four churches in close proximity
 
-### The "Business" Opportunity
+## The "Business" Opportunity
 
 * Decreasing importance of physical proximity
 * Larger potential user base
 * More channels than ever to reach people
 * Untapped digital resources
 
-### Google Trends for "Pretty Prairie"
+## Question to Answer
 
-Unfortunately, Google Trends does not go into enough detail to give results for "Pretty Prairie United Methodist Church," but here is a fun graph for the results for ["Pretty Prairie" (region: worldwide)](http://www.google.com/trends/explore#q=pretty%20prairie), from around 2004 to September 2004; The town of Pretty Prairie, Kansas happens to host the world famous [Pretty Prairie Rodeo](http://www.pprodeo.com) (the biggest night rodeo in Kansas) every July. The spikes in the Google Trends graph below all happened in July :) 
+* Whom should the church reach and how?
+* How does the church remain vital?
+* Features/tasks to test
 
-![](google-maps-and-trends/google-trends-pretty-prairie-worldwide.png)
+### Whom Should the Church Reach?
 
-The Google Trends graph for "[Pretty Prairie Rodeo" (region: worldwide)](http://www.google.com/trends/explore#q=%22pretty+prairie+rodeo%22) demonstrates similar spikes in interest. 
+### How Should the Church Reach Them?
 
-![](google-maps-and-trends/google-trends-pretty-prairie-rodeo-worldwide.png)
+#### Google's Reach 
+
+Google Adwords Pretty Prairie targeting
+![](new-marketing-strategy/google-adwords-pretty-prairie-targeting.png)
+
+##### Facebook's Reach
+Facebook advertises a "potential reach" of 120,000,000 people
+
+Suggested target audience ranging from a radius of 50 km around Pretty Prairie... 
+
+![](new-marketing-strategy/facebook-page-advertisement-reach-50km.png)
+
+Down to 3 km or 1km (shown here)... 
+
+![](new-marketing-strategy/facebook-page-advertisement-reach-1km.png)
 
 ## Geographic and Demographic Info
 
-Pretty Prairie, in Central Kansas, West of Wichita, North of Kingman, South of Hutchinson, near the Amish community of Yoder
+Pretty Prairie, in central Kansas, west of Wichita, north of Kingman, south of Hutchinson, near the Amish community of Yoder, and the host of the world famous Pretty Prairie Rode (the largest night rodeo in Kansas), every July.
 
 ![](google-maps-and-trends/google-map-pretty-prairie-wichita.png)
 
