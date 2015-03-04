@@ -23,7 +23,11 @@ Example tactics over $1000
 
 See also [Advanced Marketing Options](advanced_marketing_options.md) for a list of advanced marketing options :).
 
-## New Sanctuary Equipment
+## Example Budget and Plan
+
+Special occasions
+
+The Facebook advertisement program defaults to $50 spend for 1 week, advertising to both genders, ages 18 to 65+.
 
 ## Publicity Engine
 
@@ -36,12 +40,6 @@ Multiple Admin
 Youth Leadership Initiative
 
 Involving various areas of the church
-
-## Example Budget and Plan
-
-Special occasions
-
-The Facebook advertisement program defaults to $50 spend for 1 week, advertising to both genders, ages 18 to 65+.
 
 ## Traditional Methods
 
@@ -146,6 +144,8 @@ Twitter for Faith Playbook
 ![](new-marketing-strategy/twitter-for-faith-playbook.png)
 
 Members of the church are less likely to use Twitter. However, Twitter is an option to keep in mind, particularly for reaching the public at large. 
+
+## New Sanctuary Equipment
 
 
 
