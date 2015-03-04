@@ -42,13 +42,13 @@ Google Trends graph for phrases ["app" versus "website" (region: worldwide)](htt
 ![](google-maps-and-trends/google-trends-app-versus-website.png)
 
 
-# Takeaway
 
-Churches are struggling to stay relevant. This is not just the United Methodist Church. There are both challenges and untapped opportunities. 
-
-gauge the effectiveness of traditional and modern religious methods amid changing lifestyles. Insight into tech trends and which channels could be the best to use to reach people locally, or perhaps even worldwide.
 
 ## What the Church Can Learn from Google Trends, Upworthy, and The Bible App 
+
+There are both challenges and untapped opportunities. 
+
+gauge the effectiveness of traditional and modern religious methods amid changing lifestyles. Insight into tech trends and which channels could be the best to use to reach people locally, or perhaps even worldwide.
 
 The church should not aspire to be exactly like Upworthy or to copy The Bible App. However, the success of Upworthy and The Bible App provides important clues about how the United Methodist Church can stay relevant. There is still a market for religious and "uplifting" content. However, the messenger that stays relevant is increasingly the one that adapts to changes in today's modern lifestyles. The church may need to repackage its message and how the message is delivered if it is to continue to compete for the public's attention. 
 
