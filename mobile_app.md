@@ -29,6 +29,7 @@ See [The Bible App Case Study](the_bible_app_case_study.md) for the inspiration 
 
 ### Stats
 
+* Pretty Prairie UMC congregation: 
 * Pretty Prairie population: 
 * World population:
 * Number of people with internet
