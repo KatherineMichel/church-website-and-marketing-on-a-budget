@@ -9,6 +9,7 @@ Google Trends graph for the phrase ["Upworthy" (region: worldwide)](http://www.g
 ![](google-maps-and-trends/google-trends-upworthy-worldwide.png)
 
 Regional interest
+![](google-maps-and-trends/google-trends-upworthy-regional-interest.png)
 
 1. Canada
 2. United States
