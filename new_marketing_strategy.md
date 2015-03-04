@@ -90,6 +90,12 @@ Twitter for Faith Playbook
 
 Members of the church are less likely to use Twitter. However, Twitter is an option to keep in mind, particularly for reaching the public at large. 
 
+### [Google Trends](google_trends.md) 
+
+A technique that I've learned from the tech analysts whom [I follow on Twitter](https://twitter.com/katimichel/following) is to use [Google Trends](http://www.google.com/trends) to gauge the level of interest in a word (or words), including by region. 
+
+Looking at search interest via Google Trends to gauge the effectiveness of traditional and modern religious methods amid changing lifestyles. Insight into tech trends and which channels could be the best to use to reach people locally, or perhaps even worldwide.
+
 ## New Sanctuary Equipment
 
 
