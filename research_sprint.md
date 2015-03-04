@@ -32,7 +32,7 @@ Pretty Prairie tends to be a very quiet place, except for every July when Pretty
 
 #### Facebook Sharing Amongst Friends
 
-#### Facebook Advertising (Paid)
+#### [Facebook Advertising](https://www.facebook.com/business/products/ads) (Pay)
 
 Suggested target audience ranging from a radius of 50 km around Pretty Prairie... 
 
@@ -42,10 +42,12 @@ Down to 3 km or 1km (shown here)...
 
 ![](new-marketing-strategy/facebook-page-advertisement-reach-1km.png)
 
-#### Google Advertising (Paid)
+#### Google Advertising (Pay)
 
 Google Adwords targeting Pretty Prairie 
 ![](new-marketing-strategy/google-adwords-pretty-prairie-targeting.png)
+
+#### [Twitter Advertising](https://ads.twitter.com) (Pay)
 
 
 
