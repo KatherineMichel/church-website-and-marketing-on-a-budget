@@ -138,7 +138,7 @@ Facebook page "Local Awareness" advertisement preview to "reach people near your
 
 ### Twitter Advertising
 
-Twitter has a media playbook devoted to faith and religious ads can be occasionally found on Twitter. 
+Twitter has a Faith Playbook devoted to faith and religious ads can be occasionally found on Twitter. 
 
 Twitter for Faith Playbook
 ![](new-marketing-strategy/twitter-for-faith-playbook.png)
