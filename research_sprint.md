@@ -39,18 +39,6 @@ The Google Trends graph for "[Pretty Prairie Rodeo" (region: worldwide)](http://
 
 ![](google-maps-and-trends/google-trends-pretty-prairie-rodeo-worldwide.png)
 
-## Changing Landscape
-
-According to Marc Andreessen, [Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html)
-
-[Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations)
-
-Though there is an "upper bound" to area population, as Balaji Srinivasan points out, "when cloud formations take physical shape, neither their scale nor duration has an upper bound." 
-
-Furthermore, according to Fred Wilson, [Mobile is Eating the World](http://www.avc.com/a_vc/2013/06/mobile-is-eating-the-world.html)
-
-Mobile leap-frogging desktop
-
 ## Geographic and Demographic Info
 
 Pretty Prairie, in Central Kansas, West of Wichita, North of Kingman, South of Hutchinson, near the Amish community of Yoder
