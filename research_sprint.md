@@ -13,7 +13,9 @@ Pretty Prairie tends to be a very quiet place, except for every July when Pretty
 
 ## How Should the Church Reach Them?
 
+### Traditional Outreach
 
+### Digital Outreach
 
 
 ## The "Business" Problem
@@ -28,8 +30,6 @@ Pretty Prairie tends to be a very quiet place, except for every July when Pretty
 * Larger potential user base
 * More channels than ever to reach people
 * Untapped digital resources
-
-### Whom Should the Church Reach?
 
 #### Geographic and Demographic Info
 
@@ -51,11 +51,7 @@ Pretty Prairie [Area Map](https://drive.google.com/file/d/0B02bpu7HZwJRaVp5dGNMO
 
 [Population by Age and Race Trend 2014](https://drive.google.com/file/d/0B02bpu7HZwJRelJTXzd1XzVWUE0/view?usp=sharing)
 
-### How Should the Church Reach Them?
 
-#### Traditional Outreach
-
-#### Digital Outreach
 
 ##### Google's Reach 
 
