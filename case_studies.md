@@ -1,16 +1,8 @@
 # Case Studies
 
-## The Changing Global Landscape 
-
 "I skate to where the puck is going to be, not where it has been." - Wayne Gretzky
 
-### [Google Trends](google_trends.md) 
-
-A technique that I've learned from the tech analysts whom [I follow on Twitter](https://twitter.com/katimichel/following) is to use [Google Trends](http://www.google.com/trends) to gauge the level of interest in a word (or words), including by region. 
-
-Looking at search interest via Google Trends to gauge the effectiveness of traditional and modern religious methods amid changing lifestyles. Insight into tech trends and which channels could be the best to use to reach people locally, or perhaps even worldwide. 
-
-### National United Methodist Church
+## National United Methodist Church
 
 [National United Methodist Church Case Study](national_united_methodist_church.md): What's the matter with the United Methodist Church? Looking at the steady decline of interest in the United Methodist Church and how it can be fixed. 
 
@@ -28,7 +20,7 @@ Google Trends graph for the phrase ["United Methodist Church" (region: Wichita/H
 
 ![](google-maps-and-trends/google-trends-united-methodist-church-wichita-hutchinson.png)
 
-### Upworthy 
+## Upworthy 
 
 [Upworthy Case Study](upworthy_case_study.md): Upworthy's rise as "the fastest-growing media site in history" (with a mission for social justice), and downfall.
 
@@ -40,7 +32,18 @@ Google Trends graph for the phrase ["Upworthy" (region: worldwide)](http://www.g
 
 Regional interest
 
-### [The Bible App Case Study](the_bible_app_case_study.md)
+## The Bible App Case Study
+
+[The Bible App Case Study](the_bible_app_case_study.md): 
+
+### Google Trends Graph for Phrase "Bible App"
+
+Google Trends graph for the phrase ["Bible App" (region: worldwide)](http://www.google.com/trends/explore#q=Bible%20App), from 2004 to 2015. [The Bible App](https://www.bible.com/app) was founded in 2008. The Bible App's popularity remains high: 
+
+![](google-maps-and-trends/google-trends-the-bible-app.png)
+
+Regional interest
+![](google-maps-and-trends/google-trends-the-bible-app-regional-interest.png)
 
 
 
