@@ -54,6 +54,13 @@ The church should not aspire to be exactly like Upworthy or to copy The Bible Ap
 
 * mobile and apps are increasing in popularity. In some developing countries, a mobile phone may be the first and only "computer" people can afford, which is perhaps why many of the countries recording the highest levels of Google Trends search interest for [The Bible App](the_bible_app_case_study.md) are African countries. 
 
+* Changing lifestyles (digital and philosophical reorganization)
+
+### The "Business" Opportunity
+* Decreasing importance of physical proximity
+* More channels (traditional and digital) than ever to reach people and more people than ever to reach
+* New and undiscovered ways to minister
+
 Power Laws
 * Moore's Law
 * The Law of Accelerating Returns
