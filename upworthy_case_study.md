@@ -2,7 +2,7 @@
 
 ## The Competition (Not Who You Might Expect)
  
-Even as search interest in the United Methodist Church declined, in a short period of time during the past few years, a website with something of a mission for social justice called [Upworthy](http://www.upworthy.com) became "[the fastest-growing media site in history](http://www.fastcompany.com/3012649/how-upworthy-used-emotional-data-to-become-the-fastest-growing-media-site-of-all-time)," achieving growth that far surpassed that of its closest viral competitors: [Buzzfeed](http://www.buzzfeed.com), [Huffington Post](http://www.huffingtonpost.com), and [Business Insider](http://www.businessinsider.com). 
+Even as search interest in the United Methodist Church declined (see [Google Trends](google_trends.md)), in a short period of time during the past few years, a website with something of a mission for social justice called [Upworthy](http://www.upworthy.com) became "[the fastest-growing media site in history](http://www.fastcompany.com/3012649/how-upworthy-used-emotional-data-to-become-the-fastest-growing-media-site-of-all-time)," achieving growth that far surpassed that of its closest viral competitors: [Buzzfeed](http://www.buzzfeed.com), [Huffington Post](http://www.huffingtonpost.com), and [Business Insider](http://www.businessinsider.com). 
 
 <center>
 ![](upworthy/upworthy-quantcast.png)
@@ -33,7 +33,7 @@ The success of Upworthy seems to make moot the argument that people are no longe
 
 ### The Secret of Upworthy's Success
 
-So why were a record number of people attracted to Upworthy content? How did Upworthy achieve this unprecedented growth and in such a short time? Feel free to find out from Upworthy's own [About Us Page](http://www.upworthy.com/about) and [PowerPoint presentations](http://www.slideshare.net/Upworthy) . In a nutshell, Upworthy's content is technically and emotionally optimized to induce sharing. Here is a summary of the Upworthy approach:
+So why were a record number of people attracted to Upworthy content? How did Upworthy achieve this unprecedented growth and in such a short time? Feel free to find out from Upworthy's own [About Us Page](http://www.upworthy.com/about) and [PowerPoint presentations](http://www.slideshare.net/Upworthy). In a nutshell, Upworthy's content is technically and emotionally optimized to induce sharing. Here is a summary of the Upworthy approach:
 
 #### 1. Repurposed and Repackaged Content
 
