@@ -97,10 +97,6 @@ In general, Facebook is considered to be the 'king' of social traffic, with othe
 
 Based on feedback, members of the church and surrounding community are more likely to be on Facebook than Twitter. So, we would first consider the option of reaching people via Facebook, by advertising the church's Facebook page to people located within Pretty Prairie and its surrounding area through free sharing and paid advertisements.
 
-#### Facebook Sharing
-
-#### Facebook Advertisement
-
 Facebook page "Local Awareness" advertisement preview to "reach people near your business" 
 
 ##Public at Large
