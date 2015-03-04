@@ -22,15 +22,9 @@ As I learned more about Pretty Prairie and the local and national United Methodi
 ### The "Business" Problem
 
 * Dwindling, predominantly older adult local population 
-* Changing lifestyles (digital and philosophical reorganization)
 * Four churches in close proximity
 
-### The "Business" Opportunity
-
 * Members receptive to a community outreach campaign and revitalization effort
-* Decreasing importance of physical proximity
-* More channels (traditional and digital) than ever to reach people and more people than ever to reach
-* New and undiscovered ways to minister
 
 ## Whom Should the Church Reach?
 
