@@ -1,12 +1,10 @@
 # Case Studies
 
-## The Changing Global Ministry Landscape 
-
-Churches are struggling to stay relevant. The following case studies illustrate the challenges faced and reveal untapped opportunities. 
-
-### [Google Trends](google_trends.md) 
+## The Changing Global Landscape 
 
 "I skate to where the puck is going to be, not where it has been." - Wayne Gretzky
+
+### [Google Trends](google_trends.md) 
 
 A technique that I've learned from the tech analysts whom [I follow on Twitter](https://twitter.com/katimichel/following) is to use [Google Trends](http://www.google.com/trends) to gauge the level of interest in a word (or words), including by region. 
 
