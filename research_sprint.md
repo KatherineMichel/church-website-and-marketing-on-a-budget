@@ -17,11 +17,6 @@ Pretty Prairie (population 688) tends to be a very quiet place, except for every
 
 ![](google-maps-and-trends/google-trends-pretty-prairie-worldwide.png)
 
-### The "Business" Problem
-
-* Dwindling, predominantly older adult local population 
-* Four churches in close proximity
-
 ### Nielson Company Demographic Info
 
 Through the national United Methodist Church Communications Office, I obtained the most recent Nielson Company demographic info for the city of Pretty Prairie, Kansas. 
