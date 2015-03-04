@@ -89,8 +89,6 @@ Skills list
 
 ### Website SEO
 
-![](new-marketing-strategy/website-seo.jpg)
-
 ### Google Rich Snippet
 Example Google search: "Pretty Prairie United Methodist"
 ![](new-marketing-strategy/google-search-pretty-prairie-united.jpg)
