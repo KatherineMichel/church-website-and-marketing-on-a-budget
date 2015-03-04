@@ -10,6 +10,7 @@ Furthermore, according to Fred Wilson, [Mobile is Eating the World](http://www.a
 
 Mobile leap-frogging desktop
 Missed opportunity 
+Gamification
 
 See [The Bible App Case Study](the_bible_app_case_study.md) for the inspiration for this mobile app idea. 
 
