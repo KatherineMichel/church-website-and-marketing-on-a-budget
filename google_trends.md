@@ -1,9 +1,5 @@
 # Google Trends
 
-"I skate to where the puck is going to be, not where it has been." - Wayne Gretzky
-
-A technique that I've learned from the tech analysts whom [I follow on Twitter](https://twitter.com/katimichel/following) is to use [Google Trends](http://www.google.com/trends) to gauge the level of interest in a word (or words), including by region. 
-
 ## Phrase "United Methodist Church," for regions worldwide, Kansas, and Wichita/Hutchinson (Kansas)
 
 The Google Trends graphs for the search phrase "United Methodist Church" show a steady decline in search interest. 
