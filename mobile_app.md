@@ -25,6 +25,7 @@ Corporate Structure: Non-profit/B Corporation
 
 ## Funding
 * Capital required
+* Seed money
 * Donated resources
 
 ## Pitch Slide Deck
