@@ -1,5 +1,7 @@
 # The Bible App Case Study
 
+How has a religion app achieved 100 million+ downloads, with popularity remaining steadily high?
+
 ## Google Trends Graph for Phrase "Bible App"
 
 Google Trends graph for the phrase ["Bible App" (region: worldwide)](http://www.google.com/trends/explore#q=Bible%20App), from 2004 to 2015. [The Bible App](https://www.bible.com/app) was founded in 2008.  
