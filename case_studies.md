@@ -1,7 +1,5 @@
 # Case Studies
 
-"I skate to where the puck is going to be, not where it has been." - Wayne Gretzky
-
 ## National United Methodist Church
 
 [National United Methodist Church Case Study](national_united_methodist_church.md): What's the matter with the United Methodist Church? Looking at the steady decline of interest in the United Methodist Church and how it can be fixed. 
