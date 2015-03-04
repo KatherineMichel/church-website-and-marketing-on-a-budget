@@ -18,7 +18,7 @@ Regional interest
 5. Philippines
 6. United States
 7. Singapore
-8. 
+
 [The Bible App](https://www.bible.com/app)
 
 [The Bible App for Kids](https://www.bible.com/kids)
