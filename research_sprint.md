@@ -22,7 +22,7 @@ Pretty Prairie tends to be a very quiet place, except for every July when Pretty
 
 ### Digital Outreach
 
-Church Administered
+#### Church Administered
 * Website
 * Facebook Page
 
@@ -42,15 +42,18 @@ Down to 3 km or 1km (shown here)...
 
 ![](new-marketing-strategy/facebook-page-advertisement-reach-1km.png)
 
-#### G[oogle AdWords](https://www.google.com/adwords) (Pay) 
+#### [Google AdWords](https://www.google.com/adwords) (Pay) 
 
 Google Adwords targeting Pretty Prairie 
 ![](new-marketing-strategy/google-adwords-pretty-prairie-targeting.png)
 
 #### [Twitter Advertising](https://ads.twitter.com) (Pay)
 
+#### Email Management
 
-##### Google [AdSense](http://www.google.com/adsense)
+### Advanced Marketing (Webmaster)
+
+#### Google [AdSense](http://www.google.com/adsense)
 
 * [Facebook OpenGraph](http://ogp.me)
 * [Twitter Cards](https://dev.twitter.com/cards/overview)
