@@ -22,11 +22,11 @@ Pretty Prairie tends to be a very quiet place, except for every July when Pretty
 
 ### Digital Outreach
 
-* Website/Facebook Page
+Church Administered
+* Website
+* Facebook Page
 
-
-
-#### National United Methodist Church
+#### National United Methodist Church Administered
 
 * Find-a-Church
 
@@ -42,17 +42,20 @@ Down to 3 km or 1km (shown here)...
 
 ![](new-marketing-strategy/facebook-page-advertisement-reach-1km.png)
 
-#### Google Advertising 
-
-##### Google [AdSense](http://www.google.com/adsense)
-
-##### Google [AdWords](https://www.google.com/adwords) (Pay)
+#### G[oogle AdWords](https://www.google.com/adwords) (Pay) 
 
 Google Adwords targeting Pretty Prairie 
 ![](new-marketing-strategy/google-adwords-pretty-prairie-targeting.png)
 
 #### [Twitter Advertising](https://ads.twitter.com) (Pay)
 
+
+##### Google [AdSense](http://www.google.com/adsense)
+
+* [Facebook OpenGraph](http://ogp.me)
+* [Twitter Cards](https://dev.twitter.com/cards/overview)
+* [Twitter Intents](https://dev.twitter.com/web/intents)
+* Share Buttons ([AddThis](http://www.addthis.com)/[ShareThis](http://www.sharethis.com))
 
 
 ## The "Business" Problem
