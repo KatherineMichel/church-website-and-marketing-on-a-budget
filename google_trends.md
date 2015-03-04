@@ -1,5 +1,7 @@
 # Google Trends
 
+"I skate to where the puck is going to be, not where it has been." - Wayne Gretzky
+
 ## Phrase "United Methodist Church," for regions worldwide, Kansas, and Wichita/Hutchinson (Kansas)
 
 The Google Trends graphs for the search phrase "United Methodist Church" show a steady decline in search interest. 
