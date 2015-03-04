@@ -39,7 +39,7 @@ Involving various areas of the church
 
 ## Example Budget and Plan
 
-Special occassions
+Special occasions
 
 The Facebook advertisement program defaults to $50 spend for 1 week, advertising to both genders, ages 18 to 65+.
 
@@ -49,10 +49,30 @@ All of the traditional methods of advertisement should continue to be updated on
 
 * Website/Facebook Page
 * Find-a-Church
-* Bulletin
+
 * Local newspaper
-* Email signature
 * Ads and fliers in high traffic locations
+
+* Bulletin
+* Email signature
+
+### Contacting Inactive Members
+
+A good starting point for outreach would be for the church to contact church-goers of the past who are now inactive, and invite them back. 
+
+#### Updating Directory
+
+#### Letter
+
+### Cold Calling
+
+#### Individual Knowledge
+
+#### Telephone Book
+
+Setting aside pre-existing assumptions, members of the church would go through the Pretty Prairie section of the phone book to identify people for outreach. 
+
+![](new-marketing-strategy/telephone-book.jpg)
 
 ### Outreach Calendar
 
@@ -62,18 +82,6 @@ The church purchased a 2015 wall calendar. The calendar would be hung on a hook 
 ### Skills Inventory
 
 Members of the church would take stock of the skills of individual members. This skills inventory would be used to identify ways to optimize what the church has to offer the community. 
-
-### Contacting Inactive Members
-
-A good starting point for outreach would be for the church to contact church-goers of the past who are now inactive, and invite them back. 
-
-Updating directory/letter
-
-### Telephone Book
-
-Setting aside pre-existing assumptions, members of the church would go through the Pretty Prairie section of the phone book to identify people for outreach. 
-
-![](new-marketing-strategy/telephone-book.jpg)
 
 ## Advanced Marketing Options
 
