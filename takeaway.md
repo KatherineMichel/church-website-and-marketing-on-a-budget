@@ -10,7 +10,7 @@ Important takeaways:
 
 ### Jesus and John Wesley, Social Pioneers
 
-Perhaps the United Methodist Church need look no further than [social network](http://en.wikipedia.org/wiki/Social_network) pioneers Jesus and John Wesley for inspiration. 
+Maybe the United Methodist Church need look no further than [social network](http://en.wikipedia.org/wiki/Social_network) pioneers Jesus and John Wesley for inspiration. 
 
 Jesus grew a social network that consisted of family, friends, and followers, who spread his message by word of mouth until it became viral the world over. 
 
