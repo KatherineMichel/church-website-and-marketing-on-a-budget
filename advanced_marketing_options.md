@@ -36,14 +36,11 @@ Verify that the Google map info is correct. If possible, link the website to the
 * [Facebook Insights](https://www.facebook.com/help/336893449723054) (analytics)
 * [Twitter Analytics](https://analytics.twitter.com)
 
-## Social Media Advertisement
-
 * [Google Keyword Planner](https://support.google.com/adwords/answer/3114286?hl=en)
 
 ## Mobile
 * [Facebook Audience Network](https://www.facebook.com/business/news/audience-network) (mobile ads) (pay)
 * [Deep Linking](http://en.wikipedia.org/wiki/Mobile_deep_linking)
 
-## Email
-* [MailChimp](http://mailchimp.com)
+
 
