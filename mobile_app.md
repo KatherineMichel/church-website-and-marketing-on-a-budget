@@ -8,14 +8,21 @@ Fred Wilson ([@fredwilson](https://twitter.com/fredwilson)) famously wrote that 
 
 Though there is an "upper bound" to area population, as Balaji Srinivasan points out, "when cloud formations take physical shape, neither their scale nor duration has an upper bound." 
 
-Moore's Law
-The Law of Accelerating Returns
-
 Mobile leap-frogging desktop
-Missed opportunity 
-Gamification
-Bitcoin- small payments
-Crowd-funding
+
+Power Laws
+* Moore's Law
+* The Law of Accelerating Returns
+
+Missed opportunities
+* Due to lack of knowledge/foresight
+* Pre-existing assumptions
+
+Novel
+* Gamification
+* Bitcoin- small payments
+* Crowd-funding
+
 Pirate metrics
 
 See [The Bible App Case Study](the_bible_app_case_study.md) for the inspiration for this mobile app idea. 
