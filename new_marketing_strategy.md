@@ -94,6 +94,8 @@ Members of the church are less likely to use Twitter. However, Twitter is an opt
 
 A technique that I've learned from the tech analysts whom [I follow on Twitter](https://twitter.com/katimichel/following) is to use [Google Trends](http://www.google.com/trends) to gauge the level of interest in a word (or words), including by region. 
 
+Churches are struggling to stay relevant. The following case studies illustrate the challenges faced and reveal untapped opportunities. 
+
 Looking at search interest via Google Trends to gauge the effectiveness of traditional and modern religious methods amid changing lifestyles. Insight into tech trends and which channels could be the best to use to reach people locally, or perhaps even worldwide.
 
 ## New Sanctuary Equipment
