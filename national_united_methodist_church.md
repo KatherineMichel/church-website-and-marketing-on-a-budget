@@ -16,6 +16,10 @@ Google Trends graph for the phrase ["United Methodist Church" (region: Wichita/H
 
 ![](google-maps-and-trends/google-trends-united-methodist-church-wichita-hutchinson.png)
 
+### Church Decline
+
+This is not exclusive to Kansas. 
+
 ## Jesus and John Wesley, Social Pioneers
 
 Maybe the United Methodist Church need look no further than [social network](http://en.wikipedia.org/wiki/Social_network) pioneers Jesus and John Wesley for inspiration. 
