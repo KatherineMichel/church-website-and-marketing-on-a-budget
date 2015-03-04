@@ -1,5 +1,9 @@
 # Changing Global Landscape
 
+"I skate to where the puck is going to be, not where it has been." - Wayne Gretzky
+
+## Changing Lifestyles
+
 Marc Andreessen ([@pmarca](https://twitter.com/pmarca)) famously wrote that [Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html). 
 
 Balaji Srinivasan ([@balajis](https://twitter.com/balajis)) famously wrote that [Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations). 
