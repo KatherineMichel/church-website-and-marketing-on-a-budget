@@ -4,6 +4,7 @@
 
 The church should not aspire to be like Upworthy or to copy The Bible App. However, the success of Upworthy and The Bible App provides important clues about how the United Methodist Church can stay relevant. There is still a market for religious and "uplifting" content. However, the messager that succeeds is increasingly the one that adapts to changes in today's modern lifestyles. The church may need to repackage its message and how the message is delivered if it is to continue to compete for the public's attention. 
 
+Important takeaways:
 * [Advanced Marketing](advanced_marketing_options.md) techniques matter
 * Desktop computers and websites are not exactly going away, but mobile and apps are increasing in popularity. In some developing countries, a mobile phone may be the first and only "computer" people can afford
 
