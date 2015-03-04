@@ -5,7 +5,7 @@
 * [Project Management](project_management.md)
 * [Case Studies](case_studies.md)
    * [Google Trends](google_trends.md)
-   * National United Methodist Church
+   * [National United Methodist Church](national_united_methodist_church.md)
    * [Upworthy Case Study](upworthy_case_study.md)
    * [The Bible App Case Study](the_bible_app_case_study.md)
    * [Takeaway](takeaway.md)
