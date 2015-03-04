@@ -57,6 +57,10 @@ http://en.wikipedia.org/wiki/Religions_by_country
 
 * mobile and apps are increasing in popularity. In some developing countries, a mobile phone may be the first and only "computer" people can afford, which is perhaps why many of the countries recording the highest levels of Google Trends search interest for [The Bible App](the_bible_app_case_study.md) are African countries. 
 
+Missed opportunities
+* Due to lack of knowledge/foresight
+* Pre-existing assumptions
+
 * Changing lifestyles (digital and philosophical reorganization)
 
 ### The "Business" Opportunity
@@ -69,9 +73,7 @@ Power Laws
 * The Law of Accelerating Returns
 * Network Effect
 
-Missed opportunities
-* Due to lack of knowledge/foresight
-* Pre-existing assumptions
+
 
 
 
