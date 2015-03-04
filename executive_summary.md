@@ -13,11 +13,6 @@ Pretty Prairie, Kansas, U.S.A.
 In central Kansas, west of Wichita
 ![](google-maps-and-trends/google-map-pretty-prairie-kansas.png)
 
-Pretty Prairie tends to be a very quiet place, except for every July when Pretty Prairie hosts the world famous 
-[Pretty Prairie Rodeo](http://www.pprodeo.com) (the largest night rodeo in Kansas). The spikes in the Google Trends search interest graph below for phrase ["Pretty Prairie" (region: worldwide)](http://www.google.com/trends/explore#q=pretty%20prairie) all happened in July. 
-
-![](google-maps-and-trends/google-trends-pretty-prairie-worldwide.png)
-
 ## Problem
 The church's previous website, which had been made using a technique called [Flash](http://en.wikipedia.org/wiki/Adobe_Flash), was no longer in existence because [the web host had stopped hosting](https://kslib.info/1013/Blue-Skyways-Transition). I made the screenshot below of the website welcome page by locally rendering files that I recovered from the web host. See [Marketing As Is](marketing_as_is.md) for screenshots of the entire old website.
 
