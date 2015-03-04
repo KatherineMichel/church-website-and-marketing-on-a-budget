@@ -10,7 +10,7 @@ Pretty Prairie, in central Kansas, west of Wichita, north of Kingman, south of H
 
 ![](google-maps-and-trends/google-map-pretty-prairie-wichita.png)
 
-![](google-maps-and-trends/pretty-prairie-downtown.png)
+![](google-maps-and-trends/pretty-prairie-downtown.jpg)
 
 Pretty Prairie (population 688) tends to be a very quiet place, except for every July when Pretty Prairie hosts the world famous 
 [Pretty Prairie Rodeo](http://www.pprodeo.com) (the largest night rodeo in Kansas). The spikes in the Google Trends search interest graph below for phrase ["Pretty Prairie" (region: worldwide)](http://www.google.com/trends/explore#q=pretty%20prairie) all happened in July. 
