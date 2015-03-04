@@ -29,8 +29,6 @@ Verify that the Google map info is correct. If possible, link the website to the
 ## Social Media Engagement
 
 ## Social Media Analytics
-* [Facebook Insights](https://www.facebook.com/help/336893449723054) (analytics)
-* [Twitter Analytics](https://analytics.twitter.com)
 
 ## Mobile
 * [Facebook Audience Network](https://www.facebook.com/business/news/audience-network) (mobile ads) (pay)
