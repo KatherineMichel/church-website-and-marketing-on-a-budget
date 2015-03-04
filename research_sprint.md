@@ -46,21 +46,6 @@ Pretty Prairie [Area Map](https://drive.google.com/file/d/0B02bpu7HZwJRaVp5dGNMO
 
 Members of the Nurture, Outreach, Witness (NOW) Committee would begin to collaborate on a new church marketing plan. In preparation for their group work, I provided the NOW Committee with an example plan, a [Marketing Plan Worksheet](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/UMCOM_YOUR_MARKETING_PLAN_WORKSHEET.PDF), and a ["Tactics" List](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/STEP_4_IMPLEMENTATION_HOMEWORK.PDF) taken from the [United Methodist Communications](http://www.umcom.org) [Marketing Audit](http://www.umcom.org/learn/market-your-church-getting-started). 
 
-Example tactics less than $300
-<center>
-![](design-sprint/tactics-less-than-$300.png)
-</center>
-
-Example tactics from $300 to $1000
-<center>
-![](design-sprint/tactics-$300-$1000.png)
-</center>
-
-Example tactics over $1000
-<center>
-![](design-sprint/tactics-over-$1000.png)
-</center>
-
 See [New Marketing Strategy](new_marketing_strategy.md) for the finished result. 
 
 
