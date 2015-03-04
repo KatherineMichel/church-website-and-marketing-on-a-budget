@@ -14,6 +14,8 @@ Though there is an "upper bound" to area population, as Balaji Srinivasan points
 
 Mobile leap-frogging desktop
 
+## Competitor Idea Maze
+
 ## Google Trends Graph for Phrases "mobile" Versus "desktop"
 
 Google Trends graph for phrases ["mobile" versus "desktop" (region: worldwide)](http://www.google.com/trends/explore#q=mobile%2C%20desktop&cmpt=q&tz=), from 2004 to 2015:
