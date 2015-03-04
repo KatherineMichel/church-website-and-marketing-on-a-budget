@@ -1,6 +1,6 @@
 # Church Re-Imagined App
 
-See [The Bible App Case Study](the_bible_app_case_study.md) for the inspiration for this mobile app idea.
+See [The Bible App Case Study](the_bible_app_case_study.md) and [Prototype](prototype.md) for the inspiration for this business plan.
 
 ## Corporate Structure
 
