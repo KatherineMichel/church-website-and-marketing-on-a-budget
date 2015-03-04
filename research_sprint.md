@@ -91,6 +91,12 @@ Google Adwords targeting Pretty Prairie
 
 #### [Twitter Advertising](https://ads.twitter.com) (Pay)
 
+### Research and Data Collection
+* [Google Trends](http://www.google.com/trends)
+* [Google Forms](http://www.google.com/forms/about)
+* [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home) (pay)
+* [Google Keyword Planner](https://support.google.com/adwords/answer/3114286?hl=en)
+
 #### Email Management
 
 * [MailChimp](http://mailchimp.com)
