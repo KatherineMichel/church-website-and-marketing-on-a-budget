@@ -31,10 +31,6 @@ And most important of all, encourage people to use the website! The search ranki
 Verify that the Google map info is correct. If possible, link the website to the map. Consider creating a Google+ organization page, and/or Google rich snippet for support
 
 ## Social Media Engagement
-* [Facebook OpenGraph](http://ogp.me)
-* [Twitter Cards](https://dev.twitter.com/cards/overview)
-* [Twitter Intents](https://dev.twitter.com/web/intents)
-* Share Buttons ([AddThis](http://www.addthis.com)/[ShareThis](http://www.sharethis.com))
 
 ## Social Media Analytics
 * [Facebook Insights](https://www.facebook.com/help/336893449723054) (analytics)
