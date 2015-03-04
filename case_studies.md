@@ -18,10 +18,13 @@ Looking at search interest via Google Trends to gauge the effectiveness of tradi
 
 How Upworthy became "the fastest-growing media site in history," and with a mission for social justice.
 
-#### Google Trends Graph for Upworthy
-Google Trends graph for the phrase ["Upworthy" (region: worldwide)](http://www.google.com/trends/explore#q=upworthy), beginning when Upworthy was founded in 2012, until January 2015: 
+### Google Trends Graph for Phrase "Upworthy"
+
+Google Trends graph for the phrase ["Upworthy" (region: worldwide)](http://www.google.com/trends/explore#q=upworthy), from 2004 to 2015. [Upworthy](http://www.upworthy.com) was founded in 2012. When [Facebook](https://www.facebook.com/Upworthy), Upworthy's main source of traffic, changed its algorithms at the end of 2013 (reportedly in response to Upworthy's content becoming disportionately popular in the Facebook news feed), Upworthy's traffic dramatically fell. 
 
 ![](google-maps-and-trends/google-trends-upworthy-worldwide.png)
+
+Regional interest
 
 ### [The Bible App Case Study](the_bible_app_case_study.md)
 
