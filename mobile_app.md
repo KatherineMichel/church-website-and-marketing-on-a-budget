@@ -26,6 +26,7 @@ Self-sustaining
 * Gamification
 * Bitcoin- small payments
 * Crowd-funding
+* Use of Twitter Cards/mobile video
 
 ## Large Scale Marketing
 
