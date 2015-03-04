@@ -83,13 +83,11 @@ Members of the church would take stock of the skills of individual members. This
 
 Skills list
 
-## Advanced Marketing Options
+## Webmaster
 
-### Search Engine Optimization (SEO) and Webmaster
+## Website SEO
 
-### Website SEO
-
-### Google Rich Snippet
+## Google Rich Snippet
 Example Google search: "Pretty Prairie United Methodist"
 ![](new-marketing-strategy/google-search-pretty-prairie-united.jpg)
 
@@ -103,8 +101,6 @@ Correcting incorrect Google Map info
 
 Google Adwords Pretty Prairie targeting
 ![](new-marketing-strategy/google-adwords-pretty-prairie-targeting.png)
-
-### Google Adwords
 
 ### Facebook 
 
@@ -132,6 +128,8 @@ Or 1 km...
 #### Facebook Advertisement
 
 Facebook page "Local Awareness" advertisement preview to "reach people near your business" 
+
+### Google Adwords
 
 ##Public at Large
 
