@@ -51,6 +51,8 @@ Google Adwords targeting Pretty Prairie
 
 #### Email Management
 
+* [MailChimp](http://mailchimp.com)
+
 ### Advanced Marketing (Webmaster)
 
 #### Google [AdSense](http://www.google.com/adsense)
