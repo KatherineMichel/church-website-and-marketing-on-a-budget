@@ -15,6 +15,7 @@ Though there is an "upper bound" to area population, as Balaji Srinivasan points
 Mobile leap-frogging desktop
 
 ## Competitor Idea Maze
+The competition (not who you might think)
 
 ## Google Trends Graph for Phrases "mobile" Versus "desktop"
 
