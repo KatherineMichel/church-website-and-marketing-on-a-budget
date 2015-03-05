@@ -19,6 +19,9 @@ Regional interest
 6. United States
 7. Singapore
 
+(Two [developed countries](http://en.wikipedia.org/wiki/The_World_Factbook_list_of_developed_countries) (South Africa and U.S.), most predominantly [Christian](http://en.wikipedia.org/wiki/Religious_information_by_country) with Nigeria and Singapore exceptions, all high on [number of mobile phones in use](http://en.wikipedia.org/wiki/List_of_countries_by_number_of_mobile_phones_in_use))
+
+
 [The Bible App](https://www.bible.com/app)
 
 [The Bible App for Kids](https://www.bible.com/kids)
