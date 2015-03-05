@@ -21,7 +21,7 @@
    * [Design Sprint](design_sprint.md)
    * [Prototype](prototype.md)
    * [User Testing](user_testing.md)
-* [Church Re-Imagined :)](church_re-imagined.md)
+* [National United Methodist Church Re-Imagined :)](national_united_methodist_church_re-imagined.md)
    * [Church Re-Imagined App](church_re-imagined_app.md)
    * [Advanced Marketing](advanced_marketing.md)
 * [About Pretty Prairie](about_pretty_prairie.md)
