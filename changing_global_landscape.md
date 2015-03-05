@@ -38,12 +38,11 @@ Regional interest
 
 (None are [developed countries](http://en.wikipedia.org/wiki/The_World_Factbook_list_of_developed_countries), 
 
-## Google Trends Graph for Phrases "app" Versus "website"
+## Google Trends Graph for Phrases "iPhone" "app" "Android" "desktop" "website"
 
-Google Trends graph for phrases ["app" versus "website" (region: worldwide)](http://www.google.com/trends/explore#q=app%2C%20website&cmpt=q&tz=), from 2004 to 2015:
+Google Trends graph for phrases ["iPhone" "app" "Android" "desktop" "website" (region: worldwide)](http://www.google.com/trends/explore#q=iPhone%2C%20app%2C%20Android%2C%20desktop%2C%20website&cmpt=q&tz=), from 2004 to 2015:
 
-![](google-maps-and-trends/google-trends-app-versus-website.png)
-
+![](google-maps-and-trends/google-trends-iphone-app-android-desktop-website.png)
 
 
 
