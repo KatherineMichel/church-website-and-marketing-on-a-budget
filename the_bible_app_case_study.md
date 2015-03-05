@@ -66,6 +66,8 @@ Non-profit
 
 
 
+Networktv- like a Franchise
+
 http://techcrunch.com/2012/05/10/bible-youversion-lifechurch
 
 http://www.lifechurch.tv/giving
