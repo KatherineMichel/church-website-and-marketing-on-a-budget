@@ -47,15 +47,18 @@ Members of the church are less likely to use Twitter. However, Twitter is an opt
 
 ### Stats
 
+* Pretty Prairie population: 688
 * Pretty Prairie UMC congregation: 
-* Pretty Prairie population: 
-* World population:
-* Number of people with internet
+
+* World population: ~7 billion
+* Number of people with internet: 
+* Number of people with desktop computers:
 * Number of people with mobile phones:
-* Number of United Methodist congregations:
-* Number of United Methodist members (U.S.):
-* Number of United Methodist members (rest of the world):
-* Religion by continent:
+
+* Number of United Methodist congregations: 34,892
+* Number of United Methodist members total: 12.1 million
+* Number of United Methodist members (U.S.): 7,725,039
+* Number of United Methodist members (rest of the world): 4.4 million
 
 http://en.wikipedia.org/wiki/United_Methodist_Church
 
