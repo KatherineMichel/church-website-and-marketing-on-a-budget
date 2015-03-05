@@ -2,9 +2,7 @@
 
 "I skate to where the puck is going to be, not where it has been." - Wayne Gretzky
 
-## Changing Lifestyles
-
-### Digital and philosophical reorganization
+## Digital and philosophical reorganization
 
 Marc Andreessen ([@pmarca](https://twitter.com/pmarca)) famously wrote that [Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html). 
 
@@ -59,6 +57,8 @@ The church should not exactly aspire to copy The Bible App or to be like Upworth
 
 
 http://en.wikipedia.org/wiki/List_of_countries_by_smartphone_penetration
+
+Changing Lifestyles
 
 gauge the effectiveness of traditional and modern religious methods. Insight into tech trends and which channels could be the best to use to reach people locally, or perhaps even worldwide.
 
