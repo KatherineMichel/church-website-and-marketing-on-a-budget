@@ -61,8 +61,6 @@ These opportunities could be easy to overlook though due to:
 
 http://en.wikipedia.org/wiki/List_of_countries_by_smartphone_penetration
 
-Changing Lifestyles
-
 gauge the effectiveness of traditional and modern religious methods. Insight into tech trends and which channels could be the best to use to reach people locally, or perhaps even worldwide.
 
 
