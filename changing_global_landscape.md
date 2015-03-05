@@ -30,6 +30,7 @@ Google Trends graph for phrases ["iPhone" "app" "Android" "desktop" "website" (r
 The church should not exactly aspire to copy The Bible App or to be like Upworthy. However, their success shows that there is still a market for religious and "uplifting" content.
 
 But with competitors such as these, the church may need to repackage its message and how the message is delivered if it is to realistically continue to compete for the public' attention.  
+The success of Upworthy seems to make moot the argument that people are no longer interested in that which is uplifting. 
 
 Possible reasons for missed opportunities
 * Lack of knowledge/foresight
