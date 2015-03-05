@@ -12,10 +12,10 @@ Fred Wilson ([@fredwilson](https://twitter.com/fredwilson)) famously wrote that 
 
 Though there is an "upper bound" to area population, as Balaji Srinivasan points out, "when cloud formations take physical shape, neither their scale nor duration has an upper bound." 
 
-As software and mobile "eat the world," and our lifestyles are reorganized, the winning organizations will be the ones that adapt the fastest and the best.
+As software and mobile "eat the world," and our lifestyles are reorganized, the winning organizations will be the ones that adapt the fastest and the best. 
 
 ## Competitor Idea Maze
-The competition (not who you might think)
+Any entity vying for attention is a competitor. Any entity occupying high value real estate on a home screen, or search result is a competitor. Any entity achieving a viral campaign over yours is a competitor. 
 
 ## Google Trends Graph for Phrases "iPhone" "app" "Android" "desktop" "website"
 
@@ -25,12 +25,11 @@ Google Trends graph for phrases ["iPhone" "app" "Android" "desktop" "website" (r
 
 ## What the Church Can Learn from The Bible App and Upworthy 
 
+The church should not exactly aspire to copy The Bible App or to be like Upworthy. The church should use case studies such as these to extract knowledge that can be applied to reach a similar popularity, but within the context appropriate to the United Methodist Church. 
+
+The success of The Bible App and Upworthy shows that there can be a thriving market for religious and uplifting content. It appears that the church needs to repackage its message and how it is delivered in order to realistically compete for the public's attention. 
 
 
-The church should not exactly aspire to copy The Bible App or to be like Upworthy. However, their success shows that there is still a market for religious and "uplifting" content.
-
-But with competitors such as these, the church may need to repackage its message and how the message is delivered if it is to realistically continue to compete for the public' attention.  
-The success of Upworthy seems to make moot the argument that people are no longer interested in that which is uplifting. 
 
 Possible reasons for missed opportunities
 * Lack of knowledge/foresight
