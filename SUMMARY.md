@@ -4,6 +4,7 @@
 * [Executive Summary](executive_summary.md)
 * [Project Management](project_management.md)
 * [Pretty Prairie United Methodist Church](pretty_prairie_united_methodist_church.md)
+   * Test
 * [Case Studies](case_studies.md)
    * [National United Methodist Church](national_united_methodist_church.md)
    * [The Bible App Case Study](the_bible_app_case_study.md)
