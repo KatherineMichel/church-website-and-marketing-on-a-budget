@@ -21,30 +21,34 @@ Regional interest
 
 (Two [developed countries](http://en.wikipedia.org/wiki/The_World_Factbook_list_of_developed_countries) (South Africa and U.S.), most predominantly [Christian](http://en.wikipedia.org/wiki/Religious_information_by_country) with Nigeria and Singapore exceptions, all high on [number of mobile phones in use](http://en.wikipedia.org/wiki/List_of_countries_by_number_of_mobile_phones_in_use))
 
-
+## Two Products
 [The Bible App](https://www.bible.com/app)
 
 [The Bible App for Kids](https://www.bible.com/kids)
+
+## Purpose
+* Read the Bible
+* Share Bible verses on social networks
+* Bookmark favorite passages
+
+## Platforms
+Available on all major platforms and more: 
+* iPhone/iPad
+* Android
+* Mobile Web
+* Kindle Fire
+* Blackberry
+* Windows Phone
+* Windows 8
+* HP/Palm
+
+And others...
 
 ## Corporate Structure 
 
 Non-profit
 
 ## Business Model
-
-
-
-Available for: 
-* iPhone/iPad
-* Android
-* BlackBerry
-* Windows Phone
-* Windows 8
-* HP/Palm
-* Java
-* Symbian
-* Mobile Web
-* Kindle Fire
 
 http://www.businessinsider.com/youversion-bible-app-has-100-million-downloads-2013-7
 
