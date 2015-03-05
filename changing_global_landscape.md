@@ -8,7 +8,8 @@ Marc Andreessen ([@pmarca](https://twitter.com/pmarca)) famously wrote that [Sof
 
 Balaji Srinivasan ([@balajis](https://twitter.com/balajis)) famously wrote that [Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations). 
 
-Fred Wilson ([@fredwilson](https://twitter.com/fredwilson)) famously wrote that [Mobile is Eating the World](http://www.avc.com/a_vc/2013/06/mobile-is-eating-the-world.html). 
+Benedict Evans: Mobile is Eating the World
+http://www.slideshare.net/bge20/2013-05-bea
 
 Though there is an "upper bound" to area population, as Balaji Srinivasan points out, "when cloud formations take physical shape, neither their scale nor duration has an upper bound." 
 
@@ -16,8 +17,6 @@ Though there is an "upper bound" to area population, as Balaji Srinivasan points
 * Moore's Law
 * The Law of Accelerating Returns
 * Network Effect
-
-As software and mobile "eat the world," and our lifestyles are reorganized, the winning organizations will be the ones that adapt the fastest and the best. 
 
 ### Untapped "Business" Opportunities
 * Decreasing importance of physical proximity
@@ -41,7 +40,9 @@ Google Trends graph for phrases ["iPhone" "app" "Android" "desktop" "website" (r
  
 ## What the Church Can Learn from The Bible App and Upworthy 
 
-The success of The Bible App and Upworthy shows that there can be a thriving market for religious and uplifting content. It appears that in order to effectively compete, the church needs to repackage its message and how it is delivered. 
+As software and mobile "eat the world," and our lifestyles are reorganized, the winning organizations will not be the ones that are the most pious, but simply the ones that adapt the fastest and the best.
+
+The success of The Bible App and Upworthy shows that there can be a thriving market for religious and uplifting content. It appears that in order to effectively compete, the United Methodist Church needs to repackage its message and how it is delivered. 
 
 The church should not exactly aspire to copy The Bible App or to be like Upworthy. The church should use case studies such as these to extract knowledge that can be applied to reach a similar popularity, but within the context appropriate to the United Methodist Church. 
 
