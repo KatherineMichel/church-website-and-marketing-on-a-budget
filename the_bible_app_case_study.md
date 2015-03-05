@@ -27,6 +27,7 @@ Regional interest
 [The Bible App for Kids](https://www.bible.com/kids)
 
 ## Purpose
+Use desktop and mobile devices to:
 * Read the Bible
 * Share Bible verses on social networks
 * Bookmark favorite passages
