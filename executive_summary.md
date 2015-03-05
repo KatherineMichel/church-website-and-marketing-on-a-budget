@@ -3,7 +3,7 @@
 ## Note: 
 For the tl:dr, check out [Marketing As Is](marketing_as_is.md) and [Church Re-Imagined](church_re-imagined.md) :) 
 
-## Proposition
+## Pretty Prairie
 [Pretty Prairie](http://en.wikipedia.org/wiki/Pretty_Prairie,_Kansas) is a rural farming community (population 688) in central Kansas. 
 
 Pretty Prairie, Kansas, U.S.A.
@@ -18,12 +18,13 @@ Pretty Prairie is a very quiet place, except for every July when Pretty Prairie 
 Google Trends search interest graph showing increased interest every July for phrase ["Pretty Prairie" (region: worldwide)](http://www.google.com/trends/explore#q=pretty%20prairie) 
 ![](google-maps-and-trends/google-trends-pretty-prairie-worldwide.png)
 
+## Proposition
 Members of the Pretty Prairie United Methodist Church, a congregation of around 65, contacted me about designing a new website and marketing plan for the church. 
 
 ## Problem
 
 ### No Website
-The church's previous website, which had been made using a technique called [Flash](http://en.wikipedia.org/wiki/Adobe_Flash), was no longer in existence because [the web host had stopped hosting](https://kslib.info/1013/Blue-Skyways-Transition). I made the screenshot below of the website welcome page by locally rendering files that I recovered from the web host. See [Marketing As Is](marketing_as_is.md) for screenshots of the entire old website.
+The church's previous website, which had been made using a technique called [Flash](http://en.wikipedia.org/wiki/Adobe_Flash), was no longer in existence because [the web host had stopped hosting](https://kslib.info/1013/Blue-Skyways-Transition). I made the screenshot below of the website welcome page by locally rendering files that I recovered from the web host. See [Marketing As Is](marketing_as_is.md) for screenshots and a critique of the entire old website.
 
 ![](marketing-as-is/old-website-welcome-page.jpg)
 
@@ -35,7 +36,7 @@ Without an independent website, the church was making due with a Find-a-Church p
 
 ### Revitalization Effort
 
-The church was also ready for a new community outreach campaign. In the process of doing research for this outreach campaign, I would learn more about the problems (and opportunities) facing the Pretty Prairie United Methodist Church and the national [United Methodist Church](http://www.umc.org).
+In addition to the website, church members were also ready for a new community outreach campaign. In the process of doing research for this outreach campaign, I would learn more about the problems (and opportunities) facing the Pretty Prairie United Methodist Church and the national [United Methodist Church](http://www.umc.org).
 
 ## Solution
 
