@@ -24,4 +24,4 @@ In addition to the website, church members were also ready for a new community o
 
 ## Solution
 
-I would project manage a modern new website and marketing plan for the Pretty Prairie United Methodist Church, using low-cost tools and available resources. In addition, I would conduct a [Research and Design Sprint](research_and_design_sprint.md) that would lead to new ideas to pitch for the national [United Methodist Church](http://www.umc.org).
+I would [Project Manage](project_management.md) a modern new website and marketing plan for the Pretty Prairie United Methodist Church, using low-cost tools and available resources. In addition, I would conduct a [Research and Design Sprint](research_and_design_sprint.md) that would lead to new ideas to pitch for the national [United Methodist Church](http://www.umc.org).
