@@ -1,6 +1,6 @@
 # The Bible App Case Study
 
-How has a religious app achieved 100 million+ downloads, with popularity remaining steadily high?
+How has a religious app achieved [100 million+ downloads](http://www.businessinsider.com/youversion-bible-app-has-100-million-downloads-2013-7), with popularity remaining steadily high?
 
 ## Google Trends Graph for Phrase "Bible App"
 
@@ -21,20 +21,19 @@ Regional interest
 
 (Two [developed countries](http://en.wikipedia.org/wiki/The_World_Factbook_list_of_developed_countries) (South Africa and U.S.), most predominantly [Christian](http://en.wikipedia.org/wiki/Religious_information_by_country) with Nigeria and Singapore exceptions, all high on [number of mobile phones in use](http://en.wikipedia.org/wiki/List_of_countries_by_number_of_mobile_phones_in_use))
 
-## Two Products
-[The Bible App](https://www.bible.com/app)
+## Products
+
+### [The Bible App](https://www.bible.com/app)
 
 ![](the-bible-app/the-bible-app-homepage.png)
 
-[The Bible App for Kids](https://www.bible.com/kids)
-
-## Purpose
+#### Purpose
 Use desktop and mobile devices to:
 * Read the Bible
 * Share Bible verses on social networks
 * Bookmark favorite passages
 
-## Platforms
+#### Platforms
 Available on all major platforms and more: 
 * iPhone/iPad
 * Android
@@ -47,13 +46,15 @@ Available on all major platforms and more:
 
 And others...
 
+### [The Bible App for Kids](https://www.bible.com/kids)
+
 ## Corporate Structure 
 
 Non-profit
 
 ## Business Model
 
-http://www.businessinsider.com/youversion-bible-app-has-100-million-downloads-2013-7
+
 
 http://techcrunch.com/2012/05/10/bible-youversion-lifechurch
 
