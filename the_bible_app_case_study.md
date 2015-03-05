@@ -24,6 +24,8 @@ Regional interest
 ## Two Products
 [The Bible App](https://www.bible.com/app)
 
+![](the-bible-app/the-bible-app-homepage.png)
+
 [The Bible App for Kids](https://www.bible.com/kids)
 
 ## Purpose
