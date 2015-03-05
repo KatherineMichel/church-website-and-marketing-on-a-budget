@@ -18,7 +18,9 @@ Google Trends graph for the phrase ["United Methodist Church" (region: Wichita/H
 
 ### Church Decline
 
-Churches are struggling to stay relevant. This problem is not exclusive to theh United Methodist Church. 
+Churches are struggling to stay relevant. This problem is not exclusive to the United Methodist Church. 
+
+![](google-maps-and-trends/google-trends-methodist-catholic-presbyterian-baptist.png)
 
 ## Jesus and John Wesley, Social Pioneers
 
