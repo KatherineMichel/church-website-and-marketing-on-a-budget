@@ -1,7 +1,7 @@
 # Design Sprint
 
 ## People and Supplies
-Taking stock of supplies on hand
+Taking stock of resources on hand
 
 ![](design-sprint/supply-cabinet.jpg)
 
@@ -22,6 +22,15 @@ Taking stock of supplies on hand
 
 I would do most of the design work alone, and act as facilitator for select brainstorming and planning group work, particularly involving the church's Nurture Outreach Witness (NOW) Committee, which handles community outreach for the church. 
 
+### Facilitation: Reverse Engineering for Success
+
+The idea for reverse engineering came from this article:
+
+#### "How might we"
+
+Members of the Nurture, Outreach, Witness (NOW) Committee would begin to collaborate on a new church marketing plan. In preparation for their group work, I provided the NOW Committee with an example plan, a [Marketing Plan Worksheet](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/UMCOM_YOUR_MARKETING_PLAN_WORKSHEET.PDF), and a ["Tactics" List](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/STEP_4_IMPLEMENTATION_HOMEWORK.PDF) taken from the [United Methodist Communications](http://www.umcom.org) [Marketing Audit](http://www.umcom.org/learn/market-your-church-getting-started). 
+
+See [New Marketing Strategy](new_marketing_strategy.md) for the finished result. 
 See [Research Sprint](research_sprint.md) for more information about the Nurture Outreach Witness (NOW) Committee's involvement. 
 
 ## Design Sprint Process
