@@ -1,7 +1,15 @@
 # About Pretty Prairie
 
+Pretty Prairie is in central Kansas...
+
 Pretty Prairie, Kansas, U.S.A.
 ![](google-maps-and-trends/google-map-usa-pretty-prairie.png)
+
+...southwest of Kansas City and due west of Wichita...
+![](google-maps-and-trends/google-map-pretty-prairie-kansas.png)
+
+... north of Kingman (population), south of Hutchinson (population), and near the Amish community of Yoder
+![](google-maps-and-trends/google-map-pretty-prairie-wichita.png)
 
 Pretty Prairie downtown
 ![](google-maps-and-trends/pretty-prairie-downtown.jpg)
@@ -11,12 +19,6 @@ Pretty Prairie is a very quiet place, except for every July when Pretty Prairie 
 
 Google Trends search interest graph showing increased interest every July for phrase ["Pretty Prairie" (region: worldwide)](http://www.google.com/trends/explore#q=pretty%20prairie) 
 ![](google-maps-and-trends/google-trends-pretty-prairie-worldwide.png)
-
-Pretty Prairie, in central Kansas, west of Wichita, north of Kingman, south of Hutchinson, near the Amish community of Yoder.
-
-![](google-maps-and-trends/google-map-pretty-prairie-kansas.png)
-
-![](google-maps-and-trends/google-map-pretty-prairie-wichita.png)
 
 ### Nielson Company Demographic Info
 
