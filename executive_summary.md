@@ -19,7 +19,7 @@ Google Trends search interest graph showing increased interest every July for ph
 ![](google-maps-and-trends/google-trends-pretty-prairie-worldwide.png)
 
 ## Proposition
-Members of the Pretty Prairie United Methodist Church, a congregation of around 65, contacted me about designing a new website and marketing plan for the church. 
+Members of the Pretty Prairie United Methodist Church, a congregation of around 65 regular attendees, contacted me about designing a new website and marketing plan for the church. 
 
 ## Problem
 
