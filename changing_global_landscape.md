@@ -12,6 +12,8 @@ Fred Wilson ([@fredwilson](https://twitter.com/fredwilson)) famously wrote that 
 
 Though there is an "upper bound" to area population, as Balaji Srinivasan points out, "when cloud formations take physical shape, neither their scale nor duration has an upper bound." 
 
+As software and mobile "eat the world," and our lifestyles are reorganized, the winning organizations will be the ones that adapt the fastest and the best.
+
 ## Competitor Idea Maze
 The competition (not who you might think)
 
@@ -23,9 +25,11 @@ Google Trends graph for phrases ["iPhone" "app" "Android" "desktop" "website" (r
 
 ## What the Church Can Learn from The Bible App and Upworthy 
 
+
+
 The church should not exactly aspire to copy The Bible App or to be like Upworthy. However, their success shows that there is still a market for religious and "uplifting" content.
 
-But with competitors such as these, the church may need to repackage its message and how the message is delivered if it is to realistically continue to compete for the public' attention. As software and mobile "eat the world," and are lifestyles are reorganized, the winning organizations are the ones that adapt best. 
+But with competitors such as these, the church may need to repackage its message and how the message is delivered if it is to realistically continue to compete for the public' attention.  
 
 Possible reasons for missed opportunities
 * Lack of knowledge/foresight
