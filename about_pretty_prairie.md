@@ -32,3 +32,9 @@ Pretty Prairie [Area Map](https://drive.google.com/file/d/0B02bpu7HZwJRaVp5dGNMO
 
 [Population by Age and Race Trend 2014](https://drive.google.com/file/d/0B02bpu7HZwJRelJTXzd1XzVWUE0/view?usp=sharing)
 
+### The "Business" Problem
+
+* Changing lifestyles (digital and philosophical reorganization)
+* Dwindling, predominantly older adult local population 
+* Four churches in close proximity
+
