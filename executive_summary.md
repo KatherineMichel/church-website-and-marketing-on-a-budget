@@ -3,11 +3,12 @@
 ## Note: 
 For the tl:dr, check out [Marketing As Is](marketing_as_is.md) and [Church Re-Imagined](church_re-imagined.md) :) 
 
-## Pretty Prairie
+## Proposition
 [Pretty Prairie](http://en.wikipedia.org/wiki/Pretty_Prairie,_Kansas) is a rural farming community (population 688) in central Kansas. 
 
-## Proposition
 Members of the Pretty Prairie United Methodist Church, a congregation of around 65 regular attendees, contacted me about designing a new website and marketing plan for the church. 
+
+See [About Pretty Prairie](about_pretty_prairie.md) for more information about Pretty Prairie. 
 
 ## Problem
 
