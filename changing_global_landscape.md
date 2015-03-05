@@ -11,14 +11,11 @@ Balaji Srinivasan ([@balajis](https://twitter.com/balajis)) famously wrote that 
 Benedict Evans: Mobile is Eating the World
 http://www.slideshare.net/bge20/2013-05-bea
 
-Though there is an "upper bound" to area population, as Balaji Srinivasan points out, "when cloud formations take physical shape, neither their scale nor duration has an upper bound." 
-
 ## Power Laws
 * Moore's Law
 * The Law of Accelerating Returns
 * Network Effect
 * Disruption/incumbent
-* The opportunity is to reach people anywhere in the world using desktop and/or mobile
 
 ## Competitor Idea Maze
 Any entity vying for attention is a competitor. Any entity occupying high value real estate on a home screen, or search result is a competitor. Any entity achieving a viral campaign over yours is a competitor. 
@@ -48,6 +45,10 @@ On the bright side, there are some untapped opportunities:
 * Decreasing importance of physical proximity
 * More channels (traditional and digital) than ever to reach people and more people than ever to reach
 * New and undiscovered ways to minister
+
+* The opportunity is to reach people anywhere in the world using desktop and/or mobile
+* Region/physical proximity- limit
+* Digital- no limit
 
 ## Possible Reasons for Missed Opportunities 
 These opportunities could be easy to overlook though due to:
