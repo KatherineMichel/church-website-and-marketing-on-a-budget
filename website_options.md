@@ -1,4 +1,4 @@
-# Pretty Prairie United Methodist Church Website Options
+# Website Options
 
 ## Website Requirements
 The website would need to meet certain criteria to meet the needs of the church. 
