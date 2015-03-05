@@ -1,12 +1,22 @@
 # About Pretty Prairie
 
+Pretty Prairie, Kansas, U.S.A.
+![](google-maps-and-trends/google-map-usa-pretty-prairie.png)
+
+Pretty Prairie downtown
+![](google-maps-and-trends/pretty-prairie-downtown.jpg)
+
+Pretty Prairie is a very quiet place, except for every July when Pretty Prairie hosts the world famous 
+[Pretty Prairie Rodeo](http://www.pprodeo.com) (the largest night rodeo in Kansas).
+
+Google Trends search interest graph showing increased interest every July for phrase ["Pretty Prairie" (region: worldwide)](http://www.google.com/trends/explore#q=pretty%20prairie) 
+![](google-maps-and-trends/google-trends-pretty-prairie-worldwide.png)
+
 Pretty Prairie, in central Kansas, west of Wichita, north of Kingman, south of Hutchinson, near the Amish community of Yoder.
 
 ![](google-maps-and-trends/google-map-pretty-prairie-kansas.png)
 
 ![](google-maps-and-trends/google-map-pretty-prairie-wichita.png)
-
-### Whom Should the Church Reach?
 
 ### Nielson Company Demographic Info
 
