@@ -23,4 +23,5 @@
    * [New Website](new_website.md)
    * [New Marketing Strategy](new_marketing_strategy.md)
    * [Church Re-Imagined App](church_re-imagined_app.md)
+* About Pretty Prairie
 
