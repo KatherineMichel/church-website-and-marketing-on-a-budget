@@ -24,5 +24,5 @@
    * [New Website](new_website.md)
    * [New Marketing Strategy](new_marketing_strategy.md)
    * [Church Re-Imagined App](church_re-imagined_app.md)
-* Pretty Prairie United Methodist Church
+* [Pretty Prairie United Methodist Church](pretty_prairie_united_methodist_church.md)
 
