@@ -6,18 +6,6 @@ For the tl:dr, check out [Marketing As Is](marketing_as_is.md) and [Church Re-Im
 ## Pretty Prairie
 [Pretty Prairie](http://en.wikipedia.org/wiki/Pretty_Prairie,_Kansas) is a rural farming community (population 688) in central Kansas. 
 
-Pretty Prairie, Kansas, U.S.A.
-![](google-maps-and-trends/google-map-usa-pretty-prairie.png)
-
-Pretty Prairie downtown
-![](google-maps-and-trends/pretty-prairie-downtown.jpg)
-
-Pretty Prairie is a very quiet place, except for every July when Pretty Prairie hosts the world famous 
-[Pretty Prairie Rodeo](http://www.pprodeo.com) (the largest night rodeo in Kansas).
-
-Google Trends search interest graph showing increased interest every July for phrase ["Pretty Prairie" (region: worldwide)](http://www.google.com/trends/explore#q=pretty%20prairie) 
-![](google-maps-and-trends/google-trends-pretty-prairie-worldwide.png)
-
 ## Proposition
 Members of the Pretty Prairie United Methodist Church, a congregation of around 65 regular attendees, contacted me about designing a new website and marketing plan for the church. 
 
