@@ -48,6 +48,12 @@ And others...
 
 ### [The Bible App for Kids](https://www.bible.com/kids)
 
+Made in partnership with [OneHope](http://onehope.net/feature/bibleappforkids)
+
+#### Purpose
+
+#### Platforms
+
 ## Corporate Structure 
 
 Non-profit
