@@ -1,15 +1,13 @@
 # About Pretty Prairie
 
-[Pretty Prairie](http://en.wikipedia.org/wiki/Pretty_Prairie,_Kansas) is in central Kansas...
-
-Pretty Prairie, Kansas, U.S.A.
+[Pretty Prairie](http://en.wikipedia.org/wiki/Pretty_Prairie,_Kansas) (population 688) is in central Kansas, U.S.A....
 ![](google-maps-and-trends/google-map-usa-pretty-prairie.png)
 
 ...southwest of Kansas City and due west of Wichita...
 ![](google-maps-and-trends/google-map-pretty-prairie-kansas.png)
 
-... north of Kingman (population), south of Hutchinson (population), and near the Amish community of Yoder
-![](google-maps-and-trends/google-map-pretty-prairie-wichita.png)
+... north of [Kingman](http://en.wikipedia.org/wiki/Kingman,_Kansas) (population 3,177), south of [Hutchinson](http://en.wikipedia.org/wiki/Hutchinson,_Kansas) (population 42,080), and near the [Amish](http://en.wikipedia.org/wiki/Amish) community of [Yoder](http://en.wikipedia.org/wiki/Yoder,_Kansas) (population 194)
+![](google-maps-and-trends/google-map-pretty-prairie-wichita.png) 
 
 Pretty Prairie downtown
 ![](google-maps-and-trends/pretty-prairie-downtown.jpg)
@@ -19,6 +17,14 @@ Pretty Prairie is a very quiet place, except for every July when Pretty Prairie 
 
 Google Trends search interest graph showing increased interest every July for phrase ["Pretty Prairie" (region: worldwide)](http://www.google.com/trends/explore#q=pretty%20prairie) 
 ![](google-maps-and-trends/google-trends-pretty-prairie-worldwide.png)
+
+Pretty Prairie has...
+* A school system
+* A post office
+* A city office
+* 4 churches
+* A gas station
+* A nursing home
 
 ### Nielson Company Demographic Info
 
