@@ -17,26 +17,6 @@ Mobile leap-frogging desktop
 ## Competitor Idea Maze
 The competition (not who you might think)
 
-## Google Trends Graph for Phrases "mobile" Versus "desktop"
-
-Google Trends graph for phrases ["mobile" versus "desktop" (region: worldwide)](http://www.google.com/trends/explore#q=mobile%2C%20desktop&cmpt=q&tz=), from 2004 to 2015:
-
-![](google-maps-and-trends/google-trends-mobile-versus-desktop.png)
-
-## Google Trends Graph for Phrase "mobile" 
-
-Regional interest
-![](google-maps-and-trends/google-trends-mobile-regional-interest.png)
-
-1. Pakistan
-2. India
-3. Bangladesh
-4. Nepal
-5. Bhutan
-6. Uganda
-7. Papua New Guinea
-
-(None are [developed countries](http://en.wikipedia.org/wiki/The_World_Factbook_list_of_developed_countries), 
 
 ## Google Trends Graph for Phrases "iPhone" "app" "Android" "desktop" "website"
 
