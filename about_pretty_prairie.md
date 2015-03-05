@@ -1,5 +1,6 @@
 # About Pretty Prairie
 
+## Location
 [Pretty Prairie](http://en.wikipedia.org/wiki/Pretty_Prairie,_Kansas) (population 688) is in central Kansas, U.S.A....
 ![](google-maps-and-trends/google-map-usa-pretty-prairie.png)
 
@@ -9,22 +10,29 @@
 ... north of [Kingman](http://en.wikipedia.org/wiki/Kingman,_Kansas) (population 3,177), south of [Hutchinson](http://en.wikipedia.org/wiki/Hutchinson,_Kansas) (population 42,080), and near the [Amish](http://en.wikipedia.org/wiki/Amish) community of [Yoder](http://en.wikipedia.org/wiki/Yoder,_Kansas) (population 194)
 ![](google-maps-and-trends/google-map-pretty-prairie-wichita.png) 
 
+## Pretty Prairie Rodeo
+Pretty Prairie is a very quiet place..
+
 Pretty Prairie downtown
 ![](google-maps-and-trends/pretty-prairie-downtown.jpg)
 
-Pretty Prairie is a very quiet place, except for every July when Pretty Prairie hosts the world famous 
-[Pretty Prairie Rodeo](http://www.pprodeo.com) (the largest night rodeo in Kansas).
+...except for every July when Pretty Prairie hosts the world famous 
+[Pretty Prairie Rodeo](http://www.pprodeo.com) (the largest night rodeo in Kansas). 
 
 Google Trends search interest graph showing increased interest every July for phrase ["Pretty Prairie" (region: worldwide)](http://www.google.com/trends/explore#q=pretty%20prairie) 
 ![](google-maps-and-trends/google-trends-pretty-prairie-worldwide.png)
 
-Pretty Prairie has...
-* A school system
+## Pretty Prairie Institutions
+* A school system ([U.S.D. 311](http://www.usd311.com))
 * A post office
 * A city office
 * 4 churches
+* A nursing home ([Pretty Prairie Sunset Home](http://prairiesunsethome.org))
+* A bank
 * A gas station
-* A nursing home
+* A restaurant
+* A golf course
+* A food bank
 
 A number of Pretty Prairie residents work locally (farmers, teachers), or commute to other nearby cities for work (business people, machine operators, ect)
 
