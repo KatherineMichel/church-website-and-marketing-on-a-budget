@@ -18,6 +18,8 @@ The idea for reverse engineering came from this article:
 * Dwindling, predominantly older adult local population 
 * Four churches in close proximity
 
+### Whom Should the Church Reach?
+
 ### How Should the Church Reach Them?
 
 #### "How might we"
