@@ -26,6 +26,8 @@ Pretty Prairie has...
 * A gas station
 * A nursing home
 
+A number of Pretty Prairie residents work locally (farmers, teachers), or commute to other nearby cities for work (business people, machine operators, ect)
+
 ### Nielson Company Demographic Info
 
 Through the national United Methodist Church Communications Office, I obtained the most recent Nielson Company demographic info for the city of Pretty Prairie, Kansas. 
@@ -46,5 +48,6 @@ Pretty Prairie [Area Map](https://drive.google.com/file/d/0B02bpu7HZwJRaVp5dGNMO
 
 * Changing lifestyles (digital and philosophical reorganization)
 * Dwindling, predominantly older adult local population 
-* Four churches in close proximity
+* Price of gas/commuting
+* Wichita suburbs
 
