@@ -39,6 +39,8 @@ Regional interest
 6. Sweden
 7. Netherlands
 
+(All [developed countries](http://en.wikipedia.org/wiki/The_World_Factbook_list_of_developed_countries), predominantly [Christian](http://en.wikipedia.org/wiki/Religious_information_by_country))
+
 ## The Bible App Case Study
 
 [The Bible App Case Study](the_bible_app_case_study.md): How has a religious app achieved 100 million+ downloads, with popularity remaining steadily high?
