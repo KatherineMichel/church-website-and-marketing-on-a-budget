@@ -11,6 +11,12 @@ Helpful Resource: [Questions to Ask Before Starting User Research](http://www.gv
 * Dwindling, predominantly older adult local population 
 * Four churches in close proximity
 
+Pretty Prairie, in central Kansas, west of Wichita, north of Kingman, south of Hutchinson, near the Amish community of Yoder.
+
+![](google-maps-and-trends/google-map-pretty-prairie-kansas.png)
+
+![](google-maps-and-trends/google-map-pretty-prairie-wichita.png)
+
 ### Whom Should the Church Reach?
 
 ### How Should the Church Reach Them?
