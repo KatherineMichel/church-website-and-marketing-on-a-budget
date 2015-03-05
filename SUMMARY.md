@@ -15,9 +15,9 @@
    * [Research Sprint](research_sprint.md)
    * [Changing Global Landscape](changing_global_landscape.md)
    * [Case Studies](case_studies.md)
-        * [National United Methodist Church Case Study](national_united_methodist_church_case_study.md)
-        * [The Bible App Case Study](the_bible_app_case_study.md)
-        * [Upworthy Case Study](upworthy_case_study.md)
+       * [National United Methodist Church Case Study](national_united_methodist_church_case_study.md)
+       * [The Bible App Case Study](the_bible_app_case_study.md)
+       * [Upworthy Case Study](upworthy_case_study.md)
    * [Design Sprint](design_sprint.md)
    * [Prototype](prototype.md)
    * [User Testing](user_testing.md)
@@ -25,3 +25,4 @@
    * [Church Re-Imagined App](church_re-imagined_app.md)
    * [Advanced Marketing](advanced_marketing.md)
 * [About Pretty Prairie](about_pretty_prairie.md)
+
