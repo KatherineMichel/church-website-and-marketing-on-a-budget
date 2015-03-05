@@ -2,7 +2,7 @@
 
 Helpful Resource: [Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research) by Google Ventures.
 
-## Facilitation: Reverse Engineering
+## Facilitation: Reverse Engineering for Success
 
 The idea for reverse engineering came from this article:
 
@@ -11,12 +11,6 @@ The idea for reverse engineering came from this article:
 "To glorify God by sharing the love of God, the teachings of Jesus Christ and the power of the Holy Spirit within our community"
 
 ## What Does a Successful Pretty Prairie United Methodist Church Look Like?
-
-### The "Business" Problem
-
-* Changing lifestyles (digital and philosophical reorganization)
-* Dwindling, predominantly older adult local population 
-* Four churches in close proximity
 
 ### Whom Should the Church Reach?
 
