@@ -34,6 +34,7 @@ Google Trends search interest graph showing increased interest every July for ph
 * A golf course
 * A food bank
 
+## Work
 A number of Pretty Prairie residents work locally (farmers, teachers), or commute to other nearby cities for work (business people, machine operators, ect)
 
 ### Nielson Company Demographic Info
