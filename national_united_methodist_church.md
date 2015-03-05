@@ -23,6 +23,21 @@ Churches in general are struggling to stay relevant. This problem is not exclusi
 Google Trends graph for the phrases ["methodist" "catholic" "presbyterian" "baptist" (region: worldwide)](http://www.google.com/trends/explore#q=methodist%2C%20catholic%2C%20presbyterian%2C%20baptist&cmpt=q&tz=), from around 2004 to 2015: 
 ![](google-maps-and-trends/google-trends-methodist-catholic-presbyterian-baptist.png)
 
+
+## Google Trends Graph for Phrases "Jesus" and "bible"
+
+Google Trends graph for the phrases ["Jesus" (region: worldwide)](http://www.google.com/trends/explore#q=Jesus), from around 2004 to 2015: 
+![](google-maps-and-trends/google-trends-jesus.png)
+
+![](google-maps-and-trends/google-trends-jesus-regional-interest.png)
+
+Google Trends graph for the phrases ["bible" (region: worldwide)](http://www.google.com/trends/explore#q=Jesus), from around 2004 to 2015: 
+![](google-maps-and-trends/google-trends-jesus.png)
+
+![](google-maps-and-trends/google-trends-bible.png)
+
+![](google-maps-and-trends/google-trends-bible-regional-interest.png)
+
 ## Jesus and John Wesley, Social Pioneers
 
 Maybe the United Methodist Church need look no further than [social network](http://en.wikipedia.org/wiki/Social_network) pioneers Jesus and John Wesley for inspiration. 
