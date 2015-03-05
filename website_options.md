@@ -1,28 +1,5 @@
 # Website Options
 
-## Website Requirements
-The website would need to meet certain criteria to meet the needs of the church. 
-
-High level requirement:
-* Low cost
-* Responsive design
-
-High level preferable:
-* Beautiful appearance
-* Intuitive content management system
-* Ability to integrate website into larger marketing strategy (with implications)
-
-## Board Meeting
-
-I emailed preliminary research and mock ups to the church's Administrative Council before meeting. During the meeting, I answered their impromptu questions. A motion was made and approved that I choose the option that I felt was best. See web host option slides, mockups, and notes below. 
-
-Options Matrix slides
-<center>
-![](web-hosting-options/web-hosting-options-matrix-page-1.png)
-
-![](web-hosting-options/web-hosting-options-matrix-page-2.png)
-</center>
-
 ## Website Options Order of Priority
 
 The web options chosen all provided value for money, with the two associated with the United Methodist Church being given first priority.
