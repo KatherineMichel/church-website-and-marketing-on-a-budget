@@ -12,36 +12,40 @@ Fred Wilson ([@fredwilson](https://twitter.com/fredwilson)) famously wrote that 
 
 Though there is an "upper bound" to area population, as Balaji Srinivasan points out, "when cloud formations take physical shape, neither their scale nor duration has an upper bound." 
 
-Mobile leap-frogging desktop
-
 ## Competitor Idea Maze
 The competition (not who you might think)
 
-
 ## Google Trends Graph for Phrases "iPhone" "app" "Android" "desktop" "website"
 
-Google Trends graph for phrases ["iPhone" "app" "Android" "desktop" "website" (region: worldwide)](http://www.google.com/trends/explore#q=iPhone%2C%20app%2C%20Android%2C%20desktop%2C%20website&cmpt=q&tz=), from 2004 to 2015:
+Google Trends graph for phrases ["iPhone" "app" "Android" "desktop" "website" (region: worldwide)](http://www.google.com/trends/explore#q=iPhone%2C%20app%2C%20Android%2C%20desktop%2C%20website&cmpt=q&tz=), from 2004 to 2015. Words associated with mobile ("iPhone" "app" "Android") are up and to the right. Non-mobile words ("desktop" "website") are on the decline.
 
 ![](google-maps-and-trends/google-trends-iphone-app-android-desktop-website.png)
 
+## What the Church Can Learn from The Bible App and Upworthy 
+
+The church should not exactly aspire to copy The Bible App or to be like Upworthy. However, their success shows that there is still a market for religious and "uplifting" content.
+
+But with competitors such as these, the church may need to repackage its message and how the message is delivered if it is to realistically continue to compete for the public' attention. As software and mobile "eat the world," and are lifestyles are reorganized, the winning organizations are the ones that adapt best. 
+
+Possible reasons for missed opportunities
+* Lack of knowledge/foresight
+* Pre-existing assumptions
 
 
-## What the Church Can Learn from Google Trends, Upworthy, and The Bible App 
+
+
+
+
+
 
 There are both challenges and untapped opportunities. 
 
-gauge the effectiveness of traditional and modern religious methods amid changing lifestyles. Insight into tech trends and which channels could be the best to use to reach people locally, or perhaps even worldwide.
+gauge the effectiveness of traditional and modern religious methods. Insight into tech trends and which channels could be the best to use to reach people locally, or perhaps even worldwide.
 
-The church should not aspire to be exactly like Upworthy or to copy The Bible App. However, the success of Upworthy and The Bible App provides important clues about how the United Methodist Church can stay relevant. There is still a market for religious and "uplifting" content. However, the messenger that stays relevant is increasingly the one that adapts to changes in today's modern lifestyles. The church may need to repackage its message and how the message is delivered if it is to continue to compete for the public's attention. 
+http://en.wikipedia.org/wiki/List_of_countries_by_smartphone_penetration
 
-http://en.wikipedia.org/wiki/List_of_countries_by_number_of_mobile_phones_in_use
-http://en.wikipedia.org/wiki/Religions_by_country
-
-* mobile and apps are increasing in popularity. In some developing countries, a mobile phone may be the first and only "computer" people can afford, which is perhaps why many of the countries recording the highest levels of Google Trends search interest for [The Bible App](the_bible_app_case_study.md) are African countries. 
-
-Missed opportunities
-* Due to lack of knowledge/foresight
-* Pre-existing assumptions
+Mobile leap-frogging desktop
+ In some developing countries, a mobile phone may be the first and only "computer" people can afford, which is perhaps why many of the countries recording the highest levels of Google Trends search interest for [The Bible App](the_bible_app_case_study.md) are African countries. 
 
 * Changing lifestyles (digital and philosophical reorganization)
 
@@ -55,7 +59,7 @@ Power Laws
 * The Law of Accelerating Returns
 * Network Effect
 
-http://en.wikipedia.org/wiki/List_of_countries_by_smartphone_penetration
+
 
 
 
