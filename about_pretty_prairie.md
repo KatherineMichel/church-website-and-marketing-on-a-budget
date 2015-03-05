@@ -1,6 +1,6 @@
 # About Pretty Prairie
 
-Pretty Prairie is in central Kansas...
+[Pretty Prairie](http://en.wikipedia.org/wiki/Pretty_Prairie,_Kansas) is in central Kansas...
 
 Pretty Prairie, Kansas, U.S.A.
 ![](google-maps-and-trends/google-map-usa-pretty-prairie.png)
@@ -23,6 +23,8 @@ Google Trends search interest graph showing increased interest every July for ph
 ### Nielson Company Demographic Info
 
 Through the national United Methodist Church Communications Office, I obtained the most recent Nielson Company demographic info for the city of Pretty Prairie, Kansas. 
+
+Pretty Prairie has a population of 688
 
 Pretty Prairie [Area Map](https://drive.google.com/file/d/0B02bpu7HZwJRaVp5dGNMOUpYbU0/view?usp=sharing)
 
