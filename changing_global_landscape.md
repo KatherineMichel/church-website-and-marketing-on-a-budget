@@ -17,6 +17,7 @@ Though there is an "upper bound" to area population, as Balaji Srinivasan points
 * Moore's Law
 * The Law of Accelerating Returns
 * Network Effect
+* Disruption/incumbent
 
 ## Competitor Idea Maze
 Any entity vying for attention is a competitor. Any entity occupying high value real estate on a home screen, or search result is a competitor. Any entity achieving a viral campaign over yours is a competitor. 
