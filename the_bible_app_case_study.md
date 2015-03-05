@@ -21,6 +21,10 @@ Regional interest
 
 (Two [developed countries](http://en.wikipedia.org/wiki/The_World_Factbook_list_of_developed_countries) (South Africa and U.S.), most predominantly [Christian](http://en.wikipedia.org/wiki/Religious_information_by_country) with Nigeria and Singapore exceptions, all high on [number of mobile phones in use](http://en.wikipedia.org/wiki/List_of_countries_by_number_of_mobile_phones_in_use))
 
+## LifeChurch.tv "[Who We Are](http://www.lifechurch.tv/who-we-are)"
+
+"A church isn't a building—it's the people. We meet in locations around the United States and globally online." -LifeChurch.tv
+
 ## Products
 
 ### [The Bible App](https://www.bible.com/app)
@@ -69,8 +73,6 @@ http://www.lifechurch.tv/giving
 http://www.lifechurch.tv/digital-missions
 
 https://s3.amazonaws.com/lctv-site/downloads/giving/Giving-Financial-Statements-2014-Unaudited-Updated.pdf
-
-http://www.lifechurch.tv/who-we-are
 
 http://live.lifechurch.tv/
 
