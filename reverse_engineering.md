@@ -8,6 +8,7 @@ Helpful Resource: [Questions to Ask Before Starting User Research](http://www.gv
 
 ### The "Business" Problem
 
+* Changing lifestyles (digital and philosophical reorganization)
 * Dwindling, predominantly older adult local population 
 * Four churches in close proximity
 
