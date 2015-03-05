@@ -9,7 +9,7 @@
 
 
 
-See [New Marketing Strategy](new_marketing_strategy.md) for the finished result. 
+
 
 
 
