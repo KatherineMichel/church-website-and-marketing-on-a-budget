@@ -3,7 +3,7 @@
 * [GitHub README](README.md)
 * [Executive Summary](executive_summary.md)
 * [Project Management](project_management.md)
-* [Pretty Prairie United Methodist Church Re-Imagined](pretty_prairie_united_methodist_church_re-imagined.md)
+* [Part 1: Local Church Re-Imagined](local_church_re-imagined.md)
    * [Marketing As Is](marketing_as_is.md)
    * [Lightning Demos](lightning_demos.md)
    * [Website Options](website_options.md)
