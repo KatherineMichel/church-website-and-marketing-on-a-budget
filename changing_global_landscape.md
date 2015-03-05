@@ -35,6 +35,8 @@ Regional interest
 6. Uganda
 7. Papua New Guinea
 
+(None are [developed countries](http://en.wikipedia.org/wiki/The_World_Factbook_list_of_developed_countries), 
+
 ## Google Trends Graph for Phrases "app" Versus "website"
 
 Google Trends graph for phrases ["app" versus "website" (region: worldwide)](http://www.google.com/trends/explore#q=app%2C%20website&cmpt=q&tz=), from 2004 to 2015:
@@ -72,6 +74,8 @@ Power Laws
 * Moore's Law
 * The Law of Accelerating Returns
 * Network Effect
+
+http://en.wikipedia.org/wiki/List_of_countries_by_smartphone_penetration
 
 
 
