@@ -39,6 +39,8 @@ Down to 3 km or 1km (shown here)...
 Google Adwords targeting Pretty Prairie 
 ![](new-marketing-strategy/google-adwords-pretty-prairie-targeting.png)
 
+Google Adwords reach
+
 #### [Twitter Advertising](https://ads.twitter.com) (Pay)
 
 ### Research and Data Collection
