@@ -1,6 +1,6 @@
 # Upworthy Case Study
 
-[Upworthy Case Study](upworthy_case_study.md): Upworthy's rise as "the fastest-growing media site in history" (with a mission for social justice), and downfall.
+[Upworthy](http://www.upworthy.com)'s rise as "the fastest-growing media site in history" (with a mission for social good), and downfall.
 
 ## Google Trends Graph for Phrase "Upworthy"
 
@@ -19,17 +19,24 @@ Regional interest
 6. Sweden
 7. Netherlands
 
+(All [developed countries](http://en.wikipedia.org/wiki/The_World_Factbook_list_of_developed_countries), predominantly [Christian](http://en.wikipedia.org/wiki/Religious_information_by_country))
+
+
+
+
 
 
 ## The Competition (Not Who You Might Expect)
  
-Even as search interest in the United Methodist Church declined (see [Google Trends](google_trends.md)), in a short period of time during the past few years, a website with something of a mission for social justice called [Upworthy](http://www.upworthy.com) became "[the fastest-growing media site in history](http://www.fastcompany.com/3012649/how-upworthy-used-emotional-data-to-become-the-fastest-growing-media-site-of-all-time)," achieving growth that far surpassed that of its closest viral competitors: [Buzzfeed](http://www.buzzfeed.com), [Huffington Post](http://www.huffingtonpost.com), and [Business Insider](http://www.businessinsider.com). 
+In a short period of time during the past few years, a website with something of a mission for social justice called [Upworthy](http://www.upworthy.com) became "[the fastest-growing media site in history](http://www.fastcompany.com/3012649/how-upworthy-used-emotional-data-to-become-the-fastest-growing-media-site-of-all-time)," achieving growth that far surpassed that of its closest viral competitors: [Buzzfeed](http://www.buzzfeed.com), [Huffington Post](http://www.huffingtonpost.com), and [Business Insider](http://www.businessinsider.com). 
 
 <center>
 ![](upworthy/upworthy-quantcast.png)
 </center>
 Source: Upworthy/Quantcast
 <br><br>
+
+The viral competitors that Upworthy far surpassed in growth did not have the same social justice mission as Upworthy. 
 
 Upworthy is not affiliated with any church and as far as I know, does not intend to compete with churches. However, Upworthy became popular in part by bringing directly to the [Facebook](https://www.facebook.com/Upworthy) news feeds of potential church goers, some of the same type of uplifting content that in the past they would have come across in church through church mission. 
 <br><br>
@@ -44,8 +51,6 @@ Upworthy: "social media with a mission"
 </center>
 
 If, like me, you were a regular user of Facebook in the Fall of 2013, it's very likely that like me you came across Upworthy content regularly. [Facebook](https://www.facebook.com/Upworthy) has been Upworthy's main source of traffic. According to Upworthy, Facebook is the "king" of viral. When Facebook changed its algorithms at the end of 2013 (reportedly in response to Upworthy's content becoming disportionately popular in the Facebook news feed), Upworthy's traffic dramatically fell. 
-
-The success of Upworthy seems to make moot the argument that people are no longer interested in that which is uplifting. The viral competitors that Upworthy far surpassed in growth did not have the same social justice mission as Upworthy. 
 
 ### The Secret of Upworthy's Success
 

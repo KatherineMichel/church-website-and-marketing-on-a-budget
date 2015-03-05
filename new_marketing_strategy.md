@@ -18,6 +18,13 @@ Youth Leadership Initiative
 
 Involving various areas of the church
 
+### Traditional Outreach
+
+* Up to date marketing materials (newsletter, bulletin, email signature, ect.)
+* Word of mouth/visit/call/letter
+* Local newspaper (permanent ad and special occasions)
+* Ads and fliers in high traffic locations
+
 ### Contacting Inactive Members
 
 A good starting point for outreach would be for the church to contact church-goers of the past who are now inactive, and invite them back. 
@@ -58,10 +65,10 @@ Google is the most popular search engine in most countries, often followed by Ya
 
 And most important of all, encourage people to use the website! The search ranking of the website will rise naturally as a result.
 
-### Google+ and Google Rich Snippets
+## Google+ and Google Rich Snippets
 Verify that the Google map info is correct. If possible, link the website to the map. Consider creating a Google+ organization page, and/or Google rich snippet for support
 
-## Google Rich Snippet
+### Google Rich Snippet
 Example Google search: "Pretty Prairie United Methodist"
 ![](new-marketing-strategy/google-search-pretty-prairie-united.jpg)
 
@@ -78,47 +85,6 @@ In general, Facebook is considered to be the 'king' of social traffic, with othe
 Based on feedback, members of the church and surrounding community are more likely to be on Facebook than Twitter. So, we would first consider the option of reaching people via Facebook, by advertising the church's Facebook page to people located within Pretty Prairie and its surrounding area through free sharing and paid advertisements.
 
 Facebook page "Local Awareness" advertisement preview to "reach people near your business" 
-
-##Public at Large
-
-### Twitter Advertising
-
-Twitter has a Faith Playbook devoted to faith and religious ads can be occasionally found on Twitter. 
-
-Twitter for Faith Playbook
-![](new-marketing-strategy/twitter-for-faith-playbook.png)
-
-Members of the church are less likely to use Twitter. However, Twitter is an option to keep in mind, particularly for reaching the public at large. 
-
-### [Google Trends](google_trends.md) 
-
-A technique that I've learned from the tech analysts whom [I follow on Twitter](https://twitter.com/katimichel/following) is to use [Google Trends](http://www.google.com/trends) to gauge the level of interest in a word (or words), including by region. 
-
-Churches are struggling to stay relevant. The following case studies illustrate the challenges faced and reveal untapped opportunities. 
-
-Looking at search interest via Google Trends to gauge the effectiveness of traditional and modern religious methods amid changing lifestyles. Insight into tech trends and which channels could be the best to use to reach people locally, or perhaps even worldwide.
-
-# Takeaway
-
-## What the Church Can Learn from Google Trends, Upworthy, and The Bible App 
-
-The church should not aspire to be exactly like Upworthy or to copy The Bible App. However, the success of Upworthy and The Bible App provides important clues about how the United Methodist Church can stay relevant. There is still a market for religious and "uplifting" content. However, the messenger that stays relevant is increasingly the one that adapts to changes in today's modern lifestyles. The church may need to repackage its message and how the message is delivered if it is to continue to compete for the public's attention. 
-
-Important takeaways:
-* Advanced marketing techniques matter, which can be seen in [Upworthy Case Study](upworthy_case_study.md)
-* Based on [Google Trends](google_trends.md), desktop computers and websites are not exactly going away, but mobile and apps are increasing in popularity. In some developing countries, a mobile phone may be the first and only "computer" people can afford, which is perhaps why many of the countries recording the highest levels of [Google Trends](google_trends.md) search interest for [The Bible App](the_bible_app_case_study.md) are African countries. 
-
-### Jesus and John Wesley, Social Pioneers
-
-Maybe the United Methodist Church need look no further than [social network](http://en.wikipedia.org/wiki/Social_network) pioneers Jesus and John Wesley for inspiration. 
-
-Jesus grew a social network that consisted of family, friends, and followers, who spread his message by word of mouth until it became viral the world over. 
-
-[John Wesley](http://en.wikipedia.org/wiki/John_Wesley), founder of Methodism, spread the Methodist religion across the United States by creating a social network of followers who were organized into "Class Meetings" across geographic territories and ministered to by "Circuit Riders" (See http://en.wikipedia.org/wiki/Circuit_rider_(religious). 
-
-"I look upon all the world as my parish" -John Wesley
-
-
 
 ## New Sanctuary Equipment
 
