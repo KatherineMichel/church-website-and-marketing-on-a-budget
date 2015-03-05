@@ -18,11 +18,6 @@ Though there is an "upper bound" to area population, as Balaji Srinivasan points
 * The Law of Accelerating Returns
 * Network Effect
 
-### Untapped "Business" Opportunities
-* Decreasing importance of physical proximity
-* More channels (traditional and digital) than ever to reach people and more people than ever to reach
-* New and undiscovered ways to minister
-
 ## Competitor Idea Maze
 Any entity vying for attention is a competitor. Any entity occupying high value real estate on a home screen, or search result is a competitor. Any entity achieving a viral campaign over yours is a competitor. 
 
@@ -46,7 +41,14 @@ The success of The Bible App and Upworthy shows that there can be a thriving mar
 
 The church should not exactly aspire to copy The Bible App or to be like Upworthy. The church should use case studies such as these to extract knowledge that can be applied to reach a similar popularity, but within the context appropriate to the United Methodist Church. 
 
+### "Business" Opportunities
+On the bright side, there are some untapped opportunities:
+* Decreasing importance of physical proximity
+* More channels (traditional and digital) than ever to reach people and more people than ever to reach
+* New and undiscovered ways to minister
+
 ## Possible Reasons for Missed Opportunities 
+These opportunities could be easy to overlook though due to:
 * Lack of knowledge/foresight
 * Pre-existing assumptions
 
