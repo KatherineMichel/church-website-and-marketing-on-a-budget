@@ -50,22 +50,16 @@ Google Trends graph for phrases ["iPhone" "app" "Android" "desktop" "website" (r
 
 Balaji Srinivasan ([@balajis](https://twitter.com/balajis)) famously wrote... 
 
+Physical proximity limits outreach. Physical proximity is decreasing in importance. More people than ever can be reached all over the world via the internet in real time.  
+
 ### National Church Re-Imagined
 * Put equal emphasis on physical, digital, and partnership
 * Publicize to existing membership to help achieve a network effect
 * Optimize for psychology and sharing
-* Design to reach people anywhere, who are using different devices
-* Integrate new tech. This also creates new publicity angles
+* Design to reach people anywhere, who are using different devices (example. more mobile use in the developing world)
+* Integrate new methods of ministry. This also creates new publicity angles
 
 ### "Business" Opportunities
-
-* Decreasing importance of physical proximity
-* More channels (traditional and digital) than ever to reach people and more people than ever to reach
-* New and undiscovered ways to minister
-
-* The opportunity is to reach people anywhere in the world using desktop and/or mobile
-* Region/physical proximity- limit
-* Digital- no limit
 
 ### Missed Opportunities
 Opportunities could be overlooked due to:
