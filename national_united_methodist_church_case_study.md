@@ -26,6 +26,8 @@ Google Trends graph for the phrases ["united methodist" "catholic" "presbyterian
 
 ## Google Trends Graph for Phrases "Jesus" and "bible"
 
+![](google-maps-and-trends/google-trends-church-bible-jesus.png)
+
 Google Trends graph for the phrases ["Jesus" (region: worldwide)](http://www.google.com/trends/explore#q=Jesus), from around 2004 to 2015: 
 ![](google-maps-and-trends/google-trends-jesus.png)
 
