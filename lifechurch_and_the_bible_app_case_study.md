@@ -10,7 +10,7 @@ Google Trends graph for the phrase ["LifeChurch" (region: worldwide)](http://www
 Google Trends graph for the phrase ["Bible App" (region: worldwide)](http://www.google.com/trends/explore#q=Bible%20App), from 2004 to 2015. [The Bible App](https://www.bible.com/app) was founded in 2008. 
 
 
-![](google-maps-and-trends/google-trends-lifechurch-and-the-bible-app.png)
+![](google-maps-and-trends/google-trends-the-bible-app.png)
 
 
 
@@ -26,7 +26,7 @@ Google Trends graph for the phrase ["Bible App" (region: worldwide)](http://www.
 
 ### [The Bible App](https://www.bible.com/app)
 
-![](the-bible-app/the-bible-app-homepage.png)
+![](lifechurch-and-the-bible-app/the-bible-app-homepage.png)
 
 #### Purpose
 Use desktop and mobile devices to:
