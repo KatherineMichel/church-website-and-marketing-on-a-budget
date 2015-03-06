@@ -50,8 +50,15 @@ Google Trends graph for phrases ["iPhone" "app" "Android" "desktop" "website" (r
 
 Balaji Srinivasan ([@balajis](https://twitter.com/balajis)) famously wrote... 
 
+### National Church Re-Imagined
+* Put equal emphasis on physical, digital, and partnership
+* Publicize to existing membership to help achieve a network effect
+* Optimize for psychology and sharing
+* Design to reach people anywhere, who are using different devices
+* Integrate new tech. This also creates new publicity angles
+
 ### "Business" Opportunities
-On the bright side, there are some untapped opportunities:
+
 * Decreasing importance of physical proximity
 * More channels (traditional and digital) than ever to reach people and more people than ever to reach
 * New and undiscovered ways to minister
