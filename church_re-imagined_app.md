@@ -2,6 +2,28 @@
 
 See [The Bible App Case Study](the_bible_app_case_study.md) and [Prototype](prototype.md) for the inspiration for this business plan.
 
+## Users
+
+### Network Effect
+* Number of United Methodist members total: 12.1 million
+* Number of United Methodist congregations: 34,892
+
+### User Segmentation
+* Number of United Methodist members (U.S.): 7,725,039
+* Number of United Methodist members (rest of the world): 4.4 million
+
+### User Acquisition
+
+* World population: ~7 billion
+* Number of people with internet: 
+* Number of people with desktop computers:
+* Number of people with mobile phones:
+
+Breakdown of device by country
+Breakdown of popularity of Christianity/United Methodist by country
+
+http://en.wikipedia.org/wiki/United_Methodist_Church
+
 ## Corporate Structure
 
 Corporate Structure: Non-profit/B Corporation
@@ -32,9 +54,14 @@ Self-sustaining
 
 ## Large Scale Marketing/Public at Large
 
-* Network effect
+* Church channel
+* Traditional advertising
+* Dedicated campaign
+* Advance marketing tools
+* Social media advertising (Facebook/Twitter)
+* Partnerships
+
 * Facebook advertises a "potential reach" of 120,000,000 people
-* Twitter
 
 ### Twitter Advertising
 
@@ -44,21 +71,4 @@ Twitter for Faith Playbook
 ![](new-marketing-strategy/twitter-for-faith-playbook.png)
 
 Members of the church are less likely to use Twitter. However, Twitter is an option to keep in mind, particularly for reaching the public at large. 
-
-### Stats
-
-* Pretty Prairie population: 688
-* Pretty Prairie UMC congregation: 
-
-* World population: ~7 billion
-* Number of people with internet: 
-* Number of people with desktop computers:
-* Number of people with mobile phones:
-
-* Number of United Methodist congregations: 34,892
-* Number of United Methodist members total: 12.1 million
-* Number of United Methodist members (U.S.): 7,725,039
-* Number of United Methodist members (rest of the world): 4.4 million
-
-http://en.wikipedia.org/wiki/United_Methodist_Church
 
