@@ -28,9 +28,9 @@ Who to target and how
 * Number of people with desktop computers:
 * Number of people with mobile phones:
 
-Demographics, geography, usage patterns, motivation
-
-Accessibility, translation
+Demographics, geography, usage patterns, motivation (goals, needs, behaviors, preferences)
+Pain points, who will have difficulty using?
+Accessibility best practice, translation
 
 Breakdown of device by country (web versus mobile)
 Breakdown of popularity of Christianity/United Methodist by country
