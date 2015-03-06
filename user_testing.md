@@ -1,4 +1,5 @@
 # User Testing
+Test prototype with real current/prospective users
 
 ## User Recruiting Process
 
