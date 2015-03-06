@@ -1,8 +1,15 @@
 # Changing Global Landscape
 
 ## Disruption
-Remember the story of David and Goliath? Just like David killed Goliath by finding Goliath's achilles heel, as software eats the world, tech startups are finding the achilles heels of their less agile incumbent competitors. 
+Remember the story of David and Goliath? Just like David killed Goliath by finding Goliath's achilles heel, as software eats the world, tech startups are finding the achilles heels of their less agile incumbent competitors. The business opportunities exploited by newcomers are often opportunities overlooked by incumbents due to: 
 
+* Lack of knowledge/foresight
+* Pre-existing assumptions
+
+## Google Trends Graph for Phrases "United Methodist Church" "LifeChurch" "The Bible App" "Upworthy"
+
+Google Trends graph for phrases ["United Methodist Church" "LifeChurch" "The Bible App" "Upworthy" (region: worldwide)](http://www.google.com/trends/explore#q=United%20Methodist%20Church%2C%20LifeChurch%2C%20The%20Bible%20App%2C%20Upworthy&cmpt=q&tz=), from 2004 to 2015. The United Methodist Church, which is clearly on the decline, is still a "giant" compared to Upworthy at Upworthy's peak search volume. LifeChurch and The Bible App are miniscule in comparison, but on the rise and with a strong, modern network effect in place. 
+![](google-maps-and-trends/google-trends-united-methodist-church-lifechurch-the-bible-app-upworthy.png)
 ## What the Church Can Learn from The Bible App and Upworthy 
 
 ### The Good News
@@ -12,9 +19,6 @@ The success of The Bible App and Upworthy shows that there can be a thriving mar
 ### The Bad News
 
 It appears that in order to effectively compete, the United Methodist Church needs to repackage its message and how it is delivered.
-
-Google Trends graph for phrases ["United Methodist Church" "LifeChurch" "The Bible App" "Upworthy" (region: worldwide)](http://www.google.com/trends/explore#q=United%20Methodist%20Church%2C%20LifeChurch%2C%20The%20Bible%20App%2C%20Upworthy&cmpt=q&tz=), from 2004 to 2015. The United Methodist Church, which is clearly on the decline, is still a "giant" compared to Upworthy at Upworthy's peak search volume. LifeChurch and The Bible App are miniscule in comparison, but on the rise and with a strong, modern network effect in place. 
-![](google-maps-and-trends/google-trends-united-methodist-church-lifechurch-the-bible-app-upworthy.png)
 
 ### Competitor Idea Maze
 
@@ -60,11 +64,5 @@ Physical proximity limits outreach. Physical proximity is decreasing in importan
 * Integrate new methods of ministry. This also creates new publicity angles
 
 ### "Business" Opportunities
-
-### Missed Opportunities
-Opportunities could be overlooked due to:
-
-* Lack of knowledge/foresight
-* Pre-existing assumptions
 
 "I skate to where the puck is going to be, not where it has been." - Wayne Gretzky
