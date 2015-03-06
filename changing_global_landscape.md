@@ -4,6 +4,9 @@
 
 ## Competitor Idea Maze
 
+Google Trends graph for phrases ["united methodist church" "lifechurch" "the bible app" "upworthy" (region: worldwide)](), from 2004 to 2015.
+![](google-maps-and-trends/google-trends-united-methodist-church-lifechurch-the-bible-app-upworthy.png)
+
 ## Digital and Philosophical Reorganization
 
 ### [Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html)
