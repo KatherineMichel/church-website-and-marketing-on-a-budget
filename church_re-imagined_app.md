@@ -24,6 +24,8 @@ Breakdown of popularity of Christianity/United Methodist by country
 
 http://en.wikipedia.org/wiki/United_Methodist_Church
 
+## Solution Architecture
+
 ## Corporate Structure
 
 Corporate Structure: Non-profit/B Corporation
