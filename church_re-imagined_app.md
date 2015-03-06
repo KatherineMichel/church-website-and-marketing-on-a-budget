@@ -6,6 +6,8 @@ See [The Bible App Case Study](the_bible_app_case_study.md) and [Prototype](prot
 * What do people need?
 * Why would a user want this product/service?
 * What user need will the product satisfy?
+* How do users make decisions?
+* To what degree is product/service a compelling purchase?
 
 ## High Level Value Proposition
 
