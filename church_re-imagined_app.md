@@ -41,8 +41,14 @@ Breakdown of popularity of Christianity/United Methodist by country
 
 http://en.wikipedia.org/wiki/United_Methodist_Church
 
-## Solution Architecture
-Project Management- agile and iterative process
+### User Engagement and Reach
+How will user segments be reached?
+How much does it cost (time/resources) to reach new users?
+How easy is it to retain customers?
+Customer Relationship Management
+
+## Project Management
+Agile and iterative process
 
 ## Solution Architecture
 
