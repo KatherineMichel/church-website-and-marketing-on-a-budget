@@ -26,7 +26,7 @@ Google Trends graph for the phrase ["Bible App" (region: worldwide)](http://www.
 
 ### [The Bible App](https://www.bible.com/app)
 
-![](lifechurch-and-the-bible-app/the-bible-app-homepage.png)
+![](lifechurch-bible-app/the-bible-app-homepage.png)
 
 #### Purpose
 Use desktop and mobile devices to:
