@@ -80,6 +80,8 @@ http://www.google.com/trends/explore#q=church%20iphone%2C%20church%20app%2C%20ch
 
 http://www.google.com/trends/explore#q=united%20methodist%20church%2C%20lifechurch%2C%20the%20bible%20app%2C%20upworthy&cmpt=q&tz=
 
+http://www.google.com/trends/explore#q=united%20methodist%2C%20catholic%2C%20presbyterian%2C%20baptist&cmpt=q&tz=
+
 
 
  
