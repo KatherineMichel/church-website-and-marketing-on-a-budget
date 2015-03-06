@@ -20,9 +20,6 @@ Google Trends graph for phrases ["United Methodist Church" "LifeChurch" "The Bib
 
 The organizations that stay relevant, will not be the ones that are the most pious. They will be the ones that adapt the fastest, and the best, and achieve a network effect. 
 
-
-As software and mobile "eat the world," and our lifestyles are reorganized,
-
 The church should not exactly aspire to copy The Bible App or to be like Upworthy. The church should use case studies such as these to extract knowledge that can be applied to reach a similar popularity, but within the context appropriate to the United Methodist Church. 
 
 
@@ -43,19 +40,15 @@ Google Trends graph for phrases ["iPhone" "app" "Android" "desktop" "website" (r
 
 ![](google-maps-and-trends/google-trends-church-iphone-church-app-church-android-church-livestream.png)
 
-### [Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations)
-
-Balaji Srinivasan ([@balajis](https://twitter.com/balajis)) famously wrote... 
-
-
-
-## Device and Content
-
 ### Mobile Leap-Frogging Desktop in Developing Countries 
 
  In some developing countries, a mobile phone may be the first and only "computer" people can afford, which is perhaps why many of the countries recording the highest levels of Google Trends search interest for [The Bible App](the_bible_app_case_study.md) are African countries. 
  
 ## National Church Re-Imagined
+
+### [Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations)
+
+Balaji Srinivasan ([@balajis](https://twitter.com/balajis)) famously wrote... 
 
 ### "Business" Opportunities
 On the bright side, there are some untapped opportunities:
@@ -74,30 +67,3 @@ Opportunities could be overlooked due to:
 * Pre-existing assumptions
 
 "I skate to where the puck is going to be, not where it has been." - Wayne Gretzky
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
