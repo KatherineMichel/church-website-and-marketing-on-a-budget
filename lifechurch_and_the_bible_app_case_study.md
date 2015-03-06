@@ -39,9 +39,15 @@ Available on all major platforms and more:
 * Windows 8
 * HP/Palm
 
-![](lifechurch-bible-app/apple-store-itune-charts-free-apps-bible-app.png)
-
 And others...
+
+### Publicity Engine
+The Bible App is the top search result for "Bible App" in Google search and the Apple Store and Google Play Store (Android). The Bible App is also the #40 most popular free app in the Apple Store and the #125 most popular free app in the Google Play Store. 
+
+Furthermore, The Bible App leads users to LifeChurch
+
+Apple Store iTunes free apps: #40
+![](lifechurch-bible-app/apple-store-itune-charts-free-apps-bible-app.png)
 
 ### [The Bible App for Kids](https://www.bible.com/kids)
 
