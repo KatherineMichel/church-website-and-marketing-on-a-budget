@@ -4,27 +4,26 @@
 
 ## Digital and philosophical reorganization
 
-Marc Andreessen ([@pmarca](https://twitter.com/pmarca)) famously wrote that [Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html). 
+### [Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html)
 
-Balaji Srinivasan ([@balajis](https://twitter.com/balajis)) famously wrote that [Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations). 
+Marc Andreessen ([@pmarca](https://twitter.com/pmarca)) famously wrote.... 
+
+### Mobile is Eating the World
 
 Benedict Evans: Mobile is Eating the World
 http://www.slideshare.net/bge20/2013-05-bea
 
-## Power Laws
-* Moore's Law
-* The Law of Accelerating Returns
-* Network Effect
-* Disruption/incumbent
-
-## Competitor Idea Maze
-Any entity vying for attention is a competitor. Any entity occupying high value real estate on a home screen, or search result is a competitor. Any entity achieving a viral campaign over yours is a competitor. 
-
-## Google Trends Graph for Phrases "iPhone" "app" "Android" "desktop" "website"
+#### Google Trends Graph for Phrases "iPhone" "app" "Android" "desktop" "website"
 
 Google Trends graph for phrases ["iPhone" "app" "Android" "desktop" "website" (region: worldwide)](http://www.google.com/trends/explore#q=iPhone%2C%20app%2C%20Android%2C%20desktop%2C%20website&cmpt=q&tz=), from 2004 to 2015. Words associated with mobile ("iPhone" "app" "Android") are up and to the right. Non-mobile words ("desktop" "website") are on the decline.
 
 ![](google-maps-and-trends/google-trends-iphone-app-android-desktop-website.png)
+
+### [Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations)
+
+Balaji Srinivasan ([@balajis](https://twitter.com/balajis)) famously wrote... 
+
+## Competitor Idea Maze
 
 ## Device and Content
 
@@ -60,11 +59,17 @@ These opportunities could be easy to overlook though due to:
 
 
 
-
+## Power Laws
+* Moore's Law
+* The Law of Accelerating Returns
+* Network Effect
+* Disruption/incumbent
 
 http://en.wikipedia.org/wiki/List_of_countries_by_smartphone_penetration
 
 Insight into tech trends and which channels could be the best to use to reach people locally, or perhaps even worldwide.
+
+Any entity vying for attention is a competitor. Any entity occupying high value real estate on a home screen, or search result is a competitor. Any entity achieving a viral campaign over yours is a competitor. 
 
 
 
