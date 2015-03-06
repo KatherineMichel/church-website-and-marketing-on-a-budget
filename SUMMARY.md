@@ -16,7 +16,7 @@
    * [Changing Global Landscape](changing_global_landscape.md)
    * [Case Studies](case_studies.md)
        * [National United Methodist Church Case Study](national_united_methodist_church_case_study.md)
-       * [The Bible App Case Study](the_bible_app_case_study.md)
+       * [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_study.md)
        * [Upworthy Case Study](upworthy_case_study.md)
    * [Design Sprint](design_sprint.md)
    * [Prototype](prototype.md)
