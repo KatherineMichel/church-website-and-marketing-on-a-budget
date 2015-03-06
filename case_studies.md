@@ -20,7 +20,7 @@ Google Trends graph for the phrase ["United Methodist Church" (region: Wichita/H
 
 ## The Bible App Case Study
 
-[The Bible App Case Study](the_bible_app_case_study.md): How has a religious app achieved 100 million+ downloads, and become a publicity engine for its parent church? Analyzing a "business" model that has the potential to disrupt traditional religion.
+[The Bible App Case Study](the_bible_app_case_study.md): How has a religious app achieved [100 million+ downloads](http://www.businessinsider.com/youversion-bible-app-has-100-million-downloads-2013-7), and become a publicity engine for its parent church? Analyzing a "business" model that has the potential to disrupt traditional religion.
 
 ### Google Trends Graph for Phrases "LifeChurch" and "Bible App"
 
