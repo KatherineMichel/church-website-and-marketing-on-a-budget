@@ -5,6 +5,8 @@ See [The Bible App Case Study](the_bible_app_case_study.md) and [Prototype](prot
 ## Idea Maze
 Competitive analysis
 
+## High Level Value Proposition
+
 ## Users
 
 ### Primary Users
@@ -37,11 +39,20 @@ http://en.wikipedia.org/wiki/United_Methodist_Church
 
 ## Solution Architecture
 
+## Product Roadmap
+(History, goals, milestones, decisions, risks)
+
+## Key Stakeholders
+
 ## Corporate Structure
 
 Corporate Structure: Non-profit/B Corporation
 
 ## Business Model
+How will the organization make money?
+How will the product/service be priced?
+How much will it cost to produce/deliver product/service?
+How much will customer support cost?
 
 Donations/In-app purchases
 Self-sustaining
@@ -64,6 +75,7 @@ List of Business Models
 * Bitcoin- small payments
 * Crowd-funding
 * Use of Twitter Cards/mobile video
+* Incentives/partnerships
 
 [Deep Linking](http://en.wikipedia.org/wiki/Mobile_deep_linking)
 
