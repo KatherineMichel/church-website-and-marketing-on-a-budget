@@ -2,24 +2,35 @@
 
 See [The Bible App Case Study](the_bible_app_case_study.md) and [Prototype](prototype.md) for the inspiration for this business plan.
 
+## Idea Maze
+Competitive analysis
+
 ## Users
 
-### Network Effect
-* Number of United Methodist members total: 12.1 million
-* Number of United Methodist congregations: 34,892
+### Primary Users
 
 ### User Segmentation
 * Number of United Methodist members (U.S.): 7,725,039
 * Number of United Methodist members (rest of the world): 4.4 million
 
-### User Acquisition
+### Network Effect
+* Number of United Methodist members total: 12.1 million
+* Number of United Methodist congregations: 34,892
 
+Create publicity engine
+
+### User Acquisition
+Who to target and how
 * World population: ~7 billion
 * Number of people with internet: 
 * Number of people with desktop computers:
 * Number of people with mobile phones:
 
-Breakdown of device by country
+Demographics, geography, usage patterns, motivation
+
+Accessibility, translation
+
+Breakdown of device by country (web versus mobile)
 Breakdown of popularity of Christianity/United Methodist by country
 
 http://en.wikipedia.org/wiki/United_Methodist_Church
