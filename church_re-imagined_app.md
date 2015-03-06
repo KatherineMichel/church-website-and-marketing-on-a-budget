@@ -4,6 +4,8 @@ See [The Bible App Case Study](the_bible_app_case_study.md) and [Prototype](prot
 
 ## Idea Maze
 Competitive analysis
+Who are competitors? How does their product compare?
+What behavior/expectations by uses might be transferable? 
 
 ## High Level Value Proposition
 
@@ -22,7 +24,7 @@ Competitive analysis
 Create publicity engine
 
 ### User Acquisition
-Who to target and how
+Who to target and how (prioritization)
 * World population: ~7 billion
 * Number of people with internet: 
 * Number of people with desktop computers:
