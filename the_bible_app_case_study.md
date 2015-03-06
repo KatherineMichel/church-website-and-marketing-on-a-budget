@@ -7,30 +7,16 @@ How has a religious app achieved [100 million+ downloads](http://www.businessins
 Google Trends graph for the phrase ["LifeChurch" (region: worldwide)](http://www.google.com/trends/explore#q=LifeChurch), from 2004 to 2015. [LifeChurch](http://en.wikipedia.org/wiki/LifeChurch.tv) is The Bible App's parent organization. LifeChurch was founded in 1996, but began offering online broadcasts in 2006.
 ![](google-maps-and-trends/google-trends-lifechurch.png)
 
-Google Trends graph for the phrase ["Bible App" (region: worldwide)](http://www.google.com/trends/explore#q=Bible%20App), from 2004 to 2015. [The Bible App](https://www.bible.com/app) was founded in 2008.  
+Google Trends graph for the phrase ["Bible App" (region: worldwide)](http://www.google.com/trends/explore#q=Bible%20App), from 2004 to 2015. [The Bible App](https://www.bible.com/app) was founded in 2008. 
+
 
 ![](google-maps-and-trends/google-trends-the-bible-app.png)
 
 
 
 
-## Google Trends Graph for Phrase "Bible App"
 
-Google Trends graph for the phrase ["Bible App" (region: worldwide)](http://www.google.com/trends/explore#q=Bible%20App), from 2004 to 2015. [The Bible App](https://www.bible.com/app) was founded in 2008.  
 
-![](google-maps-and-trends/google-trends-the-bible-app.png)
-
-Regional interest
-
-1. Ghana
-2. Kenya
-3. Nigeria
-4. South Africa
-5. Philippines
-6. United States
-7. Singapore
-
-(Two [developed countries](http://en.wikipedia.org/wiki/The_World_Factbook_list_of_developed_countries) (South Africa and U.S.), most predominantly [Christian](http://en.wikipedia.org/wiki/Religious_information_by_country) with Nigeria and Singapore exceptions, all high on [number of mobile phones in use](http://en.wikipedia.org/wiki/List_of_countries_by_number_of_mobile_phones_in_use))
 
 ## LifeChurch.tv "[Who We Are](http://www.lifechurch.tv/who-we-are)"
 
