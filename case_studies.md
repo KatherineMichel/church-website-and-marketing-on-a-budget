@@ -22,7 +22,10 @@ Google Trends graph for the phrase ["United Methodist Church" (region: Wichita/H
 
 [The Bible App Case Study](the_bible_app_case_study.md): How has a religious app achieved 100 million+ downloads, with popularity remaining steadily high?
 
-### Google Trends Graph for Phrase "Bible App"
+### Google Trends Graph for Phrases "lifechurch" and "Bible App"
+
+LifeChurch, The Bible App's parent company
+![](google-maps-and-trends/google-trends-lifechurch.png)
 
 Google Trends graph for the phrase ["Bible App" (region: worldwide)](http://www.google.com/trends/explore#q=Bible%20App), from 2004 to 2015. [The Bible App](https://www.bible.com/app) was founded in 2008.  
 
