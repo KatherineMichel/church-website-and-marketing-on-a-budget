@@ -73,6 +73,8 @@ Any entity vying for attention is a competitor. Any entity occupying high value 
 Benedict Evans: Mobile is Eating the World
 http://www.slideshare.net/bge20/2013-05-bea
 
+http://www.google.com/trends/explore#q=church%2C%20bible%2C%20jesus&cmpt=q&tz=
+
 
 
  
