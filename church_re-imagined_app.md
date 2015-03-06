@@ -2,10 +2,16 @@
 
 See [The Bible App Case Study](the_bible_app_case_study.md) and [Prototype](prototype.md) for the inspiration for this business plan.
 
+## Motivation
+* What do people need?
+* Why would a user want this product/service?
+* What user need will the product satisfy?
+
 ## Idea Maze
 Competitive analysis
-Who are competitors? How does their product compare?
-What behavior/expectations by uses might be transferable? 
+* Who are competitors? 
+* How does their product compare?
+* What behavior/expectations by uses might be transferable? 
 
 ## High Level Value Proposition
 
