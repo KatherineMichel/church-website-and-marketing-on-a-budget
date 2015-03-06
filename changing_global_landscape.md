@@ -1,5 +1,7 @@
 # Changing Global Landscape
 
+## Maslow's Hierarchy of Human Needs
+
 ## Disruption
 Remember the story of David and Goliath? Just like David killed Goliath by finding Goliath's achilles heel, as software eats the world, tech startups are finding the achilles heels of their less agile incumbent competitors. The business opportunities exploited by newcomers are often opportunities overlooked by incumbents due to: 
 
