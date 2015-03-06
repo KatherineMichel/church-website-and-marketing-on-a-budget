@@ -63,5 +63,3 @@ Physical proximity limits outreach. Physical proximity is decreasing in importan
 * Optimize for psychology and sharing
 * Practice minimalism as mush as possible, but design to reach people who are using different devices (example. more mobile use in the developing world)
 * Integrate new methods of ministry. This also creates new publicity angles
-
-### "Business" Opportunities
