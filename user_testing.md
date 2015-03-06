@@ -24,6 +24,8 @@ Interview guide
 
 Picture of user study
 
+Qualitative and quantitative data
+
 Summary and analysis of findings
 
 Summary report
