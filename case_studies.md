@@ -20,7 +20,7 @@ Google Trends graph for the phrase ["United Methodist Church" (region: Wichita/H
 
 ## The Bible App Case Study
 
-[The Bible App Case Study](the_bible_app_case_study.md): How has a religious app achieved 100 million+ downloads, with popularity remaining steadily high?
+[The Bible App Case Study](the_bible_app_case_study.md): How has a religious app achieved 100 million+ downloads, and become a publicity engine for its parent church? Analyzing a "business" model that has the potential to disrupt traditional religion.
 
 ### Google Trends Graph for Phrases "LifeChurch" and "Bible App"
 
@@ -31,18 +31,6 @@ Google Trends graph for the phrase ["Bible App" (region: worldwide)](http://www.
 
 ![](google-maps-and-trends/google-trends-the-bible-app.png)
 
-Regional interest
-
-1. Ghana
-2. Kenya
-3. Nigeria
-4. South Africa
-5. Philippines
-6. United States
-7. Singapore
-
-(Two [developed countries](http://en.wikipedia.org/wiki/The_World_Factbook_list_of_developed_countries) (South Africa and U.S.), most predominantly [Christian](http://en.wikipedia.org/wiki/Religious_information_by_country) with Nigeria and Singapore exceptions, all high on [number of mobile phones in use](http://en.wikipedia.org/wiki/List_of_countries_by_number_of_mobile_phones_in_use))
-
 ## Upworthy Case Study
 
 [Upworthy Case Study](upworthy_case_study.md): [Upworthy](http://www.upworthy.com)'s rise as "the fastest-growing media site in history" (with a mission for social good), and downfall.
@@ -52,15 +40,3 @@ Regional interest
 Google Trends graph for the phrase ["Upworthy" (region: worldwide)](http://www.google.com/trends/explore#q=upworthy), from 2004 to 2015. [Upworthy](http://www.upworthy.com) was founded in 2012. 
 
 ![](google-maps-and-trends/google-trends-upworthy-worldwide.png)
-
-Regional interest
-
-1. Canada
-2. United States
-3. New Zealand
-4. Australia
-5. United Kingdom
-6. Sweden
-7. Netherlands
-
-(All [developed countries](http://en.wikipedia.org/wiki/The_World_Factbook_list_of_developed_countries), predominantly [Christian](http://en.wikipedia.org/wiki/Religious_information_by_country))
