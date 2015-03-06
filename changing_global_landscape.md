@@ -2,16 +2,15 @@
 
 "I skate to where the puck is going to be, not where it has been." - Wayne Gretzky
 
-## Digital and philosophical reorganization
+## Competitor Idea Maze
+
+## Digital and Philosophical Reorganization
 
 ### [Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html)
 
 Marc Andreessen ([@pmarca](https://twitter.com/pmarca)) famously wrote.... 
 
 ### Mobile is Eating the World
-
-Benedict Evans: Mobile is Eating the World
-http://www.slideshare.net/bge20/2013-05-bea
 
 #### Google Trends Graph for Phrases "iPhone" "app" "Android" "desktop" "website"
 
@@ -23,7 +22,7 @@ Google Trends graph for phrases ["iPhone" "app" "Android" "desktop" "website" (r
 
 Balaji Srinivasan ([@balajis](https://twitter.com/balajis)) famously wrote... 
 
-## Competitor Idea Maze
+
 
 ## Device and Content
 
@@ -70,6 +69,9 @@ http://en.wikipedia.org/wiki/List_of_countries_by_smartphone_penetration
 Insight into tech trends and which channels could be the best to use to reach people locally, or perhaps even worldwide.
 
 Any entity vying for attention is a competitor. Any entity occupying high value real estate on a home screen, or search result is a competitor. Any entity achieving a viral campaign over yours is a competitor. 
+
+Benedict Evans: Mobile is Eating the World
+http://www.slideshare.net/bge20/2013-05-bea
 
 
 
