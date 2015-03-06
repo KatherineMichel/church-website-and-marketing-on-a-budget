@@ -7,12 +7,6 @@ See [The Bible App Case Study](the_bible_app_case_study.md) and [Prototype](prot
 * Why would a user want this product/service?
 * What user need will the product satisfy?
 
-## Idea Maze
-Competitive analysis
-* Who are competitors? 
-* How does their product compare?
-* What behavior/expectations by uses might be transferable? 
-
 ## High Level Value Proposition
 
 ## Users
@@ -58,6 +52,12 @@ Project Management- agile and iterative process
 ## Corporate Structure
 
 Corporate Structure: Non-profit/B Corporation
+
+## Idea Maze
+Competitive analysis
+* Who are competitors? 
+* How does their product compare?
+* What behavior/expectations by uses might be transferable? 
 
 ## Business Model
 How will the organization make money?
