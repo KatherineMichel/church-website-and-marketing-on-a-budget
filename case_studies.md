@@ -29,7 +29,6 @@ Google Trends graph for the phrase ["Bible App" (region: worldwide)](http://www.
 ![](google-maps-and-trends/google-trends-the-bible-app.png)
 
 Regional interest
-![](google-maps-and-trends/google-trends-the-bible-app-regional-interest.png)
 
 1. Ghana
 2. Kenya
