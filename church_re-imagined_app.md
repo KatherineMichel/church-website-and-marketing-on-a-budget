@@ -40,6 +40,9 @@ Breakdown of popularity of Christianity/United Methodist by country
 http://en.wikipedia.org/wiki/United_Methodist_Church
 
 ## Solution Architecture
+Project Management- agile and iterative process
+
+## Solution Architecture
 
 ## Product Roadmap
 (History, goals, milestones, decisions, risks)
@@ -77,7 +80,7 @@ List of Business Models
 * Bitcoin- small payments
 * Crowd-funding
 * Use of Twitter Cards/mobile video
-* Incentives/partnerships
+* What deals/partnerships could be created within venture; how could this lead or success or increase incentives?
 
 [Deep Linking](http://en.wikipedia.org/wiki/Mobile_deep_linking)
 
