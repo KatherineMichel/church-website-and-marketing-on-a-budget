@@ -7,7 +7,7 @@ Remember the story of David and Goliath? Just like David killed Goliath by findi
 
 ### Competitor Idea Maze
 
-Google Trends graph for phrases ["United Methodist Church" "LifeChurch" "The Bible App" "Upworthy" (region: worldwide)](http://www.google.com/trends/explore#q=United%20Methodist%20Church%2C%20LifeChurch%2C%20The%20Bible%20App%2C%20Upworthy&cmpt=q&tz=), from 2004 to 2015.
+Google Trends graph for phrases ["United Methodist Church" "LifeChurch" "The Bible App" "Upworthy" (region: worldwide)](http://www.google.com/trends/explore#q=United%20Methodist%20Church%2C%20LifeChurch%2C%20The%20Bible%20App%2C%20Upworthy&cmpt=q&tz=), from 2004 to 2015. Clearly, the United Methodist Church is still a "giant" compared to Upworthy at its peak search volume. LifeChurch and The Bible App are miniscule in comparison, but on the rise and with a strong, modern network effect in place. 
 ![](google-maps-and-trends/google-trends-united-methodist-church-lifechurch-the-bible-app-upworthy.png)
 
 As software and mobile "eat the world," and our lifestyles are reorganized, the winning organizations will not be the ones that are the most pious, but simply the ones that adapt the fastest and the best.
