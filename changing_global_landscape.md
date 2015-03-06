@@ -8,7 +8,7 @@ Remember the story of David and Goliath? Just like David killed Goliath by findi
 
 ## Google Trends Graph for Phrases "United Methodist Church" "LifeChurch" "The Bible App" "Upworthy"
 
-Google Trends graph for phrases ["United Methodist Church" "LifeChurch" "The Bible App" "Upworthy" (region: worldwide)](http://www.google.com/trends/explore#q=United%20Methodist%20Church%2C%20LifeChurch%2C%20The%20Bible%20App%2C%20Upworthy&cmpt=q&tz=), from 2004 to 2015. The United Methodist Church, which is clearly on the decline, is still a "giant" compared to Upworthy at Upworthy's peak search volume. LifeChurch and The Bible App are miniscule in comparison, but on the rise and with a strong, modern network effect in place. 
+Google Trends graph for phrases ["United Methodist Church" "LifeChurch" "The Bible App" "Upworthy" (region: worldwide)](http://www.google.com/trends/explore#q=United%20Methodist%20Church%2C%20LifeChurch%2C%20The%20Bible%20App%2C%20Upworthy&cmpt=q&tz=), from 2004 to 2015. The United Methodist Church, which is clearly on the decline, is still a "giant" compared to Upworthy at Upworthy's peak search volume. LifeChurch and The Bible App are miniscule in comparison, but on the rise and with a strong, modern network effect in place of the sort that could disrupt traditional church. 
 ![](google-maps-and-trends/google-trends-united-methodist-church-lifechurch-the-bible-app-upworthy.png)
 ## What the Church Can Learn from The Bible App and Upworthy 
 
@@ -18,7 +18,7 @@ The success of The Bible App and Upworthy shows that there can be a thriving mar
 
 ### The Bad News
 
-It appears that in order to effectively compete, the United Methodist Church needs to repackage its message and how it is delivered.
+It appears that in order to effectively compete, the United Methodist Church needs to repackage its message and how it is delivered. The longer the church takes to do this, the harder it may be due to [Network Effect](http://en.wikipedia.org/wiki/Network_effect) and the [Law of Accelerating Returns](http://en.wikipedia.org/wiki/Accelerating_change). 
 
 ### Competitor Idea Maze
 
@@ -58,11 +58,10 @@ Physical proximity limits outreach. Physical proximity is decreasing in importan
 
 ### National Church Re-Imagined
 * Put equal emphasis on physical, digital, and partnership
+* Maintain a full-stack architecture anytime possible
 * Publicize to existing membership to help achieve a network effect
 * Optimize for psychology and sharing
-* Design to reach people anywhere, who are using different devices (example. more mobile use in the developing world)
+* Practice minimalism as mush as possible, but design to reach people who are using different devices (example. more mobile use in the developing world)
 * Integrate new methods of ministry. This also creates new publicity angles
 
 ### "Business" Opportunities
-
-"I skate to where the puck is going to be, not where it has been." - Wayne Gretzky
