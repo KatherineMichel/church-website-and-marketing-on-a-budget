@@ -2,6 +2,14 @@
 
 "I skate to where the puck is going to be, not where it has been." - Wayne Gretzky
 
+## What the Church Can Learn from The Bible App and Upworthy 
+
+As software and mobile "eat the world," and our lifestyles are reorganized, the winning organizations will not be the ones that are the most pious, but simply the ones that adapt the fastest and the best.
+
+The success of The Bible App and Upworthy shows that there can be a thriving market for religious and uplifting content. It appears that in order to effectively compete, the United Methodist Church needs to repackage its message and how it is delivered. 
+
+The church should not exactly aspire to copy The Bible App or to be like Upworthy. The church should use case studies such as these to extract knowledge that can be applied to reach a similar popularity, but within the context appropriate to the United Methodist Church. 
+
 ## Competitor Idea Maze
 
 Google Trends graph for phrases ["United Methodist Church" "LifeChurch" "The Bible App" "Upworthy" (region: worldwide)](http://www.google.com/trends/explore#q=United%20Methodist%20Church%2C%20LifeChurch%2C%20The%20Bible%20App%2C%20Upworthy&cmpt=q&tz=), from 2004 to 2015.
@@ -35,14 +43,6 @@ Balaji Srinivasan ([@balajis](https://twitter.com/balajis)) famously wrote...
 
  In some developing countries, a mobile phone may be the first and only "computer" people can afford, which is perhaps why many of the countries recording the highest levels of Google Trends search interest for [The Bible App](the_bible_app_case_study.md) are African countries. 
  
-## What the Church Can Learn from The Bible App and Upworthy 
-
-As software and mobile "eat the world," and our lifestyles are reorganized, the winning organizations will not be the ones that are the most pious, but simply the ones that adapt the fastest and the best.
-
-The success of The Bible App and Upworthy shows that there can be a thriving market for religious and uplifting content. It appears that in order to effectively compete, the United Methodist Church needs to repackage its message and how it is delivered. 
-
-The church should not exactly aspire to copy The Bible App or to be like Upworthy. The church should use case studies such as these to extract knowledge that can be applied to reach a similar popularity, but within the context appropriate to the United Methodist Church. 
-
 ### "Business" Opportunities
 On the bright side, there are some untapped opportunities:
 * Decreasing importance of physical proximity
@@ -63,25 +63,10 @@ These opportunities could be easy to overlook though due to:
 
 
 
-## Power Laws
-* Moore's Law
-* The Law of Accelerating Returns
-* Network Effect
-* Disruption/incumbent
 
-http://en.wikipedia.org/wiki/List_of_countries_by_smartphone_penetration
 
-Insight into tech trends and which channels could be the best to use to reach people locally, or perhaps even worldwide.
 
-Any entity vying for attention is a competitor. Any entity occupying high value real estate on a home screen, or search result is a competitor. Any entity achieving a viral campaign over yours is a competitor. 
 
-Benedict Evans: Mobile is Eating the World
-http://www.slideshare.net/bge20/2013-05-bea
-
-"We have met the enemy and he is us." Pogo
-http://www.google.com/trends/explore#q=church%2C%20bible%2C%20jesus&cmpt=q&tz=
-
-http://www.google.com/trends/explore#q=church%20iphone%2C%20church%20app%2C%20church%20android%2C%20church%20livestream&cmpt=q&tz=
 
 
 
