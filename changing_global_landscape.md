@@ -4,7 +4,7 @@
 
 ## Competitor Idea Maze
 
-Google Trends graph for phrases ["united methodist church" "lifechurch" "the bible app" "upworthy" (region: worldwide)](http://www.google.com/trends/explore#q=united%20methodist%20church%2C%20lifechurch%2C%20the%20bible%20app%2C%20upworthy&cmpt=q&tz=), from 2004 to 2015.
+Google Trends graph for phrases ["United Methodist Church" "LifeChurch" "The Bible App" "Upworthy" (region: worldwide)](http://www.google.com/trends/explore#q=United%20Methodist%20Church%2C%20LifeChurch%2C%20The%20Bible%20App%2C%20Upworthy&cmpt=q&tz=), from 2004 to 2015.
 ![](google-maps-and-trends/google-trends-united-methodist-church-lifechurch-the-bible-app-upworthy.png)
 
 ## Digital and Philosophical Reorganization
