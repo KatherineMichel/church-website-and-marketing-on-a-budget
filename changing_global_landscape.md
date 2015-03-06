@@ -21,6 +21,8 @@ Google Trends graph for phrases ["iPhone" "app" "Android" "desktop" "website" (r
 
 ![](google-maps-and-trends/google-trends-iphone-app-android-desktop-website.png)
 
+![](google-maps-and-trends/google-trends-church-iphone-church-app-church-android-church-livestream.png)
+
 ### [Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations)
 
 Balaji Srinivasan ([@balajis](https://twitter.com/balajis)) famously wrote... 
