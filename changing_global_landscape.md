@@ -76,7 +76,7 @@ Any entity vying for attention is a competitor. Any entity occupying high value 
 Benedict Evans: Mobile is Eating the World
 http://www.slideshare.net/bge20/2013-05-bea
 
-"We hav met the enemy and he is us." Pogo
+"We have met the enemy and he is us." Pogo
 http://www.google.com/trends/explore#q=church%2C%20bible%2C%20jesus&cmpt=q&tz=
 
 http://www.google.com/trends/explore#q=church%20iphone%2C%20church%20app%2C%20church%20android%2C%20church%20livestream&cmpt=q&tz=
