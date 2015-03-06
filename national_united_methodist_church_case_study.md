@@ -20,8 +20,8 @@ Google Trends graph for the phrase ["United Methodist Church" (region: Wichita/H
 
 Churches in general are struggling to stay relevant. This problem is not exclusive to the United Methodist Church. 
 
-Google Trends graph for the phrases ["united methodist" "catholic" "presbyterian" "baptist" (region: worldwide)]( ), from around 2004 to 2015: 
-![](google-maps-and-trends/google-trends-methodist-catholic-presbyterian-baptist.png)
+Google Trends graph for the phrases ["united methodist" "catholic" "presbyterian" "baptist" (region: worldwide)](http://www.google.com/trends/explore#q=united%20methodist%2C%20catholic%2C%20presbyterian%2C%20baptist&cmpt=q&tz=), from around 2004 to 2015: 
+![](google-maps-and-trends/google-trends-united-methodist-catholic-presbyterian-baptist.png)
 
 
 ## Google Trends Graph for Phrases "Jesus" and "bible"
