@@ -1,4 +1,4 @@
-# The Bible App Case Study
+# LifeChurch and The Bible App Case Study
 
 How has a religious app achieved [100 million+ downloads](http://www.businessinsider.com/youversion-bible-app-has-100-million-downloads-2013-7), and become a publicity engine for its parent church? Analyzing a "business" model that has the potential to disrupt traditional religion.
 
