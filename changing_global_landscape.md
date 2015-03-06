@@ -5,14 +5,23 @@ Remember the story of David and Goliath? Just like David killed Goliath by findi
 
 ## What the Church Can Learn from The Bible App and Upworthy 
 
-### Competitor Idea Maze
+### The Good News
+
+The success of The Bible App and Upworthy shows that there can be a thriving market for religious and uplifting content. 
+
+### The Bad News
+
+It appears that in order to effectively compete, the United Methodist Church needs to repackage its message and how it is delivered.
 
 Google Trends graph for phrases ["United Methodist Church" "LifeChurch" "The Bible App" "Upworthy" (region: worldwide)](http://www.google.com/trends/explore#q=United%20Methodist%20Church%2C%20LifeChurch%2C%20The%20Bible%20App%2C%20Upworthy&cmpt=q&tz=), from 2004 to 2015. The United Methodist Church, which is clearly on the decline, is still a "giant" compared to Upworthy at Upworthy's peak search volume. LifeChurch and The Bible App are miniscule in comparison, but on the rise and with a strong, modern network effect in place. 
 ![](google-maps-and-trends/google-trends-united-methodist-church-lifechurch-the-bible-app-upworthy.png)
 
-As software and mobile "eat the world," and our lifestyles are reorganized, the winning organizations will not be the ones that are the most pious, but simply the ones that adapt the fastest and the best.
+### Competitor Idea Maze
 
-The success of The Bible App and Upworthy shows that there can be a thriving market for religious and uplifting content. It appears that in order to effectively compete, the United Methodist Church needs to repackage its message and how it is delivered. 
+The organizations that stay relevant, will not be the ones that are the most pious. They will be the ones that adapt the fastest, and the best, and achieve a network effect. 
+
+
+As software and mobile "eat the world," and our lifestyles are reorganized,
 
 The church should not exactly aspire to copy The Bible App or to be like Upworthy. The church should use case studies such as these to extract knowledge that can be applied to reach a similar popularity, but within the context appropriate to the United Methodist Church. 
 
