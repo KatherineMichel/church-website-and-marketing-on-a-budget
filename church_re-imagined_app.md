@@ -5,6 +5,8 @@ See [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_
 ## High Level Value Proposition
 
 ## Users
+* For whom are we creating value?
+* Who are our most important customers?
 
 ### Motivation
 * What do people need?
@@ -52,10 +54,10 @@ Corporate Structure: Non-profit/B Corporation
 * Key activities
 
 ## Business Model
-How will the organization make money?
-How will the product/service be priced?
-How much will it cost to produce/deliver product/service?
-How much will customer support cost?
+* How will the organization make money?
+* How will the product/service be priced?
+* How much will it cost to produce/deliver product/service?
+* How much will customer support cost?
 
 Donations/In-app purchases
 Self-sustaining
@@ -72,6 +74,17 @@ Self-sustaining
 * Donated resources
 
 ## Pitch Slide Deck
+
+
+
+Demographics, geography, usage patterns, motivation (goals, needs, behaviors, preferences)
+Pain points, who will have difficulty using?
+Accessibility best practice, translation
+
+Breakdown of device by country (web versus mobile)
+Breakdown of popularity of Christianity/United Methodist by country
+
+http://en.wikipedia.org/wiki/United_Methodist_Church
 
 
 
