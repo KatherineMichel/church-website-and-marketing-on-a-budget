@@ -14,6 +14,8 @@ See [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_
 * To what degree is product/service a compelling purchase?
 
 ### Primary Users
+For whom are we creating value?
+Who are our most important customers?
 
 ### User Segmentation
 * Number of United Methodist members (U.S.): 7,725,039
@@ -72,8 +74,8 @@ Corporate Structure: Non-profit/B Corporation
 ## Key Stakeholders
 * Key partners
 * Key suppliers
-* Key Resources
-* Key Activities
+* Key resources (physical, intellectual (brand, patents, copyrights, data), human, financial)
+* Key activities
 
 ## Business Model
 How will the organization make money?
