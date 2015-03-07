@@ -16,19 +16,17 @@ Google Trends graph for the phrase ["Bible App" (region: worldwide)](http://www.
 
 ![](google-maps-and-trends/google-trends-the-bible-app.png)
 
-## Products
-
-### [The Bible App](https://www.bible.com/app)
+## [The Bible App](https://www.bible.com/app)
 
 ![](lifechurch-bible-app/the-bible-app-homepage.png)
 
-#### Purpose
+### Purpose
 Use desktop and mobile devices to:
 * Read the Bible
 * Share Bible verses on social networks
 * Bookmark favorite passages
 
-#### Platforms
+### Platforms
 Available on all major platforms and more: 
 * iPhone/iPad
 * Android
@@ -41,14 +39,6 @@ Available on all major platforms and more:
 
 And others...
 
-### Publicity Engine
-The Bible App is the top search result for "Bible App" in Google search and the Apple Store and Google Play Store (Android). The Bible App is also the #40 most popular free app in the Apple Store and the #125 most popular free app in the Google Play Store. 
-
-Furthermore, The Bible App leads users to LifeChurch
-
-Apple Store iTunes free apps: #40
-![](lifechurch-bible-app/apple-store-itune-charts-free-apps-bible-app.png)
-
 ### [The Bible App for Kids](https://www.bible.com/kids)
 
 Made in partnership with [OneHope](http://onehope.net/feature/bibleappforkids)
@@ -56,6 +46,17 @@ Made in partnership with [OneHope](http://onehope.net/feature/bibleappforkids)
 #### Purpose
 
 #### Platforms
+
+### Publicity Engine
+
+The Bible App is the top search result for "Bible App" in Google search and the Apple Store and Google Play Store (Android). The Bible App is also the #40 most popular free app in the Apple Store and the #125 most popular free app in the Google Play Store. 
+
+Furthermore, The Bible App leads users to LifeChurch
+
+Apple Store iTunes free apps: #40
+![](lifechurch-bible-app/apple-store-itune-charts-free-apps-bible-app.png)
+
+The Kid's Bible App is the top search result...
 
 ## Corporate Structure 
 
