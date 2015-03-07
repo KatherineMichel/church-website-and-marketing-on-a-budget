@@ -46,6 +46,8 @@ Google Trends graph for phrases ["iPhone" "app" "Android" "desktop" "website" (r
 
 ![](google-maps-and-trends/google-trends-iphone-app-android-desktop-website.png)
 
+http://www.google.com/trends/explore#q=church%20iPhone%2C%20church%20app%2C%20church%20Android%2C%20church%20livestream&cmpt=q&tz=
+
 ![](google-maps-and-trends/google-trends-church-iphone-church-app-church-android-church-livestream.png)
 
 ### Mobile Leap-Frogging Desktop in Developing Countries 
