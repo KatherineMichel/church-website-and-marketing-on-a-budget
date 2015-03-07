@@ -2,28 +2,37 @@
 
 See [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_study.md) and [Prototype](prototype.md) for the inspiration for this business plan.
 
-## Motivation
+## High Level Value Proposition
+
+### Network Effect
+* Number of United Methodist members total: 12.1 million
+* Number of United Methodist congregations: 34,892
+
+### Publicity Engine
+
+* Church channel
+* Traditional advertising
+* Dedicated campaign
+* Advance marketing tools
+* Social media advertising (Facebook/Twitter)
+* Partnerships
+
+* Facebook advertises a "potential reach" of 120,000,000 people
+
+## Users
+
+### Motivation
 * What do people need?
 * Why would a user want this product/service?
 * What user need will the product satisfy?
 * How do users make decisions?
 * To what degree is product/service a compelling purchase?
 
-## High Level Value Proposition
-
-## Users
-
 ### Primary Users
 
 ### User Segmentation
 * Number of United Methodist members (U.S.): 7,725,039
 * Number of United Methodist members (rest of the world): 4.4 million
-
-### Network Effect
-* Number of United Methodist members total: 12.1 million
-* Number of United Methodist congregations: 34,892
-
-Create publicity engine
 
 ### User Acquisition
 Who to target and how (prioritization)
@@ -42,10 +51,10 @@ Breakdown of popularity of Christianity/United Methodist by country
 http://en.wikipedia.org/wiki/United_Methodist_Church
 
 ### User Engagement and Reach (Funnel)
-How will user segments be reached?
-How much does it cost (time/resources) to reach new users?
-How easy is it to retain customers?
-Customer Relationship Management
+* How will user segments be reached?
+* How much does it cost (time/resources) to reach new users?
+* How easy is it to retain customers?
+* Customer Relationship Management
 
 ## Project Management
 Agile and iterative process
@@ -57,16 +66,14 @@ Tradeoffs/Quality
 (History, goals, milestones, decisions, risks)
 
 ## Key Stakeholders
+* Key partners
+* Key suppliers
+* Key Resources
+* Key Activities
 
 ## Corporate Structure
 
 Corporate Structure: Non-profit/B Corporation
-
-## Idea Maze
-Competitive analysis
-* Who are competitors? 
-* How does their product compare?
-* What behavior/expectations by uses might be transferable? 
 
 ## Business Model
 How will the organization make money?
@@ -90,6 +97,12 @@ List of Business Models
 
 ## Pitch Slide Deck
 
+## Idea Maze
+Competitive analysis
+* Who are competitors? 
+* How does their product compare?
+* What behavior/expectations by uses might be transferable? 
+* 
 ## Novel Approaches
 * Gamification
 * Bitcoin- small payments
@@ -98,15 +111,4 @@ List of Business Models
 * What deals/partnerships could be created within venture; how could this lead or success or increase incentives?
 
 [Deep Linking](http://en.wikipedia.org/wiki/Mobile_deep_linking)
-
-## Large Scale Marketing/Public at Large
-
-* Church channel
-* Traditional advertising
-* Dedicated campaign
-* Advance marketing tools
-* Social media advertising (Facebook/Twitter)
-* Partnerships
-
-* Facebook advertises a "potential reach" of 120,000,000 people
 
