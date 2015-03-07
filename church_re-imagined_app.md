@@ -34,13 +34,12 @@ Competitive analysis
 * How will the organization make money?
 * How will the product/service be priced?
 * How much will it cost to produce/deliver product/service?
+* How much does it cost (time/resources) to reach new users?
 * How much will customer support cost?
 
 ### Reach, User Engagement, Customer Relationship Management 
 * How will user segments be reached?
-* How much does it cost (time/resources) to reach new users?
 * How easy is it to retain customers?
-* Customer Relationship Management
 
 ## Funding
 Capital required
