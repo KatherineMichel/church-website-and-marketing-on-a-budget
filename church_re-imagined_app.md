@@ -29,9 +29,9 @@ See [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_
 ### Example Business Model
 * Donations (self-sustaining?)
 * Freemium (in-app purchases, ads)
-* Freemium for certain amount of time (ex. What's App was free for a year, then $.99, built for many devices)
+* Freemium for certain amount of time (ex. What's App was free for a year, then $.99, available on many devices, helped popularity)
 * Paid (may cause some users to be excluded)
-* Price varies based on device used (iPhone users tend to spend more) 
+* Price varies based on device used (iPhones more expensive/users tend to spend more) 
 
 ## Funding
 Capital required
