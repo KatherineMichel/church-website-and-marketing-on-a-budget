@@ -16,17 +16,17 @@ Google Trends graph for the phrase ["United Methodist Church" (region: Wichita/H
 
 ![](google-maps-and-trends/google-trends-united-methodist-church-wichita-hutchinson.png)
 
-## Google Trends Graph for Phrases "united methodist" "catholic" "presbyterian" "baptist"
+## Google Trends Graph for Phrases "United Methodist" "Catholic" "Presbyterian" "Baptist"
 
 Churches in general are struggling to stay relevant. This problem is not exclusive to the United Methodist Church. 
 
-Google Trends graph for the phrases ["united methodist" "catholic" "presbyterian" "baptist" (region: worldwide)](http://www.google.com/trends/explore#q=united%20methodist%2C%20catholic%2C%20presbyterian%2C%20baptist&cmpt=q&tz=), from around 2004 to 2015:
+Google Trends graph for the phrases ["United Methodist" "Catholic" "Presbyterian" "Baptist" (region: worldwide)](http://www.google.com/trends/explore#q=united%20methodist%2C%20catholic%2C%20presbyterian%2C%20baptist&cmpt=q&tz=), from around 2004 to 2015:
 ![](google-maps-and-trends/google-trends-united-methodist-catholic-presbyterian-baptist.png)
 
 
-## Google Trends Graph for Phrases "church" "bible" and "Jesus"  
+## Google Trends Graph for Phrases "church" "Bible" and "Jesus"  
 
-Google Trends graph for the phrases ["church" "bible" and "Jesus" (region: worldwide)](http://www.google.com/trends/explore#q=church%2C%20bible%2C%20Jesus&cmpt=q&tz=), from around 2004 to 2015. Wavering, but not exactly down and to the right. This graph does not reflect increasing world population/increasing access to search tools. 
+Google Trends graph for the phrases ["church" "Bible" and "Jesus" (region: worldwide)](http://www.google.com/trends/explore#q=church%2C%20Bible%2C%20Jesus&cmpt=q&tz=), from around 2004 to 2015. Wavering, but not exactly down and to the right. This graph does not reflect increasing world population/increasing access to search tools. 
 ![](google-maps-and-trends/google-trends-church-bible-jesus.png)
 
 ## Critique of [umc.org](www.umc.org) 
