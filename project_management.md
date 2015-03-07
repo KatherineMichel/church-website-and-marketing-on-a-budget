@@ -115,3 +115,8 @@ Options Matrix slides
 
 ![](web-hosting-options/web-hosting-options-matrix-page-2.png)
 </center>
+
+Agile and iterative process
+Tradeoffs/Quality
+## Product Roadmap
+(History, goals, milestones, decisions, risks)
