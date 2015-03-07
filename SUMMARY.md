@@ -25,5 +25,6 @@
    * [Church Re-Imagined App](church_re-imagined_app.md)
    * [Advanced Marketing](advanced_marketing.md)
    * Church Re-Imagined Project Management
+* Church Re-Imagined Project Management
 * [About Pretty Prairie](about_pretty_prairie.md)
 
