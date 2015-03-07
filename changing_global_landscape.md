@@ -1,6 +1,7 @@
 # Changing Global Landscape
 
 ## Maslow's Hierarchy of Human Needs
+A theory of human motivation
 ![](changing-global-landscape/maslows-hierarchy-of-human-needs.png)
 
 ## Disruption
