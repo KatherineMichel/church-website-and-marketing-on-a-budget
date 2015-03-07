@@ -24,16 +24,15 @@ See [Research Sprint](research_sprint.md) for more information about the Nurture
 The Facebook advertisement program defaults to $50 spend for 1 week, advertising to both genders, ages 18 to 65+.
 
 ## Publicity Engine
+* Ideally, self-sustaining
+* A variety of church members involved
+* Committee leaders involved
+* Potentially admin status for website/social media
 
-Self-sustaining
+### Youth Leadership Initiative
 
-Website easy to use
-
-Multiple Admin
-
-Youth Leadership Initiative
-
-Involving various areas of the church
+* Take photos
+* Help write blog posts
 
 ### Traditional Outreach
 
@@ -41,6 +40,10 @@ Involving various areas of the church
 * Word of mouth/visit/call/letter
 * Local newspaper (permanent ad and special occasions)
 * Ads and fliers in high traffic locations
+
+* Website
+* Facebook Page
+* Find-a-Church
 
 ### Contacting Inactive Members
 
@@ -70,11 +73,6 @@ The church purchased a 2015 wall calendar. The calendar would be hung on a hook 
 Members of the church would take stock of the skills of individual members. This skills inventory would be used to identify ways to optimize what the church has to offer the community. 
 
 Skills list
-
-#### Update
-* Website
-* Facebook Page
-* Find-a-Church
 
 ## Website SEO
 
