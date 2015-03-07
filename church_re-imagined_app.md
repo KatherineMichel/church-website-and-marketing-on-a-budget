@@ -23,7 +23,8 @@ See [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_
 * How much will customer support cost?
 
 ### Example Business Model
-* What's App inspired: Free for a year, then $.99
+* What's App inspired: Free for a year, then $.99 (built for many devices)
+* Price varies based on device used (iPhone users tend to spend more) 
 
 ## Funding
 Capital required
