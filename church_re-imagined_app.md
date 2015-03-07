@@ -86,7 +86,7 @@ How much will customer support cost?
 Donations/In-app purchases
 Self-sustaining
 
-List of Business Models
+[List of Web Business Models GitHub](https://gist.github.com/ndarville/4295324)
 
 [Business Model Canvas](http://www.businessmodelgeneration.com/downloads/business_model_canvas_poster.pdf)
 
