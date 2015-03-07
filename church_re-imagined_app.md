@@ -32,13 +32,39 @@ Capital required
 
 ## High Level Value Proposition
 
+### Users and Motivation
+* For whom are we creating value?
+* Who are our most important customers?
+
+* What do people need?
+* Why would a user want this product/service?
+* What user need will the product satisfy?
+* How do users make decisions?
+* To what degree is product/service a compelling purchase?
+
 ### Market Size
 * Number of United Methodist members total: 12.1 million
 * Number of United Methodist congregations: 34,892
 
-#### U.S. 
+### Primary Users
 
-#### Global
+#### Primary User Segmentation
+
+##### U.S.
+* Number of United Methodist members (U.S.): 7,725,039
+
+##### Global
+* Number of United Methodist members (rest of the world): 4.4 million
+
+### User Acquisition
+Who to target and how (prioritization)
+* World population: ~7 billion
+* Number of Christians
+* Number of people with internet: 
+* Number of people with desktop computers:
+* Number of people with mobile phones:
+
+### Product/Service Bundle by User Segment
 
 ## Competitive Analysis
 
