@@ -2,29 +2,14 @@
 
 See [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_study.md) and [Prototype](prototype.md) for the inspiration for this business plan.
 
-## High Level Value Proposition
+## Deal Structure
 
-### Corporate Structure
+### Corporate Structure Options
 
-Corporate Structure: Non-profit/B Corporation
+* Non-profit
+* B Corporation
 
-### Market Size
-* Number of United Methodist members total: 12.1 million
-* Number of United Methodist congregations: 34,892
-
-#### U.S. 
-
-#### Global
-
-## Idea Maze
-Competitive analysis
-* Who are competitors? 
-* How does their product compare?
-* What behavior/expectations by uses might be transferable? 
-
-
-
-## Key Stakeholders
+## Business Model Canvas
 * Key partners
 * Key suppliers
 * Key resources (physical, intellectual (brand, patents, copyrights, data), human, financial)
@@ -44,5 +29,26 @@ Capital required
 * Donated resources
 
 ## Pitch Slide Deck
+
+## High Level Value Proposition
+
+### Market Size
+* Number of United Methodist members total: 12.1 million
+* Number of United Methodist congregations: 34,892
+
+#### U.S. 
+
+#### Global
+
+## Competitive Analysis
+
+### Idea Maze
+* Who are competitors? 
+* How does their product compare?
+* What behavior/expectations by uses might be transferable? 
+
+
+
+
 
 
