@@ -4,11 +4,16 @@ See [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_
 
 ## High Level Value Proposition
 
-## Users
+### Market Size
+
+#### U.S. 
+
+#### Global
+
+## Users and Motivation
 * For whom are we creating value?
 * Who are our most important customers?
 
-### Motivation
 * What do people need?
 * Why would a user want this product/service?
 * What user need will the product satisfy?
@@ -20,21 +25,6 @@ Competitive analysis
 * Who are competitors? 
 * How does their product compare?
 * What behavior/expectations by uses might be transferable? 
-
-### Network Effect
-* Number of United Methodist members total: 12.1 million
-* Number of United Methodist congregations: 34,892
-
-### Publicity Engine
-
-* Church channel
-* Traditional advertising
-* Dedicated campaign
-* Advance marketing tools
-* Social media advertising (Facebook/Twitter)
-* Partnerships
-
-* Facebook advertises a "potential reach" of 120,000,000 people
 
 ### User Engagement and Reach (Funnel)
 * How will user segments be reached?
