@@ -3,7 +3,11 @@
 ## Disruption
 Remember the story of David and Goliath? Just like David killed Goliath by finding Goliath's achilles heel, as software eats the world, tech startups are finding the achilles heels of their less agile incumbent competitors. 
 
-In ths article [Surviving Disruption](https://hbr.org/2012/12/surviving-disruption), Max Wessel and Clayton Christensen explain how a company can disrupt itself in order to avoid being disrupted. 
+In ths article [Surviving Disruption](https://hbr.org/2012/12/surviving-disruption), Max Wessel and Clayton Christensen explain how a company can disrupt itself in order to avoid being disrupted:
+
+* Identify the strengths of your disrupter’s business model
+* Identify your own relative advantages
+* Evaluate the conditions that would help or hinder the disrupter from co-opting your current advantages in the future.
 
 ## Google Trends Graph for Phrases "United Methodist Church" "LifeChurch" "The Bible App" "Upworthy"
 
