@@ -29,7 +29,7 @@ Google Trends graph for the phrases ["united methodist" "catholic" "presbyterian
 Google Trends graph for the phrases ["church" "bible" and "Jesus" (region: worldwide)](http://www.google.com/trends/explore#q=church%2C%20bible%2C%20Jesus&cmpt=q&tz=), from around 2004 to 2015. Wavering, but not exactly down and to the right. This graph does not reflect increasing world population/increasing access to search tools. 
 ![](google-maps-and-trends/google-trends-church-bible-jesus.png)
 
-## Critique of umc.org 
+## Critique of [umc.org](www.umc.org) 
 
 ## Jesus and John Wesley, Social Pioneers
 
