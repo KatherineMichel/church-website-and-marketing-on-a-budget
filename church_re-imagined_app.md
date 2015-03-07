@@ -30,7 +30,7 @@ See [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_
 * Donations (self-sustaining?)
 * Freemium (in-app purchases, ads)
 * Freemium for certain amount of time (ex. What's App was free for a year, then $.99, built for many devices)
-* Paid
+* Paid (may cause some users to be excluded)
 * Price varies based on device used (iPhone users tend to spend more) 
 
 ## Funding
