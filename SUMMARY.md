@@ -25,5 +25,6 @@
    * [Church Re-Imagined App](church_re-imagined_app.md)
    * [Church Re-Imagined Project Management](church_re-imagined_project_management.md)
    * [Advanced Marketing](advanced_marketing.md)
+   * Users and Bundles
 * [About Pretty Prairie](about_pretty_prairie.md)
 
