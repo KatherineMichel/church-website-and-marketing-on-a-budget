@@ -4,21 +4,6 @@ See [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_
 
 ## High Level Value Proposition
 
-### Network Effect
-* Number of United Methodist members total: 12.1 million
-* Number of United Methodist congregations: 34,892
-
-### Publicity Engine
-
-* Church channel
-* Traditional advertising
-* Dedicated campaign
-* Advance marketing tools
-* Social media advertising (Facebook/Twitter)
-* Partnerships
-
-* Facebook advertises a "potential reach" of 120,000,000 people
-
 ## Users
 
 ### Motivation
@@ -50,30 +35,45 @@ Breakdown of popularity of Christianity/United Methodist by country
 
 http://en.wikipedia.org/wiki/United_Methodist_Church
 
+### Product/Service Bundle by User Segment
+
+## Idea Maze
+Competitive analysis
+* Who are competitors? 
+* How does their product compare?
+* What behavior/expectations by uses might be transferable? 
+
+### Network Effect
+* Number of United Methodist members total: 12.1 million
+* Number of United Methodist congregations: 34,892
+
+### Publicity Engine
+
+* Church channel
+* Traditional advertising
+* Dedicated campaign
+* Advance marketing tools
+* Social media advertising (Facebook/Twitter)
+* Partnerships
+
+* Facebook advertises a "potential reach" of 120,000,000 people
+
 ### User Engagement and Reach (Funnel)
 * How will user segments be reached?
 * How much does it cost (time/resources) to reach new users?
 * How easy is it to retain customers?
 * Customer Relationship Management
 
-## Project Management
-Agile and iterative process
-Tradeoffs/Quality
 
-## Solution Architecture
+## Corporate Structure
 
-## Product Roadmap
-(History, goals, milestones, decisions, risks)
+Corporate Structure: Non-profit/B Corporation
 
 ## Key Stakeholders
 * Key partners
 * Key suppliers
 * Key Resources
 * Key Activities
-
-## Corporate Structure
-
-Corporate Structure: Non-profit/B Corporation
 
 ## Business Model
 How will the organization make money?
@@ -97,9 +97,14 @@ List of Business Models
 
 ## Pitch Slide Deck
 
-## Idea Maze
-Competitive analysis
-* Who are competitors? 
-* How does their product compare?
-* What behavior/expectations by uses might be transferable? 
+## Project Management
+Agile and iterative process
+Tradeoffs/Quality
+
+## Solution Architecture
+
+## Product Roadmap
+(History, goals, milestones, decisions, risks)
+
+
 
