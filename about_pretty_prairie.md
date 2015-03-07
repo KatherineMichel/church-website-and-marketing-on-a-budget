@@ -1,8 +1,5 @@
 # About Pretty Prairie
 
-* Pretty Prairie population: 688
-* Pretty Prairie UMC congregation: 
-
 ## Location
 [Pretty Prairie](http://en.wikipedia.org/wiki/Pretty_Prairie,_Kansas) (population 688) is in central Kansas, U.S.A....
 ![](google-maps-and-trends/google-map-usa-pretty-prairie.png)
