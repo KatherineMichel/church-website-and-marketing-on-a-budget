@@ -16,10 +16,10 @@ Advanced marketing techniques matter, which can be seen in [Upworthy Case Study]
 * Partnerships
 
 * Facebook advertises a "potential reach" of 120,000,000 people
-* 
-### Digital Outreach
-
+* Funnel
 Pirate metrics
+
+### Digital Outreach
 
 #### Church Administered
 * Website
