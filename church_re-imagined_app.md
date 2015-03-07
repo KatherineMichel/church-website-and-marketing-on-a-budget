@@ -22,6 +22,9 @@ See [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_
 * How much does it cost (time/resources) to reach new users?
 * How much will customer support cost?
 
+### Example Business Model
+* What's App inspired: Free for a year, then $.99
+
 ## Funding
 Capital required
 
