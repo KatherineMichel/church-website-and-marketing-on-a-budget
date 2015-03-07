@@ -2,6 +2,10 @@
 
 Advanced marketing techniques matter, which can be seen in [Upworthy Case Study](upworthy_case_study.md)
 
+### Reach, User Engagement, Customer Relationship Management 
+* How will user segments be reached?
+* How easy is it to retain customers?
+
 ### Network Effect
 * Number of United Methodist members total: 12.1 million
 * Number of United Methodist congregations: 34,892
