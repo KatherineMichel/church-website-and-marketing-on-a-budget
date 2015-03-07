@@ -37,10 +37,6 @@ Competitive analysis
 * How much does it cost (time/resources) to reach new users?
 * How much will customer support cost?
 
-### Reach, User Engagement, Customer Relationship Management 
-* How will user segments be reached?
-* How easy is it to retain customers?
-
 ## Funding
 Capital required
 
