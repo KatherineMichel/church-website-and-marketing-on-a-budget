@@ -2,9 +2,9 @@
 
 How has a religious app achieved [100 million+ downloads](http://www.businessinsider.com/youversion-bible-app-has-100-million-downloads-2013-7), and become a publicity engine for its parent church? Analyzing a "business" model that has the potential to disrupt traditional religion.
 
-## "[Who We Are](http://www.lifechurch.tv/who-we-are)"
+# LifeChurch
 
-"A church isn't a building—it's the people. We meet in locations around the United States and globally online." -LifeChurch.tv
+"A church isn't a building—it's the people. We meet in locations around the United States and globally online." -[LifeChurch.tv](http://www.lifechurch.tv/who-we-are)
 
 ### Google Trends Graph for Phrases "LifeChurch" and "Bible App"
 
@@ -12,7 +12,6 @@ Google Trends graph for the phrase ["LifeChurch" (region: worldwide)](http://www
 ![](google-maps-and-trends/google-trends-lifechurch.png)
 
 Google Trends graph for the phrase ["Bible App" (region: worldwide)](http://www.google.com/trends/explore#q=Bible%20App), from 2004 to 2015. [The Bible App](https://www.bible.com/app) was founded in 2008. 
-
 
 ![](google-maps-and-trends/google-trends-the-bible-app.png)
 
@@ -58,11 +57,13 @@ Apple Store iTunes free apps: #40
 
 The Kid's Bible App is the top search result...
 
-## Corporate Structure 
+## LifeChurch Physical Locations
 
-Non-profit
+![](lifechurch-bible-app/lifechurch.tv-locations.png)
 
-## Business Model
+## Network Churches
+
+![](lifechurch-bible-app/networkchurches-homepage.png)
 
 
 
