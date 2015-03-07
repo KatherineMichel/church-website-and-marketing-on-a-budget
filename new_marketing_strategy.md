@@ -41,9 +41,13 @@ The Facebook advertisement program defaults to $50 spend for 1 week, advertising
 * Local newspaper (permanent ad and special occasions)
 * Ads and fliers in high traffic locations
 
-* Website
+* Website/blog
 * Facebook Page
+* Newsletter (electronic and mail)
 * Find-a-Church
+* Bulletin
+* Postcards
+* Email
 
 ### Contacting Inactive Members
 
