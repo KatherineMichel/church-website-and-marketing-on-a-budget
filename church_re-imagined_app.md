@@ -36,14 +36,15 @@ Competitive analysis
 * How much will it cost to produce/deliver product/service?
 * How much will customer support cost?
 
-### User Engagement and Reach (Funnel)
+### Reach, User Engagement, Customer Relationship Management 
 * How will user segments be reached?
 * How much does it cost (time/resources) to reach new users?
 * How easy is it to retain customers?
 * Customer Relationship Management
 
 ## Funding
-* Capital required
+Capital required
+
 * Seed money
 * Donated resources
 
