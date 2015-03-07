@@ -1,5 +1,15 @@
 # Users and Bundles
 
+## Users and Motivation
+* For whom are we creating value?
+* Who are our most important customers?
+
+* What do people need?
+* Why would a user want this product/service?
+* What user need will the product satisfy?
+* How do users make decisions?
+* To what degree is product/service a compelling purchase?
+
 ## Primary Users
 
 ## User Segmentation
