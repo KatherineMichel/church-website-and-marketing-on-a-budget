@@ -5,20 +5,12 @@ See [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_
 ## High Level Value Proposition
 
 ### Market Size
+* Number of United Methodist members total: 12.1 million
+* Number of United Methodist congregations: 34,892
 
 #### U.S. 
 
 #### Global
-
-## Users and Motivation
-* For whom are we creating value?
-* Who are our most important customers?
-
-* What do people need?
-* Why would a user want this product/service?
-* What user need will the product satisfy?
-* How do users make decisions?
-* To what degree is product/service a compelling purchase?
 
 ## Idea Maze
 Competitive analysis
