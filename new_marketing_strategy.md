@@ -115,6 +115,9 @@ Twitter for Faith Playbook
 
 Members of the church are less likely to use Twitter. However, Twitter is an option to keep in mind, particularly for reaching the public at large. 
 
+## Special Advertisements
+PP Rodeo Advertisement, local orgs
+
 ## New Sanctuary Equipment
 
 
