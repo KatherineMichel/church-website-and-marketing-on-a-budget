@@ -99,14 +99,5 @@ Self-sustaining
 
 ## Pitch Slide Deck
 
-## Project Management
-Agile and iterative process
-Tradeoffs/Quality
-
-## Solution Architecture
-
-## Product Roadmap
-(History, goals, milestones, decisions, risks)
-
 
 
