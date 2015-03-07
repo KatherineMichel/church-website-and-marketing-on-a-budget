@@ -9,7 +9,7 @@ See [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_
 * Non-profit
 * B Corporation
 
-## Business Model Canvas
+## [Business Model Canvas](http://www.businessmodelgeneration.com/downloads/business_model_canvas_poster.pdf)
 * Key partners
 * Key suppliers
 * Key resources (physical, intellectual (brand, patents, copyrights, data), human, financial)
@@ -22,9 +22,15 @@ See [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_
 * How much does it cost (time/resources) to reach new users?
 * How much will customer support cost?
 
+[List of Web Business Models GitHub](https://gist.github.com/ndarville/4295324)
+
+[Product Tier Selection](https://camo.githubusercontent.com/a4b7ee4a662786d0af4c1eacb9b8b7bdd9eb6e6d/687474703a2f2f692e696d6775722e636f6d2f7139594e4939542e706e67)
+
 ### Example Business Model
 * What's App inspired: Free for a year, then $.99 (built for many devices)
 * Price varies based on device used (iPhone users tend to spend more) 
+* In-app purchases
+* Donations (self-sustaining)
 
 ## Funding
 Capital required
