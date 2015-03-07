@@ -23,8 +23,8 @@
    * [User Testing](user_testing.md)
 * [Part 3: National Church Re-Imagined :)](national_united_methodist_church_re-imagined.md)
    * [Church Re-Imagined App](church_re-imagined_app.md)
-   * [Advanced Marketing](advanced_marketing.md)
    * Church Re-Imagined Project Management
+   * [Advanced Marketing](advanced_marketing.md)
 * Church Re-Imagined Project Management
 * [About Pretty Prairie](about_pretty_prairie.md)
 
