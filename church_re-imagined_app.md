@@ -38,6 +38,10 @@ Capital required
 * Seed money
 * Donated resources
 
+## Project Management
+
+## Solution Architecture
+
 ## Pitch Slide Deck
 
 ## High Level Value Proposition
