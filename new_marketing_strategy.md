@@ -71,6 +71,11 @@ Members of the church would take stock of the skills of individual members. This
 
 Skills list
 
+#### Update
+* Website
+* Facebook Page
+* Find-a-Church
+
 ## Website SEO
 
 ### Search Engine Optimization (SEO)
