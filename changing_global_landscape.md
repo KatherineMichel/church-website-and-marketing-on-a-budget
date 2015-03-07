@@ -74,11 +74,3 @@ http://www.google.com/trends/explore#q=church%20iPhone%2C%20church%20app%2C%20ch
 Balaji Srinivasan ([@balajis](https://twitter.com/balajis)) famously wrote... 
 
 Physical proximity limits outreach. Physical proximity is decreasing in importance. More people than ever can be reached all over the world via the internet in real time.  
-
-### National Church Re-Imagined
-* Put equal emphasis on physical, digital, and partnership
-* Maintain a full-stack architecture anytime possible
-* Publicize to existing membership to help achieve a network effect
-* Optimize for psychology and sharing
-* Practice minimalism as mush as possible, but design to reach people who are using different devices (example. more mobile use in the developing world)
-* Integrate new methods of ministry. This also creates new publicity angles
