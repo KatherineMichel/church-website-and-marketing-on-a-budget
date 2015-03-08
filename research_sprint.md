@@ -47,7 +47,7 @@ In the article [Surviving Disruption](https://hbr.org/2012/12/surviving-disrupti
 * Maintain a full-stack architecture anytime possible
 * Publicize to existing membership to help achieve a network effect
 * Optimize for psychology and sharing
-* Practice minimalism as mush as possible, but design to reach people who are using different devices (example. more mobile use in the developing world)
+* Practice minimalism as much as possible, but design to reach people who are using different devices (example. more mobile use in the developing world)
 * Integrate new methods of ministry. This also creates new publicity angles
 
 
