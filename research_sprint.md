@@ -7,20 +7,14 @@ Helpful Resource from Google Ventures: [Questions to Ask Before Starting User Re
 * Whom should the church reach?
 * How should the church reach them?
 
-### [Google Trends Graph for Phrases "United Methodist Church" "LifeChurch" "The Bible App" "Upworthy"](http://www.google.com/trends/explore#q=United%20Methodist%20Church%2C%20LifeChurch%2C%20The%20Bible%20App%2C%20Upworthy&cmpt=q&tz=) from 2004 to 2015
+### Idea Maze
+
+#### [Google Trends Graph for Phrases "United Methodist Church" "LifeChurch" "The Bible App" "Upworthy"](http://www.google.com/trends/explore#q=United%20Methodist%20Church%2C%20LifeChurch%2C%20The%20Bible%20App%2C%20Upworthy&cmpt=q&tz=) from 2004 to 2015
 
 The United Methodist Church, which is clearly of declining interest, is still a "giant" compared to Upworthy at Upworthy's peak search volume. LifeChurch and The Bible App are miniscule in comparison, but on the rise and with a strong, modern network effect in place of the sort that could disrupt traditional church.
 ![](google-maps-and-trends/google-trends-united-methodist-church-lifechurch-the-bible-app-upworthy.png)
 
-## Surviving Disruption
-
-In the article [Surviving Disruption](https://hbr.org/2012/12/surviving-disruption), Max Wessel and Clayton Christensen explain how a company can disrupt itself in order to avoid being disrupted:
-
-* Identify the strengths of your disrupter’s business model
-* Identify your own relative advantages
-* Evaluate the conditions that would help or hinder the disrupter from co-opting your current advantages in the future.
-
-### Global Digital and Philosophical Reorganization
+## Global Digital and Philosophical Reorganization
 
 ### [Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html)
 
@@ -40,6 +34,14 @@ http://www.google.com/trends/explore#q=church%20iPhone%2C%20church%20app%2C%20ch
 ## [Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations)
 
 Balaji Srinivasan ([@balajis](https://twitter.com/balajis)) famously wrote... 
+
+## Surviving Disruption
+
+In the article [Surviving Disruption](https://hbr.org/2012/12/surviving-disruption), Max Wessel and Clayton Christensen explain how a company can disrupt itself in order to avoid being disrupted:
+
+* Identify the strengths of your disrupter’s business model
+* Identify your own relative advantages
+* Evaluate the conditions that would help or hinder the disrupter from co-opting your current advantages in the future.
 
 ## National Church Re-Imagined
 
