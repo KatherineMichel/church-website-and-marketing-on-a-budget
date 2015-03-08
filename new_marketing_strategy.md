@@ -84,8 +84,9 @@ Skills list
 
 ### Tier 3 Outreach (Special Advertising)
 
-## Special Advertisements
-PP Rodeo Advertisement, local orgs
+#### Local Events and Organizations
+* Pretty Prairie Rodeo advertisement
+* Other local sponsorships
 
 #### Facebook Advertising (Paid)
 
@@ -104,7 +105,6 @@ The Facebook advertisement program defaults to $50 spend for 1 week, advertising
 Twitter has a Faith Playbook devoted to faith and religious ads can be occasionally found on Twitter. 
 
 Twitter for Faith Playbook
-![](new-marketing-strategy/twitter-for-faith-playbook.png)
 
 Members of the church are less likely to use Twitter. However, Twitter is an option to keep in mind, particularly for reaching the public at large. 
 
