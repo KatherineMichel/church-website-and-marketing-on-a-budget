@@ -27,12 +27,17 @@ Though the separation between our bodies is still best characterized by the geog
 
 Perhaps the single most important feature of these states of mind is the increasing divergence between our social and geographic neighbors, between the cloud formations of our heads and the physical communities surrounding our bodies. An infinity of subcultures outside the mainstream now blossoms on the Internet — vegans, body modifiers, CrossFitters, Wiccans, DIYers, Pinners, and support groups of all forms. Millions of people are finding their true peers in the cloud, a remedy for the isolation imposed by the anonymous apartment complex or the remote rural location."
 
-### United Methodist Church Scorecard
+### United Methodist Church Status Quo
 Software is eating the world: addressing this
 
 Mobile is eating the world: little activity
 
 Software is reorganizing the world: the theory of physical location no longer being important does not bode well for the United Methdist Church. 
+
+#### [Google Trends Graph for Phrases "United Methodist Church" "LifeChurch" "The Bible App" "Upworthy"](http://www.google.com/trends/explore#q=United%20Methodist%20Church%2C%20LifeChurch%2C%20The%20Bible%20App%2C%20Upworthy&cmpt=q&tz=) from 2004 to 2015
+
+The United Methodist Church, which is clearly of declining interest, is still a "giant" compared to Upworthy at Upworthy's peak search volume. LifeChurch and The Bible App are miniscule in comparison, but on the rise and with a strong, modern network effect in place of the sort that could disrupt traditional church.
+![](google-maps-and-trends/google-trends-united-methodist-church-lifechurch-the-bible-app-upworthy.png)
 
 #### Google Trends Graph for Phrases "iPhone" "app" "Android" "desktop" "website"
 
@@ -43,10 +48,6 @@ Google Trends graph for phrases ["iPhone" "app" "Android" "desktop" "website" (r
 Google Trends graph for phrases ["church iPhone" "church app" "church Android" "church desktop" "church website" (region: worldwide)](http://www.google.com/trends/explore#q=church%20iPhone%2C%20church%20app%2C%20church%20Android%2C%20church%20livestream&cmpt=q&tz=), from 2004 to 2015.
 ![](google-maps-and-trends/google-trends-church-iphone-church-app-church-android-church-livestream.png)
 
-#### [Google Trends Graph for Phrases "United Methodist Church" "LifeChurch" "The Bible App" "Upworthy"](http://www.google.com/trends/explore#q=United%20Methodist%20Church%2C%20LifeChurch%2C%20The%20Bible%20App%2C%20Upworthy&cmpt=q&tz=) from 2004 to 2015
-
-The United Methodist Church, which is clearly of declining interest, is still a "giant" compared to Upworthy at Upworthy's peak search volume. LifeChurch and The Bible App are miniscule in comparison, but on the rise and with a strong, modern network effect in place of the sort that could disrupt traditional church.
-![](google-maps-and-trends/google-trends-united-methodist-church-lifechurch-the-bible-app-upworthy.png)
 ## Surviving Disruption
 
 In the article [Surviving Disruption](https://hbr.org/2012/12/surviving-disruption), Max Wessel and Clayton Christensen explain how a company can disrupt itself in order to avoid being disrupted:
