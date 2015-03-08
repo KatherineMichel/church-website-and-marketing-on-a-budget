@@ -111,12 +111,12 @@ Verify that the Google map info is correct. If possible, link the website to the
 
 ### Google Rich Snippet
 Example Google search: "Pretty Prairie United Methodist"
-![](new-marketing-strategy/google-search-pretty-prairie-united.jpg)
+![](advanced-marketing/google-search-pretty-prairie-united.jpg)
 
 Example Google search result: "Pretty Prairie United Methodist"
-![](new-marketing-strategy/google-search-pretty-prairie-united-methodist.jpg)
+![](advanced-marketing/google-search-pretty-prairie-united-methodist.jpg)
 
 Correcting incorrect Google Map info
-![](new-marketing-strategy/google-pretty-prairie-united-methodist-church-report-a-problem.png)
+![](advanced-marketing/google-pretty-prairie-united-methodist-church-report-a-problem.png)
 
 
