@@ -26,6 +26,12 @@ Marc Andreessen: "Starting in 2007, with the iPhone, the smartphone comes out. T
 
 Balaji Srinivasan ([@balajis](https://twitter.com/balajis)) famously [wrote](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations)... 
 
+### United Methodist Church Scorecard
+Software is eating the world: addressing this
+
+Mobile is eating the world: little activity
+
+Software is reorganizing the world: the theory of physical location no longer being important does not bode well for the United Methdist Church. 
 
 #### Google Trends Graph for Phrases "iPhone" "app" "Android" "desktop" "website"
 
