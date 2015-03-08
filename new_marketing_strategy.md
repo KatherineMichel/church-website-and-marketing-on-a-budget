@@ -22,6 +22,7 @@ Members of the Nurture, Outreach, Witness (NOW) Committee would begin to collabo
 ### Tier 1 Outreach (Basic)
 Up to date marketing materials 
 * Website/blog
+* Website SEO/Google Rich Snippet
 * Facebook page
 * Newsletter (electronic and mail)
 * Find-a-Church
