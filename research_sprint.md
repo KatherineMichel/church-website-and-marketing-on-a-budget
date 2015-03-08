@@ -3,6 +3,9 @@
 Helpful Resource from Google Ventures: [Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)
 
 ## Reverse Engineering for Success
+* What does a successful national United Methodist Church look like?
+* Whom should the church reach?
+* How should the church reach them?
 
 ### [Google Trends Graph for Phrases "United Methodist Church" "LifeChurch" "The Bible App" "Upworthy"](http://www.google.com/trends/explore#q=United%20Methodist%20Church%2C%20LifeChurch%2C%20The%20Bible%20App%2C%20Upworthy&cmpt=q&tz=) from 2004 to 2015
 
@@ -39,12 +42,6 @@ http://www.google.com/trends/explore#q=church%20iPhone%2C%20church%20app%2C%20ch
 Balaji Srinivasan ([@balajis](https://twitter.com/balajis)) famously wrote... 
 
 ## National Church Re-Imagined
-
-### Questions to Answer
-
-* What does a successful national church look like?
-* Whom should the church reach?
-* How should the church reach them?
 
 
 
