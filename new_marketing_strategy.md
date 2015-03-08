@@ -116,6 +116,12 @@ Down to 3 km or 1km (shown here)...
 
 ![](new-marketing-strategy/facebook-page-advertisement-reach-1km.png)
 
+#### Google Adwords (Paid)
+Google Adwords targeting Pretty Prairie 
+![](new-marketing-strategy/google-adwords-pretty-prairie-targeting.png)
+
+Google Adwords reach
+
 ### Tier 4 Outreach (Public at Large)
 
 #### Twitter Advertising (Paid)
