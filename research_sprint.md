@@ -13,7 +13,7 @@ Helpful resource from Google Ventures: [Questions to Ask Before Starting User Re
 
 ### Software is Eating the World
 
-Marc Andreessen ([@pmarca](https://twitter.com/pmarca)) famously [wrote](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html).... 
+Marc Andreessen ([@pmarca](https://twitter.com/pmarca)) famously wrote in the article [Why Software Is Eating The World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html).... 
 
 ### Mobile is Eating the World
 
