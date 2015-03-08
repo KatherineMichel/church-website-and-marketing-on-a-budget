@@ -10,8 +10,6 @@ Create a prioritized list of tasks user is trying to accomplish ("user stories")
 
 # Advanced Marketing
 
-### Digital Outreach
-
 * Website
 * Facebook, Twitter, Pinterest, Instagram Profiles
 * Search Engine Optimization
@@ -23,30 +21,21 @@ Create a prioritized list of tasks user is trying to accomplish ("user stories")
 * Google AdWords
 * Twitter Advertising
 
+* MailChimp (email management)
+
+* Google Webmaster
+* Yahoo and Bing Webmaster
+* Google Analytics
+* Facebook Insights (analytics)
+* Twitter Analytics
+* Google AdSense (embedded advertising)
+
+* Facebook Audience Network (mobile advertising) (Pay)
 
 In general, Facebook is considered to be the 'king' of social traffic, with other networks such as Twitter, Instagram and Pinterest close behind.
 
 ### Research and Data Collection
 * [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home) (pay)
 * [Google Keyword Planner](https://support.google.com/adwords/answer/3114286?hl=en)
-
-#### Email Management
-
-* [MailChimp](http://mailchimp.com)
-
-#### Webmaster
-* [Google Webmaster](http://www.google.com/intl/en-US/webmasters)
-* [Yahoo and Bing Webmaster](http://www.bing.com/toolbox/webmaster)
-
-#### Analytics
-* [Google Analytics](http://www.google.com/analytics)
-* [Facebook Insights](https://www.facebook.com/help/336893449723054) (analytics)
-* [Twitter Analytics](https://analytics.twitter.com)
-
-#### Embedded Advertising
-* [Google AdSense](http://www.google.com/adsense)
-
-#### Mobile Advertising (Pay)
-* [Facebook Audience Network](https://www.facebook.com/business/news/audience-network) 
 
 
