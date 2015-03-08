@@ -1,57 +1,63 @@
 # New Marketing Strategy
-
 The new marketing strategy would incorporate both traditional and modern methods in order to fit with changing lifestyles, and to reach the most people possible, perhaps even beyond city boundaries. 
-
-## Pretty Prairie United Methodist Church Mission Statement
-
-"To glorify God by sharing the love of God, the teachings of Jesus Christ and the power of the Holy Spirit within our community"
-
-## What Does a Successful Pretty Prairie United Methodist Church Look Like?
-
-### Whom Should the Church Reach?
-
-### How Should the Church Reach Them?
 
 #### "How might we"
 
 Members of the Nurture, Outreach, Witness (NOW) Committee would begin to collaborate on a new church marketing plan. In preparation for their group work, I provided the NOW Committee with an example plan, a [Marketing Plan Worksheet](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/UMCOM_YOUR_MARKETING_PLAN_WORKSHEET.PDF), and a ["Tactics" List](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/STEP_4_IMPLEMENTATION_HOMEWORK.PDF) taken from the [United Methodist Communications](http://www.umcom.org) [Marketing Audit](http://www.umcom.org/learn/market-your-church-getting-started). 
 
-See [New Marketing Strategy](new_marketing_strategy.md) for the finished result. 
-See [Research Sprint](research_sprint.md) for more information about the Nurture Outreach Witness (NOW) Committee's involvement. 
+## Pretty Prairie United Methodist Church Mission Statement
+
+"To glorify God by sharing the love of God, the teachings of Jesus Christ and the power of the Holy Spirit within our community"
+
+## Questions to Ask: 
+
+### What Does a Successful Pretty Prairie United Methodist Church Look Like?
+
+### Whom Should the Church Reach?
+
+### How Should the Church Reach Them?
 
 ## Example Budget and Plan
 
-The Facebook advertisement program defaults to $50 spend for 1 week, advertising to both genders, ages 18 to 65+.
-
-## Publicity Engine
-* Ideally, self-sustaining
-* A variety of church members involved
-* Committee leaders involved
-* Potentially admin status for website/social media
-
-### Youth Leadership Initiative
-
-* Take photos
-* Help write blog posts
-
-### Traditional Outreach
-
-* Up to date marketing materials (newsletter, bulletin, email signature, ect.)
-* Word of mouth/visit/call/letter
-* Local newspaper (permanent ad and special occasions)
-* Ads and fliers in high traffic locations
-
+### Tier 1 Outreach (Basic)
+Up to date marketing materials 
 * Website/blog
 * Facebook Page
 * Newsletter (electronic and mail)
 * Find-a-Church
 * Bulletin
 * Postcards
-* Email
+* Email signature
+* Word of mouth
+
+### Tier 2 Outreach (Proactive)
+
+#### Publicity Engine
+* Ideally, self-sustaining
+* A variety of church members involved
+* Committee leaders involved
+* Potentially admin status for website/social media
+
+##### Youth Leadership Initiative
+
+* Take photos
+* Help write blog posts
+
+
+
+* Word of mouth/visit/call/letter
+* Local newspaper (permanent ad and special occasions)
+* Ads and fliers in high traffic locations
+
+#### Outreach Calendar
+The church purchased a 2015 wall calendar. The calendar is hung on a hook on the wall in a high traffic area of the church where it will not be overlooked. A pencil is nearby so that the calendar can be easily updated. The calendar can be removed from the wall and taken to meetings too.  
+![](new-marketing-strategy/outreach-calendar.jpg)
+
+#### Facebook Advertising (Free Sharing)
 
 ### Contacting Inactive Members
 
-A good starting point for outreach would be for the church to contact church-goers of the past who are now inactive, and invite them back. 
+Church members will contact hurch-goers of the past who are now inactive, and invite them back. 
 
 #### Updating Directory
 
@@ -67,16 +73,13 @@ Setting aside pre-existing assumptions, members of the church would go through t
 
 ![](new-marketing-strategy/telephone-book.jpg)
 
-### Outreach Calendar
-
-The church purchased a 2015 wall calendar. The calendar would be hung on a hook on the wall in a high traffic area of the church where it would not be forgotten. A pencil would be nearby so that the calendar could be easily updated. The calendar could be removed from the wall and taken to meetings too.  
-![](new-marketing-strategy/outreach-calendar.jpg)
-
 ### Skills Inventory
 
 Members of the church would take stock of the skills of individual members. This skills inventory would be used to identify ways to optimize what the church has to offer the community. 
 
 Skills list
+
+
 
 ## Website SEO
 
@@ -102,7 +105,12 @@ Example Google search result: "Pretty Prairie United Methodist"
 Correcting incorrect Google Map info
 ![](new-marketing-strategy/google-pretty-prairie-united-methodist-church-report-a-problem.png)
 
-### Facebook 
+### Tier 3 Outreach (Special Advertising)
+
+## Special Advertisements
+PP Rodeo Advertisement, local orgs
+
+#### Facebook Advertising (Paid)
 
 In general, Facebook is considered to be the 'king' of social traffic, with other networks such as Twitter, Instagram and Pinterest close behind.
 
@@ -110,7 +118,11 @@ Based on feedback, members of the church and surrounding community are more like
 
 Facebook page "Local Awareness" advertisement preview to "reach people near your business" 
 
-### Twitter Advertising
+The Facebook advertisement program defaults to $50 spend for 1 week, advertising to both genders, ages 18 to 65+.
+
+### Tier 4 Outreach (Public at Large)
+
+#### Twitter Advertising (Paid)
 
 Twitter has a Faith Playbook devoted to faith and religious ads can be occasionally found on Twitter. 
 
@@ -119,8 +131,7 @@ Twitter for Faith Playbook
 
 Members of the church are less likely to use Twitter. However, Twitter is an option to keep in mind, particularly for reaching the public at large. 
 
-## Special Advertisements
-PP Rodeo Advertisement, local orgs
+
 
 ## New Sanctuary Equipment
 
