@@ -19,7 +19,10 @@ Create a prioritized list of tasks user is trying to accomplish ("user stories")
 * Share buttons
 * Facebook Advertising
 * Google AdWords
+* Google Keyword Planner
 * Twitter Advertising
+
+* Google Consumer Surveys (pay)
 
 * MailChimp (email management)
 
@@ -31,5 +34,6 @@ Create a prioritized list of tasks user is trying to accomplish ("user stories")
 * Google AdSense (embedded advertising)
 
 * Facebook Audience Network (mobile advertising) (Pay)
+
 
 
