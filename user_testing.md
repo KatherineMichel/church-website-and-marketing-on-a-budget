@@ -14,7 +14,7 @@ Unfavorable user criteria
 Google Ventures often uses a [Craig's List ad](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Sample-Craigslist-ad.png) to recruit users. Because members of the United Methodist Church would be the primary users, I sent an email ad to members of the congregation with a link to the recruiting screener. 
 
 ## Recruiting Screener
-I used Google Forms to create the recruiting screener. The results were automatically collected in a spreadsheet in Google Drive. 
+I used [Google Forms](https://support.google.com/docs/answer/87809?hl=en) to create the recruiting screener. The results were automatically collected in a spreadsheet in Google Drive. 
 
 ## Contacting Prospective Users
 
