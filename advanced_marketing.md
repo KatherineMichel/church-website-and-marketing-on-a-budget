@@ -43,16 +43,6 @@ Pirate metrics
 
 #### Facebook Sharing Amongst Friends
 
-#### [Facebook Advertising](https://www.facebook.com/business/products/ads) (Pay)
-
-Suggested target audience ranging from a radius of 50 km around Pretty Prairie... 
-
-![](new-marketing-strategy/facebook-page-advertisement-reach-50km.png)
-
-Down to 3 km or 1km (shown here)... 
-
-![](new-marketing-strategy/facebook-page-advertisement-reach-1km.png)
-
 #### [Google AdWords](https://www.google.com/adwords) (Pay) 
 
 Google Adwords targeting Pretty Prairie 
