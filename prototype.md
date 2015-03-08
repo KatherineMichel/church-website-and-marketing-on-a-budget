@@ -8,14 +8,3 @@ simple, intuitive
 
 Create a prioritized list of tasks user is trying to accomplish ("user stories")
 
-### National Church Re-Imagined
-* Put equal emphasis on physical, digital, and partnership
-* Maintain a full-stack architecture anytime possible
-* Publicize to existing membership to help achieve a network effect
-* Optimize for psychology and sharing
-* Practice minimalism as mush as possible, but design to reach people who are using different devices (example. more mobile use in the developing world)
-* Integrate new methods of ministry. This also creates new publicity angles
-
-
-
-
