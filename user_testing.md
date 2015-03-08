@@ -25,9 +25,10 @@ Screener results in Google Drive
 Phone call to prospective user
 
 ### Follow Up Email
-Follow up email with request to prospective user to reply to confirm; If applicable, include a link to a non-disclosure agreement to sign (Google Ventures [example non-disclosure agreement](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Sample-NDA.pdf))
 
-### Confirmation Email
+Though Google Ventures suggests including in the email a link to a non-disclosure agreement ([Google Ventures example non-disclosure agreement](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Sample-NDA.pdf)), I did not feel that one was needed for this situation. 
+
+In the follow up email, I requested that the prospective users reply to confirm. 
 
 ## User Interviews
 
