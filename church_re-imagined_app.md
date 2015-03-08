@@ -66,6 +66,10 @@ Capital required
 * Number of United Methodist members total: 12.1 million
 * Number of United Methodist congregations: 34,892
 
+### Network Effect
+* Number of United Methodist members total: 12.1 million
+* Number of United Methodist congregations: 34,892
+
 ### Primary Users
 
 #### Primary User Segmentation
@@ -85,6 +89,10 @@ Who to target and how (prioritization)
 * Number of people with mobile phones:
 
 ### Product/Service Bundle by User Segment
+
+### Reach, User Engagement, Customer Relationship Management 
+* How will user segments be reached?
+* How easy is it to retain customers?
 
 ## Competitive Analysis
 
