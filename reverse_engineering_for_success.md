@@ -3,8 +3,6 @@
 ## Disruption
 Remember the story of David and Goliath? Just like David killed Goliath by finding Goliath's achilles heel, as software eats the world, tech startups are finding the achilles heels of their less agile incumbent competitors. 
 
-
-
 ## What the Church Can Learn from The Bible App and Upworthy 
 
 ### The Bad News
@@ -58,8 +56,6 @@ http://www.google.com/trends/explore#q=church%20iPhone%2C%20church%20app%2C%20ch
 
  In some developing countries, a mobile phone may be the first and only "computer" people can afford, which is perhaps why many of the countries recording the highest levels of Google Trends search interest for [The Bible App](the_bible_app_case_study.md) are African countries. 
  
-## National Church Re-Imagined
-
 ### [Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations)
 
 Balaji Srinivasan ([@balajis](https://twitter.com/balajis)) famously wrote... 
