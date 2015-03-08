@@ -1,23 +1,25 @@
 # Research Sprint
 
-Helpful Resource from Google Ventures: [Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)
+Helpful resource from Google Ventures: [Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)
 
-## Global Digital and Philosophical Reorganization
+## National Church Re-Imagined
 
-### [Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html)
-
-Marc Andreessen ([@pmarca](https://twitter.com/pmarca)) famously wrote.... 
-
-### Mobile is Eating the World
-
-## [Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations)
-
-Balaji Srinivasan ([@balajis](https://twitter.com/balajis)) famously wrote... 
-
-## Reverse Engineering for Success
+### Reverse Engineering for Success
 * What does a successful national United Methodist Church look like?
 * Whom should the church reach?
 * How should the church reach them?
+
+## Global Digital and Philosophical Reorganization
+
+### Software is Eating the World
+
+Marc Andreessen ([@pmarca](https://twitter.com/pmarca)) famously [wrote](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html).... 
+
+### Mobile is Eating the World
+
+### Software is Reorganizing the World
+
+Balaji Srinivasan ([@balajis](https://twitter.com/balajis)) famously [wrote](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations)... 
 
 ### Idea Maze
 
@@ -42,7 +44,7 @@ In the article [Surviving Disruption](https://hbr.org/2012/12/surviving-disrupti
 * Identify your own relative advantages
 * Evaluate the conditions that would help or hinder the disrupter from co-opting your current advantages in the future.
 
-## National Church Re-Imagined
+
 
 
 
