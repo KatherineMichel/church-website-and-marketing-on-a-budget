@@ -42,6 +42,14 @@ In the article [Surviving Disruption](https://hbr.org/2012/12/surviving-disrupti
 * Identify your own relative advantages
 * Evaluate the conditions that would help or hinder the disrupter from co-opting your current advantages in the future.
 
+### National Church Re-Imagined
+* Put equal emphasis on physical, digital, and partnership
+* Maintain a full-stack architecture anytime possible
+* Publicize to existing membership to help achieve a network effect
+* Optimize for psychology and sharing
+* Practice minimalism as mush as possible, but design to reach people who are using different devices (example. more mobile use in the developing world)
+* Integrate new methods of ministry. This also creates new publicity angles
+
 
 
 
