@@ -2,28 +2,10 @@
 
 Advanced marketing techniques matter, which can be seen in [Upworthy Case Study](upworthy_case_study.md)
 
-### Publicity Engine
-
-* Church channel
-* Traditional advertising
-* Dedicated campaign
-* Advance marketing tools
-* Social media advertising (Facebook/Twitter)
-* Partnerships
-
-* Facebook advertises a "potential reach" of 120,000,000 people
-* Funnel
-Pirate metrics
-
 ### Digital Outreach
 
-#### Church Administered
 * Website
 * Facebook Page
-
-#### National United Methodist Church Administered
-
-* Find-a-Church
 
 #### Search Engine Optimization (SEO)
 
