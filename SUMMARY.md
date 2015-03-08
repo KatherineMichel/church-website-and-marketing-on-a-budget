@@ -13,7 +13,6 @@
    * [New Marketing Strategy](new_marketing_strategy.md)
 * [Part 2: Research and Design Sprint](research_and_design_sprint.md)
    * [Research Sprint](research_sprint.md)
-   * [Reverse Engineering for Success](reverse_engineering_for_success.md)
    * [Case Studies](case_studies.md)
        * [National United Methodist Church Case Study](national_united_methodist_church_case_study.md)
        * [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_study.md)
