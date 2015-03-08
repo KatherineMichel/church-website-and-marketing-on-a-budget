@@ -32,10 +32,4 @@ Create a prioritized list of tasks user is trying to accomplish ("user stories")
 
 * Facebook Audience Network (mobile advertising) (Pay)
 
-In general, Facebook is considered to be the 'king' of social traffic, with other networks such as Twitter, Instagram and Pinterest close behind.
-
-### Research and Data Collection
-* [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home) (pay)
-* [Google Keyword Planner](https://support.google.com/adwords/answer/3114286?hl=en)
-
 
