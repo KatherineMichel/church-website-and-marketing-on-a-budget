@@ -56,9 +56,5 @@ http://www.google.com/trends/explore#q=church%20iPhone%2C%20church%20app%2C%20ch
 
  In some developing countries, a mobile phone may be the first and only "computer" people can afford, which is perhaps why many of the countries recording the highest levels of Google Trends search interest for [The Bible App](the_bible_app_case_study.md) are African countries. 
  
-### [Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations)
-
-Balaji Srinivasan ([@balajis](https://twitter.com/balajis)) famously wrote... 
-
 Physical proximity limits outreach. Physical proximity is decreasing in importance. More people than ever can be reached all over the world via the internet in real time. 
 
