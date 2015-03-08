@@ -13,7 +13,7 @@
    * [New Marketing Strategy](new_marketing_strategy.md)
 * [Part 2: Research and Design Sprint](research_and_design_sprint.md)
    * [Research Sprint](research_sprint.md)
-   * [Changing Global Landscape](changing_global_landscape.md)
+   * [Reverse Engineering for Success](reverse_engineering_for_success.md)
    * [Case Studies](case_studies.md)
        * [National United Methodist Church Case Study](national_united_methodist_church_case_study.md)
        * [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_study.md)
@@ -25,3 +25,4 @@
    * [Church Re-Imagined App](church_re-imagined_app.md)
    * [Advanced Marketing](advanced_marketing.md)
 * [Project Management](project_management.md)
+
