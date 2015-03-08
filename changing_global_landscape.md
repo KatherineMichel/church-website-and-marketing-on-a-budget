@@ -1,3 +1,0 @@
-# Changing Global Landscape
-
- 
