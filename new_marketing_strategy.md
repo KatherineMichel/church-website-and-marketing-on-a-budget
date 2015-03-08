@@ -94,17 +94,19 @@ Skills list
 
 ##### Facebook Advertising (Free Sharing)
 
+Based on feedback, members of the church and surrounding community are more likely to be on Facebook than Twitter. So, we would first consider the option of reaching people via Facebook, first through free sharing.
+
 ### Tier 3 Outreach (Special Advertising)
 
 #### Local Events and Organizations
-* Pretty Prairie Rodeo advertisement
+* [Pretty Prairie Rodeo advertisement](http://www.pprodeo.com/#!sponsors/c1v7y)
 * Other local sponsorships
 
 #### Facebook Advertising (Paid)
 
-Based on feedback, members of the church and surrounding community are more likely to be on Facebook than Twitter. So, we would first consider the option of reaching people via Facebook, by advertising the church's Facebook page to people located within Pretty Prairie and its surrounding area through free sharing and paid advertisements.
+In addition to free sharing, Facebook also offers paid advertising to people located within a target area. 
 
-Facebook page "Local Awareness" advertisement preview to "reach people near your business" 
+One option would be to advertise the church's Facebook Page via the "Local Awareness" option to "reach people near your business." 
 
 The Facebook advertisement program defaults to $50 spend for 1 week, advertising to both genders, ages 18 to 65+.
 
@@ -126,11 +128,9 @@ Google AdWords reach
 
 #### Twitter Advertising (Paid)
 
-Twitter has a Faith Playbook devoted to faith and religious ads can be occasionally found on Twitter. 
-
-Twitter for Faith Playbook
-
 Members of the church are less likely to use Twitter. However, Twitter is an option to keep in mind, particularly for reaching the public at large. 
+
+Twitter has a [Faith Playbook](https://media.twitter.com/playbook/faith-organizations) for faith organizations, and religious ads can be occasionally found on Twitter. 
 
 ## New Sanctuary Equipment
 
