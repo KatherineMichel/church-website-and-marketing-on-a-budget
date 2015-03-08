@@ -3,12 +3,6 @@
 ## Disruption
 Remember the story of David and Goliath? Just like David killed Goliath by finding Goliath's achilles heel, as software eats the world, tech startups are finding the achilles heels of their less agile incumbent competitors. 
 
-In the article [Surviving Disruption](https://hbr.org/2012/12/surviving-disruption), Max Wessel and Clayton Christensen explain how a company can disrupt itself in order to avoid being disrupted:
-
-* Identify the strengths of your disrupter’s business model
-* Identify your own relative advantages
-* Evaluate the conditions that would help or hinder the disrupter from co-opting your current advantages in the future.
-
 ## Google Trends Graph for Phrases "United Methodist Church" "LifeChurch" "The Bible App" "Upworthy"
 
 Google Trends graph for phrases ["United Methodist Church" "LifeChurch" "The Bible App" "Upworthy" (region: worldwide)](http://www.google.com/trends/explore#q=United%20Methodist%20Church%2C%20LifeChurch%2C%20The%20Bible%20App%2C%20Upworthy&cmpt=q&tz=), from 2004 to 2015. The United Methodist Church, which is clearly on the decline, is still a "giant" compared to Upworthy at Upworthy's peak search volume. LifeChurch and The Bible App are miniscule in comparison, but on the rise and with a strong, modern network effect in place of the sort that could disrupt traditional church. 
