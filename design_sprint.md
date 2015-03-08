@@ -20,10 +20,7 @@ Taking stock of resources on hand
 
 ### People Needed
 
-I would do most of the design work alone, and act as facilitator for select brainstorming and planning group work, particularly involving the church's Nurture Outreach Witness (NOW) Committee, which handles community outreach for the church. 
-
-#### "How might we"
-
+I would do most of the design work alone, and act as facilitator for select brainstorming and planning group work, particularly involving the church's Nurture Outreach Witness (NOW) Committee, which plans outreach for the church. 
 ### Facilitation: Reverse Engineering for Success
 
 The idea for reverse engineering came from this article:
