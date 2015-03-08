@@ -2,7 +2,7 @@
 
 Helpful resource from Google Ventures: [Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)
 
-## National Church Re-Imagined
+## United Methodist Church Re-Imagined
 
 ### Reverse Engineering for Success
 * What does a successful national United Methodist Church look like?
@@ -25,6 +25,7 @@ The "Software is Eating the World" theory was revisted in 2014 by [Marc Andreess
 ### Software is Reorganizing the World
 
 Balaji Srinivasan ([@balajis](https://twitter.com/balajis)) famously [wrote](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations)... 
+
 
 #### Google Trends Graph for Phrases "iPhone" "app" "Android" "desktop" "website"
 
