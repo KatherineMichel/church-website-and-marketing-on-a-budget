@@ -43,13 +43,10 @@ Pirate metrics
 
 #### Facebook Sharing Amongst Friends
 
+#### [Facebook Advertising](https://www.facebook.com/business/products/ads) (Pay)
+In general, Facebook is considered to be the 'king' of social traffic, with other networks such as Twitter, Instagram and Pinterest close behind.
+
 #### [Google AdWords](https://www.google.com/adwords) (Pay) 
-
-Google Adwords targeting Pretty Prairie 
-![](new-marketing-strategy/google-adwords-pretty-prairie-targeting.png)
-
-Google Adwords reach
-
 #### [Twitter Advertising](https://ads.twitter.com) (Pay)
 
 ### Research and Data Collection
