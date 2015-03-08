@@ -39,6 +39,10 @@ Software is reorganizing the world: the theory of physical location no longer be
 The United Methodist Church, which is clearly of declining interest, is still a "giant" compared to Upworthy at Upworthy's peak search volume. LifeChurch and The Bible App are miniscule in comparison, but on the rise and with a strong, modern network effect in place of the sort that could disrupt traditional church.
 ![](google-maps-and-trends/google-trends-united-methodist-church-lifechurch-the-bible-app-upworthy.png)
 
+#### Pew Forum Religious Landscape Study
+
+http://religions.pewforum.org/reports
+
 #### Google Trends Graph for Phrases "iPhone" "app" "Android" "desktop" "website"
 
 Google Trends graph for phrases ["iPhone" "app" "Android" "desktop" "website" (region: worldwide)](http://www.google.com/trends/explore#q=iPhone%2C%20app%2C%20Android%2C%20desktop%2C%20website&cmpt=q&tz=), from 2004 to 2015. Words associated with mobile ("iPhone" "app" "Android") are up and to the right. Non-mobile words ("desktop" "website") are on the decline.
