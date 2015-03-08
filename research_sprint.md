@@ -25,6 +25,10 @@ In the article [Surviving Disruption](https://hbr.org/2012/12/surviving-disrupti
 * Identify your own relative advantages
 * Evaluate the conditions that would help or hinder the disrupter from co-opting your current advantages in the future.
 
+## [Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations)
+
+Balaji Srinivasan ([@balajis](https://twitter.com/balajis)) famously wrote... 
+
 ## National Church Re-Imagined
 
 
