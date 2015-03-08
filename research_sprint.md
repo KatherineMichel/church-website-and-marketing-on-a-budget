@@ -2,13 +2,6 @@
 
 Helpful resource from Google Ventures: [Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)
 
-## United Methodist Church Re-Imagined
-
-### Reverse Engineering for Success
-* What does a successful national United Methodist Church look like?
-* Whom should the church reach?
-* How should the church reach them?
-
 ## Global Digital and Philosophical Reorganization
 
 ### Software is Eating the World
@@ -62,7 +55,13 @@ In the article [Surviving Disruption](https://hbr.org/2012/12/surviving-disrupti
 * Identify your own relative advantages
 * Evaluate the conditions that would help or hinder the disrupter from co-opting your current advantages in the future.
 
-### National Church Re-Imagined
+## United Methodist Church Re-Imagined
+
+### Reverse Engineering for Success
+* What does a successful national United Methodist Church look like?
+* Whom should the church reach?
+* How should the church reach them?
+
 The idea of software reorganization does not bode well for physical churches
 
 * Put equal emphasis on physical, digital, and partnership
