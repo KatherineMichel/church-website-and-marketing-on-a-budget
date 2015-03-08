@@ -4,7 +4,6 @@
 * [Executive Summary](executive_summary.md)
 * [Project Management](project_management.md)
 * [Part 1: Local Church Re-Imagined](local_church_re-imagined.md)
-   * [About Pretty Prairie](about_pretty_prairie.md)
    * [Marketing As Is](marketing_as_is.md)
    * [Lightning Demos](lightning_demos.md)
    * [Website Options](website_options.md)
@@ -24,4 +23,4 @@
 * [Part 3: National Church Re-Imagined :)](national_united_methodist_church_re-imagined.md)
    * [Church Re-Imagined App](church_re-imagined_app.md)
    * [Advanced Marketing](advanced_marketing.md)
-
+* [About Pretty Prairie](about_pretty_prairie.md)
