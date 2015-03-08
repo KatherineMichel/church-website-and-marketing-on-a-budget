@@ -9,7 +9,7 @@ Members of the Nurture, Outreach, Witness (NOW) Committee would begin to collabo
 
 "To glorify God by sharing the love of God, the teachings of Jesus Christ and the power of the Holy Spirit within our community"
 
-## Questions to Ask: 
+## Questions to Answer: 
 
 ### What Does a Successful Pretty Prairie United Methodist Church Look Like?
 
@@ -28,56 +28,57 @@ Up to date marketing materials
 * Bulletin
 * Postcards
 * Email signature
+* Permanent local newspaper ad
 * Word of mouth
 
 ### Tier 2 Outreach (Proactive)
 
 #### Publicity Engine
-* Ideally, self-sustaining
-* A variety of church members involved
-* Committee leaders involved
-* Potentially admin status for website/social media
+A self-sustaining publicity engine would be created, involving a variety of church leaders and members. Duties could include brainstorming, planning outreach activities, admin status for website/social media, help creating content. In particular: 
+
+##### Committee Leaders
+Involving committee leaders would help to keep everyone on the same page. 
 
 ##### Youth Leadership Initiative
-
-* Take photos
-* Help write blog posts
-
-
-
-* Word of mouth/visit/call/letter
-* Local newspaper (permanent ad and special occasions)
-* Ads and fliers in high traffic locations
+Youth could assist with duties such as taking photos and/or writing blog posts. 
 
 #### Outreach Calendar
 The church purchased a 2015 wall calendar. The calendar is hung on a hook on the wall in a high traffic area of the church where it will not be overlooked. A pencil is nearby so that the calendar can be easily updated. The calendar can be removed from the wall and taken to meetings too.  
 ![](new-marketing-strategy/outreach-calendar.jpg)
 
-#### Facebook Advertising (Free Sharing)
+#### Contacting Inactive Members
 
-### Contacting Inactive Members
+Church members will contact church-goers of the past who are now inactive, and invite them back. 
 
-Church members will contact hurch-goers of the past who are now inactive, and invite them back. 
+##### Updating Directory
 
-#### Updating Directory
+##### Letter
 
-#### Letter
+#### Contacting Potential Newcomers
 
-### Cold Calling
+##### Pooling Individual Knowledge
 
-#### Individual Knowledge
-
-#### Telephone Book
+##### Telephone Book
 
 Setting aside pre-existing assumptions, members of the church would go through the Pretty Prairie section of the phone book to identify people for outreach. 
 
 ![](new-marketing-strategy/telephone-book.jpg)
 
-### Skills Inventory
+##### Cold Call/Visit/Letter
+
+#### Skills Inventory
 
 Members of the church would take stock of the skills of individual members. This skills inventory would be used to identify ways to optimize what the church has to offer the community. 
 
 Skills list
+
+#### Special Occasion Advertisement
+
+##### Traditional Advertisement
+* Newspaper ad 
+* Ads and fliers in high traffic locations
+
+##### Facebook Advertising (Free Sharing)
 
 
 
