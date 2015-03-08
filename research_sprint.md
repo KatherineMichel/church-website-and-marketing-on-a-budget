@@ -1,6 +1,6 @@
 # Research Sprint
 
-Helpful Resource: [Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research) by Google Ventures.
+Helpful Resource from Google Ventures: [Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)
 
 ## Reverse Engineering for Success
 
@@ -9,15 +9,15 @@ Helpful Resource: [Questions to Ask Before Starting User Research](http://www.gv
 The United Methodist Church, which is clearly of declining interest, is still a "giant" compared to Upworthy at Upworthy's peak search volume. LifeChurch and The Bible App are miniscule in comparison, but on the rise and with a strong, modern network effect in place of the sort that could disrupt traditional church.
 ![](google-maps-and-trends/google-trends-united-methodist-church-lifechurch-the-bible-app-upworthy.png)
 
-## Questions to Answer
+## Surviving Disruption
 
-### What Does a Successful National Church Look Like?
+In the article [Surviving Disruption](https://hbr.org/2012/12/surviving-disruption), Max Wessel and Clayton Christensen explain how a company can disrupt itself in order to avoid being disrupted:
 
-### Whom Should the Church Reach?
+* Identify the strengths of your disrupter’s business model
+* Identify your own relative advantages
+* Evaluate the conditions that would help or hinder the disrupter from co-opting your current advantages in the future.
 
-### How Should the Church Reach Them?
-
-## Digital and Philosophical Reorganization
+### Global Digital and Philosophical Reorganization
 
 ### [Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html)
 
@@ -38,17 +38,13 @@ http://www.google.com/trends/explore#q=church%20iPhone%2C%20church%20app%2C%20ch
 
 Balaji Srinivasan ([@balajis](https://twitter.com/balajis)) famously wrote... 
 
-## Surviving Disruption
-
-In the article [Surviving Disruption](https://hbr.org/2012/12/surviving-disruption), Max Wessel and Clayton Christensen explain how a company can disrupt itself in order to avoid being disrupted:
-
-* Identify the strengths of your disrupter’s business model
-* Identify your own relative advantages
-* Evaluate the conditions that would help or hinder the disrupter from co-opting your current advantages in the future.
-
 ## National Church Re-Imagined
 
+### Questions to Answer
 
+* What does a successful national church look like?
+* Whom should the church reach?
+* How should the church reach them?
 
 
 
