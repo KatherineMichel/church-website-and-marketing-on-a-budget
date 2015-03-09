@@ -2,7 +2,11 @@
 
 Helpful resource from Google Ventures: [Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)
 
-While doing research for my local church project, I happened to look at the Google Trends graph for the phrase ["United Methodist Church" (region: worldwide)] and was stunned. 
+## Google Trends Graph for Phrase "United Methodist Church"
+
+While doing research for my local church project, I happened to look at the Google Trends graph for the phrase ["United Methodist Church" (region: worldwide)](http://www.google.com/trends/explore#q=United%20Methodist%20Church), from around 2004 to 2015. I was stunned. 
+
+![](google-maps-and-trends/google-trends-united-methodist-church-worldwide.png)
 
 ## Global Digital and Philosophical Reorganization
 
