@@ -37,6 +37,8 @@ Sensible, sensitivity analysis
 * How much does it cost (time/resources) to reach new users?
 * How much will customer support cost?
 
+Crowd-sourced volunteers
+
 Cost Structure/Revenue Streams
 More than one cash flow source?
 
