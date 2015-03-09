@@ -8,13 +8,16 @@ simple, intuitive
 
 Create a prioritized list of tasks user is trying to accomplish ("user stories")
 
+### Adult app
+
 Language translation
 
 Payments and Fundraising
 * Bitcoin- small payments
 * Crowd-funding
 
-Adult app
+* Questionnaire at beginning of app to customize content
+* Product tour
 
 Kids app
 * Gamification
