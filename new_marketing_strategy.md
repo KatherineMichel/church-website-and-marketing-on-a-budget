@@ -89,7 +89,7 @@ Skills list
 #### Special Occasion Advertisement
 
 ##### Traditional Advertisement
-* Newspaper ad 
+* Newspaper ad/article
 * Ads and fliers in high traffic locations
 
 ##### Facebook Advertising (Free Sharing)
@@ -127,7 +127,11 @@ Google AdWords targeting Pretty Prairie
 
 Google AdWords reach
 
+#### Interpreter Ad (Paid)
+
 ### Tier 4 Outreach (Public at Large)
+
+#### United Methodist Communications Article
 
 #### Twitter Advertising (Paid)
 
