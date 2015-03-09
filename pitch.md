@@ -59,8 +59,8 @@ Capital required
 ## Solution Architecture
 
 ## Talent
-Are people of the right skill level on the team?
-If not, can people of the right skill level be recruited?
+* Are people of the right skill level on the team?
+* If not, can people of the right skill level be recruited?
 
 Relevant prior accomplishments, skills, experience, reputation, motivation, attitude) 
 
