@@ -59,6 +59,10 @@ Capital required
 
 ## Solution Architecture
 
+Challenges
+* The need to refactor code/architecture
+* Should maintain a full-stack architecture anytime possible
+
 ## Talent
 * Are people of the right skill level on the team?
 * If not, can people of the right skill level be recruited?
