@@ -12,6 +12,8 @@ Create a prioritized list of tasks user is trying to accomplish ("user stories")
 
 Language translation
 
+Accessibility
+
 Payments and Fundraising
 * Bitcoin- small payments
 * Crowd-funding
