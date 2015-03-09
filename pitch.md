@@ -2,12 +2,17 @@
 
 ## Church Re-Imagined App
 
-See [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_study.md) and [Prototype](prototype.md) for the inspiration for this business plan.
+See [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_study.md) and [Prototype](prototype.md) for the inspiration for this pitch.
 
-If successful, what will it look like?
+This pitch was created using [Sten Tamkivi's Toolkit for Evaluating a New Venture](https://medium.com/@seikatsu/toolkit-for-evaluating-a-new-venture-c6ee623a4bca), [The Business Model Canvas](http://www.businessmodelgeneration.com/downloads/business_model_canvas_poster.pdf), and [The U.S. CIO Playbook](http://playbook.cio.gov)
 
-Fit/context- can help, hurt, change?
-Sensible, sensitivity analysis
+## Reverse Engineering
+
+If successful, what will this venture look like?
+
+Information sheet about Dora North Circuit of the United Methodist Church in Mutare District of Zimbabwe, one of the missions of the Pretty Prairie United Methodist Church
+
+![](pitch/dora-north-mission.jpg)
 
 ## Deal Structure
 
@@ -21,6 +26,9 @@ Sensible, sensitivity analysis
 * Key suppliers
 * Key resources (physical, intellectual (brand, patents, copyrights, data), human, financial)
 * Key activities
+
+Fit/context- can help, hurt, change?
+Sensible, sensitivity analysis
 
 ## Business Model
 * How will the organization make money?
@@ -40,13 +48,6 @@ More than one cash flow source?
 | -- | -- | -- | -- |
 |  |  |  |  |
 |  |  |  |  |
-
-### Example Business Model
-* Donations (self-sustaining?)
-* Freemium (in-app purchases, ads)
-* Freemium for certain amount of time (ex. What's App was free for a year, then $.99, available on many devices, helped popularity)
-* Paid (may cause some users to be excluded)
-* Price varies based on device used (iPhones more expensive/users tend to spend more) 
 
 ## Funding
 Capital required
@@ -119,8 +120,4 @@ Who to target and how (prioritization)
 * Who are competitors? 
 * How does their product compare?
 * What behavior/expectations by uses might be transferable? 
-
-Information sheet about Dora North Circuit of the United Methodist Church in Mutare District of Zimbabwe, one of the missions of the Pretty Prairie United Methodist Church
-![](pitch/dora-north-mission.jpg)
-
 
