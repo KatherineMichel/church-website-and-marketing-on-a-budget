@@ -32,8 +32,6 @@ In the follow up email, I requested that the prospective users reply to confirm.
 ### Interview Guide
 
 ### Interviews
-Picture of user study
-
 Qualitative and quantitative data
 
 Summary and analysis of findings
