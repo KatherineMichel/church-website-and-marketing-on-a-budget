@@ -19,6 +19,12 @@ Tactics between $300 and $1000
 Tactics over $1000
 ![](new-marketing-strategy/tactics-over-$1000.png)
 
+### Pretty Prairie United Methodist Church Vision and Mission Statements
+
+![](new-marketing-strategy/vision-statement.jpg)
+
+![](new-marketing-strategy/mission-statement.jpg)
+
 ### Goals and Measurable Objectives Chart
 
 [United Methodist Communications](http://www.umcom.org) suggests using a Goals and Measurable Objectives Chart as part of the [Evaluation Step](http://www.umcom.org/learn/evaluation-adjustment-resources) of its [Marketing Audit](http://www.umcom.org/learn/market-your-church-getting-started). 
@@ -26,12 +32,6 @@ Tactics over $1000
 United Methodist Goals and Measurable Objectives example chart
 
 ![](new-marketing-strategy/goals-measurable-objectives-chart.png)
-
-### Pretty Prairie United Methodist Church Mission Statement
-
-![](new-marketing-strategy/mission-statement.jpg)
-
-![](new-marketing-strategy/vision-statement.jpg)
 
 ## Example Budget and Plan
 
