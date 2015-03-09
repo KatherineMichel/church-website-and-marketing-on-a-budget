@@ -15,6 +15,17 @@ This problem of declining interest is not exclusive to the United Methodist Chur
 Google Trends graph for the phrases ["United Methodist" "Catholic" "Presbyterian" "Baptist" (region: worldwide)](http://www.google.com/trends/explore#q=United%20Methodist%2C%20Catholic%2C%20Presbyterian%2C%20Baptist&cmpt=q&tz=), from around 2004 to 2015:
 ![](google-maps-and-trends/google-trends-united-methodist-catholic-presbyterian-baptist.png)
 
+## Is This a Permanent Decline?
+This left me wondering is this a permanent decline or can the situation be turned around? I set out to re-imagine the national United Methodist Church as if it were disrupting itself.  
+
+## Surviving Disruption
+
+In the article [Surviving Disruption](https://hbr.org/2012/12/surviving-disruption), Max Wessel and Clayton Christensen explain how a company can disrupt itself in order to avoid being disrupted:
+
+* Identify the strengths of your disrupter’s business model
+* Identify your own relative advantages
+* Evaluate the conditions that would help or hinder the disrupter from co-opting your current advantages in the future.
+
 ## Global Digital and Philosophical Reorganization
 
 ### Software is Eating the World
@@ -64,14 +75,6 @@ Google Trends graph for phrases ["iPhone" "app" "Android" "desktop" "website" (r
 
 Google Trends graph for phrases ["church iPhone" "church app" "church Android" "church desktop" "church website" (region: worldwide)](http://www.google.com/trends/explore#q=church%20iPhone%2C%20church%20app%2C%20church%20Android%2C%20church%20livestream&cmpt=q&tz=), from 2004 to 2015.
 ![](google-maps-and-trends/google-trends-church-iphone-church-app-church-android-church-livestream.png)
-
-## Surviving Disruption
-
-In the article [Surviving Disruption](https://hbr.org/2012/12/surviving-disruption), Max Wessel and Clayton Christensen explain how a company can disrupt itself in order to avoid being disrupted:
-
-* Identify the strengths of your disrupter’s business model
-* Identify your own relative advantages
-* Evaluate the conditions that would help or hinder the disrupter from co-opting your current advantages in the future.
 
 ## United Methodist Church Re-Imagined
 
