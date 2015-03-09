@@ -108,6 +108,9 @@ In addition to free sharing, Facebook also offers paid advertising to people loc
 
 One option would be to advertise the church's Facebook Page via the "Local Awareness" option to "reach people near your business." 
 
+Facebook advertisement preview
+![](new-marketing-strategy/facebook-page-advertisement-preview.png)
+
 The Facebook advertisement program defaults to $50 spend for 1 week, advertising to both genders, ages 18 to 65+.
 
 Suggested target audience ranging from a radius of 50 km around Pretty Prairie... 
