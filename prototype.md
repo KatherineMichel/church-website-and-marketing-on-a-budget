@@ -8,6 +8,11 @@ simple, intuitive
 
 Create a prioritized list of tasks user is trying to accomplish ("user stories")
 
+Adult app
+
+Kids app
+* Gamification
+
 # Advanced Marketing
 
 * Website
