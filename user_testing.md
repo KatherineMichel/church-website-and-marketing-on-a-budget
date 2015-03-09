@@ -4,6 +4,8 @@
 
 ## Recruiting Screener Worksheet
 
+![](user-testing/recruiting-screener-worksheet.png)
+
 Favorable user criteria 
 * United Methodist Church congregation members
 
