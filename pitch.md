@@ -120,4 +120,7 @@ Who to target and how (prioritization)
 * How does their product compare?
 * What behavior/expectations by uses might be transferable? 
 
+Information sheet about Dora North Circuit of the United Methodist Church in Mutare Zimbabwe, one of the missions of the Pretty Prairie United Methodist Church
+![](pitch/dora-north-mission.jpg)
+
 
