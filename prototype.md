@@ -8,6 +8,8 @@ simple, intuitive
 
 Create a prioritized list of tasks user is trying to accomplish ("user stories")
 
+Language translation
+
 Adult app
 
 Kids app
