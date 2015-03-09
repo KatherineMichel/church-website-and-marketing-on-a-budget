@@ -4,6 +4,10 @@
 
 See [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_study.md) and [Prototype](prototype.md) for the inspiration for this business plan.
 
+If successful, what will it look like?
+
+Fit/context- can help, hurt, change?
+
 ## Deal Structure
 
 ### Corporate Structure Options
@@ -12,7 +16,7 @@ See [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_
 * B Corporation
 
 ## [Business Model Canvas](http://www.businessmodelgeneration.com/downloads/business_model_canvas_poster.pdf)
-* Key partners
+* Key partners (who is known, who knows)
 * Key suppliers
 * Key resources (physical, intellectual (brand, patents, copyrights, data), human, financial)
 * Key activities
@@ -23,6 +27,9 @@ See [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_
 * How much will it cost to produce/deliver product/service?
 * How much does it cost (time/resources) to reach new users?
 * How much will customer support cost?
+
+Cost Structure/Revenue Streams
+More than one cash flow source?
 
 [List of Web Business Models GitHub](https://gist.github.com/ndarville/4295324)
 
@@ -50,7 +57,14 @@ Capital required
 
 ## Solution Architecture
 
+## Talent
+Are people of the right skill level on the team?
+If not, can people of the right skill level be recruited?
+
+Relevant prior accomplishments, skills, experience, reputation, motivation, attitude) 
+
 ## Pitch Slide Deck
+Financial projections- written for what audience?
 
 ## High Level Value Proposition
 
@@ -65,6 +79,8 @@ Capital required
 * To what degree is product/service a compelling purchase?
 
 ### Market Size
+Total market for product/service- large, rapidly growing?  
+
 * Number of United Methodist members total: 12.1 million
 * Number of United Methodist congregations: 34,892
 
