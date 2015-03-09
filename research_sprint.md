@@ -2,6 +2,8 @@
 
 Helpful resource from Google Ventures: [Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)
 
+While doing research for my local church project, I happened to look at the Google Trends graph for the phrase ["United Methodist Church" (region: worldwide)] and was stunned. 
+
 ## Global Digital and Philosophical Reorganization
 
 ### Software is Eating the World
