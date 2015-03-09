@@ -96,6 +96,8 @@ Who to target and how (prioritization)
 * How will user segments be reached?
 * How easy is it to retain customers?
 
+![](pitch/dora-north-mission.jpg)
+
 ## Competitive Analysis
 
 ### Idea Maze
