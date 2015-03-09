@@ -24,15 +24,15 @@ Mobile view
 Pros: 
 * Straight forward design
 * Use of photos and photo albums is positive, if only execution were better
-* Representation of a variety of church activities
 
 Cons:
-* Non-complimentary color scheme
-* Poor use of white space (especially mobile)
-* Ragged, amateurish looking menu bar
+* Poor color choice (blue and pink are not complementary colors)
+* Content not representative of full range of church demographics, groups, activities
+* Wasted space (especially on mobile view)
+* Ragged, antiquated looking menu bar
 * The welcome page is a "data dump"
-* Unnecessary use of clip art
-* Overly simplistic photo album layout
+* Unnecessary use of clip art (should be avoided, if possible)
+* Overly simplistic (and not aesthetically pleasing) photo album grid layout
 * Lack of many modern features (blog, calendar, share/like buttons, video/audio, donations, messaging)
 
 Note: lack of any social media presence (i.e. Facebook)
