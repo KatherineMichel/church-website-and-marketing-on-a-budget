@@ -10,6 +10,10 @@ Create a prioritized list of tasks user is trying to accomplish ("user stories")
 
 Language translation
 
+Payments and Fundraising
+* Bitcoin- small payments
+* Crowd-funding
+
 Adult app
 
 Kids app
