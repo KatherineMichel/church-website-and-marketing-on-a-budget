@@ -8,6 +8,13 @@ While doing research for my local church project, I happened to look at the Goog
 
 ![](google-maps-and-trends/google-trends-united-methodist-church-worldwide.png)
 
+## Google Trends Graph for Phrases "United Methodist" "Catholic" "Presbyterian" "Baptist"
+
+This problem of declining interest is not exclusive to the United Methodist Church. Mainline churches in general are steadily losing members, confirmed by the Pew Forum [Religious Landscape Study](http://religions.pewforum.org/reports) published in 2010. Meanwhile, more people than ever are unaffiliated with a particular religion.
+
+Google Trends graph for the phrases ["United Methodist" "Catholic" "Presbyterian" "Baptist" (region: worldwide)](http://www.google.com/trends/explore#q=United%20Methodist%2C%20Catholic%2C%20Presbyterian%2C%20Baptist&cmpt=q&tz=), from around 2004 to 2015:
+![](google-maps-and-trends/google-trends-united-methodist-catholic-presbyterian-baptist.png)
+
 ## Global Digital and Philosophical Reorganization
 
 ### Software is Eating the World
