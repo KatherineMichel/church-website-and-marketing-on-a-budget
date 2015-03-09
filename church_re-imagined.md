@@ -1,2 +1,0 @@
-# Church Re-Imagined :)
-
