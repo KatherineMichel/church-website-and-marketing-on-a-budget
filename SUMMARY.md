@@ -11,7 +11,9 @@
    * [New Marketing Materials](new_marketing_materials.md)
    * [New Website](new_website.md)
    * [New Marketing Strategy](new_marketing_strategy.md)
-* [Part 2: Research and Design Sprint](research_and_design_sprint.md)
+
+* [Part 2: National Church Re-Imagined :)](national_united_methodist_church_re-imagined.md)
+   * [Research and Design Sprint](research_and_design_sprint.md)
    * [Research Sprint](research_sprint.md)
    * [Case Studies](case_studies.md)
        * [National United Methodist Church Case Study](national_united_methodist_church_case_study.md)
@@ -20,7 +22,7 @@
    * [Design Sprint](design_sprint.md)
    * [Prototype](prototype.md)
    * [User Testing](user_testing.md)
-* [Part 3: National Church Re-Imagined :)](national_united_methodist_church_re-imagined.md)
+
    * [Church Re-Imagined App](church_re-imagined_app.md)
 * [About Pretty Prairie](about_pretty_prairie.md)
 
