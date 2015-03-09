@@ -7,6 +7,7 @@ See [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_
 If successful, what will it look like?
 
 Fit/context- can help, hurt, change?
+Sensible, sensitivity analysis
 
 ## Deal Structure
 
