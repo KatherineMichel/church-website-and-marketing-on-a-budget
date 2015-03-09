@@ -97,7 +97,6 @@ Who to target and how (prioritization)
 * How easy is it to retain customers?
 
 ![](pitch/dora-north-mission.jpg)
-
 ## Competitive Analysis
 
 ### Idea Maze
