@@ -51,7 +51,9 @@ Though the separation between our bodies is still best characterized by the geog
 
 Perhaps the single most important feature of these states of mind is the increasing divergence between our social and geographic neighbors, between the cloud formations of our heads and the physical communities surrounding our bodies. An infinity of subcultures outside the mainstream now blossoms on the Internet — vegans, body modifiers, CrossFitters, Wiccans, DIYers, Pinners, and support groups of all forms. Millions of people are finding their true peers in the cloud, a remedy for the isolation imposed by the anonymous apartment complex or the remote rural location."
 
-### United Methodist Church Status Quo
+### Summary
+Based on this, we can surmise that going into the future, a successful organization will highly leverage software, particularly mobile, and will recognize that people are reorganizing within the virtual cloud and adapt their strategy to this. 
+
 Software is eating the world: addressing this
 
 Mobile is eating the world: little activity
