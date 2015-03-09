@@ -21,7 +21,8 @@
    * [Design Sprint](design_sprint.md)
    * [Prototype](prototype.md)
    * [User Testing](user_testing.md)
-
+   * [Pitch](pitch.md)
+   
    * [Church Re-Imagined App](church_re-imagined_app.md)
 * [About Pretty Prairie](about_pretty_prairie.md)
 
