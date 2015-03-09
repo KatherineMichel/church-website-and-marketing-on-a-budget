@@ -29,7 +29,9 @@ United Methodist Goals and Measurable Objectives example chart
 
 ### Pretty Prairie United Methodist Church Mission Statement
 
-"To glorify God by sharing the love of God, the teachings of Jesus Christ and the power of the Holy Spirit within our community"
+![](new-marketing-strategy/mission-statement.jpg)
+
+![](new-marketing-strategy/vision-statement.jpg)
 
 ## Example Budget and Plan
 
