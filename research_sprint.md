@@ -54,12 +54,6 @@ Perhaps the single most important feature of these states of mind is the increas
 ### Summary
 Based on this, we can surmise that going into the future, a successful organization will highly leverage software, particularly mobile, and will recognize that people are reorganizing within the virtual cloud and adapt their strategy to this. 
 
-Software is eating the world: addressing this
-
-Mobile is eating the world: little activity
-
-Software is reorganizing the world: the theory of physical location no longer being important does not bode well for the United Methdist Church. 
-
 #### [Google Trends Graph for Phrases "United Methodist Church" "LifeChurch" "The Bible App" "Upworthy"](http://www.google.com/trends/explore#q=United%20Methodist%20Church%2C%20LifeChurch%2C%20The%20Bible%20App%2C%20Upworthy&cmpt=q&tz=) from 2004 to 2015
 
 The United Methodist Church, which is clearly of declining interest, is still a "giant" compared to Upworthy at Upworthy's peak search volume. LifeChurch and The Bible App are miniscule in comparison, but on the rise and with a strong, modern network effect in place of the sort that could disrupt traditional church.
@@ -84,15 +78,6 @@ Google Trends graph for phrases ["church iPhone" "church app" "church Android" "
 * What does a successful national United Methodist Church look like?
 * Whom should the church reach?
 * How should the church reach them?
-
-The idea of software reorganization does not bode well for physical churches
-
-* Put equal emphasis on physical, digital, and partnership
-* Maintain a full-stack architecture anytime possible
-* Publicize to existing membership to help achieve a network effect
-* Optimize for psychology and sharing
-* Practice minimalism as much as possible, but design to reach people who are using different devices (example. more mobile use in the developing world)
-* Integrate new methods of ministry. This also creates new publicity angles
 
 
 
