@@ -4,13 +4,9 @@
 
 ![](project-management/project-definition-plan-cover.png)
 
-## Project Board Meeting
-![](project-management/board-meeting-slide-deck-cover.png)
+## [Project Board Meeting Options Matrix](https://drive.google.com/file/d/0B02bpu7HZwJRM1QtckxocTZLTjg/view?usp=sharing)
+[![](project-management/board-meeting-slide-deck-cover.png)](https://drive.google.com/file/d/0B02bpu7HZwJRM1QtckxocTZLTjg/view?usp=sharing)
 
-### Project Board Meeting- Options Matrix
-<center>
-![](web-hosting-options/web-hosting-options-matrix-page-1.png)
 
-![](web-hosting-options/web-hosting-options-matrix-page-2.png)
-</center>
+
 
