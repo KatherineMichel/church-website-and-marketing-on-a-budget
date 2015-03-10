@@ -33,26 +33,11 @@ Use desktop and mobile devices to:
 * Share Bible verses on social networks
 * Bookmark favorite passages
 
-### Platforms
-Available on all major platforms and more: 
-* iPhone/iPad
-* Android
-* Mobile Web
-* Kindle Fire
-* Blackberry
-* Windows Phone
-* Windows 8
-* HP/Palm
-
-And others...
+Available on all major platforms and many others: 
 
 ### [The Bible App for Kids](https://www.bible.com/kids)
 
 Made in partnership with [OneHope](http://onehope.net/feature/bibleappforkids)
-
-#### Purpose
-
-#### Platforms
 
 ### Publicity Engine
 
