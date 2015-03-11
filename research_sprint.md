@@ -6,10 +6,10 @@ Google Trends graph for the phrase ["United Methodist Church" (region: worldwide
 
 ![](google-maps-and-trends/google-trends-united-methodist-church-worldwide.png)
 
-Between 2000 and 2010, professed membership declined by 7.8% in the U.S. and increased by 170.8% in Africa Central, 253.9% in the Congo, 297.6% in West Africa, and 156.5 percent in the Philippines. These numbers do not include constituents.
+According to the [2012 United Methodist State of the Church Report](http://s3.amazonaws.com/Website_Properties/state-of-the-church/documents/2012-state-of-the-church-report.PDF), between 2000 and 2010, professed membership in the United Methodist Church declined by 7.8% in the U.S. and increased by 170.8% in Africa Central, 253.9% in the Congo, 297.6% in West Africa, and 156.5% in the Philippines. These numbers do not include constituents (church-goers and others associated with the church who are not members).
 ![](national-united-methodist-church/2012-state-of-the-church-report-professing-membership.png)
 
-[2012 State of the Church Report](http://s3.amazonaws.com/Website_Properties/state-of-the-church/documents/2012-state-of-the-church-report.PDF)
+
 
 Introduction
 ![](national-united-methodist-church/2012-state-of-the-church-report-introduction.png)
@@ -20,6 +20,10 @@ This problem of declining interest is not exclusive to the United Methodist Chur
 
 Google Trends graph for the phrases ["United Methodist" "Catholic" "Presbyterian" "Baptist" (region: worldwide)](http://www.google.com/trends/explore#q=United%20Methodist%2C%20Catholic%2C%20Presbyterian%2C%20Baptist&cmpt=q&tz=), from around 2004 to 2015:
 ![](google-maps-and-trends/google-trends-united-methodist-catholic-presbyterian-baptist.png)
+
+Information sheet about Dora North Circuit of the United Methodist Church in Mutare District of Zimbabwe, one of the missions of the Pretty Prairie United Methodist Church
+
+![](pitch/dora-north-mission.jpg)
 
 ## Is This a Permanent Decline?
 This left me wondering is this a permanent decline or can the situation be turned around? I set out to re-imagine the national United Methodist Church as if it were disrupting itself.  
