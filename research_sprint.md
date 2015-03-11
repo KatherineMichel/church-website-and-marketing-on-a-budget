@@ -4,6 +4,8 @@ Helpful resource from Google Ventures: [Questions to Ask Before Starting User Re
 
 ## Google Trends Graph for Phrase "United Methodist Church"
 
+[2012 State of the Church Report](http://s3.amazonaws.com/Website_Properties/state-of-the-church/documents/2012-state-of-the-church-report.PDF)
+
 While doing research for my local church project, I happened to look at the Google Trends graph for the phrase ["United Methodist Church" (region: worldwide)](http://www.google.com/trends/explore#q=United%20Methodist%20Church), from around 2004 to 2015. I was stunned. 
 
 ![](google-maps-and-trends/google-trends-united-methodist-church-worldwide.png)
