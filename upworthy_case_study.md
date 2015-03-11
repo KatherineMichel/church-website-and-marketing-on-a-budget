@@ -10,11 +10,6 @@ Google Trends graph for the phrase ["Upworthy" (region: worldwide)](http://www.g
 
 
 
-
-
-
-
-
 ## The Competition (Not Who You Might Expect)
  
 In a short period of time during the past few years, a website with something of a mission for social justice called [Upworthy](http://www.upworthy.com) became "[the fastest-growing media site in history](http://www.fastcompany.com/3012649/how-upworthy-used-emotional-data-to-become-the-fastest-growing-media-site-of-all-time)," achieving growth that far surpassed that of its closest viral competitors: [Buzzfeed](http://www.buzzfeed.com), [Huffington Post](http://www.huffingtonpost.com), and [Business Insider](http://www.businessinsider.com). 
