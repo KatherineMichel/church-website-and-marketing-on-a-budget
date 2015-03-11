@@ -1,10 +1,18 @@
 # Pitch
 
+## Helpful Resources: 
+
+Google Ventures [Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)
+
+Sten Tamkivi's [Toolkit for Evaluating a New Venture](https://medium.com/@seikatsu/toolkit-for-evaluating-a-new-venture-c6ee623a4bca)
+
+[The Business Model Canvas](http://www.businessmodelgeneration.com/downloads/business_model_canvas_poster.pdf) 
+
+The U.S. CIO[ Playbook](http://playbook.cio.gov)
+
 ## Church Re-Imagined App
 
 See [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_study.md) and [Prototype](prototype.md) for the inspiration for this pitch.
-
-This pitch was created using [Sten Tamkivi's Toolkit for Evaluating a New Venture](https://medium.com/@seikatsu/toolkit-for-evaluating-a-new-venture-c6ee623a4bca), [The Business Model Canvas](http://www.businessmodelgeneration.com/downloads/business_model_canvas_poster.pdf), and [The U.S. CIO Playbook](http://playbook.cio.gov)
 
 ## Reverse Engineering
 
