@@ -18,10 +18,6 @@ See [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_
 
 If successful, what will this venture look like?
 
-Information sheet about Dora North Circuit of the United Methodist Church in Mutare District of Zimbabwe, one of the missions of the Pretty Prairie United Methodist Church
-
-![](pitch/dora-north-mission.jpg)
-
 ## Deal Structure
 
 ### Corporate Structure Options
