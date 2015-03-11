@@ -10,6 +10,12 @@ Create a prioritized list of tasks user is trying to accomplish ("user stories")
 
 ### Adult app
 
+Use desktop and mobile devices to:
+
+* Read the Bible
+* Share Bible verses on social networks
+* Bookmark favorite passages
+
 Language translation
 
 Accessibility
