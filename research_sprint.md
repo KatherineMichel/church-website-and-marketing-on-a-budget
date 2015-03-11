@@ -9,32 +9,20 @@ Google Trends graph for the phrase ["United Methodist Church" (region: worldwide
 According to the [2012 United Methodist State of the Church Report](http://s3.amazonaws.com/Website_Properties/state-of-the-church/documents/2012-state-of-the-church-report.PDF) (the latest report of its kind), between 2000 and 2010, professed membership in the United Methodist Church declined by 7.8% in the U.S. and increased by 170.8% in Africa Central, 253.9% in the Congo, 297.6% in West Africa, and 156.5% in the Philippines. These numbers do not include constituents (church-goers and others associated with the church who are not members).
 ![](national-united-methodist-church/2012-state-of-the-church-report-professing-membership.png)
 
+## Declining Interest in Mainline Churches
 
-
-Introduction
-![](national-united-methodist-church/2012-state-of-the-church-report-introduction.png)
-
-## Google Trends Graph for Phrases "United Methodist" "Catholic" "Presbyterian" "Baptist"
-
-This problem of declining interest is not exclusive to the United Methodist Church. Mainline churches in general are struggling stay relevant.
+This problem of declining interest is not exclusive to the United Methodist Church. Mainline churches in general (Protestant and Catholic) are struggling stay relevant.
 
 Google Trends graph for the phrases ["United Methodist" "Catholic" "Presbyterian" "Baptist" (region: worldwide)](http://www.google.com/trends/explore#q=United%20Methodist%2C%20Catholic%2C%20Presbyterian%2C%20Baptist&cmpt=q&tz=), from around 2004 to 2015:
 ![](google-maps-and-trends/google-trends-united-methodist-catholic-presbyterian-baptist.png)
 
-Information sheet about Dora North Circuit of the United Methodist Church in Mutare District of Zimbabwe, one of the missions of the Pretty Prairie United Methodist Church
+## Longterm Decline
+Is this decline inevitable, or can the situation be turned around?   
 
-![](pitch/dora-north-mission.jpg)
+## Survival
+Introduction
+![](national-united-methodist-church/2012-state-of-the-church-report-introduction.png)
 
-## Is This a Permanent Decline?
-This left me wondering is this a permanent decline or can the situation be turned around? I set out to re-imagine the national United Methodist Church as if it were disrupting itself.  
-
-## Surviving Disruption
-
-In the article [Surviving Disruption](https://hbr.org/2012/12/surviving-disruption), Max Wessel and Clayton Christensen explain how a company can disrupt itself in order to avoid being disrupted:
-
-* Identify the strengths of your disrupter’s business model
-* Identify your own relative advantages
-* Evaluate the conditions that would help or hinder the disrupter from co-opting your current advantages in the future.
 
 ## Global Digital and Philosophical Reorganization
 
@@ -84,12 +72,22 @@ Google Trends graph for phrases ["church iPhone" "church app" "church Android" "
 
 ## United Methodist Church Re-Imagined
 
+### Surviving Disruption
+
+In the article [Surviving Disruption](https://hbr.org/2012/12/surviving-disruption), Max Wessel and Clayton Christensen explain how a company can disrupt itself in order to avoid being disrupted:
+
+* Identify the strengths of your disrupter’s business model
+* Identify your own relative advantages
+* Evaluate the conditions that would help or hinder the disrupter from co-opting your current advantages in the future.
+* 
 ### Reverse Engineering for Success
 * What does a successful national United Methodist Church look like?
 * Whom should the church reach?
 * How should the church reach them?
 
+Information sheet about Dora North Circuit of the United Methodist Church in Mutare District of Zimbabwe, one of the missions of the Pretty Prairie United Methodist Church
 
+![](pitch/dora-north-mission.jpg)
 
 
 
