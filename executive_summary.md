@@ -28,4 +28,4 @@ In addition to the website, church members were also ready for a new community o
 I would [Project Manage](project_management.md) a modern new website and marketing plan for the Pretty Prairie United Methodist Church, using low-cost tools and available resources. 
 
 ## Part 2 and 3
-In the process of doing research for the outreach campaign, I learned about problems (and opportunities) facing the national [United Methodist Church](http://www.umc.org). I conducted a [Research and Design Sprint](research_and_design_sprint.md) to re-imagine the national United Methodist Church.
+In the process of doing research for the outreach campaign, I learned about problems (and opportunities) facing the national [United Methodist Church](http://www.umc.org). I conducted a [Research and Design Sprint](research_and_design_sprint.md) to re-imagine the national United Methodist Church's online presence.
