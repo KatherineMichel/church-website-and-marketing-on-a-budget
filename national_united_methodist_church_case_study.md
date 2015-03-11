@@ -2,12 +2,6 @@
 
 What's the matter with the [United Methodist Church](http://www.umc.org)? Looking at the steady decline of interest in the United Methodist Church and how it can be fixed.
 
-## Google Trends Graph for Phrase "United Methodist Church"
-
-Google Trends graph for the phrase ["United Methodist Church" (region: worldwide)](http://www.google.com/trends/explore#q=United%20Methodist%20Church), from around 2004 to 2015: 
-
-![](google-maps-and-trends/google-trends-united-methodist-church-worldwide.png)
-
 ## Google Trends Graph for Phrases "United Methodist" "Catholic" "Presbyterian" "Baptist"
 
 This problem of declining interest is not exclusive to the United Methodist Church. Mainline churches in general are struggling stay relevant. 
