@@ -17,7 +17,7 @@ Pretty Prairie downtown- winter
 ![](google-maps-and-trends/google-map-pretty-prairie-wichita.png) 
 
 ## Pretty Prairie Rodeo
-Pretty Prairie is a very quiet place, except for every July when Pretty Prairie hosts the world famous 
+Pretty Prairie is a very quiet place, except for every June when Harvest happens and July when Pretty Prairie hosts the world famous 
 [Pretty Prairie Rodeo](http://www.pprodeo.com) (the largest night rodeo in Kansas). 
 
 Google Trends search interest graph showing increased interest every July for phrase ["Pretty Prairie" (region: worldwide)](http://www.google.com/trends/explore#q=pretty%20prairie) 
@@ -38,7 +38,7 @@ Google Trends search interest graph showing increased interest every July for ph
 * Several small business
 
 ## Work
-A number of Pretty Prairie residents work locally (farmers, teachers, police, city workers, ect.), or commute to other nearby cities (Kingman, Hutchinson, Wichita, ect.) for work (business people, machine operators, ect.). Though the cost of living may be lower, the price of gas and time spent commuting also have to be considered. Meanwhile, the outskirts of Wichita are steadily expanding outward.
+A number of Pretty Prairie residents work locally (farmers, teachers, police, city workers, ect.), or commute to other nearby cities (Kingman, Hutchinson, Wichita, ect.) for work (business people, machine operators, ect.). Though the cost of living may be lower, the price of gas and time spent commuting also have to be considered. Meanwhile, the outskirts of Wichita are steadily expanding outward. Still, the Pretty Prairie population remains fairly constant. 
 
 ### Nielson Company Demographic Info
 
@@ -60,6 +60,4 @@ Pretty Prairie [Area Map](https://drive.google.com/file/d/0B02bpu7HZwJRaVp5dGNMO
 
 * Changing lifestyles (digital and philosophical reorganization)
 * Dwindling, predominantly older adult local population 
-* Price of gas/commuting
-* Wichita suburbs
 
