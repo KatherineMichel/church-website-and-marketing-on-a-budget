@@ -13,8 +13,11 @@
 ## Pretty Prairie Rodeo
 Pretty Prairie is a very quiet place..
 
-Pretty Prairie downtown
+Pretty Prairie downtown- spring
 ![](pretty-prairie-downtown.jpg)
+
+Pretty Prairie downtown- winter
+![](pretty-prairie-downtown-snow.jpg)
 
 ...except for every July when Pretty Prairie hosts the world famous 
 [Pretty Prairie Rodeo](http://www.pprodeo.com) (the largest night rodeo in Kansas). 
