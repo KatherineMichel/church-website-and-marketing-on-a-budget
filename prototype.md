@@ -16,7 +16,6 @@ simple, intuitive
 
 #### Snapchat Inspiration
 * Bible passages as daily ephemeral messages
-* Discover-like interface to United Methodist content
 
 * Online Bible that can read, highlighted, bookmarked, and shared on social networks
 * Language translation
