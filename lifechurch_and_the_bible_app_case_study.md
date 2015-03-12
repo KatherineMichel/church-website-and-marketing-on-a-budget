@@ -27,12 +27,20 @@ Google Trends graph for the phrases ["LifeChurch" and "The Bible App" (region: w
 
 ![](lifechurch-bible-app/the-bible-app-homepage.png)
 
-The Bible App is the top search result for "Bible App" in Google search and the Apple Store and Google Play Store (Android). The Bible App is also the #40 most popular free app in the Apple Store and the #125 most popular free app in the Google Play Store. 
+The Bible App is the top search result for "Bible app" in Google search. 
+
+The Bible App is the top search result for "Bible app" in the Apple Store. 
+
+The Bible App is the top search result for "Bible app" in Google Play Store (Android), closely followed by the Kid's Bible App
+![](lifechurch-bible-app/google-play-search-bible-app.png)
+
+The Bible App is the #40 most popular free app in the Apple Store.
+![](lifechurch-bible-app/apple-store-itune-charts-free-apps-bible-app.png)
+
+The Bible App is the #125 most popular free app in the Google Play Store. 
+![](lifechurch-bible-app/google-play-top-selling-free-apps-the-bible-app.png)
 
 Furthermore, The Bible App leads users to LifeChurch
-
-Apple Store iTunes free apps: #40
-![](lifechurch-bible-app/apple-store-itune-charts-free-apps-bible-app.png)
 
 ### Purpose
 Use desktop and mobile devices to:
@@ -46,7 +54,9 @@ Available on all major platforms and many others:
 
 Made in partnership with [OneHope](http://onehope.net/feature/bibleappforkids)
 
-The Kid's Bible App is app store top search result...
+The Kid's Bible App is Google Play Store top search result for "Bible app for kids"...
+
+![](lifechurch-bible-app/google-play-search-bible-app-for-kids.png)
 
 
 
