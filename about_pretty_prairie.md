@@ -33,7 +33,9 @@ Google Trends search interest graph showing increased interest every July for ph
 * A gas station
 * A restaurant
 * A golf course
+* A senior center
 * A food bank
+* Several small business
 
 ## Work
 A number of Pretty Prairie residents work locally (farmers, teachers), or commute to other nearby cities for work (business people, machine operators, ect)
