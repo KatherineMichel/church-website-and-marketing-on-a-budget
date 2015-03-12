@@ -1,5 +1,11 @@
 # About Pretty Prairie
 
+Pretty Prairie downtown- spring
+![](pretty-prairie-downtown.jpg)
+
+Pretty Prairie downtown- winter
+![](pretty-prairie-downtown-snow.jpg)
+
 ## Location
 [Pretty Prairie](http://en.wikipedia.org/wiki/Pretty_Prairie,_Kansas) (population 688) is in central Kansas, U.S.A....
 ![](google-maps-and-trends/google-map-usa-pretty-prairie.png)
@@ -11,15 +17,7 @@
 ![](google-maps-and-trends/google-map-pretty-prairie-wichita.png) 
 
 ## Pretty Prairie Rodeo
-Pretty Prairie is a very quiet place..
-
-Pretty Prairie downtown- spring
-![](pretty-prairie-downtown.jpg)
-
-Pretty Prairie downtown- winter
-![](pretty-prairie-downtown-snow.jpg)
-
-...except for every July when Pretty Prairie hosts the world famous 
+Pretty Prairie is a very quiet place, except for every July when Pretty Prairie hosts the world famous 
 [Pretty Prairie Rodeo](http://www.pprodeo.com) (the largest night rodeo in Kansas). 
 
 Google Trends search interest graph showing increased interest every July for phrase ["Pretty Prairie" (region: worldwide)](http://www.google.com/trends/explore#q=pretty%20prairie) 
