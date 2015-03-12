@@ -7,7 +7,7 @@ Pretty Prairie downtown- winter
 ![](pretty-prairie-downtown-snow.jpg)
 
 ## Location
-[Pretty Prairie](http://en.wikipedia.org/wiki/Pretty_Prairie,_Kansas) (population 688) is in central Kansas, U.S.A....
+[Pretty Prairie](http://en.wikipedia.org/wiki/Pretty_Prairie,_Kansas) (population ~688) is in central Kansas, U.S.A....
 ![](google-maps-and-trends/google-map-usa-pretty-prairie.png)
 
 ...southwest of [Kansas City](http://en.wikipedia.org/wiki/Kansas_City_metropolitan_area) and due west of [Wichita](http://en.wikipedia.org/wiki/Wichita,_Kansas)...
@@ -16,7 +16,7 @@ Pretty Prairie downtown- winter
 ... north of [Kingman](http://en.wikipedia.org/wiki/Kingman,_Kansas) (population 3,177), south of [Hutchinson](http://en.wikipedia.org/wiki/Hutchinson,_Kansas) (population 42,080), and near the [Amish](http://en.wikipedia.org/wiki/Amish) community of [Yoder](http://en.wikipedia.org/wiki/Yoder,_Kansas) (population 194)
 ![](google-maps-and-trends/google-map-pretty-prairie-wichita.png) 
 
-## Pretty Prairie Rodeo
+## Harvest and Pretty Prairie Rodeo
 Pretty Prairie is a very quiet place, except for every June when Harvest happens and July when Pretty Prairie hosts the world famous 
 [Pretty Prairie Rodeo](http://www.pprodeo.com) (the largest night rodeo in Kansas). 
 
@@ -38,13 +38,13 @@ Google Trends search interest graph showing increased interest every July for ph
 * Several small business
 
 ## Work
-A number of Pretty Prairie residents work locally (farmers, teachers, police, city workers, ect.), or commute to other nearby cities (Kingman, Hutchinson, Wichita, ect.) for work (business people, machine operators, ect.). Though the cost of living may be lower, the price of gas and time spent commuting also have to be considered. Meanwhile, the outskirts of Wichita are steadily expanding outward. Still, the Pretty Prairie population remains fairly constant. 
+A number of Pretty Prairie residents work locally (farmers, teachers, police, city workers, ect.), or commute to other nearby cities (Kingman, Hutchinson, Wichita, ect.) for work (business people, machine operators, ect.). Though the cost of living may be lower, the price of gas and time spent commuting also have to be considered. Meanwhile, the outskirts of Wichita are steadily expanding outward. Still, the Pretty Prairie population remains fairly constant (~688). 
 
 ### Nielson Company Demographic Info
 
 Through the national United Methodist Church Communications Office, I obtained the most recent Nielson Company demographic info for the city of Pretty Prairie, Kansas. 
 
-Pretty Prairie has a population of 688
+Pretty Prairie has a population of ~688.
 
 Pretty Prairie [Area Map](https://drive.google.com/file/d/0B02bpu7HZwJRaVp5dGNMOUpYbU0/view?usp=sharing)
 
@@ -55,9 +55,4 @@ Pretty Prairie [Area Map](https://drive.google.com/file/d/0B02bpu7HZwJRaVp5dGNMO
 [Pop-Facts: Census Demographic Overview 2014 Report](https://drive.google.com/file/d/0B02bpu7HZwJRSHFwVm5kX0FHMmc/view?usp=sharing)
 
 [Population by Age and Race Trend 2014](https://drive.google.com/file/d/0B02bpu7HZwJRelJTXzd1XzVWUE0/view?usp=sharing)
-
-### The "Business" Problem
-
-* Changing lifestyles (digital and philosophical reorganization)
-* Dwindling, predominantly older adult local population 
 
