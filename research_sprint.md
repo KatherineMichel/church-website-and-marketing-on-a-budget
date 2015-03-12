@@ -7,7 +7,9 @@ Google Trends graph for the phrase ["United Methodist Church" (region: worldwide
 ![](google-maps-and-trends/google-trends-united-methodist-church-worldwide.png)
 
 According to the [2012 United Methodist State of the Church Report](http://s3.amazonaws.com/Website_Properties/state-of-the-church/documents/2012-state-of-the-church-report.PDF) (the latest report of its kind), between 2000 and 2010, professed membership in the United Methodist Church declined by 7.8% in the U.S. and increased by 170.8% in Africa Central, 253.9% in the Congo, 297.6% in West Africa, and 156.5% in the Philippines. These numbers do not include constituents (church-goers and others associated with the church who are not members).
+<center>
 ![](national-united-methodist-church/2012-state-of-the-church-report-professing-membership.png)
+</center>
 
 ## Declining Interest in Mainline Churches
 
