@@ -38,7 +38,7 @@ Google Trends search interest graph showing increased interest every July for ph
 * Several small business
 
 ## Work
-A number of Pretty Prairie residents work locally (farmers, teachers), or commute to other nearby cities for work (business people, machine operators, ect)
+A number of Pretty Prairie residents work locally (farmers, teachers, police, city workers, ect.), or commute to other nearby cities (Kingman, Hutchinson, Wichita, ect.) for work (business people, machine operators, ect.). Though the cost of living may be lower, the price of gas and time spent commuting also have to be considered. Meanwhile, the outskirts of Wichita are steadily expanding outward.
 
 ### Nielson Company Demographic Info
 
