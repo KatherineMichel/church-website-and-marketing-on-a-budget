@@ -23,5 +23,5 @@
    * [Prototype](prototype.md)
    * [User Testing](user_testing.md)
    * [Pitch](pitch.md)
-   * Software Architecture
+   * [Software Architecture](software_architecture.md)
 
