@@ -36,6 +36,11 @@ See [Lightning Demos](lightning_demos.md) for analysis of the websites of other 
 
 #### User Story
 
+Inspiration from Snapchat for Bible study, including ephermal scripture messaging
+
+Inspiration from Snapchat Discover for portal to United Methodist content
+![](design-sprint/snapchat-discover.png)
+
 Sketch of most important user story
 
 User story divided into parts
