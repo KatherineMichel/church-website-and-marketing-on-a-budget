@@ -7,6 +7,7 @@
    * [Marketing As Is](marketing_as_is.md)
    * [Lightning Demos](lightning_demos.md)
    * [Website Options](website_options.md)
+   * [About Pretty Prairie](about_pretty_prairie.md)
    * [Church Image Re-Brand](church_image_re-brand.md)
    * [New Marketing Materials](new_marketing_materials.md)
    * [New Website](new_website.md)
@@ -22,5 +23,4 @@
    * [Prototype](prototype.md)
    * [User Testing](user_testing.md)
    * [Pitch](pitch.md)
-* [About Pretty Prairie](about_pretty_prairie.md)
 
