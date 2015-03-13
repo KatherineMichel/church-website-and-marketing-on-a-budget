@@ -35,7 +35,7 @@ Cons:
 * Overly simplistic (and not aesthetically pleasing) photo album grid layout
 * Lack of many modern features (blog, calendar, share/like buttons, video/audio, donations, messaging)
 
-Note: lack of any social media presence (i.e. Facebook)
+Note: lack of any social media presence (i.e. Facebook) although I do not know when this website was originally made
 
 ### Old Newsletter
 
