@@ -25,6 +25,15 @@ If successful, what will this venture look like?
 ## Pitch Slide Deck
 Financial projections- written for what audience?
 
+## Competitive Analysis
+
+### Idea Maze
+* Who are competitors? 
+* How does their product compare?
+* What behavior/expectations by uses might be transferable? 
+
+## High Level Value Proposition
+
 ## Deal Structure
 
 ### Corporate Structure Options
@@ -57,9 +66,7 @@ More than one cash flow source?
 * Are people of the right skill level on the team?
 * If not, can people of the right skill level be recruited?
 
-## High Level Value Proposition
-
-### Users and Motivation
+## Users and Motivation
 * For whom are we creating value?
 * Who are our most important customers?
 
@@ -69,18 +76,18 @@ More than one cash flow source?
 * How do users make decisions?
 * To what degree is product/service a compelling purchase?
 
-### Market Size
+## Market Size
 Total market for product/service- large, rapidly growing?  
 
-### Network Effect
+## Network Effect
 
-### Primary Users
+## Primary Users
 
-#### Primary User Segmentation
+### Primary User Segmentation
 
-##### U.S.
+#### U.S.
 
-##### Global
+#### Global
 
 ### User Acquisition
 Who to target and how (prioritization)
@@ -91,10 +98,5 @@ Who to target and how (prioritization)
 * How will user segments be reached?
 * How easy is it to retain customers?
 
-## Competitive Analysis
 
-### Idea Maze
-* Who are competitors? 
-* How does their product compare?
-* What behavior/expectations by uses might be transferable? 
 
