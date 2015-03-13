@@ -4,16 +4,6 @@
 
 Google Ventures [Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)
 
-Sten Tamkivi's [Toolkit for Evaluating a New Venture](https://medium.com/@seikatsu/toolkit-for-evaluating-a-new-venture-c6ee623a4bca)
-
-[The Business Model Canvas](http://www.businessmodelgeneration.com/downloads/business_model_canvas_poster.pdf) 
-
-The U.S. CIO[ Playbook](http://playbook.cio.gov)
-
-[List of Web Business Models GitHub](https://gist.github.com/ndarville/4295324)
-
-[Product Tier Selection](https://camo.githubusercontent.com/a4b7ee4a662786d0af4c1eacb9b8b7bdd9eb6e6d/687474703a2f2f692e696d6775722e636f6d2f7139594e4939542e706e67)
-
 ## Church Re-Imagined App
 
 See [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_study.md) and [Prototype](prototype.md) for the inspiration for this pitch.
