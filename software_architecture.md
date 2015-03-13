@@ -6,15 +6,20 @@
 
 ## Project Management
 
-## Amazon Web Service and Heroku
+## Amazon Web Service and Heroku Web Hosting
 
 ### Staging
+
+### Pricing Tiers
 
 ## Django
 
 ### Models
+* Users
+* Articles
 
 ### Django Rest API/Mobile
+JSON
 
 ## Challenges
 
