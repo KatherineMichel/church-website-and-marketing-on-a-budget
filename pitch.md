@@ -10,9 +10,20 @@ Sten Tamkivi's [Toolkit for Evaluating a New Venture](https://medium.com/@seikat
 
 The U.S. CIO[ Playbook](http://playbook.cio.gov)
 
+[List of Web Business Models GitHub](https://gist.github.com/ndarville/4295324)
+
+[Product Tier Selection](https://camo.githubusercontent.com/a4b7ee4a662786d0af4c1eacb9b8b7bdd9eb6e6d/687474703a2f2f692e696d6775722e636f6d2f7139594e4939542e706e67)
+
 ## Church Re-Imagined App
 
 See [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_study.md) and [Prototype](prototype.md) for the inspiration for this pitch.
+
+## Reverse Engineering
+
+If successful, what will this venture look like?
+
+## Pitch Slide Deck
+Financial projections- written for what audience?
 
 ## Deal Structure
 
@@ -21,7 +32,13 @@ See [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_
 * Non-profit
 * B Corporation
 
-## [Business Model Canvas](http://www.businessmodelgeneration.com/downloads/business_model_canvas_poster.pdf)
+## Funding
+Capital required
+
+* Seed money
+* Donated resources
+
+## Business Model
 * Key partners (who is known, who knows)
 * Key suppliers
 * Key resources (physical, intellectual (brand, patents, copyrights, data), human, financial)
@@ -30,7 +47,6 @@ See [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_
 Fit/context- can help, hurt, change?
 Sensible, sensitivity analysis
 
-## Business Model
 * How will the organization make money?
 * How will the product/service be priced?
 * How much will it cost to produce/deliver product/service?
@@ -42,29 +58,11 @@ Crowd-sourced volunteers
 Cost Structure/Revenue Streams
 More than one cash flow source?
 
-[List of Web Business Models GitHub](https://gist.github.com/ndarville/4295324)
-
-[Product Tier Selection](https://camo.githubusercontent.com/a4b7ee4a662786d0af4c1eacb9b8b7bdd9eb6e6d/687474703a2f2f692e696d6775722e636f6d2f7139594e4939542e706e67)
-
-|  |  |  |  |
-| -- | -- | -- | -- |
-|  |  |  |  |
-|  |  |  |  |
-
-## Funding
-Capital required
-
-* Seed money
-* Donated resources
-
 ## Talent
 * Are people of the right skill level on the team?
 * If not, can people of the right skill level be recruited?
 
 Relevant prior accomplishments, skills, experience, reputation, motivation, attitude) 
-
-## Pitch Slide Deck
-Financial projections- written for what audience?
 
 ## High Level Value Proposition
 
