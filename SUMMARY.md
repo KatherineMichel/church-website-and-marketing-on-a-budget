@@ -19,6 +19,7 @@
        * [National United Methodist Church Case Study](national_united_methodist_church_case_study.md)
        * [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_study.md)
        * [Upworthy Case Study](upworthy_case_study.md)
+       * Watsi Case Study
    * [Design Sprint](design_sprint.md)
    * [Prototype](prototype.md)
    * [User Testing](user_testing.md)
