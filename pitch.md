@@ -61,8 +61,6 @@ Capital required
 * Seed money
 * Donated resources
 
-## Project Management
-
 ## Talent
 * Are people of the right skill level on the team?
 * If not, can people of the right skill level be recruited?
