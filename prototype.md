@@ -32,6 +32,31 @@ Crowd-sourced volunteers
 Kids app
 * Gamification
 
+### Market Size
+* Number of United Methodist members total: 12.1 million
+* Number of United Methodist congregations: 34,892
+
+### Network Effect
+* Number of United Methodist members total: 12.1 million
+* Number of United Methodist congregations: 34,892
+
+### Primary Users
+
+#### Primary User Segmentation
+
+##### U.S.
+* Number of United Methodist members (U.S.): 7,725,039
+
+##### Global
+* Number of United Methodist members (rest of the world): 4.4 million
+
+### User Acquisition
+* World population: ~7 billion
+* Number of Christians
+* Number of people with internet: 
+* Number of people with desktop computers:
+* Number of people with mobile phones:
+
 
 
 
