@@ -17,7 +17,7 @@ Squarespace was attractive due to:
 
 Final verdict: Squarespace is the web host that I chose for the church. I felt that Squarespace offers the best value for money. Although Squarespace was $3/month more expensive than the cheapest option (which offered the same/similar templates as one used by a nearby church), the beautiful, modern Squarespace templates would ensure a unique look, and the intuitive content management system could potentially be used by non-techies and occasional volunteers, in order to keep the content relevant. 
 
-To see more of the finished website, go to [Church Re-Imagined](new_website.md). To see more of the finished materials, go to [Church Re-Imagined](new_marketing_materials.md) :) 
+To see more of the new website, go to [New Website](new_website.md). To see more of the new marketing materials, go to [New Marketing Materials](new_marketing_materials.md) :) 
 
 Screenshot of finished website: [www.prettyprairieumc.org](www.prettyprairieumc.org). <br>
 [![](new-marketing-materials/new-website-home-page.jpg)](http://prettyprairieumc.org)
