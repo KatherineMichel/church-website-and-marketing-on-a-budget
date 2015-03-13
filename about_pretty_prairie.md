@@ -27,17 +27,18 @@ Google Trends search interest graph showing increased interest every July for ph
 
 ## Pretty Prairie Institutions
 * A school system ([U.S.D. 311](http://www.usd311.com))
-* A post office
+* A post office ([Pretty Prairie Post Office](http://www.uspspostoffices.com/ks/pretty-prairie/pretty-prairie))
 * A city office
-* 4 churches
+* Four churches
 * A nursing home ([Pretty Prairie Sunset Home](http://prairiesunsethome.org))
-* A bank
+* A bank ([Citizens Bank of Kansas](https://www.citizensbankofkansas.com/MyCommunity/MyLocations/PrettyPrairie))
 * A gas station
-* A restaurant
-* A golf course
+* A restaurant 
+* A golf course ([The Links at Pretty Prairie](http://www.prettyprairiegolf.com))
 * A senior center
+* A repurposing charity ([Ubuntu](http://www.ubuntuks.com))
 * A food bank
-* Several small business
+* Several other small business
 
 ## Work
 A number of Pretty Prairie residents work locally (farmers, teachers, police, city workers, ect.), or commute to other nearby cities (Kingman, Hutchinson, Wichita, ect.) for work (business people, machine operators, ect.). Though the cost of living may be lower, the price of gas and time spent commuting also have to be considered. Meanwhile, the outskirts of Wichita are steadily expanding outward. Still, the Pretty Prairie population remains fairly constant (~688). 
