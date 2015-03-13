@@ -4,7 +4,7 @@
 
 [Website Launch Checklist for Web Designers GitHub](https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers)
 
-## Project Management
+## Git Version Control
 
 ## Amazon Web Service and Heroku Web Hosting
 
