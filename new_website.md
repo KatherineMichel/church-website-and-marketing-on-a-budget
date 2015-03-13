@@ -10,7 +10,9 @@ New website home page: [www.prettyprairieumc.org](www.prettyprairieumc.org)<br>
 
 Rather than one prominent homepage photo, the homepage features a patchwork quilt of photos that represent a number of people and activities in the church. Not only this, but it has been shown by Twitter that photos dramatically increase engagement.
 
+<center>
 ![](new-marketing-materials/twitter-engagement-photos.png)
+</center>
 
 Clicking on a photo brings up a small bite of info about the photo subject. This format is straight forward, easy to navigate, and highly mobile optimized. 
 
