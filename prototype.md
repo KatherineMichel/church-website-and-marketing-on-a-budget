@@ -64,9 +64,13 @@ Kids app
 
 
 ### Advanced Marketing
-* Search Result Discovery
+* Search Result Discovery (commonly used search terms in name of app- "Bible app" leads to Google Search result "The Bible App" which leads to The Bible App website, selection of platforms, website and app lead to LifeChurch)
 * Direct Search Discovery
-* Top- App Stores (Google Play/Apple), Google Search
+* Top- App Stores (Google Play/Apple iTunes), Google Search
+
+* Desktop
+* Android
+* iPhone
 
 * Website
 * Facebook, Twitter, Pinterest, Instagram Profiles
