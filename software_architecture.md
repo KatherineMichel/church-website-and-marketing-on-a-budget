@@ -1,6 +1,7 @@
 # Hypothetical Software Architecture
 
-Helpful resource:
+## Helpful Resource: 
+
 [Website Launch Checklist for Web Designers GitHub](https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers)
 
 ## Amazon Web Service and Heroku
