@@ -14,10 +14,6 @@ The U.S. CIO[ Playbook](http://playbook.cio.gov)
 
 See [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_study.md) and [Prototype](prototype.md) for the inspiration for this pitch.
 
-## Reverse Engineering
-
-If successful, what will this venture look like?
-
 ## Deal Structure
 
 ### Corporate Structure Options
