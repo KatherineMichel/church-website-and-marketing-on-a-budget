@@ -21,7 +21,7 @@ New website home page detail
 [![](new-marketing-materials/new-website-home-page-detail.png)](http://www.prettyprairieumc.org/#/worship)
 </center>
 
-New website menu
+New website mobile menu
 <center>
 [![](new-marketing-materials/new-website-menu.png)](http://prettyprairieumc.org)
 </center>
