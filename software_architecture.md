@@ -1,9 +1,8 @@
 # Hypothetical Software Architecture
 
-## Challenges
+## Amazon Web Service and Heroku
 
-* The need to refactor code/architecture
-* Should maintain a full-stack architecture anytime possible
+### Staging
 
 ## Django
 
@@ -11,6 +10,7 @@
 
 ### Django Rest API/Mobile
 
-## Amazon Web Service and Heroku
+## Challenges
 
-### Staging
+* The need to refactor code/architecture
+* Should maintain a full-stack architecture anytime possible
