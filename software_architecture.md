@@ -21,9 +21,6 @@
 * Facebook, Twitter, Pinterest, Instagram Profiles
 * Search Engine Optimization
 * Google+ and Google Rich Snippets
-* Facebook sharing/OpenGraph
-* Twitter Cards/Twitter Intents
-* Share buttons
 * Facebook Advertising
 * Google AdWords
 * Google Keyword Planner
