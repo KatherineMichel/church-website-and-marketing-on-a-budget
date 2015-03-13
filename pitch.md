@@ -98,5 +98,28 @@ Who to target and how (prioritization)
 * How will user segments be reached?
 * How easy is it to retain customers?
 
+### Advanced Marketing
+* Website
+* Facebook, Twitter, Pinterest, Instagram Profiles
+* Search Engine Optimization
+* Google+ and Google Rich Snippets
+* Facebook Advertising
+* Google AdWords
+* Google Keyword Planner
+* Twitter Advertising
+
+* Google Consumer Surveys (pay)
+
+* MailChimp (email management)
+
+* Google Webmaster
+* Yahoo and Bing Webmaster
+* Google Analytics
+* Facebook Insights (analytics)
+* Twitter Analytics
+* Google AdSense (embedded advertising)
+
+* Facebook Audience Network (mobile advertising) (Pay)
+
 
 
