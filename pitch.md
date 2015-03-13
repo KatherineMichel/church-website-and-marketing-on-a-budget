@@ -44,16 +44,11 @@ Capital required
 * Key resources (physical, intellectual (brand, patents, copyrights, data), human, financial)
 * Key activities
 
-Fit/context- can help, hurt, change?
-Sensible, sensitivity analysis
-
 * How will the organization make money?
 * How will the product/service be priced?
 * How much will it cost to produce/deliver product/service?
 * How much does it cost (time/resources) to reach new users?
 * How much will customer support cost?
-
-Crowd-sourced volunteers
 
 Cost Structure/Revenue Streams
 More than one cash flow source?
@@ -61,8 +56,6 @@ More than one cash flow source?
 ## Talent
 * Are people of the right skill level on the team?
 * If not, can people of the right skill level be recruited?
-
-Relevant prior accomplishments, skills, experience, reputation, motivation, attitude) 
 
 ## High Level Value Proposition
 
