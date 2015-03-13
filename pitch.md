@@ -1,9 +1,5 @@
 # Pitch
 
-## Helpful Resources: 
-
-Google Ventures [Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)
-
 ## Church Re-Imagined App
 
 See [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_study.md) and [Prototype](prototype.md) for the inspiration for this pitch.
@@ -87,29 +83,6 @@ Who to target and how (prioritization)
 ### Reach, User Engagement, Customer Relationship Management 
 * How will user segments be reached?
 * How easy is it to retain customers?
-
-### Advanced Marketing
-* Website
-* Facebook, Twitter, Pinterest, Instagram Profiles
-* Search Engine Optimization
-* Google+ and Google Rich Snippets
-* Facebook Advertising
-* Google AdWords
-* Google Keyword Planner
-* Twitter Advertising
-
-* Google Consumer Surveys (pay)
-
-* MailChimp (email management)
-
-* Google Webmaster
-* Yahoo and Bing Webmaster
-* Google Analytics
-* Facebook Insights (analytics)
-* Twitter Analytics
-* Google AdSense (embedded advertising)
-
-* Facebook Audience Network (mobile advertising) (Pay)
 
 
 
