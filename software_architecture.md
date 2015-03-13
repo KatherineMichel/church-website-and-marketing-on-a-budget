@@ -16,29 +16,6 @@
 
 ### Django Rest API/Mobile
 
-## Advanced Marketing
-* Website
-* Facebook, Twitter, Pinterest, Instagram Profiles
-* Search Engine Optimization
-* Google+ and Google Rich Snippets
-* Facebook Advertising
-* Google AdWords
-* Google Keyword Planner
-* Twitter Advertising
-
-* Google Consumer Surveys (pay)
-
-* MailChimp (email management)
-
-* Google Webmaster
-* Yahoo and Bing Webmaster
-* Google Analytics
-* Facebook Insights (analytics)
-* Twitter Analytics
-* Google AdSense (embedded advertising)
-
-* Facebook Audience Network (mobile advertising) (Pay)
-
 ## Challenges
 
 * The need to refactor code/architecture
