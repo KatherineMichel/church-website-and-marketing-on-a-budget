@@ -6,6 +6,8 @@ Pretty Prairie downtown- spring
 Pretty Prairie downtown- winter
 ![](pretty-prairie-downtown-snow.jpg)
 
+These two pictures were actually taken one week apart :) 
+
 ## Location
 [Pretty Prairie](http://en.wikipedia.org/wiki/Pretty_Prairie,_Kansas) (population ~688) is in central Kansas, U.S.A....
 ![](google-maps-and-trends/google-map-usa-pretty-prairie.png)
