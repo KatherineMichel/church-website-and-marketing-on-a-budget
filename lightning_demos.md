@@ -66,7 +66,7 @@ Pros:
 
 Cons: 
 * Commonly seen WordPress template used
-* Color and photo choice/editing could at times be used to better effect
+* Color, photo choice/editing, use of white space could at times be used to better effect
 * Pictures and Videos page looks as though it stopped being updated years ago
 * Could do with a direct link to New Jerusalem's often-updated [Facebook page](https://www.facebook.com/newjerusalemchurchprettyprairieks)
 
