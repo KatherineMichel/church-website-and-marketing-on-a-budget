@@ -64,6 +64,10 @@ Kids app
 
 
 ### Advanced Marketing
+* Search Result Discovery
+* Direct Search Discovery
+* Top- App Stores (Google Play/Apple), Google Search
+
 * Website
 * Facebook, Twitter, Pinterest, Instagram Profiles
 * Search Engine Optimization
