@@ -27,35 +27,12 @@ Payments and Fundraising
 * Bitcoin- small payments
 * Crowd-funding
 
+Crowd-sourced volunteers
+
 Kids app
 * Gamification
 
-# Advanced Marketing
 
-* Website
-* Facebook, Twitter, Pinterest, Instagram Profiles
-* Search Engine Optimization
-* Google+ and Google Rich Snippets
-* Facebook sharing/OpenGraph
-* Twitter Cards/Twitter Intents
-* Share buttons
-* Facebook Advertising
-* Google AdWords
-* Google Keyword Planner
-* Twitter Advertising
-
-* Google Consumer Surveys (pay)
-
-* MailChimp (email management)
-
-* Google Webmaster
-* Yahoo and Bing Webmaster
-* Google Analytics
-* Facebook Insights (analytics)
-* Twitter Analytics
-* Google AdSense (embedded advertising)
-
-* Facebook Audience Network (mobile advertising) (Pay)
 
 
 
