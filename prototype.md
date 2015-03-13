@@ -23,6 +23,11 @@ simple, intuitive
 
 Favorite passage bookmarked
 
+Sharing
+* Facebook sharing/OpenGraph
+* Twitter Cards/Twitter Intents
+* Share buttons (Facebook, Twitter, Pinterest, Instagram, Google+)
+
 Payments and Fundraising
 * Bitcoin- small payments
 * Crowd-funding
