@@ -8,6 +8,21 @@ Prioritized list of tasks users could accomplish ("user stories")
 Whole experience, start to finish:
 simple, intuitive
 
+* Login and Sign Up
+* eCommerce
+* Calendars
+* News/Activity feeds
+* Weather
+* Comments
+* Menus
+* Search
+* Galleries
+* Profiles
+* Settings
+* Lists
+* Media
+* Sharing
+
 ### Adult app
 
 * Designed for desktop and mobile
