@@ -5,7 +5,7 @@ Calling a venture [X for Y](http://avc.com/2014/01/this-for-that) is often frown
 
 ![](prototype/macbook.png)
 
-![](prototype/ipad_land_black.png)
+![](prototype/ipad_port_black.png)
 
 ![](prototype/iphone_6_plus_black_port.png)
 
