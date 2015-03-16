@@ -8,8 +8,6 @@ See [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_
 
 ![](pitch/pitch-deck.png)
 
-Financial projections- written for what audience?
-
 ## Reverse Engineering
 
 If successful, what will this venture look like?
@@ -35,6 +33,10 @@ Capital required
 
 * Seed money
 * Donated resources
+
+## Financial Projections
+
+Financial projections- written for what audience?
 
 ## Business Model
 * Key partners (who is known, who knows)
