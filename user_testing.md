@@ -40,5 +40,13 @@ Summary and analysis of findings
 
 ### User Testing Summary Report
 
+## Metrics
+
+### HEART/Goals-Signals-Metrics Framework
+
+Example [HEART/Goals-Signals-Metrics](https://www.gv.com/lib/how-to-choose-the-right-ux-metrics-for-your-product) chart from Google Ventures
+
+![](design-sprint/heart-goals-signals-metrics.png)
+
 
 
