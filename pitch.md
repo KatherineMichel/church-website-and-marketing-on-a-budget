@@ -4,12 +4,12 @@
 
 See [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_study.md) and [Prototype](prototype.md) for the inspiration for this pitch.
 
+## Pitch Slide Deck
+Financial projections- written for what audience?
+
 ## Reverse Engineering
 
 If successful, what will this venture look like?
-
-## Pitch Slide Deck
-Financial projections- written for what audience?
 
 ## Competitive Analysis
 
