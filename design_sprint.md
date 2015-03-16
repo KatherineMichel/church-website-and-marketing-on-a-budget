@@ -26,20 +26,13 @@ I would do most of the design work alone, and act as facilitator for select brai
 
 ### Lightening Demos
 
-See [Marketing As Is](marketing_as_is.md) for an analysis of Pretty Prairie United Methodist Church's marketing as is. 
-
-See [Lightning Demos](lightning_demos.md) for analysis of the websites of other area churches. 
+ See [Lightning Demos]() for analysis of.... 
 
 ### Problem Structuring and Problem Solving Methods
 
 #### Soft Systems Rich Picture
 
 #### User Story
-
-Inspiration from Snapchat for Bible study, including ephermal scripture messaging
-
-Inspiration from Snapchat Discover for portal to United Methodist content
-![](design-sprint/snapchat-discover.png)
 
 Sketch of most important user story
 
