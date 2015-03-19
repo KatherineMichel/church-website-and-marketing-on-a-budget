@@ -44,13 +44,17 @@ Mind map
 
 #### Crazy Eights
 
-Crazy Eights 
-
 ![](design-sprint/crazy-eights-1.jpg)
 
 ![](design-sprint/crazy-eights-2.jpg)
 
 ![](design-sprint/crazy-eights-3.jpg)
+
+![](design-sprint/crazy-eights-4.jpg)
+
+![](design-sprint/crazy-eights-5.jpg)
+
+![](design-sprint/crazy-eights-6.jpg)
 
 #### Storyboard
 
