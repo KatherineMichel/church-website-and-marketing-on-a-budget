@@ -24,13 +24,13 @@ I would do most of the design work alone, and act as facilitator for select brai
 
 ## Design Sprint Process
 
-### Lightening Demos
+### Lightning Demos
 
- See [Case Studies](case_studies.md) for relevant analysis of.... 
+ See [Case Studies](case_studies.md) for lightning demos of.... 
 * [The National United Methodist Church](the_national_united_methodist_church_case_study.md)
 * [LifeChurch and The Bible App](lifechurch_and_the_bible_app_case_study.md)
-* Upworthy
-* Watsi
+* [Upworthy](upworthy_case_study.md)
+* [Watsi](watsi_case_study.md)
 
 ### Problem Structuring and Problem Solving Methods
 
