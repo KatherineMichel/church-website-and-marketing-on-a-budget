@@ -15,6 +15,8 @@ Calling a venture [X for Y](http://avc.com/2014/01/this-for-that) is often frown
 iPhone 6+, iPad, iMac
 ![](prototype/iphone-6+-ipad-imac.png)
 
+![](prototype/iphone-6+-screens.png)
+
 Prioritized list of tasks users could accomplish ("user stories")
 
 Whole experience, start to finish:
