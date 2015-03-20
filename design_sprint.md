@@ -26,11 +26,12 @@ I would do most of the design work alone, and act as facilitator for select brai
 
 ### Lightening Demos
 
- See [Lightning Demos]() for analysis of.... 
+ See [Case Studies](case_studies.md) for relevant analysis of.... 
+* The national United Methodist Church
+* LifeChurch and The Bible App
+* Watsi
 
 ### Problem Structuring and Problem Solving Methods
-
-#### Soft Systems Rich Picture
 
 #### User Story
 
@@ -40,7 +41,7 @@ User story divided into parts
 
 #### Mind map
 
-Mind map 
+#### Soft Systems Rich Picture
 
 #### Crazy Eights
 
