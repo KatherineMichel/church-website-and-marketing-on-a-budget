@@ -24,7 +24,9 @@ After reviewing the Recruiter Screener responses automatically collected in a sp
 
 ### Follow Up Email
 
-In the follow up email, I requested that the prospective users reply to confirm. 
+After the phone calls, I sent each confirmed participant a follow up email. 
+
+I requested that the prospective users reply to confirm. 
 
 Though Google Ventures suggests including in the email a link to a non-disclosure agreement ([Google Ventures Example Non-Disclosure Agreement](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Sample-NDA.pdf)), I did not feel that one was needed for this situation. 
 
@@ -33,6 +35,8 @@ Though Google Ventures suggests including in the email a link to a non-disclosur
 ### Interview Guide
 
 ### Interviews
+
+See [Prototype](prototype.md)
 
 ### User Testing Summary Report
 
