@@ -28,6 +28,8 @@ Tactics between $300 and $1000
 Tactics over $1000
 ![](new-marketing-strategy/tactics-over-$1000.png)
 
+### Problem Structuring and Problem Solving Methods
+
 ### Goals and Measurable Objectives Chart
 
 [United Methodist Communications](http://www.umcom.org) suggests using a Goals and Measurable Objectives Chart as part of the [Evaluation Step](http://www.umcom.org/learn/evaluation-adjustment-resources) of its [Marketing Audit](http://www.umcom.org/learn/market-your-church-getting-started). 
