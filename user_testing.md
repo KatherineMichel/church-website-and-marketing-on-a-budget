@@ -20,7 +20,7 @@ I used [Google Forms](https://support.google.com/docs/answer/87809?hl=en) to cre
 ## Contacting Prospective Users
 
 ### Phone Call
-After choosing user testing participants, I called each one. 
+After reviewing the Recruiter Screener responses, I chose prospective user testing participants and called each one. 
 
 ### Follow Up Email
 
