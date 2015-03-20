@@ -20,13 +20,13 @@ I used [Google Forms](https://support.google.com/docs/answer/87809?hl=en) to cre
 ## Contacting Prospective Users
 
 ### Phone Call
-After reviewing the Recruiter Screener responses, I chose prospective user testing participants and called each one. 
+After reviewing the Recruiter Screener responses automatically collected in a spreadsheet in Google Drive, I chose prospective user testing participants and called each one to confirm participation. 
 
 ### Follow Up Email
 
-Though Google Ventures suggests including in the email a link to a non-disclosure agreement ([Google Ventures Example Non-Disclosure Agreement](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Sample-NDA.pdf)), I did not feel that one was needed for this situation. 
-
 In the follow up email, I requested that the prospective users reply to confirm. 
+
+Though Google Ventures suggests including in the email a link to a non-disclosure agreement ([Google Ventures Example Non-Disclosure Agreement](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Sample-NDA.pdf)), I did not feel that one was needed for this situation. 
 
 ## User Interviews
 
