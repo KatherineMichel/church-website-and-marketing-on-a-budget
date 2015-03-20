@@ -7,6 +7,14 @@ iPhone 6+, iPad, iMac
 
 ![](prototype/iphone-6+-screens.png)
 
+![](prototype/iphone-6+-screens-2.png)
+
+![](prototype/iphone-6+-screens-3.png)
+
+![](prototype/iphone-6+-screens-4.png)
+
+![](prototype/iphone-6+-screens-5.png)
+
 Inspiration from Snapchat for Bible study, including ephermal scripture messaging
 
 Inspiration from Snapchat Discover for portal to United Methodist content
