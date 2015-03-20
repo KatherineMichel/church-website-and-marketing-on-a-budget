@@ -15,14 +15,14 @@ iPhone 6+, iPad, iMac
 
 ![](prototype/iphone-6+-screens-5.png)
 
-Inspiration from Snapchat for Bible study, including ephermal scripture messaging
-
-Inspiration from Snapchat Discover for portal to United Methodist content
-
 Snapchat Homepage
 
 Snapchat Discover
 ![](prototype/snapchat-discover.png)
+
+Inspiration from Snapchat for Bible study, including ephermal scripture messaging
+
+Inspiration from Snapchat Discover for portal to United Methodist content
 
 Calling a venture [X for Y](http://avc.com/2014/01/this-for-that) is often frowned upon. I decided to do it in this case because Snapchat is synonymous with ephemeral messaging and this is a unique use case. It make for an interesting juxtaposition between the traditional and the modern.
 
