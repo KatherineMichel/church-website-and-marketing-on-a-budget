@@ -18,6 +18,8 @@ Google Ventures often uses a [Craig's List ad](http://www.gv.com/wp-content/uplo
 ## Recruiting Screener
 I used [Google Forms](https://support.google.com/docs/answer/87809?hl=en) to create the recruiting screener. The results were automatically collected in a spreadsheet in Google Drive. 
 
+![](user-testing/recruiter-screener-live.png)
+
 ## Contacting Prospective Users
 
 ### Phone Call
