@@ -24,7 +24,7 @@ After reviewing the Recruiter Screener responses automatically collected in a sp
 
 ### Follow Up Email
 
-After the phone calls, I sent each confirmed participant a follow up email. 
+After the phone calls, I sent each confirmed participant a follow up email. In each email I included...
 
 I requested that the prospective users reply to confirm. 
 
