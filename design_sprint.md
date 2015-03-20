@@ -21,7 +21,6 @@ Taking stock of resources on hand
 ### People Needed
 
 I would do most of the design work alone, and act as facilitator for select brainstorming and planning group work, particularly involving the church's Nurture Outreach Witness (NOW) Committee, which plans outreach for the church. 
-
 ## Design Sprint Process
 
 ### Lightning Demos
@@ -32,19 +31,17 @@ I would do most of the design work alone, and act as facilitator for select brai
 * [Upworthy](upworthy_case_study.md)
 * [Watsi](watsi_case_study.md)
 
-### Problem Structuring and Problem Solving Methods
-
-#### User Story
+### User Story
 
 Sketch of most important user story
 
 User story divided into parts
 
-#### Mind map
+### Mind map
 
 #### Soft Systems Rich Picture
 
-#### Crazy Eights
+### Crazy Eights
 
 ![](design-sprint/crazy-eights-1.jpg)
 
@@ -58,7 +55,7 @@ User story divided into parts
 
 ![](design-sprint/crazy-eights-6.jpg)
 
-#### Storyboard
+### Storyboard
 
 Storyboard 
 
@@ -66,6 +63,6 @@ Critiques to decide final user story
 
 Whiteboard of final user story 
 
-#### Prototype
+### Prototype
 
 See [Prototype](prototype.md)
