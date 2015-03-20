@@ -4,7 +4,7 @@
 
 ## Recruiting Screener Worksheet
 
-I filled out the Google Ventures Recruiting Screener Worksheet to prepare for user recruitment
+I filled out the Google Ventures [Recruiting Screener Worksheet](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Screener-Worksheet.pdf) to prepare for user recruitment
 ![](user-testing/recruiting-screener-worksheet.png)
 
 ## Recruiting Screener Ad
