@@ -10,6 +10,8 @@ I filled out the Google Ventures Recruiting Screener Worksheet to prepare for us
 ## Recruiting Screener Ad
 Google Ventures often uses a [Craig's List ad](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Sample-Craigslist-ad.png) to recruit users. Because members of the United Methodist Church would be the primary users, I sent an email ad to members of the congregation with a link to the [Recruiting Screener](https://docs.google.com/forms/d/16BgZQXq5FDxPuzamTADUWCKCPkizIKzR7now_lNrozM/viewform?usp=send_form). 
 
+Email Ad with link to [Recruitment Screener](https://docs.google.com/forms/d/16BgZQXq5FDxPuzamTADUWCKCPkizIKzR7now_lNrozM/viewform?usp=send_form)
+
 ## Recruiting Screener
 I used [Google Forms](https://support.google.com/docs/answer/87809?hl=en) to create the [Recruiting Screener](https://docs.google.com/forms/d/16BgZQXq5FDxPuzamTADUWCKCPkizIKzR7now_lNrozM/viewform?usp=send_form). The results were automatically collected in a spreadsheet in Google Drive. 
 
@@ -22,7 +24,7 @@ After choosing user testing participants, I called each one.
 
 ### Follow Up Email
 
-Though Google Ventures suggests including in the email a link to a non-disclosure agreement ([Google Ventures example non-disclosure agreement](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Sample-NDA.pdf)), I did not feel that one was needed for this situation. 
+Though Google Ventures suggests including in the email a link to a non-disclosure agreement ([Google Ventures Example Non-Disclosure Agreement](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Sample-NDA.pdf)), I did not feel that one was needed for this situation. 
 
 In the follow up email, I requested that the prospective users reply to confirm. 
 
