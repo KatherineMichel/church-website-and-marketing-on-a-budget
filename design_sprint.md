@@ -27,8 +27,8 @@ I would do most of the design work alone, and act as facilitator for select brai
 ### Lightening Demos
 
  See [Case Studies](case_studies.md) for relevant analysis of.... 
-* The national United Methodist Church
-* LifeChurch and The Bible App
+* The National United Methodist Church
+* [LifeChurch and The Bible App](lifechurch_and_the_bible_app_case_study.md)
 * Watsi
 
 ### Problem Structuring and Problem Solving Methods
