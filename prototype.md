@@ -13,13 +13,7 @@ Snapchat Discover
 Calling a venture [X for Y](http://avc.com/2014/01/this-for-that) is often frowned upon. I decided to do it in this case because Snapchat is synonymous with ephemeral messaging and this is a unique use case. It make for an interesting juxtaposition between the traditional and the modern.
 
 Macbook
-![](prototype/macbook.png)
-
-iPad
-![](prototype/ipad_port_black.png)
-
-iPhone 6+
-![](prototype/iphone_6_plus_black_port.png)
+![](prototype/iphone-6+-ipad-imac.png)
 
 Prioritized list of tasks users could accomplish ("user stories")
 
