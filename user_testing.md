@@ -6,12 +6,6 @@
 
 ![](user-testing/recruiting-screener-worksheet.png)
 
-Favorable user criteria 
-* United Methodist Church congregation members
-
-Unfavorable user criteria
-* Extremely technical
-
 ## Recruiting Screener Ad
 Google Ventures often uses a [Craig's List ad](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Sample-Craigslist-ad.png) to recruit users. Because members of the United Methodist Church would be the primary users, I sent an email ad to members of the congregation with a link to the recruiting screener. 
 
@@ -36,9 +30,6 @@ In the follow up email, I requested that the prospective users reply to confirm.
 ### Interview Guide
 
 ### Interviews
-Qualitative and quantitative data
-
-Summary and analysis of findings
 
 ### User Testing Summary Report
 
