@@ -1,4 +1,4 @@
-# National United Methodist Church Case Study
+# The National United Methodist Church Case Study
 
 What's the matter with the [United Methodist Church](http://www.umc.org)? Looking at the steady decline of interest in the United Methodist Church and how it can be fixed.
 
