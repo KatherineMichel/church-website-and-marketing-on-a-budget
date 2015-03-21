@@ -29,6 +29,8 @@ Mobile App Screen Mockups (iPhone 6+)
 ## Highlights
 Incorporating proven best practices
 
+Similarly to pinterest- audience expected to be predominantly women
+
 Questionnaire to customize content (Machine Learning)
 
 Product tour (AirBnB)
