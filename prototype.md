@@ -54,6 +54,8 @@ Payments and Fundraising
 * Bitcoin- small payments
 * Crowd-funding
 
+Twitter card/marketplace ads
+
 On Demand Prayer
 * Crowd-sourced volunteers
 
