@@ -27,6 +27,12 @@ Mobile App Screen Mockups (iPhone 6+)
 ![](prototype/iphone-6+-screens-5.png)
 
 ## Highlights
+Incorporating proven best practices
+
+Questionnaire to customize content (Machine Learning)
+
+Product tour (AirBnB)
+
 Portal to United Methodist content inspired by Snapchat Discover
 
 United Methodist Content Portal
