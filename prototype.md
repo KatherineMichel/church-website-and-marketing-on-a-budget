@@ -20,6 +20,17 @@ iPhone 6+, iPad, iMac
 
 Below are mock ups of the end-to-end mobile app experience, from start to finish. The experience is simple and intuitive. 
 
+* Login and Sign Up
+* Settings
+* Menus
+* Profiles
+* News/Activity feeds
+* Sharing
+* Comments
+* eCommerce
+* Galleries
+* Calendars
+
 Mobile App Screen Mockups (iPhone 6+)
 ![](prototype/iphone-6+-screens-1.png)
 
