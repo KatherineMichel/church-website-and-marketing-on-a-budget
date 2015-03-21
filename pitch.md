@@ -14,6 +14,8 @@ If successful, what will this venture look like?
 
 ## Competitive Analysis
 
+Churches- highly competitive marketplace
+
 ### Idea Maze
 * Who are competitors? 
 * How does their product compare?
