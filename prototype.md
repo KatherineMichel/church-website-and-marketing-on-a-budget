@@ -19,8 +19,9 @@ Mobile App Screen Mockups (iPhone 6+)
 
 ![](prototype/iphone-6+-screens-5.png)
 
+* Website and Discover
 
-* Website
+OKRs
 
 * Search Engine Optimization
 * Google+ and Google Rich Snippets
@@ -29,12 +30,12 @@ Mobile App Screen Mockups (iPhone 6+)
 * Google+
 
 * Facebook profile
-* Facebook sharing/OpenGraph
-* Facebook Advertising
+* Facebook sharing (OpenGraph)
+* Facebook ad
 
 * Twitter profile
 * Twitter sharing
-* Twitter Advertising
+* Twitter ad
 * Twitter Cards/Twitter Intents
 
 * Pinterest, Instagram profiles/sharing
