@@ -39,6 +39,15 @@ Bible Study
 
 Marketplace
 
+Payments and Fundraising
+* Bitcoin- small payments
+* Crowd-funding
+
+On Demand Prayer
+* Crowd-sourced volunteers
+
+## Bonus: App for Kids
+
 ## Discovery Engine
 
 ### Google
