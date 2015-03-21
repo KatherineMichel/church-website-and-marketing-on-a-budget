@@ -90,6 +90,7 @@ On Demand Prayer
 * Google AdWords
 * Google Keyword Planner
 * Google+
+* Verify Local business
 
 ### Website
 
