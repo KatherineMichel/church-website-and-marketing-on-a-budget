@@ -28,6 +28,13 @@ Tactics between $300 and $1000
 Tactics over $1000
 ![](new-marketing-strategy/tactics-over-$1000.png)
 
+Audiences, tactics, and resources
+
+Look at a list of possible methods suited to available resources
+
+Analyze target audiences to determine which methods would be suitable to each audience
+Prioritize tactics
+
 ### Problem Structuring and Problem Solving Methods
 
 ### Goals and Measurable Objectives Chart
