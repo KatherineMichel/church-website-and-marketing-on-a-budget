@@ -1,13 +1,6 @@
 # Prototype
 
-##National Church Re-Imagined :)
-
-* Minimalistic design as much as possible, simplified view of subject matter at front and center (accessible), resource directories based on subject
-* Re-organize umc.org subject matter, prioritize
-* Info delivered in small bites
-* Design for multiple devices (example. more mobile use in the developing world)
-
-Proposed Menu
+## National Church Re-Imagined :)
 
 ## Platforms
 Designed for desktop and mobile
@@ -20,18 +13,7 @@ iPhone 6+, iPad, iMac
 * iPhone
 * Others targeted to the poor (i.e. What's App)
 
-Below are mock ups of the end-to-end mobile app experience, from start to finish. The experience is simple and intuitive. 
-
-* Login and Sign Up
-* Settings
-* Menus
-* Profiles
-* News/Activity feeds
-* Sharing
-* Comments
-* eCommerce
-* Galleries
-* Calendars
+Below are mock ups of the end-to-end mobile app experience, from start to finish. 
 
 Mobile App Screen Mockups (iPhone 6+)
 ![](prototype/iphone-6+-screens-1.png)
@@ -46,6 +28,26 @@ Mobile App Screen Mockups (iPhone 6+)
 
 ## Highlights
 Incorporating proven best practices
+
+* Minimalistic design as much as possible, simplified view of subject matter at front and center (accessible), resource directories based on subject
+* Re-organize umc.org subject matter, prioritize
+* Info delivered in small bites
+* Design for multiple devices (example. more mobile use in the developing world)
+
+Proposed Menu
+
+The experience is simple and intuitive. 
+
+* Login and Sign Up
+* Settings
+* Menus
+* Profiles
+* News/Activity feeds
+* Sharing
+* Comments
+* eCommerce
+* Galleries
+* Calendars
 
 What deals/partnerships could be created; how could this lead or success or increase incentives?
 
