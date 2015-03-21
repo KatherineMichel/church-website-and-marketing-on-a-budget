@@ -108,3 +108,5 @@ On Demand Prayer
 
 ### Pinterest and Instagram
 * Pinterest, Instagram profiles/sharing
+
+Example Mailchimp Template Design
