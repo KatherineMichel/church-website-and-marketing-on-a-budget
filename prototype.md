@@ -26,8 +26,6 @@ Snapchat Homepage
 Snapchat Discover
 ![](prototype/snapchat-discover.png)
 
-OKRs
-
 * Search Engine Optimization
 * Google+ and Google Rich Snippets
 * Google AdWords
