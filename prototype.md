@@ -8,11 +8,6 @@ Designed for desktop and mobile
 iPhone 6+, iPad, iMac
 ![](prototype/iphone-6+-ipad-imac.png)
 
-* Desktop
-* Android
-* iPhone
-* Others targeted to the poor (i.e. What's App)
-
 Below are mock ups of the end-to-end mobile app experience, from start to finish. 
 
 Mobile App Screen Mockups (iPhone 6+)
@@ -28,6 +23,12 @@ Mobile App Screen Mockups (iPhone 6+)
 
 ## Highlights
 Incorporating proven best practices
+
+Platforms
+* Desktop
+* Android
+* iPhone
+* Others targeted to the poor (i.e. What's App)
 
 * Minimalistic design as much as possible, simplified view of subject matter at front and center (accessible), resource directories based on subject
 * Re-organize umc.org subject matter, prioritize
