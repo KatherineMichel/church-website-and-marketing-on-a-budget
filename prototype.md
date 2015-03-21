@@ -29,6 +29,8 @@ Mobile App Screen Mockups (iPhone 6+)
 ## Highlights
 Incorporating proven best practices
 
+What deals/partnerships could be created; how could this lead or success or increase incentives?
+
 Similarly to pinterest- audience expected to be predominantly women
 
 Questionnaire to customize content (Machine Learning)
