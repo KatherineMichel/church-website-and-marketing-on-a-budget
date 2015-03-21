@@ -8,6 +8,8 @@ Designed for desktop and mobile
 iPhone 6+, iPad, iMac
 ![](prototype/iphone-6+-ipad-imac.png)
 
+Below are mock ups of the end-to-end mobile app experience, from start to finish. The experience is simple and intuitive. 
+
 Mobile App Screen Mockups (iPhone 6+)
 ![](prototype/iphone-6+-screens-1.png)
 
