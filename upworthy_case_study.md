@@ -2,6 +2,8 @@
 
 [Upworthy](http://www.upworthy.com)'s rise as "the fastest-growing media site in history" (with a mission for social good), and downfall.
 
+Lesson of Upworthy, similarly to API use: develop independence/full stack
+
 ## Google Trends Graph for Phrase "Upworthy"
 
 Google Trends graph for the phrase ["Upworthy" (region: worldwide)](http://www.google.com/trends/explore#q=Upworthy), from 2004 to 2015. [Upworthy](http://www.upworthy.com) was founded in 2012. 
