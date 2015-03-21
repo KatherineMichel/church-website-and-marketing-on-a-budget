@@ -2,6 +2,11 @@
 
 ##National Church Re-Imagined :)
 
+* Minimalistic design as much as possible, simplified view of subject matter at front and center (accessible), resource directories based on subject
+* Re-organize umc.org subject matter, prioritize
+* Info delivered in small bites
+* Design for multiple devices (example. more mobile use in the developing world)
+
 ## Platforms
 Designed for desktop and mobile
 
