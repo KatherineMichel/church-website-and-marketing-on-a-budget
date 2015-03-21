@@ -37,6 +37,8 @@ Sketch of most important user story
 
 Prioritized list of tasks users could accomplish
 
+Pain points
+
 User story divided into parts
 
 ### Mind map
