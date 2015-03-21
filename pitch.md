@@ -55,6 +55,13 @@ Financial projections- written for what audience?
 Cost Structure/Revenue Streams
 More than one cash flow source?
 
+### Example Business Model
+* Donations (self-sustaining?)
+* Freemium (in-app purchases, ads)
+* Freemium for certain amount of time (ex. What's App was free for a year, then $.99, available on many devices, helped popularity)
+* Paid (may cause some users to be excluded)
+* Price varies based on device used (iPhones more expensive/users tend to spend more)
+
 ## Talent
 * Are people of the right skill level on the team?
 * If not, can people of the right skill level be recruited?
