@@ -31,7 +31,11 @@ Snapchat Discover
 
 Bible Study
 
-Bible passages as scheduled ephemeral messages
+* Online Bible 
+* Can read, highlight, bookmark, and share favorite passages on social networks
+* Can receive Bible passages (randomly chosen or as part of a study plan) as scheduled ephemeral messages
+* Language translation
+* Accessibility
 
 Marketplace
 
