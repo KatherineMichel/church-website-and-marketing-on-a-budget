@@ -35,6 +35,8 @@ I would do most of the design work alone, and act as facilitator for select brai
 
 Sketch of most important user story
 
+Prioritized list of tasks users could accomplish
+
 User story divided into parts
 
 ### Mind map
