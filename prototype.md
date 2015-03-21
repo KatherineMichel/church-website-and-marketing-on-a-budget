@@ -21,6 +21,14 @@ Mobile App Screen Mockups (iPhone 6+)
 
 ![](prototype/iphone-6+-screens-5.png)
 
+## Highlights
+Portal to United Methodist content inspired by Snapchat Discover
+
+United Methodist Content Portal
+
+Snapchat Discover
+![](prototype/snapchat-discover.png)
+
 ## Discovery Engine
 
 ### Google
