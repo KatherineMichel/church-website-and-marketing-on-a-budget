@@ -7,6 +7,11 @@
 I filled out the Google Ventures [Recruiting Screener Worksheet](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Screener-Worksheet.pdf) to prepare for user recruitment
 ![](user-testing/recruiting-screener-worksheet.png)
 
+Favorable user criteria 
+* United Methodist Church congregation members
+Unfavorable user criteria
+* Extremely technical
+
 ## Recruiting Screener Ad
 Google Ventures often uses a [Craig's List ad](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Sample-Craigslist-ad.png) to recruit users. Because members of the United Methodist Church would be the primary users, I sent an email ad to members of the congregation with a link to the [Recruiting Screener](https://docs.google.com/forms/d/16BgZQXq5FDxPuzamTADUWCKCPkizIKzR7now_lNrozM/viewform?usp=send_form). 
 
@@ -39,6 +44,10 @@ Though Google Ventures suggests including in the email a link to a non-disclosur
 See [Prototype](prototype.md)
 
 ### User Testing Summary Report
+
+Qualitative and quantitative data
+
+Summary and analysis of findings
 
 ## Metrics
 
