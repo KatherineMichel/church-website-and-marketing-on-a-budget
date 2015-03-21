@@ -21,21 +21,26 @@ Mobile App Screen Mockups (iPhone 6+)
 
 ## Discovery Engine
 
-* Website and Discover
-
+### Google
 * Search Engine Optimization
 * Google+ and Google Rich Snippets
 * Google AdWords
 * Google Keyword Planner
 * Google+
 
+### Website
+
+### Facebook
+
 * Facebook profile
 * Facebook sharing (OpenGraph)
 * Facebook ad
 
+### Twitter
 * Twitter profile
 * Twitter sharing
 * Twitter ad
 * Twitter Cards/Twitter Intents
 
+### Pinterest and Instagram
 * Pinterest, Instagram profiles/sharing
