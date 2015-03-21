@@ -21,6 +21,11 @@ Mobile App Screen Mockups (iPhone 6+)
 
 * Website and Discover
 
+Snapchat Homepage
+
+Snapchat Discover
+![](prototype/snapchat-discover.png)
+
 OKRs
 
 * Search Engine Optimization
