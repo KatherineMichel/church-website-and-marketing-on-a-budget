@@ -29,6 +29,12 @@ United Methodist Content Portal
 Snapchat Discover
 ![](prototype/snapchat-discover.png)
 
+Bible Study
+
+Ephermal scripture messages
+
+Marketplace
+
 ## Discovery Engine
 
 ### Google
