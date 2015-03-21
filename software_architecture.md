@@ -26,4 +26,7 @@ JSON
 * The need to refactor code/architecture
 * Should maintain a full-stack architecture anytime possible
 
-Lesson of Upworthy, similarly to API use: develop independence/full stack
+LAMP/Software Stack
+Options/Tiers
+Digital Ocean, Heroku/AWS/Googleapps, Cloud Computing
+Performance Considerations
