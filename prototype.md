@@ -8,6 +8,11 @@ Designed for desktop and mobile
 iPhone 6+, iPad, iMac
 ![](prototype/iphone-6+-ipad-imac.png)
 
+* Desktop
+* Android
+* iPhone
+* Others targeted to the poor (i.e. What's App)
+
 Below are mock ups of the end-to-end mobile app experience, from start to finish. The experience is simple and intuitive. 
 
 Mobile App Screen Mockups (iPhone 6+)
@@ -47,6 +52,7 @@ On Demand Prayer
 * Crowd-sourced volunteers
 
 ## Bonus: App for Kids
+* Gamification
 
 ## Discovery Engine
 
