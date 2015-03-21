@@ -3,6 +3,8 @@
 ## National Church Re-Imagined :)
 (Coming soon) 
 
+Designed for desktop and mobile
+
 iPhone 6+, iPad, iMac
 ![](prototype/iphone-6+-ipad-imac.png)
 
