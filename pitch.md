@@ -119,5 +119,18 @@ Who to target and how (prioritization)
 * Direct Search Discovery
 * Top- App Stores (Google Play/Apple iTunes), Google Search
 
+### Other
+* Google Consumer Surveys (pay)
+
+* MailChimp (email management)
+
+* Google Webmaster and Analytics
+* Yahoo and Bing Webmaster
+* Facebook Insights (analytics)
+* Twitter Analytics
+
+* Google AdSense (embedded advertising)
+* Facebook Audience Network (mobile advertising) (Pay)
+
 
 
