@@ -1,8 +1,8 @@
 # Prototype
 
-## National Church Re-Imagined :)
-(Coming soon) 
+##National Church Re-Imagined :)
 
+## Platforms
 Designed for desktop and mobile
 
 iPhone 6+, iPad, iMac
@@ -18,6 +18,8 @@ Mobile App Screen Mockups (iPhone 6+)
 ![](prototype/iphone-6+-screens-4.png)
 
 ![](prototype/iphone-6+-screens-5.png)
+
+## Discovery Engine
 
 * Website and Discover
 
