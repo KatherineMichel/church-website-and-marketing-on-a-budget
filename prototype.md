@@ -21,11 +21,6 @@ Mobile App Screen Mockups (iPhone 6+)
 
 * Website and Discover
 
-Snapchat Homepage
-
-Snapchat Discover
-![](prototype/snapchat-discover.png)
-
 * Search Engine Optimization
 * Google+ and Google Rich Snippets
 * Google AdWords
