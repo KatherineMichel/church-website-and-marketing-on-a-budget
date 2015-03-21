@@ -7,6 +7,8 @@
 * Info delivered in small bites
 * Design for multiple devices (example. more mobile use in the developing world)
 
+Proposed Menu
+
 ## Platforms
 Designed for desktop and mobile
 
