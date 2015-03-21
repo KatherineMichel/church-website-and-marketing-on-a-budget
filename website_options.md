@@ -29,7 +29,7 @@ United Methodist Church Web Hosting was initially attractive due to:
 * Its affiliation with the church, including church-related content
 * The user-friendliness of the WordPress content management system 
 
-Stained glass window mockup using [Mogue File photo](http://www.morguefile.com/archive/display/67223)
+Stained glass window mockup using [Morgue File photo](http://www.morguefile.com/archive/display/67223)
 ![](web-hosting-options/catching-everest-stained-glass-window-theme-desktop-mockup.jpg)
 
 Stained glass window mockup using pic of Pretty Prairie UMC stained glass window
