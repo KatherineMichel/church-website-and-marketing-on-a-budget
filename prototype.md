@@ -31,7 +31,7 @@ Snapchat Discover
 
 Bible Study
 
-Ephermal scripture messages
+Bible passages as scheduled ephemeral messages
 
 Marketplace
 
