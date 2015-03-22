@@ -30,6 +30,8 @@ LifeChurch franchise...
 
 The Bible App is the top search result for "Bible app" in Google search. 
 
+![](lifechurch-bible-app/google-search-bible-app.png)
+
 The Bible App is the top search result for "Bible app" in Google Play Store (Android), closely followed by the Kid's Bible App
 ![](lifechurch-bible-app/google-play-search-bible-app.png)
 
