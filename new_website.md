@@ -1,5 +1,7 @@
 # New Website
 
+![](new-marketing-materials/new-website-iphone-6+-ipad-imac.png)
+
 The church website was very reasonably priced. The design has a clean, modern, minimalistic look, with a lightweight, responsive layout that adapts well from desktop to mobile. The user experience (UI) is intuitive.
 For more info about the selection process, go to [Website Options](website_options.md). 
 
