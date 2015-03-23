@@ -38,7 +38,7 @@ Stained glass window mockup using pic of Pretty Prairie UMC stained glass window
 Sunflowers mockup using [Morgue File photo](http://www.morguefile.com/archive/display/662765)
 ![](web-hosting-options/catching-everest-sunflowers-theme-desktop-mockup-white.jpg)
 
-Final verdict: The United Methodist Web Hosting templates that I liked the best were three very popular and similar looking WordPress templates called [Twenty Eleven](https://wordpress.org/themes/twentyeleven), [Twenty Twelve](https://wordpress.org/themes/twentytwelve), and [Catching Everest](https://wordpress.org/themes/catch-everest). Notably, (see [Lightning Demos](lightning_demos.md)), nearby New Jerusalem Church is already using one of these templates (the [Twenty Eleven](https://wordpress.org/themes/twentyeleven) theme). Because of this, I decided to forgo the United Methodist Web Hosting in order to have something unique to Pretty Prairie United Methodist Church. 
+Final verdict: The United Methodist Web Hosting templates that I liked the best were three very popular and similar looking WordPress templates called [Twenty Eleven](https://wordpress.org/themes/twentyeleven), [Twenty Twelve](https://wordpress.org/themes/twentytwelve), and [Catching Everest](https://wordpress.org/themes/catch-everest). Notably, nearby New Jerusalem Church is already using one of these templates (the [Twenty Eleven](https://wordpress.org/themes/twentyeleven) theme, see [Lightning Demos](lightning_demos.md)). Because of this, I decided to forgo the United Methodist Web Hosting in order to have something unique to Pretty Prairie United Methodist Church. 
 
 ## Ezekiel 
 
