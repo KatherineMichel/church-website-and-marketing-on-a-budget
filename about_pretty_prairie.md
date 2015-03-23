@@ -30,6 +30,7 @@ Google Trends search interest graph showing increased interest every July for ph
 * A post office ([Pretty Prairie Post Office](http://www.uspspostoffices.com/ks/pretty-prairie/pretty-prairie))
 * A city office
 * Four churches
+* A newspaper
 * A nursing home ([Pretty Prairie Sunset Home](http://prairiesunsethome.org))
 * A bank ([Citizens Bank of Kansas](https://www.citizensbankofkansas.com/MyCommunity/MyLocations/PrettyPrairie))
 * A gas station
