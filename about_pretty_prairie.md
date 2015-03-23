@@ -1,10 +1,10 @@
 # About Pretty Prairie
 
-Pretty Prairie downtown- spring
-![](pretty-prairie-downtown.jpg)
-
 Pretty Prairie downtown- winter
 ![](pretty-prairie-downtown-snow.jpg)
+
+Pretty Prairie downtown- spring
+![](pretty-prairie-downtown.jpg)
 
 These two pictures were actually taken one week apart :) 
 
