@@ -6,6 +6,10 @@ Templates in both color and black-and-white will be used to address the impracti
 
 ## New Website
 
+new-website-iphone-6+-ipad-imac.png
+
+![](new-marketing-materials/new-website-iphone-6+-ipad-imac.png)
+
 ![](new-marketing-materials/new-website-iphone-6+-ipad-imac.png)
 
 New website home page: [www.prettyprairieumc.org](www.prettyprairieumc.org)<br>
