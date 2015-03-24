@@ -13,7 +13,9 @@ Church Vision Statement
 Church Mission Statement
 ![](new-marketing-strategy/mission-statement.jpg)
 
-## Reverse Engineering for Success
+## Problem Structuring and Problem Solving Methods
+
+### Reverse Engineering for Success
 * What does a successful Pretty Prairie United Methodist Church look like?
 * Whom should the church reach?
 * How should the church reach them?
@@ -38,8 +40,6 @@ Look at a list of possible methods suited to available resources
 
 Analyze target audiences to determine which methods would be suitable to each audience
 Prioritize tactics
-
-### Problem Structuring and Problem Solving Methods
 
 ### Goals and Measurable Objectives Chart
 
