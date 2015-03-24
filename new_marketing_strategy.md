@@ -10,6 +10,7 @@ Members of the Nurture, Outreach, Witness (NOW) Committee would begin to collabo
 * Whom should the church reach?
 * How should the church reach them?
 
+First we would reflect on the existing Vision and Mission Statements
 ### Pretty Prairie United Methodist Church Vision and Mission Statements
 
 ![](new-marketing-strategy/vision-statement.jpg)
