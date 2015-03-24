@@ -46,7 +46,7 @@ User story divided into parts
 #### Soft Systems Rich Picture
 
 ### Crazy Eights/Storyboard 
-What I intended to be Crazy Eights become something as detailed as a storyboard. I felt that after a critique, I could move on to a prototype. 
+What I intended to be Crazy Eights become more like a Storyboard. I felt that after a critique, I could move on to a prototype. 
 
 ![](design-sprint/crazy-eights-1.jpg)
 
