@@ -1,5 +1,5 @@
 # New Marketing Strategy
-The new marketing strategy would incorporate both traditional and modern methods in order to fit with changing lifestyles, and to reach the most people possible, perhaps even beyond city boundaries. 
+The new marketing strategy would incorporate both traditional and modern methods in order to fit with changing lifestyles, and reach the most people possible, perhaps even beyond city boundaries. The strategy would also be as cost effective as possible. 
 
 ## Reverse Engineering for Success
 * What does a successful Pretty Prairie United Methodist Church look like?
