@@ -59,6 +59,8 @@ User story divided into parts
 
 ![](design-sprint/crazy-eights-6.jpg)
 
+![](design-sprint/crazy-eights-7.jpg)
+
 ### Storyboard
 
 Storyboard 
