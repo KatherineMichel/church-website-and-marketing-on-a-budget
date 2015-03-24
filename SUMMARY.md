@@ -12,6 +12,7 @@
    * [New Marketing Materials](new_marketing_materials.md)
    * [New Website](new_website.md)
    * [New Marketing Strategy](new_marketing_strategy.md)
+   * Facilitation
 * [Part 2: The National Church Re-Imagined :)](the_national_united_methodist_church_re-imagined.md)
    * [Research and Design Sprint](research_and_design_sprint.md)
    * [Research Sprint](research_sprint.md)
