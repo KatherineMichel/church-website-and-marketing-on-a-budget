@@ -45,7 +45,8 @@ User story divided into parts
 
 #### Soft Systems Rich Picture
 
-### Crazy Eights
+### Crazy Eights/Storyboard 
+What I intended to be Crazy Eights become something as detailed as a storyboard. I felt that after a critique, I could move on to a prototype. 
 
 ![](design-sprint/crazy-eights-1.jpg)
 
@@ -61,13 +62,9 @@ User story divided into parts
 
 ![](design-sprint/crazy-eights-7.jpg)
 
-### Storyboard
-
-Storyboard 
+### Final User Story
 
 Critiques to decide final user story
-
-Whiteboard of final user story 
 
 ### Prototype
 
