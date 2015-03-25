@@ -1,8 +1,9 @@
 # Church Image Re-Brand
 
-## Contemporary Multi-Media
+## New Sanctuary Equipment
+As part of the church's revitalization effort, a generous donation was made by an anonymous donor to purchase new screens and a laptop for the church sanctuary, to be used to play contemporary videos and music, and to project the words of the hymns. 
 
-## Marketing Materials
+## Marketing Materials Re-Brand
 Like the Pretty Prairie United Methodist Church itself, the new church branding for the website and marketing materials beautifully blend the traditional and contemporary by incorporating the traditional United Methodist Church [black cross and flame](http://cdnfiles.umc.org/Website_Properties/Resources/graphics-library/cross-and-flame-bw-1058x1818.png) with a contemporary sunflower motif. 
 
 Black cross and flame
