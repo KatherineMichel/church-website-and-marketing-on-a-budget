@@ -1,6 +1,8 @@
 # New Marketing Strategy
 The new marketing strategy would incorporate both traditional and modern methods in order to fit with changing lifestyles, and reach the most people possible, perhaps even beyond city boundaries. The strategy would also be as cost effective as possible. 
 
+## New Sanctuary Equipment
+
 ## Example Budget and Plan
 
 ### Tier 1 Outreach (Basic)
@@ -111,8 +113,6 @@ Google AdWords reach
 Members of the church are less likely to use Twitter. However, Twitter is an option to keep in mind, particularly for reaching the public at large. 
 
 Twitter has a [Faith Playbook](https://media.twitter.com/playbook/faith-organizations) for faith organizations, and religious ads can be occasionally found on Twitter. 
-
-## New Sanctuary Equipment
 
 
 
