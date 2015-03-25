@@ -1,5 +1,7 @@
 # Church Image Re-Brand
 
+## Contemporary Multi Media
+
 ## Marketing Materials
 Like the Pretty Prairie United Methodist Church itself, the new church branding for the website and marketing materials will beautifully blend the traditional and contemporary by incorporating the traditional United Methodist Church [black cross and flame](http://cdnfiles.umc.org/Website_Properties/Resources/graphics-library/cross-and-flame-bw-1058x1818.png) with a contemporary sunflower motif. 
 
