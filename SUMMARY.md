@@ -13,7 +13,7 @@
    * [New Website](new_website.md)
    * [Facilitation](facilitation.md)
    * [New Marketing Strategy](new_marketing_strategy.md)
-   * Small Membership Church Revitalization Case Study
+   * [Small Membership Church Revitalization Case Study](small_membership_church_revitalization_case_study.md)
 * [Part 2: The National Church Re-Imagined :)](the_national_united_methodist_church_re-imagined.md)
    * [Research and Design Sprint](research_and_design_sprint.md)
    * [Research Sprint](research_sprint.md)
