@@ -26,13 +26,19 @@ Marketing Worksheet Demographic Sheet
 ![](new-marketing-strategy/demographics-sheet.jpg)
 
 Tactics less than $300
+<center>
 ![](new-marketing-strategy/tactics-less-than-$300.png)
+</center>
 
 Tactics between $300 and $1000
+<center>
 ![](new-marketing-strategy/tactics-$300-$1000.png)
+</center>
 
 Tactics over $1000
+<center>
 ![](new-marketing-strategy/tactics-over-$1000.png)
+</center>
 
 Audiences, tactics, and resources
 
