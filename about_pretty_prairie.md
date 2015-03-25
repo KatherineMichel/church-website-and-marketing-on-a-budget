@@ -44,19 +44,6 @@ Google Trends search interest graph showing increased interest every July for ph
 ## Work
 A number of Pretty Prairie residents work locally (farmers, teachers, police, city workers, ect.), or commute to other nearby cities (Kingman, Hutchinson, Wichita, ect.) for work (business people, machine operators, ect.). Though the cost of living may be lower, the price of gas and time spent commuting also have to be considered. Meanwhile, the outskirts of Wichita are steadily expanding outward. Still, the Pretty Prairie population remains fairly constant (~688). 
 
-### Nielson Company Demographic Info
 
-Through the national United Methodist Church Communications Office, I obtained the most recent Nielson Company demographic info for the city of Pretty Prairie, Kansas. 
 
-Pretty Prairie has a population of ~688.
-
-Pretty Prairie [Area Map](https://drive.google.com/file/d/0B02bpu7HZwJRaVp5dGNMOUpYbU0/view?usp=sharing)
-
-[Executive Summary](https://drive.google.com/file/d/0B02bpu7HZwJRMFJTM3BWZXprbWM/view?usp=sharing)
-
-[Household Trends](https://drive.google.com/file/d/0B02bpu7HZwJRV1dnSGplRUxmMDg/view?usp=sharing)
-
-[Pop-Facts: Census Demographic Overview 2014 Report](https://drive.google.com/file/d/0B02bpu7HZwJRSHFwVm5kX0FHMmc/view?usp=sharing)
-
-[Population by Age and Race Trend 2014](https://drive.google.com/file/d/0B02bpu7HZwJRelJTXzd1XzVWUE0/view?usp=sharing)
 
