@@ -12,10 +12,10 @@ These two pictures were actually taken one week apart :)
 [Pretty Prairie](http://en.wikipedia.org/wiki/Pretty_Prairie,_Kansas) (population ~688) is in central Kansas, U.S.A....
 ![](google-maps-and-trends/google-map-usa-pretty-prairie.png)
 
-...southwest of [Kansas City](http://en.wikipedia.org/wiki/Kansas_City_metropolitan_area) and due west of [Wichita](http://en.wikipedia.org/wiki/Wichita,_Kansas)...
+...241 miles southwest of [Kansas City, Kansas](http://en.wikipedia.org/wiki/Kansas_City_metropolitan_area) and 45.9 miles due west of [Wichita](http://en.wikipedia.org/wiki/Wichita,_Kansas)...
 ![](google-maps-and-trends/google-map-pretty-prairie-kansas.png)
 
-... north of [Kingman](http://en.wikipedia.org/wiki/Kingman,_Kansas) (population 3,177), south of [Hutchinson](http://en.wikipedia.org/wiki/Hutchinson,_Kansas) (population 42,080), and near the [Amish](http://en.wikipedia.org/wiki/Amish) community of [Yoder](http://en.wikipedia.org/wiki/Yoder,_Kansas) (population 194)
+...24.9 miles south of [Hutchinson](http://en.wikipedia.org/wiki/Hutchinson,_Kansas) (population 42,080), 13.7 miles north of [Kingman](http://en.wikipedia.org/wiki/Kingman,_Kansas) (population 3,177), and 21.7 miles southwest of the [Amish](http://en.wikipedia.org/wiki/Amish) community of [Yoder](http://en.wikipedia.org/wiki/Yoder,_Kansas) (population 194)
 ![](google-maps-and-trends/google-map-pretty-prairie-wichita.png) 
 
 ## Harvest and Pretty Prairie Rodeo
