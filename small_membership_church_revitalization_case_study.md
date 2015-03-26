@@ -6,3 +6,5 @@ Great Plains [Small Membership Church Ministries](http://www.greatplainsumc.org/
 
 [Annual Church Health Check Up](http://www.umcom.org/learn/take-an-annual-church-health-checkup)
 
+[Rethink Church](http://www.umcom.org/rethink-church)
+
