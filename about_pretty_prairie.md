@@ -26,7 +26,7 @@ These two pictures were actually taken one week apart :)
 | Kingman | 3,177 |
 | Yoder | 194 |
 | Hutchinson | 42,080 |
-| Wichita | 42,080 |
+| Wichita | 386,552 (city)/637,394 (metro) |
 
 ## Harvest and Pretty Prairie Rodeo
 Pretty Prairie is a very quiet place, except for every June when Harvest happens and July when Pretty Prairie hosts the world famous 
