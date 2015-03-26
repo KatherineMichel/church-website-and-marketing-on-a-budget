@@ -1,13 +1,5 @@
 # About Pretty Prairie
 
-Pretty Prairie downtown- winter
-![](pretty-prairie/pretty-prairie-downtown-snow.jpg)
-
-Pretty Prairie downtown- spring
-![](pretty-prairie/pretty-prairie-downtown.jpg)
-
-These two pictures were actually taken one week apart :) 
-
 ## Location
 [Pretty Prairie](http://en.wikipedia.org/wiki/Pretty_Prairie,_Kansas) (population ~688) is in central Kansas, U.S.A....
 ![](google-maps-and-trends/google-map-usa-pretty-prairie.png)
@@ -27,6 +19,17 @@ These two pictures were actually taken one week apart :)
 | Yoder | 194 |
 | Hutchinson | 42,080 |
 | Wichita | 386,552 (city)/637,394 (metro) |
+
+## Climate
+Pretty Prairie is very cold in the winter and warm in the summer. Pretty Prairie is in "tornado alley," and the weather is known to be erratic from time to time. 
+
+Pretty Prairie downtown- winter
+![](pretty-prairie/pretty-prairie-downtown-snow.jpg)
+
+Pretty Prairie downtown- spring
+![](pretty-prairie/pretty-prairie-downtown.jpg)
+
+These two pictures were actually taken one week apart :) 
 
 ## Harvest and Pretty Prairie Rodeo
 Pretty Prairie is a very quiet place, except for every June when Harvest happens and July when Pretty Prairie hosts the world famous 
