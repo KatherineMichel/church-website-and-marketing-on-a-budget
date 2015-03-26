@@ -1,10 +1,10 @@
 # About Pretty Prairie
 
 Pretty Prairie downtown- winter
-![](pretty-prairie-downtown-snow.jpg)
+![](pretty-prairie/pretty-prairie-downtown-snow.jpg)
 
 Pretty Prairie downtown- spring
-![](pretty-prairie-downtown.jpg)
+![](pretty-prairie/pretty-prairie-downtown.jpg)
 
 These two pictures were actually taken one week apart :) 
 
@@ -31,6 +31,8 @@ These two pictures were actually taken one week apart :)
 ## Harvest and Pretty Prairie Rodeo
 Pretty Prairie is a very quiet place, except for every June when Harvest happens and July when Pretty Prairie hosts the world famous 
 [Pretty Prairie Rodeo](http://www.pprodeo.com) (the largest night rodeo in Kansas). 
+
+![](pretty-prairie/pretty-prairie-rodeo.jpg)
 
 Google Trends search interest graph showing increased interest every July for phrase ["Pretty Prairie" (region: worldwide)](http://www.google.com/trends/explore#q=pretty%20prairie) 
 ![](google-maps-and-trends/google-trends-pretty-prairie-worldwide.png)
