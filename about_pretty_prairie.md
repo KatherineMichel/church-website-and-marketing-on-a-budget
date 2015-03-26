@@ -32,6 +32,7 @@ These two pictures were actually taken one week apart :)
 Pretty Prairie is a very quiet place, except for every June when Harvest happens and July when Pretty Prairie hosts the world famous 
 [Pretty Prairie Rodeo](http://www.pprodeo.com) (the largest night rodeo in Kansas). 
 
+Pretty Prairie Rodeo arena entrance
 ![](pretty-prairie/pretty-prairie-rodeo.jpg)
 
 Google Trends search interest graph showing increased interest every July for phrase ["Pretty Prairie" (region: worldwide)](http://www.google.com/trends/explore#q=pretty%20prairie) 
