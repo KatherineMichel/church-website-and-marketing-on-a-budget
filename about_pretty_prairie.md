@@ -16,7 +16,7 @@ These two pictures were actually taken one week apart :)
 ![](google-maps-and-trends/google-map-pretty-prairie-kansas.png)
 
 ...24.9 miles south of [Hutchinson](http://en.wikipedia.org/wiki/Hutchinson,_Kansas) (population 42,080), 13.7 miles north of [Kingman](http://en.wikipedia.org/wiki/Kingman,_Kansas) (population 3,177), and 21.7 miles southwest of the [Amish](http://en.wikipedia.org/wiki/Amish) community of [Yoder](http://en.wikipedia.org/wiki/Yoder,_Kansas) (population 194)
-![](google-maps-and-trends/google-map-pretty-prairie-wichita.png) 
+![](google-maps-and-trends/google-map-pretty-prairie-region.png) 
 
 ## Harvest and Pretty Prairie Rodeo
 Pretty Prairie is a very quiet place, except for every June when Harvest happens and July when Pretty Prairie hosts the world famous 
