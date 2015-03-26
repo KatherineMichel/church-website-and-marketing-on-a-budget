@@ -8,3 +8,6 @@ Great Plains [Small Membership Church Ministries](http://www.greatplainsumc.org/
 
 [Rethink Church](http://www.umcom.org/rethink-church)
 
+Pew Religion and Hartford Institute for Religion Research
+http://hirr.hartsem.edu/leadership/church_inventory.html
+
