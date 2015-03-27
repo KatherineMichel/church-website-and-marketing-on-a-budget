@@ -23,14 +23,13 @@ Source: Upworthy/Quantcast
 
 The viral competitors that Upworthy far surpassed in growth did not have the same social justice mission as Upworthy. 
 
-Upworthy is not affiliated with any church and as far as I know, does not intend to compete with churches. However, Upworthy became popular in part by bringing directly to the [Facebook](https://www.facebook.com/Upworthy) news feeds of potential church goers, some of the same type of uplifting content that in the past they would have come across in church through church mission. 
-<br><br>
+Upworthy is not affiliated with any church and as far as I know, does not intend to compete with churches. However, Upworthy became popular in part by bringing directly to the [Facebook](https://www.facebook.com/Upworthy) news feeds of potential church goers, some of the same type of uplifting content that in the past they would have come across in church through church mission.
 
+<br>
 Upworthy logo
 ![](upworthy/upworthy-logo.jpg)
-<br><br>
 
-Upworthy: "social media with a mission"
+Upworthy: "social media with a mission"<br>
 ![](upworthy/upworthy-is-social-media-with-a-mission.jpg)
 
 If, like me, you were a regular user of Facebook in the Fall of 2013, it's very likely that like me you came across Upworthy content regularly. [Facebook](https://www.facebook.com/Upworthy) has been Upworthy's main source of traffic. According to Upworthy, Facebook is the "king" of viral. When Facebook changed its algorithms at the end of 2013 (reportedly in response to Upworthy's content becoming disportionately popular in the Facebook news feed), Upworthy's traffic dramatically fell. 
