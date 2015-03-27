@@ -98,7 +98,7 @@ Down to 3 km or 1km (shown here)...
 
 #### Google AdWords (Paid)
 Google AdWords targeting Pretty Prairie 
-![](new-marketing-strategy/google-adwords-pretty-prairie-targeting.png)
+![](new-marketing-strategy/google-adwords-pretty-prairie-targeting.jpg)
 
 Google AdWords reach
 
