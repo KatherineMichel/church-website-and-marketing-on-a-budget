@@ -16,7 +16,7 @@ Google Trends graph for the phrase ["Upworthy" (region: worldwide)](http://www.g
  
 In a short period of time during the past few years, a website with something of a mission for social justice called [Upworthy](http://www.upworthy.com) became "[the fastest-growing media site in history](http://www.fastcompany.com/3012649/how-upworthy-used-emotional-data-to-become-the-fastest-growing-media-site-of-all-time)," achieving growth that far surpassed that of its closest viral competitors: [Buzzfeed](http://www.buzzfeed.com), [Huffington Post](http://www.huffingtonpost.com), and [Business Insider](http://www.businessinsider.com). 
 
-![](upworthy/upworthy-quantcast.png)
+![](upworthy/upworthy-quantcast.jpg)
 
 Source: Upworthy/Quantcast
 <br><br>
@@ -27,11 +27,11 @@ Upworthy is not affiliated with any church and as far as I know, does not intend
 <br><br>
 
 Upworthy logo
-![](upworthy/upworthy-logo.png)
+![](upworthy/upworthy-logo.jpg)
 <br><br>
 
 Upworthy: "social media with a mission"
-![](upworthy/upworthy-is-social-media-with-a-mission.png)
+![](upworthy/upworthy-is-social-media-with-a-mission.jpg)
 
 If, like me, you were a regular user of Facebook in the Fall of 2013, it's very likely that like me you came across Upworthy content regularly. [Facebook](https://www.facebook.com/Upworthy) has been Upworthy's main source of traffic. According to Upworthy, Facebook is the "king" of viral. When Facebook changed its algorithms at the end of 2013 (reportedly in response to Upworthy's content becoming disportionately popular in the Facebook news feed), Upworthy's traffic dramatically fell. 
 
@@ -85,17 +85,17 @@ Upworthy modal tactic: "Ever seen these?"
 ![](upworthy/upworthy-ever-seen-these-modal.jpg)
 
 Upworthy modal tactic: "How about one more"
-![](upworthy/upworthy-how-about-one-more-modal.png)
+![](upworthy/upworthy-how-about-one-more-modal.jpg)
 
 #### 3. Responsive Design 
 
 Upworthy's [responsive design](http://en.wikipedia.org/wiki/Responsive_web_design) adapts well to the device being used, resulting in an even higher popularity score for mobile browsing
 
 Upworthy ranked #79 most popular desktop site (U.S.) by [Quantcast](https://www.quantcast.com/top-sites)
-![](upworthy/upworthy-quantcast-desktop-rankings.png)
+![](upworthy/upworthy-quantcast-desktop-rankings.jpg)
 
 Upworthy ranked #32 most popular mobile responsive site (U.S.) by [Quantcast](https://www.quantcast.com/top-mobile-sites)
-![](upworthy/upworthy-quantcast-mobile-rankings.png)
+![](upworthy/upworthy-quantcast-mobile-rankings.jpg)
 
 #### 4. High Traffic Social Media Profiles
 
@@ -111,7 +111,7 @@ Upworthy goes to where the most people are:
 ![](upworthy/upworthy-pinterest-profile.jpg)
 
 [Upworthy YouTube Page](https://www.youtube.com/user/upworthy)
-![](upworthy/upworthy-youtube-profile.png)
+![](upworthy/upworthy-youtube-profile.jpg)
 
 #### 5. Use of Social Graph
 
