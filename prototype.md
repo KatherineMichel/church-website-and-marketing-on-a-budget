@@ -6,7 +6,7 @@
 Designed for desktop and mobile
 
 iPhone 6+, iPad, iMac
-![](prototype/iphone-6-plus-ipad-imac.png)
+![](prototype/iphone-6-plus-ipad-imac.jpg)
 
 Below are mock ups of the end-to-end mobile app experience, from start to finish. 
 
@@ -63,7 +63,7 @@ Portal to United Methodist content inspired by Snapchat Discover
 United Methodist Content Portal
 
 Snapchat Discover
-![](prototype/snapchat-discover.png)
+![](prototype/snapchat-discover.jpg)
 
 Bible Study
 
