@@ -6,7 +6,7 @@ See [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_
 
 ## Pitch Slide Deck
 
-![](pitch/pitch-deck.png)
+![](pitch/pitch-deck.jpg)
 
 ## Reverse Engineering
 
