@@ -1,5 +1,0 @@
-# Church Image Re-Brand
-
-
-
-
