@@ -19,7 +19,7 @@ The old Pretty Prairie United Methodist Church website and marketing materials w
 ![](marketing-as-is/old-website-contact.jpg)
 
 Mobile view
-![](marketing-as-is/old-website-mobile.png)
+![](marketing-as-is/old-website-mobile.jpg)
 
 Pros: 
 * Straight forward design
@@ -38,22 +38,22 @@ Cons:
 Note: lack of any social media presence (i.e. Facebook) although I do not know when this website was originally made
 
 ### Old Newsletter
-![](marketing-as-is/old-newsletter-page-1.png)
+![](marketing-as-is/old-newsletter-page-1.jpg)
 
-![](marketing-as-is/old-newsletter-page-2.png)
+![](marketing-as-is/old-newsletter-page-2.jpg)
 
-![](marketing-as-is/old-newsletter-page-3.png)
+![](marketing-as-is/old-newsletter-page-3.jpg)
 
-![](marketing-as-is/old-newsletter-page-4.png)
+![](marketing-as-is/old-newsletter-page-4.jpg)
 
 ### Old Brochure
 
 Outside<br>
-![](marketing-as-is/old-brochure-outside.png)
+![](marketing-as-is/old-brochure-outside.jpg)
 
 Inside<br>
 
-![](marketing-as-is/old-brochure-inside.png)
+![](marketing-as-is/old-brochure-inside.jpg)
 
 ### Old Visitor Postcards
 
@@ -70,5 +70,5 @@ Inside<br>
 ### Old Update Cards 
 ![](marketing-as-is/old-update-cards-page-1.jpg)
 
-![](marketing-as-is/old-update-cards-page-2.png)
+![](marketing-as-is/old-update-cards-page-2.jpg)
 
