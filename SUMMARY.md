@@ -11,7 +11,7 @@
    * [Marketing Materials Re-Brand](marketing_materials_re-brand.md)
    * [New Marketing Materials](new_marketing_materials.md)
    * [New Website](new_website.md)
-   * [Facilitation](facilitation.md)
+   * [Facilitation and User Testing](facilitation_and_user_testing.md)
    * [New Marketing Strategy](new_marketing_strategy.md)
    * [Part 1 User Testing](part_1_user_testing.md)
    * [Small Membership Church Revitalization Case Study](small_membership_church_revitalization_case_study.md)
