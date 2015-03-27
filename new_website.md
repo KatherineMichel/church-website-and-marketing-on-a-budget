@@ -14,7 +14,7 @@ Rather than one prominent homepage photo, the homepage features a charming patch
 Clicking on a photo brings up a small bite of info about the photo subject. This format is straight forward, easy to navigate, and highly mobile optimized. 
 
 New website home page detail
-[![](new-marketing-materials/new-website-home-page-detail.jpg)](http://www.prettyprairieumc.org/#/worship)
+[![](new-marketing-materials/new-website-home-page-detail-shortened.jpg)](http://www.prettyprairieumc.org/#/worship)
 
 New website mobile menu
 [![](new-marketing-materials/new-website-menu.jpg)](http://prettyprairieumc.org)
