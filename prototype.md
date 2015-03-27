@@ -13,13 +13,13 @@ Below are mock ups of the end-to-end mobile app experience, from start to finish
 Mobile App Screen Mockups (iPhone 6+)
 ![](prototype/iphone-6-plus-screens-1.jpg)
 
-![](prototype/iphone-6+-screens-2.jpg)
+![](prototype/iphone-6-plus-screens-2.jpg)
 
-![](prototype/iphone-6+-screens-3.jpg)
+![](prototype/iphone-6-plus-screens-3.jpg)
 
-![](prototype/iphone-6+-screens-4.jpg)
+![](prototype/iphone-6-plus-screens-4.jpg)
 
-![](prototype/iphone-6+-screens-5.jpg)
+![](prototype/iphone-6-plus-screens-5.jpg)
 
 ## Highlights
 Incorporating proven best practices
