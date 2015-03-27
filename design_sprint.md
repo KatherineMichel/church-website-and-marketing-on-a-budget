@@ -2,7 +2,6 @@
 
 ## People and Supplies
 Taking stock of resources on hand
-
 ![](design-sprint/supply-cabinet.jpg)
 
 ### [Supplies Needed](http://amzn.com/lm/RS9AYY6BTLDCM)
