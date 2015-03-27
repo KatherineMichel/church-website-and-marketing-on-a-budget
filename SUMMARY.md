@@ -13,7 +13,6 @@
    * [New Website](new_website.md)
    * [Facilitation and User Testing](facilitation_and_user_testing.md)
    * [New Marketing Strategy](new_marketing_strategy.md)
-   * [Part 1 User Testing](part_1_user_testing.md)
    * [Small Membership Church Revitalization Case Study](small_membership_church_revitalization_case_study.md)
 * [Part 2: The National Church Re-Imagined :)](the_national_united_methodist_church_re-imagined.md)
    * [Research and Design Sprint](research_and_design_sprint.md)
