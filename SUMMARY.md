@@ -24,7 +24,6 @@
        * [Upworthy Case Study](upworthy_case_study.md)
        * [Watsi Case Study](watsi_case_study.md)
    * [Design Sprint](design_sprint.md)
-   * [Prototype](prototype.md)
    * [User Testing](user_testing.md)
    * [Pitch](pitch.md)
    * [Software Architecture](software_architecture.md)
