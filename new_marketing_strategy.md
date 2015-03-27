@@ -21,7 +21,7 @@ Youth could assist with duties such as running the new screen videos and music d
 
 #### Training 
 
-## Example Budget and Plan
+## Example Plan
 
 ### Tier 1 Outreach (Basic)
 Up to date marketing materials 
