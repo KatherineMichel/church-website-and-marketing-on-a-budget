@@ -2,10 +2,10 @@
 
 ## Location
 [Pretty Prairie](http://en.wikipedia.org/wiki/Pretty_Prairie,_Kansas) (population ~688) is in central Kansas, U.S.A....
-![](google-maps-and-trends/google-map-usa-pretty-prairie.png)
+![](google-maps-and-trends/google-map-usa-pretty-prairie.jpg)
 
 ...  241 miles southwest of [Kansas City, Kansas](http://en.wikipedia.org/wiki/Kansas_City_metropolitan_area)... 
-![](google-maps-and-trends/google-map-pretty-prairie-kansas.png)
+![](google-maps-and-trends/google-map-pretty-prairie-kansas.jpg)
 
 ... 45.9 miles due west of [Wichita](http://en.wikipedia.org/wiki/Wichita,_Kansas), 24.9 miles south of [Hutchinson](http://en.wikipedia.org/wiki/Hutchinson,_Kansas), 13.7 miles north of [Kingman](http://en.wikipedia.org/wiki/Kingman,_Kansas), and 21.7 miles southwest of the [Amish](http://en.wikipedia.org/wiki/Amish) community of [Yoder](http://en.wikipedia.org/wiki/Yoder,_Kansas)
 ![](google-maps-and-trends/google-map-pretty-prairie-region.png) 
@@ -39,7 +39,7 @@ Pretty Prairie Rodeo arena entrance
 ![](pretty-prairie/pretty-prairie-rodeo.jpg)
 
 Google Trends search interest graph showing increased interest every July for phrase ["Pretty Prairie" (region: worldwide)](http://www.google.com/trends/explore#q=pretty%20prairie) 
-![](google-maps-and-trends/google-trends-pretty-prairie-worldwide.png)
+![](google-maps-and-trends/google-trends-pretty-prairie-worldwide.jpg)
 
 ## Pretty Prairie Institutions
 * A school system ([U.S.D. 311](http://www.usd311.com))
