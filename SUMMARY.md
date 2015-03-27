@@ -8,7 +8,7 @@
    * [Marketing As Is](marketing_as_is.md)
    * [Lightning Demos](lightning_demos.md)
    * [Website Options](website_options.md)
-   * [Church Image Re-Brand](church_image_re-brand.md)
+   * [Marketing Materials Re-Brand](marketing_materials_re-brand.md)
    * [New Marketing Materials](new_marketing_materials.md)
    * [New Website](new_website.md)
    * [Facilitation](facilitation.md)
