@@ -9,37 +9,37 @@ How has a religious app achieved [100 million+ downloads](http://www.businessins
 ## Google Trends Graph for Phrases "LifeChurch" and "The Bible App"
 
 Google Trends graph for the phrases ["LifeChurch" and "The Bible App" (region: worldwide)](http://www.google.com/trends/explore#q=LifeChurch%2C%20The%20Bible%20App&cmpt=q&tz=), from 2004 to 2015. [LifeChurch](http://en.wikipedia.org/wiki/LifeChurch.tv) is The Bible App's parent organization. LifeChurch was founded in 1996, but began offering online broadcasts in 2006. [The Bible App](https://www.bible.com/app) was founded in 2008. 
-![](google-maps-and-trends/google-trends-lifechurch-and-the-bible-app.png) 
+![](google-maps-and-trends/google-trends-lifechurch-and-the-bible-app.jpg) 
 
 ## LifeChurch Physical Locations
 
-![](lifechurch-bible-app/lifechurch.tv-locations.png)
+![](lifechurch-bible-app/lifechurch.tv-locations.jpg)
 
 ## Network Churches
 LifeChurch franchise...
 
-![](lifechurch-bible-app/networkchurches-find-a-network-church.png)
+![](lifechurch-bible-app/networkchurches-find-a-network-church.jpg)
 
 ## LifeChurch Global Live and on Demand Broadcast
 
-![](lifechurch-bible-app/live.lifechurch.tv.png)
+![](lifechurch-bible-app/live.lifechurch.tv.jpg)
 
 ## [The Bible App](https://www.bible.com/app): A LifeChurch Publicity Engine
 
-![](lifechurch-bible-app/the-bible-app-homepage.png)
+![](lifechurch-bible-app/the-bible-app-homepage.jpg)
 
 The Bible App is the top search result for "Bible app" in Google search. 
 
-![](lifechurch-bible-app/google-search-bible-app.png)
+![](lifechurch-bible-app/google-search-bible-app.jpg)
 
 The Bible App is the top search result for "Bible app" in Google Play Store (Android), closely followed by the Kid's Bible App
-![](lifechurch-bible-app/google-play-search-bible-app.png)
+![](lifechurch-bible-app/google-play-search-bible-app.jpg)
 
 The Bible App is the #40 most popular free app in the Apple Store.
-![](lifechurch-bible-app/apple-store-itune-charts-free-apps-bible-app.png)
+![](lifechurch-bible-app/apple-store-itune-charts-free-apps-bible-app.jpg)
 
 The Bible App is the #125 most popular free app in the Google Play Store. 
-![](lifechurch-bible-app/google-play-top-selling-free-apps-the-bible-app.png)
+![](lifechurch-bible-app/google-play-top-selling-free-apps-the-bible-app.jpg)
 
 Furthermore, The Bible App leads users to LifeChurch
 
@@ -57,7 +57,7 @@ Made in partnership with [OneHope](http://onehope.net/feature/bibleappforkids)
 
 The Kid's Bible App is Google Play Store top search result for "Bible app for kids"...
 
-![](lifechurch-bible-app/google-play-search-bible-app-for-kids.png)
+![](lifechurch-bible-app/google-play-search-bible-app-for-kids.jpg)
 
 
 
