@@ -44,15 +44,15 @@ Google Trends search interest graph showing increased interest every July for ph
 ## Pretty Prairie Institutions
 * A school system ([U.S.D. 311](http://www.usd311.com))
 * A post office ([Pretty Prairie Post Office](http://www.uspspostoffices.com/ks/pretty-prairie/pretty-prairie))
-* A city office
+* A city office/library ([Pretty Prairie City Office](http://members.hutchchamber.com/Government-Public-Office/City-of-Pretty-Prairie-1513))
 * Four churches
-* A newspaper
+* A newspaper ([Ninnescah Valley News](https://www.facebook.com/pages/Ninnescah-Valley-News/142191375827044))
 * A nursing home ([Pretty Prairie Sunset Home](http://prairiesunsethome.org))
 * A bank ([Citizens Bank of Kansas](https://www.citizensbankofkansas.com/MyCommunity/MyLocations/PrettyPrairie))
-* A gas station
-* A restaurant 
+* A gas station ([Strohl Oil Co.](https://plus.google.com/102940219961032410746/about?gl=us&hl=en))
+* A restaurant ([Wagon Wheel Cafe](https://plus.google.com/101663998196844699536/about?gl=us&hl=en))
 * A golf course ([The Links at Pretty Prairie](http://www.prettyprairiegolf.com))
-* A senior center
+* A senior center ([Prairie Senior Center](https://www.facebook.com/pages/Prairie-Senior-Center/115988521762791))
 * A repurposing charity ([Ubuntu](http://www.ubuntuks.com))
 * A food bank
 * Several other small business
