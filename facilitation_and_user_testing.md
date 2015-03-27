@@ -1,6 +1,8 @@
 # Facilitation and User Testing
 
-## "How might we"
+## Facilitation 
+
+### "How might we"
 
 Members of the Nurture, Outreach, Witness (NOW) Committee, which plans outreach for the church, would begin to collaborate on a new church marketing plan. I would be the facilitator for brainstorming and planning group work. 
 
@@ -63,6 +65,5 @@ Pretty Prairie [Area Map](https://drive.google.com/file/d/0B02bpu7HZwJRaVp5dGNMO
 
 United Methodist Goals and Measurable Objectives example chart
 
-![](new-marketing-strategy/goals-measurable-objectives-chart.png)
-
+## User Testing
 
