@@ -38,8 +38,6 @@ Cons:
 Note: lack of any social media presence (i.e. Facebook) although I do not know when this website was originally made
 
 ### Old Newsletter
-
-<center>
 ![](marketing-as-is/old-newsletter-page-1.png)
 
 ![](marketing-as-is/old-newsletter-page-2.png)
@@ -47,39 +45,30 @@ Note: lack of any social media presence (i.e. Facebook) although I do not know w
 ![](marketing-as-is/old-newsletter-page-3.png)
 
 ![](marketing-as-is/old-newsletter-page-4.png)
-</center>
 
 ### Old Brochure
 
 Outside<br>
-<center>
 ![](marketing-as-is/old-brochure-outside.png)
-</center>
+
 Inside<br>
-<center>
+
 ![](marketing-as-is/old-brochure-inside.png)
-</center>
 
 ### Old Visitor Postcards
 
-<center>
 ![](marketing-as-is/old-visitor-post-cards.jpg)
-</center>
 
 ### Old Reminder Postcards
 
-<center>
 ![](marketing-as-is/old-post-cards-page-1.jpg)
 
 ![](marketing-as-is/old-post-cards-page-2.jpg)
 
 ![](marketing-as-is/old-post-cards-page-3.jpg)
-</center>
 
 ### Old Update Cards 
-<center>
 ![](marketing-as-is/old-update-cards-page-1.jpg)
 
 ![](marketing-as-is/old-update-cards-page-2.png)
-</center>
 
