@@ -11,7 +11,7 @@ iPhone 6+, iPad, iMac
 Below are mock ups of the end-to-end mobile app experience, from start to finish. 
 
 Mobile App Screen Mockups (iPhone 6+)
-![](prototype/iphone-6+-screens-1.jpg)
+![](prototype/iphone-6-plus-screens-1.jpg)
 
 ![](prototype/iphone-6+-screens-2.jpg)
 
