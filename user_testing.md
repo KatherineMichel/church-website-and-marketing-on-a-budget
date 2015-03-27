@@ -55,7 +55,7 @@ Summary and analysis of findings
 
 Example [HEART/Goals-Signals-Metrics](https://www.gv.com/lib/how-to-choose-the-right-ux-metrics-for-your-product) chart from Google Ventures
 
-![](design-sprint/heart-goals-signals-metrics.png)
+![](design-sprint/heart-goals-signals-metrics.jpg)
 
 
 
