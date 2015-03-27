@@ -9,9 +9,8 @@ When considering web hosting options, it was helpful to look at the websites of 
 ### Calvary Chapel
 
 http://calvarychapel-pp.com
-<center>
+
 [![](lightning-demos/calvary-chapel.jpg)](http://calvarychapel-pp.com)
-</center>
 
 Pros:
 * Nice, logical look to website, with prairie color scheme and pictures of wheat
@@ -31,9 +30,8 @@ Cons:
 ### First Mennonite Church
 
 http://www.fmcprettyprairie.org
-<center>
+
 [![](lightning-demos/first-mennonite-church.jpg)](http://www.fmcprettyprairie.org)
-</center>
 
 Pros:
 * Live video streaming with video archive and "message" resources updated weekly
@@ -53,9 +51,9 @@ Note: First Mennonite Church has a [private Facebook group](https://www.facebook
 ### New Jerusalem Church
 
 http://prettyprairiechurch.org
-<center>
+
 [![](lightning-demos/new-jerusalem-church.jpg)](http://prettyprairiechurch.org)
-</center>
+
 Pros:
 * Up-to-date blog posts
 * Up-to-date calendar
