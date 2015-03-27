@@ -57,9 +57,9 @@ Setting aside pre-existing assumptions, members of the church would go through t
 Members of the church would take stock of the skills of individual members. This skills inventory would be used to identify ways to optimize what the church has to offer the community. 
 
 Old skills list
-![](new-marketing-strategy/skills-inventory-1.png)
+![](new-marketing-strategy/skills-inventory-1.jpg)
 
-![](new-marketing-strategy/skills-inventory-2.png)
+![](new-marketing-strategy/skills-inventory-2.jpg)
 
 #### Special Occasion Advertisement
 
