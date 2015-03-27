@@ -25,13 +25,13 @@ In preparation for their group work, I had provided the NOW Committee with an ex
 Marketing Worksheet Demographic Sheet
 ![](new-marketing-strategy/demographics-sheet.jpg)
 
-Tactics less than $300
+Tactics less than $300<br>
 ![](new-marketing-strategy/tactics-less-than-$300.jpg)
 
-Tactics between $300 and $1000
+Tactics between $300 and <br>
 ![](new-marketing-strategy/tactics-$300-$1000.jpg)
 
-Tactics over $1000
+Tactics over $1000<br>
 ![](new-marketing-strategy/tactics-over-$1000.jpg)
 
 Audiences, tactics, and resources
