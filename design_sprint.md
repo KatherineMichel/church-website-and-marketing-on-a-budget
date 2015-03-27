@@ -1,5 +1,5 @@
 # Design Sprint
-
+![](prototype/iphone-6+-screens-1.jpg)
 ## People and Supplies
 Taking stock of resources on hand
 ![](design-sprint/supply-cabinet.jpg)
