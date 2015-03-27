@@ -8,25 +8,20 @@ Templates in both color and black-and-white are used to address the impracticali
 
 New website home page: [www.prettyprairieumc.org](www.prettyprairieumc.org)<br>
 See [New Website](new_website.md) for a more detailed explanation of the new website
-<center>
+
 [![](new-marketing-materials/new-website-home-page.jpg)](http://prettyprairieumc.org)
-</center>
 
 ## New Facebook Page
 
-<center>
 [![](new-marketing-materials/new-facebook-page.png)](https://www.facebook.com/prettyprairieumc)
-</center>
 
 ## Facebook Page Ad
 
-<center>
 ![](new-marketing-materials/new-facebook-page-advertisement.png)
-</center>
 
 ## New e-Newsletter
 (Some information altered to protect privacy) 
-<center>
+
 ![](new-marketing-materials/new-newsletter-page-1.png)
 
 ![](new-marketing-materials/new-newsletter-page-2.png)
@@ -34,43 +29,33 @@ See [New Website](new_website.md) for a more detailed explanation of the new web
 ![](new-marketing-materials/new-newsletter-page-3.png)
 
 ![](new-marketing-materials/new-newsletter-page-4.png)
-</center>
 
 ## New Bulletin (example)
 
 Front cover
-<center>
 ![](new-marketing-materials/new-bulletin-cover.jpg)
-</center>
 
 Inside
 
 ## New Multi-Purpose Greeting Card (example)
 
 Front cover<br>
-<center>
 ![](new-marketing-materials/new-greeting-card-front-cover.png)
-</center>
+
 Inside<br>
-<center>
 ![](new-marketing-materials/new-greeting-card-inside.png)
-</center>
+
 Back cover<br>
-<center>
 ![](new-marketing-materials/new-greeting-card-back-cover.png)
-</center>
 
 ## New Multi-Purpose Postcard (example)
 
-<center>
 ![](new-marketing-materials/new-post-card.png)
-</center>
 
 ## Twitter Ad
 
-<center>
 ![](new-marketing-materials/new-twitter-advertisement.png)
-</center>
+
 
 
 
