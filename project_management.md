@@ -2,7 +2,7 @@
 
 ## Project Definition Plan
 
-![](project-management/project-definition-plan-cover.png)
+![](project-management/project-definition-plan-cover.jpg)
 
 ## Administrative Council Meeting [Options Matrix](https://drive.google.com/file/d/0B02bpu7HZwJRUmZ1Nk15WF9wSkU/view?usp=sharing)
 
