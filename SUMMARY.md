@@ -25,8 +25,8 @@
        * [Watsi Case Study](watsi_case_study.md)
    * [Design Sprint](design_sprint.md)
    * [Prototype](prototype.md)
+   * Mobile App Prototype
    * [User Testing](user_testing.md)
    * [Pitch](pitch.md)
    * [Software Architecture](software_architecture.md)
-   * Mobile App Prototype
 
