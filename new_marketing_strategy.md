@@ -1,15 +1,7 @@
 # New Marketing Strategy
 The new marketing strategy incorporates both traditional and modern methods in order to fit with changing lifestyles, and reach the most people possible, perhaps even beyond city boundaries. The strategy is also be as cost effective as possible. 
 
-## Budget
-
-## Metrics
-
-[United Methodist Communications](http://www.umcom.org) suggests using a Goals and Measurable Objectives Chart as part of the [Evaluation Step](http://www.umcom.org/learn/evaluation-adjustment-resources) of its [Marketing Audit](http://www.umcom.org/learn/market-your-church-getting-started). 
-
-United Methodist Goals and Measurable Objectives example chart
-
-![](new-marketing-strategy/goals-measurable-objectives-chart.jpg)
+## New, High Level Developments
 
 ## New Sanctuary Equipment
 As part of the church's revitalization effort, in addition to the new website, a generous donation was made by an anonymous donor to purchase new, large flat-screen televisions and a laptop for the church sanctuary, to be used to play contemporary videos and music, and to project the words of the hymns. 
@@ -39,6 +31,16 @@ I developed a set of training materials.
 [Advanced Mobile Healthcare](http://www.advancedmobilehealthcare.com) in partnership with Ubuntu
 
 ## Example Marketing Plan
+
+## Budget
+
+## Metrics
+
+[United Methodist Communications](http://www.umcom.org) suggests using a Goals and Measurable Objectives Chart as part of the [Evaluation Step](http://www.umcom.org/learn/evaluation-adjustment-resources) of its [Marketing Audit](http://www.umcom.org/learn/market-your-church-getting-started). 
+
+United Methodist Goals and Measurable Objectives example chart
+
+![](new-marketing-strategy/goals-measurable-objectives-chart.jpg)
 
 ### Up to Date Marketing Materials 
 * Website, Find-a-Church, Newsletter, Bulletin, Postcards, Greeting card, Email signature
