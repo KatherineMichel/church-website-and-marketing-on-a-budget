@@ -4,14 +4,6 @@
 
 Members of the Nurture, Outreach, Witness (NOW) Committee, which plans outreach for the church, began to collaborate on a new church marketing plan. I was the facilitator for brainstorming and planning group work. 
 
-We started by reflecting on the existing Vision and Mission Statements
-
-Church Vision Statement
-![](new-marketing-strategy/vision-statement.jpg)
-
-Church Mission Statement
-![](new-marketing-strategy/mission-statement.jpg)
-
 ## Problem Structuring and Problem Solving Methods
 
 ### Reverse Engineering for Success
@@ -20,6 +12,14 @@ We would then seek to answer the following questions:
 * What does a successful Pretty Prairie United Methodist Church look like?
 * Whom should the church reach?
 * How should the church reach them?
+
+We started by reflecting on the existing Vision and Mission Statements
+
+Church Vision Statement
+![](new-marketing-strategy/vision-statement.jpg)
+
+Church Mission Statement
+![](new-marketing-strategy/mission-statement.jpg)
 
 In preparation for their group work, I had provided the NOW Committee with an example plan, a [Marketing Plan Worksheet](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/UMCOM_YOUR_MARKETING_PLAN_WORKSHEET.PDF), and a ["Tactics" List](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/STEP_4_IMPLEMENTATION_HOMEWORK.PDF) taken from the [United Methodist Communications](http://www.umcom.org) [Marketing Audit](http://www.umcom.org/learn/market-your-church-getting-started). 
 Marketing Worksheet Demographic Sheet
