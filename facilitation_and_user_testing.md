@@ -5,6 +5,7 @@
 Members of the Nurture, Outreach, Witness (NOW) Committee, which plans outreach for the church, collaborated on a new church marketing plan. I facilitated brainstorming and planning group work. 
 
 We used the following [United Methodist Communications](http://www.umcom.org) resources:
+* [Annual Church Health Check Up](http://www.umcom.org/learn/take-an-annual-church-health-checkup)
 * [Marketing Audit](http://www.umcom.org/learn/market-your-church-getting-started)
 * [Communication Audit](http://www.umcom.org/learn/communication-audit-syncs-everything-together)
 * [Re-Think Church](http://www.umcom.org/rethink-church)
