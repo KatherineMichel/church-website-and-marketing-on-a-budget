@@ -47,6 +47,8 @@ I would do most of the design work alone, and act as facilitator for select brai
 * eCommerce
 * Galleries
 * Calendars
+* On demand prayer
+* Crowdsourced volunteers
 
 #### User Story Divided into Parts
 
