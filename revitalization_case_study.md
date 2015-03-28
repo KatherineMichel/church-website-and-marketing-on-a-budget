@@ -6,8 +6,6 @@ The national United Methodist Church provides a website called [United Methodist
 * [Re-Think Church](http://www.umcom.org/rethink-church)
 * [Small Membership Church Ministries](http://www.greatplainsumc.org/smallmembershipchurchresources)
 
-Great Plains  Revitalization Case Study
-
 I looking up the [United Methodist Communications contact info](http://www.umcom.org/about/contact-us-at-united-methodist-communications) and sent an email. 
 
 
