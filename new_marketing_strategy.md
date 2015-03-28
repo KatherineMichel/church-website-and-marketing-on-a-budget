@@ -3,6 +3,12 @@ The new marketing strategy incorporates both traditional and modern methods in o
 
 ## Budget
 
+## Goals and Measurable Objectives Chart
+
+[United Methodist Communications](http://www.umcom.org) suggests using a Goals and Measurable Objectives Chart as part of the [Evaluation Step](http://www.umcom.org/learn/evaluation-adjustment-resources) of its [Marketing Audit](http://www.umcom.org/learn/market-your-church-getting-started). 
+
+United Methodist Goals and Measurable Objectives example chart
+
 ## New Sanctuary Equipment
 As part of the church's revitalization effort, in addition to the new website, a generous donation was made by an anonymous donor to purchase new, large flat-screen televisions and a laptop for the church sanctuary, to be used to play contemporary videos and music, and to project the words of the hymns. 
 
