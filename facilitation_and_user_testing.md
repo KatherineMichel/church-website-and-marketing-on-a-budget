@@ -39,6 +39,10 @@ Marketing Worksheet Target Audience Deliverable
 
 ### "How might we"
 
+Audiences, tactics, and resources
+
+After having identified the target audiences, we would look at a list of possible tactics and compare against available resources. We would also consider which methods would be best suited to which audiences. 
+
 Tactics less than $300<br>
 ![](new-marketing-strategy/tactics-less-than-$300.jpg)
 
@@ -47,13 +51,6 @@ Tactics between $300 and <br>
 
 Tactics over $1000<br>
 ![](new-marketing-strategy/tactics-over-$1000.jpg)
-
-Audiences, tactics, and resources
-
-Look at a list of possible methods suited to available resources
-
-Analyze target audiences to determine which methods would be suitable to each audience
-Prioritize tactics
 
 ## User Testing
 
