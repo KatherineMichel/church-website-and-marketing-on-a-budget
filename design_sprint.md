@@ -32,11 +32,9 @@ I would do most of the design work alone, and act as facilitator for select brai
 
 ### User Story
 
-Sketch of most important user story
+#### User Story Divided into Parts
 
-Prioritized list of tasks users could accomplish
-
-User story divided into parts
+#### User Story Tasks Prioritized
 
 ### Mind map
 
