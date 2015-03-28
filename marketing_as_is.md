@@ -1,7 +1,7 @@
 # Marketing As Is
 
 ## Summary
-The old Pretty Prairie United Methodist Church website and marketing materials were created by different people, at different times, with no thought to creating one consistent church brand experience spanning all materials. Also, there was not a formal, coordinated marketing plan. See below for a critique of the old marketing materials. 
+The old Pretty Prairie United Methodist Church website and marketing materials were created by different people, at different times, with no thought to creating one consistent church brand experience spanning all materials. Also, there was not a formal, coordinated marketing plan. See below for a critique of the old website, and screenshots of the old marketing materials. 
 
 ## Old Marketing Materials
 
