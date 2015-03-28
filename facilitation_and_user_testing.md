@@ -45,11 +45,5 @@ Prioritize tactics
 
 ### Nielson Company Demographic Info
 
-### Goals and Measurable Objectives Chart
-
-[United Methodist Communications](http://www.umcom.org) suggests using a Goals and Measurable Objectives Chart as part of the [Evaluation Step](http://www.umcom.org/learn/evaluation-adjustment-resources) of its [Marketing Audit](http://www.umcom.org/learn/market-your-church-getting-started). 
-
-United Methodist Goals and Measurable Objectives example chart
-
 ## User Testing
 
