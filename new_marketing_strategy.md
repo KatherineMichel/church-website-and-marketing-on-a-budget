@@ -51,13 +51,10 @@ I developed a set of training materials.
 * Newsletter (electronic and mail)
 
 
+Contact inactive church-goers to invite them back
+Contact potential newcomers
 
-#### Contacting Inactive Members
-
-Church members will contact church-goers of the past who are now inactive, and invite them back. 
 ##### Updating Directory
-
-#### Contacting Potential Newcomers
 
 Pooling Individual Knowledge, Telephone Book
 
