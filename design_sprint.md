@@ -36,6 +36,8 @@ I would do most of the design work alone, and act as facilitator for select brai
 
 * Login and Sign Up
 * Settings
+* Questionnaire to customize content
+* Product tour
 * Menus
 * Profiles
 * News/Activity feeds
