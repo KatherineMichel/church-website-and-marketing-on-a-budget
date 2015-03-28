@@ -37,6 +37,18 @@ Though Google Ventures suggests including in the email a link to a non-disclosur
 
 ## User Interviews
 
+![](user-testing/interview-worksheet-1.jpg)
+
+![](user-testing/interview-worksheet-2.jpg)
+
+![](user-testing/interview-worksheet-3.jpg)
+
+![](user-testing/interview-worksheet-4.jpg)
+
+![](user-testing/interview-worksheet-5.jpg)
+
+![](user-testing/interview-worksheet-6.jpg)
+
 ### Interview Guide
 
 ### Interviews
