@@ -54,5 +54,7 @@ Tactics between $300 and <br>
 Tactics over $1000<br>
 ![](new-marketing-strategy/tactics-over-$1000.jpg)
 
+#### How should the church measure progress?
+
 ## User Testing
 
