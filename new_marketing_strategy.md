@@ -3,12 +3,12 @@ The new marketing strategy incorporates both traditional and modern methods in o
 
 ## New, High Level Developments
 
-## New Sanctuary Equipment
+### New Sanctuary Equipment
 As part of the church's revitalization effort, in addition to the new website, a generous donation was made by an anonymous donor to purchase new, large flat-screen televisions and a laptop for the church sanctuary, to be used to play contemporary videos and music, and to project the words of the hymns. 
 
 ![](new-marketing-strategy/sanctuary-screens.jpg)
 
-## Publicity Engine
+### Publicity Engine
 A self-sustaining publicity engine would be created, involving a variety of church leaders and members. Duties could include brainstorming, planning outreach activities, admin status for website/social media, help creating content. 
 
 In particular: 
@@ -27,12 +27,9 @@ Youth will assist with duties such as running the new screen videos and music du
 #### Youth Training 
 I developed a set of training materials.
 
-#### Community Services
-[Advanced Mobile Healthcare](http://www.advancedmobilehealthcare.com) in partnership with Ubuntu
-
 ## Example Marketing Plan
 
-## Budget
+### Budget
 
 ### Up to Date Marketing Materials 
 * Website, Find-a-Church, Newsletter, Bulletin, Postcards, Greeting card, Email signature
@@ -73,9 +70,11 @@ Old skills list<br>
 <br>
 ![](new-marketing-strategy/skills-inventory-2.jpg)
 
-Special Occasion Advertisement
+#### Community Services
+[Advanced Mobile Healthcare](http://www.advancedmobilehealthcare.com) in partnership with Ubuntu
 
-#### Local Events and Organizations
+#### Special Occasion Advertisement
+Local Events and Organizations
 * [Pretty Prairie Rodeo advertisement](http://www.pprodeo.com/#!sponsors/c1v7y)
 * Other local sponsorships
 
