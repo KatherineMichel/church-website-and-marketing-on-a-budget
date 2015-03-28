@@ -8,7 +8,7 @@
 ![](google-maps-and-trends/google-map-pretty-prairie-kansas.jpg)
 
 ... 45.9 miles due west of [Wichita](http://en.wikipedia.org/wiki/Wichita,_Kansas), 24.9 miles south of [Hutchinson](http://en.wikipedia.org/wiki/Hutchinson,_Kansas), 13.7 miles north of [Kingman](http://en.wikipedia.org/wiki/Kingman,_Kansas), and 21.7 miles southwest of the [Amish](http://en.wikipedia.org/wiki/Amish) community of [Yoder](http://en.wikipedia.org/wiki/Yoder,_Kansas)
-![](google-maps-and-trends/google-map-pretty-prairie-region.png) 
+![](google-maps-and-trends/google-map-pretty-prairie-region.jpg) 
 
 ## Surrounding Populations
 
