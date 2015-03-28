@@ -2,6 +2,8 @@
 
 The national United Methodist Church provides a website called [United Methodist Communications](http://www.umcom.org) with many resources for growing membership. 
 
+As my church project evolved, I found myself using a number of United Methodist Commuications resources, including the following: 
+
 * United Methodist [Marketing Audit](http://www.umcom.org/learn/market-your-church-getting-started)
 * United Methodist [Communication Audit](http://www.umcom.org/learn/communication-audit-syncs-everything-together)
 * [Re-Think Church](http://www.umcom.org/rethink-church)
