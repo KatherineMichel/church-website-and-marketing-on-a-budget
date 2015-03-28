@@ -56,5 +56,13 @@ Tactics over $1000<br>
 
 #### How should the church measure progress?
 
+##### Metrics
+
+[United Methodist Communications](http://www.umcom.org) suggests using a Goals and Measurable Objectives Chart as part of the [Evaluation Step](http://www.umcom.org/learn/evaluation-adjustment-resources) of its [Marketing Audit](http://www.umcom.org/learn/market-your-church-getting-started). 
+
+United Methodist Goals and Measurable Objectives example chart
+
+![](new-marketing-strategy/goals-measurable-objectives-chart.jpg)
+
 ## User Testing
 
