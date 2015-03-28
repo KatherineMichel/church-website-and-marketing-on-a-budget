@@ -35,6 +35,9 @@ Youth will assist with duties such as running the new screen videos and music du
 #### Youth Training 
 I developed a set of training materials.
 
+#### Community Services
+[Advanced Mobile Healthcare](http://www.advancedmobilehealthcare.com) in partnership with Ubuntu
+
 ## Example Marketing Plan
 
 ### Up to Date Marketing Materials 
@@ -81,6 +84,8 @@ Special Occasion Advertisement
 #### Local Events and Organizations
 * [Pretty Prairie Rodeo advertisement](http://www.pprodeo.com/#!sponsors/c1v7y)
 * Other local sponsorships
+
+### Online Advertising
 
 #### Facebook Advertising (Paid)
 
