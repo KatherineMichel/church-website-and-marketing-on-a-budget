@@ -32,9 +32,20 @@ I would do most of the design work alone, and act as facilitator for select brai
 
 ### User Story
 
-#### User Story Divided into Parts
+#### User Story Task List
 
-#### User Story Tasks Prioritized
+* Login and Sign Up
+* Settings
+* Menus
+* Profiles
+* News/Activity feeds
+* Sharing
+* Comments
+* eCommerce
+* Galleries
+* Calendars
+
+#### User Story Divided into Parts
 
 ### Mind map
 
