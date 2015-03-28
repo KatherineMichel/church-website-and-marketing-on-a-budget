@@ -1,5 +1,7 @@
 # Revitalization Case Study
 
+## United Methodist Communications Article
+
 Small Membership Church Revitalization Case Study
 
 [United Methodist Communications](http://www.umcom.org)
