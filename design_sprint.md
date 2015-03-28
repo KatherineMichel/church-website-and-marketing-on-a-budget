@@ -36,8 +36,6 @@ Sketch of most important user story
 
 Prioritized list of tasks users could accomplish
 
-Pain points
-
 User story divided into parts
 
 ### Mind map
@@ -60,8 +58,6 @@ What I intended to be Crazy Eights become more like a Storyboard. I felt that af
 ![](design-sprint/crazy-eights-6.jpg)
 
 ![](design-sprint/crazy-eights-7.jpg)
-
-Critiques to decide final user story
 
 ### Prototype
 
