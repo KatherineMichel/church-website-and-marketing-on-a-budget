@@ -44,7 +44,7 @@ I would do most of the design work alone, and act as facilitator for select brai
 * Sharing
 * Comments
 * Portal to United Methodist content
-* eCommerce
+* eCommerce/Marketplace
 * Galleries
 * Calendars
 * On demand prayer
