@@ -19,6 +19,7 @@ We would use problem structuring methods to answer the following questions:
 * What does a successful Pretty Prairie United Methodist Church look like?
 * Whom should the church reach?
 * How should the church reach them?
+* How should the church measure progress?
 
 ### Church Vision and Mission Statements
 We started by reflecting on the existing Vision and Mission Statements
