@@ -4,7 +4,7 @@
 
 Members of the Nurture, Outreach, Witness (NOW) Committee, which plans outreach for the church, collaborateed on a new church marketing plan. I was the facilitator for brainstorming and planning group work. 
 
-We used the following United Methodist Communications resources:
+We used the following [United Methodist Communications](http://www.umcom.org) resources:
 * [Marketing Audit](http://www.umcom.org/learn/market-your-church-getting-started)
 * [Communication Audit](http://www.umcom.org/learn/communication-audit-syncs-everything-together)
 * [Re-Think Church](http://www.umcom.org/rethink-church)
@@ -13,7 +13,7 @@ We used the following United Methodist Communications resources:
 ## Problem Structuring Methods
 
 ### Reverse Engineering for Success
-We would then seek to answer the following questions:
+We would seek to answer the following questions:
 
 * What does a successful Pretty Prairie United Methodist Church look like?
 * Whom should the church reach?
