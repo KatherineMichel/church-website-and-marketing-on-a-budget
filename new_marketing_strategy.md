@@ -60,13 +60,9 @@ I developed a set of training materials.
 Church members will contact church-goers of the past who are now inactive, and invite them back. 
 ##### Updating Directory
 
-##### Letter
-
 #### Contacting Potential Newcomers
 
-Pooling Individual Knowledge
-
-Telephone Book
+Pooling Individual Knowledge, Telephone Book
 
 Setting aside pre-existing assumptions, members of the church would go through the Pretty Prairie section of the phone book to identify people for outreach. 
 
@@ -82,9 +78,9 @@ Old skills list<br>
 <br>
 ![](new-marketing-strategy/skills-inventory-2.jpg)
 
-#### Special Occasion Advertisement
-
 ### Tier 3 Outreach (Special Advertising)
+
+Special Occasion Advertisement
 
 #### Local Events and Organizations
 * [Pretty Prairie Rodeo advertisement](http://www.pprodeo.com/#!sponsors/c1v7y)
@@ -117,8 +113,6 @@ Google AdWords targeting Pretty Prairie
 
 Google AdWords reach
 
-#### Interpreter Ad (Paid)
-
 ### Tier 4 Outreach (Public at Large)
 
 #### Twitter Advertising (Paid)
@@ -127,5 +121,6 @@ Members of the church are less likely to use Twitter. However, Twitter is an opt
 
 Twitter has a [Faith Playbook](https://media.twitter.com/playbook/faith-organizations) for faith organizations, and religious ads can be occasionally found on Twitter. 
 
+#### Interpreter Ad (Paid)
 
 
