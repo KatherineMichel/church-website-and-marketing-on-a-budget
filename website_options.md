@@ -15,9 +15,7 @@ Squarespace was attractive due to:
 * Beautiful, responsive [templates](http://www.squarespace.com/templates)
 * Intuitive content management system 
 
-Final verdict: Squarespace is the web host that I chose for the church. I felt that Squarespace offers the best value for money. Although Squarespace was $3/month more expensive than the cheapest option (which offered the same/similar templates as one used by a nearby church), the beautiful, modern Squarespace templates would ensure a unique look, and the intuitive content management system could potentially be used by non-techies and occasional volunteers, in order to keep the content relevant. 
-
-To see more of the new website, go to [New Website](new_website.md). To see more of the new marketing materials, go to [New Marketing Materials](new_marketing_materials.md) :) 
+Final verdict: Squarespace is the web host that I chose for the church. I felt that Squarespace offers the best value for money for Pretty Prairie United Methodist Church. Although Squarespace was $3/month more expensive than the cheapest option (which offered the same/similar templates as one used by a nearby church), the beautiful, modern Squarespace templates would ensure a unique look, and the intuitive content management system could potentially be used by non-techies and occasional volunteers, in order to keep the content relevant. 
 
 Screenshot of finished website: [www.prettyprairieumc.org](www.prettyprairieumc.org). <br>
 [![](new-marketing-materials/new-website-home-page.jpg)](http://prettyprairieumc.org)
@@ -38,7 +36,7 @@ Stained glass window mockup using pic of Pretty Prairie UMC stained glass window
 Sunflowers mockup using [Morgue File photo](http://www.morguefile.com/archive/display/662765)
 ![](web-hosting-options/catching-everest-sunflowers-theme-desktop-mockup-white.jpg)
 
-Final verdict: The United Methodist Web Hosting templates that I liked the best were three very popular and similar looking WordPress templates called [Twenty Eleven](https://wordpress.org/themes/twentyeleven), [Twenty Twelve](https://wordpress.org/themes/twentytwelve), and [Catching Everest](https://wordpress.org/themes/catch-everest). Notably, nearby New Jerusalem Church is already using one of these templates (the [Twenty Eleven](https://wordpress.org/themes/twentyeleven) theme, see [Lightning Demos](lightning_demos.md)). Because of this, I decided to forgo the United Methodist Web Hosting in order to have something unique to Pretty Prairie United Methodist Church. 
+Final verdict: The United Methodist Web Hosting templates that I liked the best were three very popular and similar looking WordPress templates called [Twenty Eleven](https://wordpress.org/themes/twentyeleven), [Twenty Twelve](https://wordpress.org/themes/twentytwelve), and [Catching Everest](https://wordpress.org/themes/catch-everest). Notably, nearby New Jerusalem Church is already using one of these templates (the [Twenty Eleven](https://wordpress.org/themes/twentyeleven) theme). Because of this, I decided to forgo the United Methodist Web Hosting in order to have something unique to Pretty Prairie United Methodist Church. 
 
 ## Ezekiel 
 
