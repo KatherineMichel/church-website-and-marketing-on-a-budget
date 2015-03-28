@@ -50,6 +50,9 @@ I would do most of the design work alone, and act as facilitator for select brai
 * On demand prayer
 * Crowdsourced volunteers
 
+App for Kids
+* Gamification
+
 #### User Story Divided into Parts
 
 ### Mind map
