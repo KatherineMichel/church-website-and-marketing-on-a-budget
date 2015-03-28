@@ -38,7 +38,7 @@ Cons:
 
 Note: lack of any social media presence (i.e. Facebook) although I do not know when this website was originally made
 
-### Old Newsletter and Brochure
+### Old Newsletter
 ![](marketing-as-is/old-newsletter-page-1.jpg)
 
 ![](marketing-as-is/old-newsletter-page-2.jpg)
