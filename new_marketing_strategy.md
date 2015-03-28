@@ -33,9 +33,7 @@ I developed a set of training materials.
 
 ## Example Marketing Plan
 
-### Tier 1 Outreach (Basic)
-
-#### Up to Date Marketing Materials 
+### Up to Date Marketing Materials 
 * Website, Find-a-Church, Newsletter, Bulletin, Postcards, Greeting card, Email signature
 
 ### Non-Digital Low-Hanging Fruit
@@ -53,7 +51,6 @@ I developed a set of training materials.
 * Newsletter (electronic and mail)
 
 
-### Tier 2 Outreach (Proactive)
 
 #### Contacting Inactive Members
 
@@ -77,8 +74,6 @@ Old skills list<br>
 
 <br>
 ![](new-marketing-strategy/skills-inventory-2.jpg)
-
-### Tier 3 Outreach (Special Advertising)
 
 Special Occasion Advertisement
 
@@ -113,8 +108,6 @@ Google AdWords targeting Pretty Prairie
 
 Google AdWords reach
 
-### Tier 4 Outreach (Public at Large)
-
 #### Twitter Advertising (Paid)
 
 Members of the church are less likely to use Twitter. However, Twitter is an option to keep in mind, particularly for reaching the public at large. 
@@ -123,4 +116,8 @@ Twitter has a [Faith Playbook](https://media.twitter.com/playbook/faith-organiza
 
 #### Interpreter Ad (Paid)
 
+### Tier 1 Outreach (Basic)
+### Tier 2 Outreach (Proactive)
+### Tier 3 Outreach (Special Advertising)
+### Tier 4 Outreach (Public at Large)
 
