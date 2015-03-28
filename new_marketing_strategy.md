@@ -34,34 +34,39 @@ I developed a set of training materials.
 ## Example Marketing Plan
 
 ### Tier 1 Outreach (Basic)
-Up to date marketing materials 
-* Website/blog
-* Website Search Engine Optimization (SEO)/Google Rich Snippet
-* Facebook page
-* Newsletter (electronic and mail)
-* Find-a-Church
-* Bulletin
-* Postcards
-* Greeting card
-* Email signature
-* Permanent local newspaper ad
+
+#### Up to Date Marketing Materials 
+* Website, Find-a-Church, Newsletter, Bulletin, Postcards, Greeting card, Email signature
+
+### Non-Digital Low-Hanging Fruit
 * Word of mouth
+* Newspaper articles
+* Fliers in high traffic locations
+
+### Digital Low-Hanging Fruit
+* Website
+* Facebook page
+* Add website/Facebook page address to newspaper ads/articles, to increase traffic
+* Search Engine Optimization (SEO)
+* Google Rich Snippet
+* Social media sharing (ex. Facebook)
+* Newsletter (electronic and mail)
+
 
 ### Tier 2 Outreach (Proactive)
 
 #### Contacting Inactive Members
 
 Church members will contact church-goers of the past who are now inactive, and invite them back. 
-
 ##### Updating Directory
 
 ##### Letter
 
 #### Contacting Potential Newcomers
 
-##### Pooling Individual Knowledge
+Pooling Individual Knowledge
 
-##### Telephone Book
+Telephone Book
 
 Setting aside pre-existing assumptions, members of the church would go through the Pretty Prairie section of the phone book to identify people for outreach. 
 
@@ -79,14 +84,6 @@ Old skills list<br>
 
 #### Special Occasion Advertisement
 
-##### Traditional Advertisement
-* Newspaper ad/article
-* Ads and fliers in high traffic locations
-
-##### Facebook Advertising (Free Sharing)
-
-Based on feedback, members of the church and surrounding community are more likely to be on Facebook than Twitter. So, we would first consider the option of reaching people via Facebook, first through free sharing.
-
 ### Tier 3 Outreach (Special Advertising)
 
 #### Local Events and Organizations
@@ -94,6 +91,8 @@ Based on feedback, members of the church and surrounding community are more like
 * Other local sponsorships
 
 #### Facebook Advertising (Paid)
+
+Based on feedback, members of the church and surrounding community are more likely to be on Facebook than Twitter. So, we would first consider the option of reaching people via Facebook, first through free sharing.
 
 In addition to free sharing, Facebook also offers paid advertising to people located within a target area. 
 
