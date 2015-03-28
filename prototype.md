@@ -2,13 +2,8 @@
 
 ## National Church Re-Imagined :)
 
-## Platforms
-Designed for desktop and mobile
-
 iPhone 6+, iPad, iMac
 ![](prototype/iphone-6-plus-ipad-imac.jpg)
-
-Below are mock ups of the end-to-end mobile app experience, from start to finish. 
 
 Mobile App Screen Mockups (iPhone 6+)
 ![](prototype/iphone-6-plus-screens-1.jpg)
@@ -22,7 +17,10 @@ Mobile App Screen Mockups (iPhone 6+)
 ![](prototype/iphone-6-plus-screens-5.jpg)
 
 ## Highlights
-Incorporating proven best practices
+
+Designed for desktop and mobile
+
+Below are mock ups of the end-to-end mobile app experience, from start to finish. 
 
 Platforms
 * Desktop
@@ -38,17 +36,6 @@ Platforms
 Proposed Menu
 
 The experience is simple and intuitive. 
-
-* Login and Sign Up
-* Settings
-* Menus
-* Profiles
-* News/Activity feeds
-* Sharing
-* Comments
-* eCommerce
-* Galleries
-* Calendars
 
 What deals/partnerships could be created; how could this lead or success or increase incentives?
 
