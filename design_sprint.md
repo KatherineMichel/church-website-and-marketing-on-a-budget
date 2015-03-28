@@ -43,6 +43,7 @@ I would do most of the design work alone, and act as facilitator for select brai
 * News/Activity feeds
 * Sharing
 * Comments
+* Bible study
 * Portal to United Methodist content
 * eCommerce/Marketplace
 * Galleries
