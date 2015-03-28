@@ -2,7 +2,11 @@
 
 ## Facilitation 
 
-Members of the Nurture, Outreach, Witness (NOW) Committee, which plans outreach for the church, began to collaborate on a new church marketing plan. I was the facilitator for brainstorming and planning group work. 
+Members of the Nurture, Outreach, Witness (NOW) Committee, which plans outreach for the church, collaborateed on a new church marketing plan. I was the facilitator for brainstorming and planning group work. 
+
+We used the United Methodist Communications
+* Marketing Audit
+* Communications Audit
 
 ## Problem Structuring Methods
 
