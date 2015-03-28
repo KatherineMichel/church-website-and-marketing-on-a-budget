@@ -2,13 +2,11 @@
 
 ## United Methodist Communications Article
 
-[Small Membership Church](http://www.greatplainsumc.org/smallmembershipchurchresources) Revitalization Case Study
-
-Re-Think Church
+Great Plains [Small Membership Church Ministries](http://www.greatplainsumc.org/smallmembershipchurchresources) Revitalization Case Study
 
 [United Methodist Communications](http://www.umcom.org)
 
-Great Plains [Small Membership Church Ministries](http://www.greatplainsumc.org/smallmembershipchurchresources)
+I looking up the [United Methodist Communications contact info](http://www.umcom.org/about/contact-us-at-united-methodist-communications) and sent an email. 
 
 [Annual Church Health Check Up](http://www.umcom.org/learn/take-an-annual-church-health-checkup)
 
