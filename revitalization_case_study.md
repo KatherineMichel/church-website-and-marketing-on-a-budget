@@ -2,7 +2,7 @@
 
 ## United Methodist Communications Article
 
-Small Membership Church Revitalization Case Study
+[Small Membership Church](http://www.greatplainsumc.org/smallmembershipchurchresources) Revitalization Case Study
 
 Re-Think Church
 
