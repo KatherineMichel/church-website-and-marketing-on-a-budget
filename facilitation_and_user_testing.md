@@ -10,10 +10,8 @@ We used the following [United Methodist Communications](http://www.umcom.org) re
 * [Re-Think Church](http://www.umcom.org/rethink-church)
 * [Small Membership Church Ministries](http://www.greatplainsumc.org/smallmembershipchurchresources)
 
-## Problem Structuring Methods
-
 ### Reverse Engineering for Success
-We would seek to answer the following questions:
+We would use problem structuring methods to answer the following questions:
 
 * What does a successful Pretty Prairie United Methodist Church look like?
 * Whom should the church reach?
@@ -28,9 +26,16 @@ Church Vision Statement
 Church Mission Statement
 ![](new-marketing-strategy/mission-statement.jpg)
 
-In preparation for their group work, I had provided the NOW Committee with an example plan, a [Marketing Plan Worksheet](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/UMCOM_YOUR_MARKETING_PLAN_WORKSHEET.PDF), and a ["Tactics" List](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/STEP_4_IMPLEMENTATION_HOMEWORK.PDF) taken from the [United Methodist Communications](http://www.umcom.org) [Marketing Audit](http://www.umcom.org/learn/market-your-church-getting-started). 
-Marketing Worksheet Demographic Sheet
+#### What does a successful Pretty Prairie United Methodist Church look like?
+
+#### Whom should the church reach?
+
+Marketing Worksheet Target Audience Deliverable
 ![](new-marketing-strategy/demographics-sheet.jpg)
+
+#### How should the church reach them?
+
+In preparation for their group work, I had provided the NOW Committee with an example plan, a [Marketing Plan Worksheet](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/UMCOM_YOUR_MARKETING_PLAN_WORKSHEET.PDF), and a ["Tactics" List](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/STEP_4_IMPLEMENTATION_HOMEWORK.PDF) taken from the [United Methodist Communications](http://www.umcom.org) [Marketing Audit](http://www.umcom.org/learn/market-your-church-getting-started). 
 
 ### "How might we"
 
@@ -49,8 +54,6 @@ Look at a list of possible methods suited to available resources
 
 Analyze target audiences to determine which methods would be suitable to each audience
 Prioritize tactics
-
-### Nielson Company Demographic Info
 
 ## User Testing
 
