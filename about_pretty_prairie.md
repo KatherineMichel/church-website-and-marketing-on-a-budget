@@ -45,7 +45,7 @@ Google Trends search interest graph showing increased interest every July for ph
 * A school system ([U.S.D. 311](http://www.usd311.com))
 * A post office ([Pretty Prairie Post Office](http://www.uspspostoffices.com/ks/pretty-prairie/pretty-prairie))
 * A city office/library ([Pretty Prairie City Office](http://members.hutchchamber.com/Government-Public-Office/City-of-Pretty-Prairie-1513))
-* Four churches
+* Four churches ([Pretty Prairie United Methodist Church](http://www.prettyprairieumc.org), [Calvary Chapel](http://calvarychapel-pp.com), [First Mennonite Church](http://www.fmcprettyprairie.org), and [New Jerusalem Church](http://prettyprairiechurch.org))
 * A newspaper ([Ninnescah Valley News](https://www.facebook.com/pages/Ninnescah-Valley-News/142191375827044))
 * A nursing home ([Pretty Prairie Sunset Home](http://prairiesunsethome.org))
 * A bank ([Citizens Bank of Kansas](https://www.citizensbankofkansas.com/MyCommunity/MyLocations/PrettyPrairie))
