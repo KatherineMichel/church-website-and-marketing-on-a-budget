@@ -1,7 +1,6 @@
 # New Website
 
 The church website is very reasonably priced. The design has a clean, modern, minimalistic look, with a lightweight, responsive layout that adapts well from desktop to mobile. The user experience (UI) is intuitive.
-For more info about the selection process, go to [Website Options](website_options.md). 
 
 New website home page: [www.prettyprairieumc.org](www.prettyprairieumc.org)<br>
 
