@@ -121,8 +121,6 @@ Google AdWords reach
 
 ### Tier 4 Outreach (Public at Large)
 
-#### United Methodist Communications Article
-
 #### Twitter Advertising (Paid)
 
 Members of the church are less likely to use Twitter. However, Twitter is an option to keep in mind, particularly for reaching the public at large. 
