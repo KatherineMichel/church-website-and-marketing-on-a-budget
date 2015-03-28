@@ -4,9 +4,9 @@
 
 ### "How might we"
 
-Members of the Nurture, Outreach, Witness (NOW) Committee, which plans outreach for the church, would begin to collaborate on a new church marketing plan. I would be the facilitator for brainstorming and planning group work. 
+Members of the Nurture, Outreach, Witness (NOW) Committee, which plans outreach for the church, began to collaborate on a new church marketing plan. I was the facilitator for brainstorming and planning group work. 
 
-We would start by reflecting on the existing Vision and Mission Statements
+We started by reflecting on the existing Vision and Mission Statements
 
 Church Vision Statement
 ![](new-marketing-strategy/vision-statement.jpg)
