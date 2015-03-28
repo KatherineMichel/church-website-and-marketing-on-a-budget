@@ -15,3 +15,9 @@ Mobile App Screen Mockups (iPhone 6+)
 ![](prototype/iphone-6-plus-screens-4.jpg)
 
 ![](prototype/iphone-6-plus-screens-5.jpg)
+
+## OKRs
+* Search Engine Optimization
+* Google+ and Google Rich Snippets
+* Website, Facebook, Twitter, Pinterest, Instagram profiles
+* Google AdWords, Facebook and Twitter ads
