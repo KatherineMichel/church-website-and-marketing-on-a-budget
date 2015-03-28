@@ -21,3 +21,4 @@ Mobile App Screen Mockups (iPhone 6+)
 * Google+ and Google Rich Snippets
 * Website, Facebook, Twitter, Pinterest, Instagram profiles
 * Google AdWords, Facebook and Twitter ads
+* Facebook (OpenGraph) sharing, Twitter tweet, retweets, cards, intents
