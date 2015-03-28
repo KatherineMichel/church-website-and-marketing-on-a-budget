@@ -4,7 +4,7 @@
 
 Members of the Nurture, Outreach, Witness (NOW) Committee, which plans outreach for the church, began to collaborate on a new church marketing plan. I was the facilitator for brainstorming and planning group work. 
 
-## Problem Structuring and Problem Solving Methods
+## Problem Structuring Methods
 
 ### Reverse Engineering for Success
 We would then seek to answer the following questions:
@@ -13,6 +13,7 @@ We would then seek to answer the following questions:
 * Whom should the church reach?
 * How should the church reach them?
 
+### Church Vision and Mission Statements
 We started by reflecting on the existing Vision and Mission Statements
 
 Church Vision Statement
