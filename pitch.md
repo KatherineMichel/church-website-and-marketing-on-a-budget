@@ -127,18 +127,5 @@ Who to target and how (prioritization)
 * Number of people with desktop computers:
 * Number of people with mobile phones:
 
-### Other
-* Google Consumer Surveys (pay)
-
-* MailChimp (email management)
-
-* Google Webmaster and Analytics
-* Yahoo and Bing Webmaster
-* Facebook Insights (analytics)
-* Twitter Analytics
-
-* Google AdSense (embedded advertising)
-* Facebook Audience Network (mobile advertising) (Pay)
-
 
 
