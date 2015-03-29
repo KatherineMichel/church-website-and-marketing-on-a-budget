@@ -57,10 +57,6 @@ See [Prototype](prototype.md)
 
 ### User Testing Summary Report
 
-Qualitative and quantitative data
-
-Summary and analysis of findings
-
 ## Metrics
 
 ### HEART/Goals-Signals-Metrics Framework
