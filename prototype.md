@@ -46,6 +46,7 @@ Number 1 search result
 ![](prototype/google-play-search-mobile-church-the-church-app.jpg)
 
 ### Free App Rankings
+Goal: have "Free App" rankings comparable to The Bible App in Apple iTunes Store and Google Play Store
 
 #Apple iTunes Store
 Ranking comparable to The Bible App
