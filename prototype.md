@@ -21,7 +21,7 @@ Mobile App Screen Mockups (iPhone 6+)
 ## Home Screen
 Goal: occupy high value real estate on home screens
 
-## Google Search
+## Google Search (Search Engine Optimization (SEO))
 Goal: be number 1 search result in search engines for relevant keyword searches
 
 ## App Stores
