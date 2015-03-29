@@ -36,6 +36,7 @@ Capital required
 * Seed money
 * Donated resources
 
+Ex. The Bible pp, UMC eReader
 ## Financial Projections
 
 Financial projections- written for what audience?
@@ -76,22 +77,6 @@ More than one cash flow source?
 * How do users make decisions?
 * To what degree is product/service a compelling purchase?
 
-## Market Size
-Total market for product/service- large, rapidly growing?  
-
-## Network Effect
-
-## Primary Users
-
-### Primary User Segmentation
-
-#### U.S.
-
-#### Global
-
-### User Acquisition
-Who to target and how (prioritization)
-
 ### Product/Service Bundle by User Segment
 
 ### Reach, User Engagement, Customer Relationship Management 
@@ -99,13 +84,15 @@ Who to target and how (prioritization)
 * How easy is it to retain customers?
 
 ### Market Size
+Total market for product/service- large, rapidly growing? 
+
 Network Effect
 * Number of United Methodist members total: 12.1 million
 * Number of United Methodist congregations: 34,892
 
 ### Primary Users
 
-#### Primary User Segmentation
+#### Primary Users Segmentation
 
 ##### U.S.
 * Number of United Methodist members (U.S.): 7,725,039
@@ -114,6 +101,8 @@ Network Effect
 * Number of United Methodist members (rest of the world): 4.4 million
 
 ### User Acquisition
+Who to target and how (prioritization)
+
 * World population: ~7 billion
 * Number of Christians
 * Number of people with internet: 
