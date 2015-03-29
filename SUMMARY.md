@@ -17,7 +17,7 @@
 * [Part 2: The National Church Re-Imagined :)](the_national_united_methodist_church_re-imagined.md)
    * [Research and Design Sprint](research_and_design_sprint.md)
    * [Research Sprint](research_sprint.md)
-       * Global Technology Landscape
+       * [Global Technology Landscape](global_technology_landscape.md)
    * [Case Studies](case_studies.md)
        * [National United Methodist Church Case Study](national_united_methodist_church_case_study.md)
        * [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_study.md)
