@@ -39,7 +39,17 @@ Marketing Worksheet Target Audience Deliverable
 
 #### How should the church reach them?
 
-### "How might we"
+##### Skills Inventory
+
+Members of the church would take stock of the skills of individual members. This skills inventory would be used to identify ways to optimize what the church has to offer the community. 
+
+Old skills list<br>
+![](new-marketing-strategy/skills-inventory-1.jpg)
+
+<br>
+![](new-marketing-strategy/skills-inventory-2.jpg)
+
+##### "How might we"
 
 Audiences, tactics, and resources
 
