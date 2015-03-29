@@ -96,11 +96,10 @@ Network Effect
 
 #### Primary Users Segmentation
 
-##### U.S.
-* Number of United Methodist members (U.S.): 7,725,039
-
-##### Global
-* Number of United Methodist members (rest of the world): 4.4 million
+| Region | Approximate Number of United Methodist Members |
+| -- | -- |
+| U.S. | 7,725,039 |
+| Non-U.S. | 4,000,000 |
 
 ### User Acquisition
 Who to target and how (prioritization)
