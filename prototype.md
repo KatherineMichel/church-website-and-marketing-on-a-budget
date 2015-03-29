@@ -16,7 +16,11 @@ Mobile App Screen Mockups (iPhone 6+)
 
 ![](prototype/iphone-6-plus-screens-5.jpg)
 
-# OKRs
+# Objectives and Key Results (OKRs)
+
+[OKR Wikipedia](http://en.wikipedia.org/wiki/OKR)
+
+[How Google Set Goals: Objectives and Key Results](https://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs)
 
 ## Home Screen
 Goal: occupy high value real estate on home screens
