@@ -88,11 +88,7 @@ Staff, contest, volunteers?
 ### Market Size
 Total market for product/service- large, rapidly growing? 
 
-Network Effect
-
-* Number of United Methodist congregations: 34,892
-
-### Primary Users
+### Primary Users and Network Effect
 
 #### Primary Users Segmentation
 
@@ -101,6 +97,12 @@ Network Effect
 | U.S. | 7,725,039 |
 | Non-U.S. | 4,000,000 |
 | Total Worldwide | 12,000,000 |
+
+| Region | Approximate Number of Congregations |
+| -- | -- |
+| Worldwide | 34,892 |
+
+#### Network Effect
 
 ### User Acquisition
 Who to target and how (prioritization)
