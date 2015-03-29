@@ -4,6 +4,10 @@
 
 See [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_study.md) and [Prototype](prototype.md) for the inspiration for this pitch.
 
+http://www.umcdiscipleship.org/worship
+http://www.umcdiscipleship.org/drint
+http://www.umcdiscipleship.org/new-church-starts
+
 ## Pitch Slide Deck
 
 ![](pitch/pitch-deck.jpg)
