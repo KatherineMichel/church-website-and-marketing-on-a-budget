@@ -36,7 +36,7 @@ Capital required
 * Seed money
 * Donated resources
 
-Ex. The Bible pp, UMC eReader
+Ex. The Bible App, UMC eReader
 ## Financial Projections
 
 Financial projections- written for what audience?
