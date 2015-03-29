@@ -27,4 +27,5 @@
    * [User Testing](user_testing.md)
    * [Pitch](pitch.md)
    * [Software Architecture](software_architecture.md)
+   * Example Use Case
 
