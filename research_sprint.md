@@ -84,19 +84,6 @@ In the article [Surviving Disruption](https://hbr.org/2012/12/surviving-disrupti
 * Whom should the church reach?
 * How should the church reach them?
 
-Information sheet about Dora North Circuit of the United Methodist Church in Mutare District of Zimbabwe, one of the missions of the Pretty Prairie United Methodist Church
-
-![](pitch/dora-north-mission.jpg)
-
-
-
-
-
-
-
-
-
-
 
 
 
