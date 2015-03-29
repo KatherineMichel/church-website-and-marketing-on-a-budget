@@ -1,6 +1,4 @@
-# Global Technology Landscape
-
-## Global Digital and Philosophical Reorganization
+# Global Digital and Philosophical Reorganization
 
 ### Software is Eating the World
 
