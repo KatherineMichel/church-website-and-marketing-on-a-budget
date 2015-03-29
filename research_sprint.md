@@ -78,11 +78,6 @@ In the article [Surviving Disruption](https://hbr.org/2012/12/surviving-disrupti
 * Identify the strengths of your disrupter’s business model
 * Identify your own relative advantages
 * Evaluate the conditions that would help or hinder the disrupter from co-opting your current advantages in the future.
-* 
-### Reverse Engineering for Success
-* What does a successful national United Methodist Church look like?
-* Whom should the church reach?
-* How should the church reach them?
 
 
 
