@@ -117,11 +117,6 @@ Rank- due to leveraging network effect, quality? (look at reviews)
 
 * Search Result Discovery (commonly used search terms in name of app- "Bible app" leads to Google Search result "The Bible App" which leads to The Bible App website, selection of platforms, website and app lead to LifeChurch)
 * Direct Search Discovery
-* Top- App Stores (Google Play/Apple iTunes), Google Search
-
-* Website, Facebook, Twitter, Pinterest, Instagram profiles
-* Google AdWords, Facebook and Twitter ads
-* Facebook (OpenGraph) sharing, Twitter tweet, retweets, cards, intents
 
 
 
