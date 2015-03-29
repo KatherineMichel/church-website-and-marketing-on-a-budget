@@ -113,8 +113,6 @@ Who to target and how (prioritization)
 
 ### OKRs
 Leverage the tech
-Goal: for app to occupy high value real estate on a home screen
-Goal: for app to be number one search result in app stores and search engines
 Rank- due to leveraging network effect, quality? (look at reviews)
 
 * Search Result Discovery (commonly used search terms in name of app- "Bible app" leads to Google Search result "The Bible App" which leads to The Bible App website, selection of platforms, website and app lead to LifeChurch)
