@@ -55,7 +55,7 @@ Ranking comparable to The Bible App
 Ranking comparable to The Bible App
 ![](prototype/google-play-top-selling-free-apps-the-church-app.jpg)
 
-## Website, Facebook, Twitter, Pinterest, Instagram profiles
+## Website, Facebook, Twitter (tweets, retweets, intents), Pinterest, Instagram profiles
 
 ## Google+ and Rich Snippet
 
