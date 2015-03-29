@@ -28,6 +28,14 @@ Number 1 search result
 Number 1 search result
 ![](prototype/google-play-search-church-app-the-church-app.jpg)
 
+### Search 'mobile Bible'
+Number 1 search result
+![](prototype/google-play-search-mobile-bible-the-church-app.jpg)
+
+### Search 'mobile church'
+Number 1 search result
+![](prototype/google-play-search-mobile-church-the-church-app.jpg)
+
 ## Free App Rankings
 
 ### Apple iTunes Store
