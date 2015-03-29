@@ -18,11 +18,25 @@ Mobile App Screen Mockups (iPhone 6+)
 
 ## Google Search
 
-## Google Play
+## Google Play Store (Android)
 
-## Apple iTunes Store
+### Search 'Bible app'
+Number 1 search result
+![](prototype/google-play-search-bible-app-the-church-app.jpg)
+
+### Search 'church app'
+Number 1 search result
+![](prototype/google-play-search-church-app-the-church-app.jpg)
 
 ## Free App Rankings
+
+### Apple iTunes Store
+Ranking comparable to The Bible App
+![](prototype/apple-store-itune-charts-free-apps-the-church-app.jpg)
+
+### Google Play Store (Android)
+Ranking comparable to The Bible App
+![](prototype/google-play-top-selling-free-apps-the-church-app.jpg)
 
 ## Website, Facebook, Twitter, Pinterest, Instagram profiles
 
