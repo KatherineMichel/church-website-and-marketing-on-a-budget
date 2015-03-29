@@ -119,8 +119,6 @@ Rank- due to leveraging network effect, quality? (look at reviews)
 * Direct Search Discovery
 * Top- App Stores (Google Play/Apple iTunes), Google Search
 
-* Search Engine Optimization
-* Google+ and Google Rich Snippets
 * Website, Facebook, Twitter, Pinterest, Instagram profiles
 * Google AdWords, Facebook and Twitter ads
 * Facebook (OpenGraph) sharing, Twitter tweet, retweets, cards, intents
