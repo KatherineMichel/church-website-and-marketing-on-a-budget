@@ -67,6 +67,8 @@ More than one cash flow source?
 * Are people of the right skill level on the team?
 * If not, can people of the right skill level be recruited?
 
+Staff, contest, volunteers?
+
 ## Users and Motivation
 * For whom are we creating value?
 * Who are our most important customers?
