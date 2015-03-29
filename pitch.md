@@ -99,10 +99,7 @@ Who to target and how (prioritization)
 * How easy is it to retain customers?
 
 ### Market Size
-* Number of United Methodist members total: 12.1 million
-* Number of United Methodist congregations: 34,892
-
-### Network Effect
+Network Effect
 * Number of United Methodist members total: 12.1 million
 * Number of United Methodist congregations: 34,892
 
