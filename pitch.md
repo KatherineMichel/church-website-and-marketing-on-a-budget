@@ -118,8 +118,5 @@ Who to target and how (prioritization)
 ### OKRs
 
 
-* Search Result Discovery (commonly used search terms in name of app- "Bible app" leads to Google Search result "The Bible App" which leads to The Bible App website, selection of platforms, website and app lead to LifeChurch)
-
-
 
 
