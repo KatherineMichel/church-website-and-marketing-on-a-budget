@@ -57,9 +57,10 @@ Who are competitors?
 * Other traditional Mainline churches
 * Contemporary churches such as LifeChurch
 
-### Primary Users and Network Effect
+### Network Effect
+Building the app is not the only challenge. A network effect also needs to be created. This is where a missed opportunity exists. The United Methodist Church would not be starting from scratch to build up a user base. A potential user base of 12 million United Methodist members already exists, not to mention casual church-goers and newcomers. 
 
-#### Primary Users Segmentation
+### Primary Users Segmentation
 
 | Region | Approximate Number of United Methodist Members |
 | -- | -- |
@@ -70,9 +71,6 @@ Who are competitors?
 | Region | Approximate Number of Congregations |
 | -- | -- |
 | Worldwide | 34,892 |
-
-#### Network Effect
-Building the app is not the only challenge. A network effect also needs to be created. This is where a missed opportunity exists. The United Methodist Church would not be starting from scratch to build up a user base. A potential user base of 12 million United Methodist members already exists, not to mention casual church-goers and newcomers. 
 
 ### User Acquisition
 Who to target and how?
