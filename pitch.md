@@ -14,10 +14,13 @@ If successful, what will this venture look like?
 
 ## Competitive Analysis
 
-Churches- highly competitive marketplace
+According to Pew Research, churches are a highly competitive marketplace. 
 
 ### Idea Maze
-* Who are competitors? 
+Who are competitors? 
+* Other traditional Mainline churches
+* Contemporary churches such as LifeChurch
+
 * How does their product compare?
 * What behavior/expectations by uses might be transferable? 
 
@@ -81,12 +84,6 @@ The app would need to be built by people of the right skill level. They could be
 * How do users make decisions?
 * To what degree is product/service a compelling purchase?
 
-### Product/Service Bundle by User Segment
-
-### Reach, User Engagement, Customer Relationship Management 
-* How will user segments be reached?
-* How easy is it to retain customers?
-
 ### Market Size
 Currently, United Methodist membership is steadily falling in the United States, but dramatically rising in certain developing countries. However, the app would be creating a new market. 
 
@@ -115,6 +112,12 @@ Who to target and how?
 * Number of people with internet: 
 * Number of people with desktop computers:
 * Number of people with mobile phones:
+
+### Product/Service Bundle by User Segment
+
+### Reach, User Engagement, Customer Relationship Management 
+* How will user segments be reached?
+* How easy is it to retain customers?
 
 ### OKRs
 
