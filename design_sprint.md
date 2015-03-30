@@ -56,6 +56,8 @@ App for Kids
 
 #### User Story Divided into Parts
 
+Commonly used search terms in app name (Ex. Google search for 'Bible app' leads to search result "The Bible App" which leads to The Bible App website, which leads to selection of platforms and LifeChurch)
+
 ### Mind map
 
 #### Soft Systems Rich Picture
