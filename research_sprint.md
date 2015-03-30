@@ -29,11 +29,6 @@ According to the [2012 United Methodist State of the Church Report](http://s3.am
 ![](national-united-methodist-church/2012-state-of-the-church-report-professing-membership.jpg)
 
 N.B. These numbers do not include constituents (church-goers and others associated with the church who are not members.
-## Increasing Mobile Phone Ownership in Developing Countries
-
-
-
-http://en.wikipedia.org/wiki/List_of_countries_by_number_of_mobile_phones_in_use
 
 ## The Rise of Mobile Phone Ownership
 
@@ -46,7 +41,13 @@ Google Trends graph for phrases ["iPhone" "app" "Android" "desktop" "website" (r
 Google Trends graph for phrases ["church iPhone" "church app" "church Android" "church desktop" "church website" (region: worldwide)](http://www.google.com/trends/explore#q=church%20iPhone%2C%20church%20app%2C%20church%20Android%2C%20church%20livestream&cmpt=q&tz=), from 2004 to 2015.
 ![](google-maps-and-trends/google-trends-church-iphone-church-app-church-android-church-livestream.jpg)
 
-#### [Google Trends Graph for Phrases "United Methodist Church" "LifeChurch" "The Bible App" "Upworthy"](http://www.google.com/trends/explore#q=United%20Methodist%20Church%2C%20LifeChurch%2C%20The%20Bible%20App%2C%20Upworthy&cmpt=q&tz=) from 2004 to 2015
+## Increasing Mobile Phone Ownership in Developing Countries
+http://en.wikipedia.org/wiki/List_of_countries_by_number_of_mobile_phones_in_use
+
+## Longterm Decline
+Is this decline inevitable, or can the situation be turned around? 
+
+### [Google Trends Graph for Phrases "United Methodist Church" "LifeChurch" "The Bible App" "Upworthy"](http://www.google.com/trends/explore#q=United%20Methodist%20Church%2C%20LifeChurch%2C%20The%20Bible%20App%2C%20Upworthy&cmpt=q&tz=) from 2004 to 2015
 
 The United Methodist Church, which is clearly of declining interest, is still a "giant" compared to Upworthy at Upworthy's peak search volume. LifeChurch and The Bible App are miniscule in comparison, but on the rise and with a strong, modern network effect in place of the sort that could disrupt traditional church.
 ![](google-maps-and-trends/google-trends-united-methodist-church-lifechurch-the-bible-app-upworthy.jpg)
@@ -58,9 +59,6 @@ In the article [Surviving Disruption](https://hbr.org/2012/12/surviving-disrupti
 * Identify the strengths of your disrupter’s business model
 * Identify your own relative advantages
 * Evaluate the conditions that would help or hinder the disrupter from co-opting your current advantages in the future.
-
-## Longterm Decline
-Is this decline inevitable, or can the situation be turned around?   
 
 ## Survival
 According to the [2012 United Methodist State of the Church Report](http://s3.amazonaws.com/Website_Properties/state-of-the-church/documents/2012-state-of-the-church-report.PDF), "Critical research conducted in 2010 found that 15 percent of United Methodist congregations in the United States were considered 'highly vital.' As a result, the Connectional Table and the Council of Bishops embraced a 10-year adaptive challenge to increase vitality across the denomination, especially in places where churches have been on the decline... Because of this Spirit-filled movement, the 2012 State of the Church Report focuses on vital congregations. Annual conferences and congregations in our worldwide connection are finding new ways to share the Good News of Jesus Christ, revitalizing the United Methodist movement in places of need. We praise God and celebrate the growth and vitality of our churches in Africa and the Philippines and will continue to find ways to strengthen our global connection"
