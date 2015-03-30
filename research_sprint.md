@@ -5,14 +5,16 @@
 * Whom should the church reach?
 * How should the church reach them?
 
-## Declining and Increasing Membership
+## Declining United Methodist Membership in the U.S.
 
 Google Trends graph for the phrase ["United Methodist Church" (region: worldwide)](http://www.google.com/trends/explore#q=United%20Methodist%20Church), from around 2004 to 2015. 
 
 ![](google-maps-and-trends/google-trends-united-methodist-church-worldwide.jpg)
 
-According to the [2012 United Methodist State of the Church Report](http://s3.amazonaws.com/Website_Properties/state-of-the-church/documents/2012-state-of-the-church-report.PDF) (the latest report of its kind), between 2000 and 2010, professed membership in the United Methodist Church declined by 7.8% in the U.S. and increased by 170.8% in Africa Central, 253.9% in the Congo, 297.6% in West Africa, and 156.5% in the Philippines. These numbers do not include constituents (church-goers and others associated with the church who are not members. <br>
+According to the [2012 United Methodist State of the Church Report](http://s3.amazonaws.com/Website_Properties/state-of-the-church/documents/2012-state-of-the-church-report.PDF) (the latest report of its kind), between 2000 and 2010, professed membership in the United Methodist Church declined by 7.8% in the U.S. <br>
 ![](national-united-methodist-church/2012-state-of-the-church-report-professing-membership.jpg)
+
+N.B. These numbers do not include constituents (church-goers and others associated with the church who are not members.
 
 ## Declining Interest in Mainline Churches
 
@@ -21,12 +23,18 @@ This problem of declining interest is not exclusive to the United Methodist Chur
 Google Trends graph for the phrases ["United Methodist" "Catholic" "Presbyterian" "Baptist" (region: worldwide)](http://www.google.com/trends/explore#q=United%20Methodist%2C%20Catholic%2C%20Presbyterian%2C%20Baptist&cmpt=q&tz=), from around 2004 to 2015:
 ![](google-maps-and-trends/google-trends-united-methodist-catholic-presbyterian-baptist.jpg)
 
-#### [Google Trends Graph for Phrases "United Methodist Church" "LifeChurch" "The Bible App" "Upworthy"](http://www.google.com/trends/explore#q=United%20Methodist%20Church%2C%20LifeChurch%2C%20The%20Bible%20App%2C%20Upworthy&cmpt=q&tz=) from 2004 to 2015
+## Increasing United Methodist Membership in Developing Countries
 
-The United Methodist Church, which is clearly of declining interest, is still a "giant" compared to Upworthy at Upworthy's peak search volume. LifeChurch and The Bible App are miniscule in comparison, but on the rise and with a strong, modern network effect in place of the sort that could disrupt traditional church.
-![](google-maps-and-trends/google-trends-united-methodist-church-lifechurch-the-bible-app-upworthy.jpg)
+According to the [2012 United Methodist State of the Church Report](http://s3.amazonaws.com/Website_Properties/state-of-the-church/documents/2012-state-of-the-church-report.PDF) (the latest report of its kind), between 2000 and 2010, professed membership in the United Methodist Church increased by 170.8% in Africa Central, 253.9% in the Congo, 297.6% in West Africa, and 156.5% in the Philippines.  <br>
+![](national-united-methodist-church/2012-state-of-the-church-report-professing-membership.jpg)
+
+N.B. These numbers do not include constituents (church-goers and others associated with the church who are not members.
 
 
+
+
+
+http://en.wikipedia.org/wiki/List_of_countries_by_number_of_mobile_phones_in_use
 
 
 #### Google Trends Graph for Phrases "iPhone" "app" "Android" "desktop" "website"
@@ -45,6 +53,11 @@ In the article [Surviving Disruption](https://hbr.org/2012/12/surviving-disrupti
 * Identify the strengths of your disrupter’s business model
 * Identify your own relative advantages
 * Evaluate the conditions that would help or hinder the disrupter from co-opting your current advantages in the future.
+
+#### [Google Trends Graph for Phrases "United Methodist Church" "LifeChurch" "The Bible App" "Upworthy"](http://www.google.com/trends/explore#q=United%20Methodist%20Church%2C%20LifeChurch%2C%20The%20Bible%20App%2C%20Upworthy&cmpt=q&tz=) from 2004 to 2015
+
+The United Methodist Church, which is clearly of declining interest, is still a "giant" compared to Upworthy at Upworthy's peak search volume. LifeChurch and The Bible App are miniscule in comparison, but on the rise and with a strong, modern network effect in place of the sort that could disrupt traditional church.
+![](google-maps-and-trends/google-trends-united-methodist-church-lifechurch-the-bible-app-upworthy.jpg)
 
 ## Longterm Decline
 Is this decline inevitable, or can the situation be turned around?   
