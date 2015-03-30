@@ -24,8 +24,6 @@ Who are competitors?
 * How does their product compare?
 * What behavior/expectations by uses might be transferable? 
 
-## High Level Value Proposition
-
 ## Deal Structure
 
 ### Corporate Structure Options
