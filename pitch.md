@@ -64,10 +64,12 @@ More than one cash flow source?
 * Price varies based on device used (iPhones more expensive/users tend to spend more)
 
 ## Talent
-* Are people of the right skill level on the team?
-* If not, can people of the right skill level be recruited?
+The app would need to be built by people of the right skill level. They could be recruited from:
 
-Staff, contest, volunteers?
+* Staff
+* Third party business
+* Volunteers
+* Contest entries
 
 ## Users and Motivation
 * For whom are we creating value?
@@ -103,13 +105,13 @@ Currently, United Methodist membership is steadily falling in the United States,
 | Worldwide | 34,892 |
 
 #### Network Effect
-Building the app is not the only challenge. A network effect also needs to be created. This is where a missed opportunity exists. The United Methodist Church would not be starting from scratch to build up a user base. A potential user base of 12 million members already exists, not to mention casual church-goers and newcomers. 
+Building the app is not the only challenge. A network effect also needs to be created. This is where a missed opportunity exists. The United Methodist Church would not be starting from scratch to build up a user base. A potential user base of 12 million United Methodist members already exists, not to mention casual church-goers and newcomers. 
 
 ### User Acquisition
 Who to target and how?
 
 * World population: ~7 billion
-* Number of Christians
+* Number of Christians: 
 * Number of people with internet: 
 * Number of people with desktop computers:
 * Number of people with mobile phones:
