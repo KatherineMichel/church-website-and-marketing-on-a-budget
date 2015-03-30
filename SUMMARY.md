@@ -19,7 +19,6 @@
    * [Research Sprint](research_sprint.md)
        * [Global Re-Organization](global_re-organization.md)
    * [Case Studies](case_studies.md)
-       * [National United Methodist Church Case Study](national_united_methodist_church_case_study.md)
        * [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_study.md)
        * [Upworthy Case Study](upworthy_case_study.md)
    * [Design Sprint](design_sprint.md)
