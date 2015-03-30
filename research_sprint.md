@@ -30,7 +30,7 @@ According to the [2012 United Methodist State of the Church Report](http://s3.am
 
 N.B. These numbers do not include constituents (church-goers and others associated with the church who are not members.
 
-
+## Increasing in Mobile Phone Ownership in Developing Countries
 
 
 
