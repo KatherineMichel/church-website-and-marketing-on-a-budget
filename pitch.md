@@ -29,20 +29,14 @@ Who are competitors?
 ## Deal Structure
 
 ### Corporate Structure Options
-
 * Non-profit
 * B Corporation
 
-## Funding
-Capital required
-
+## Funding Required and Capital Sources
 * Seed money
 * Donated resources
 
-Ex. The Bible App, UMC eReader
 ## Financial Projections
-
-Financial projections- written for what audience?
 
 ## Business Model
 * Key partners (who is known, who knows)
