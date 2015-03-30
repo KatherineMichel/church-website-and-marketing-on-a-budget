@@ -1,4 +1,0 @@
-# Watsi Case Study
-
-
-
