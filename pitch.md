@@ -116,11 +116,10 @@ Who to target and how (prioritization)
 * Number of people with mobile phones:
 
 ### OKRs
-Leverage the tech
-Rank- due to leveraging network effect, quality? (look at reviews)
+
 
 * Search Result Discovery (commonly used search terms in name of app- "Bible app" leads to Google Search result "The Bible App" which leads to The Bible App website, selection of platforms, website and app lead to LifeChurch)
-* Direct Search Discovery
+
 
 
 
