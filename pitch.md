@@ -60,20 +60,6 @@ The app would need to be built by people of the right skill level. They could be
 * Volunteers
 * Contest entries
 
-## Users and Motivation
-* For whom are we creating value?
-* Who are our most important customers?
-
-* What do people need?
-* Why would a user want this product/service?
-* What user need will the product satisfy?
-* How do users make decisions?
-* To what degree is product/service a compelling purchase?
-
-Competitors
-* How does their product compare?
-* What behavior/expectations by uses might be transferable? 
-
 ### Market Size
 Currently, United Methodist membership is steadily falling in the United States, but dramatically rising in certain developing countries. However, the app would be creating a new market. 
 
@@ -102,12 +88,6 @@ Who to target and how?
 * Number of people with internet: 
 * Number of people with desktop computers:
 * Number of people with mobile phones:
-
-### Product/Service Bundle by User Segment
-
-### Reach, User Engagement, Customer Relationship Management 
-* How will user segments be reached?
-* How easy is it to retain customers?
 
 ### OKRs
 
