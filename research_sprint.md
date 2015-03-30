@@ -16,7 +16,7 @@ According to the [2012 United Methodist State of the Church Report](http://s3.am
 
 ## Declining Interest in Mainline Churches
 
-This problem of declining interest is not exclusive to the United Methodist Church. Mainline churches in general (Protestant and Catholic) are struggling stay relevant.
+This problem of declining interest is not exclusive to the United Methodist Church. Mainline churches in general are struggling stay relevant. 
 
 Google Trends graph for the phrases ["United Methodist" "Catholic" "Presbyterian" "Baptist" (region: worldwide)](http://www.google.com/trends/explore#q=United%20Methodist%2C%20Catholic%2C%20Presbyterian%2C%20Baptist&cmpt=q&tz=), from around 2004 to 2015:
 ![](google-maps-and-trends/google-trends-united-methodist-catholic-presbyterian-baptist.jpg)
