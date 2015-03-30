@@ -20,7 +20,6 @@
        * [Global Re-Organization](global_re-organization.md)
    * [Case Studies](case_studies.md)
        * [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_study.md)
-       * [Upworthy Case Study](upworthy_case_study.md)
    * [Design Sprint](design_sprint.md)
    * [Prototype](prototype.md)
    * [User Testing](user_testing.md)
