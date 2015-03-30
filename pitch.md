@@ -33,6 +33,8 @@ See [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_
 Cost Structure/Revenue Streams
 More than one cash flow source?
 
+[Economics are the Future of Charity](https://chartio.com/blog/2015/03/saas-economics-are-the-future-of-charity)
+
 ### Example Business Model
 
 | Business Model | Notes |
