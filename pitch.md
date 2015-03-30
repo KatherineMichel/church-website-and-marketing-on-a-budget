@@ -8,15 +8,6 @@ See [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_
 
 ![](pitch/pitch-deck.jpg)
 
-## Competitive Analysis
-
-According to Pew Research, churches are a highly competitive marketplace. 
-
-### Idea Maze
-Who are competitors? 
-* Other traditional Mainline churches
-* Contemporary churches such as LifeChurch
-
 ## Deal Structure
 
 ### Corporate Structure Options
@@ -56,6 +47,15 @@ The suggested business model would be freemium with support through donations, i
 
 ### Market Size
 Currently, United Methodist membership is steadily falling in the United States, but dramatically rising in certain developing countries. However, the app would be creating a new market. 
+
+## Competitive Analysis
+
+According to Pew Research, churches are a highly competitive marketplace. 
+
+### Idea Maze
+Who are competitors? 
+* Other traditional Mainline churches
+* Contemporary churches such as LifeChurch
 
 ### Primary Users and Network Effect
 
