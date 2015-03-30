@@ -56,6 +56,7 @@ Though Google Ventures suggests including in the email a link to a non-disclosur
 See [Prototype](prototype.md)
 
 ### User Testing Summary Report
+Concern: that people would use the app instead of going to church and giving money in the offering
 
 ## Metrics
 
