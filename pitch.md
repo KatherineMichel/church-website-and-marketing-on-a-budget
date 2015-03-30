@@ -8,10 +8,6 @@ See [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_
 
 ![](pitch/pitch-deck.jpg)
 
-## Reverse Engineering
-
-If successful, what will this venture look like?
-
 ## Competitive Analysis
 
 According to Pew Research, churches are a highly competitive marketplace. 
