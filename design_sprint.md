@@ -22,13 +22,11 @@ Taking stock of resources on hand
 I would do most of the design work alone, and act as facilitator for select brainstorming and planning group work, particularly involving the church's Nurture Outreach Witness (NOW) Committee, which plans outreach for the church. 
 ## Design Sprint Process
 
-### Lightning Demos
+### Research Sprint and Lightning Demos
 
  See [Case Studies](case_studies.md) for lightning demos of.... 
 * [The National United Methodist Church](the_national_united_methodist_church_case_study.md)
 * [LifeChurch and The Bible App](lifechurch_and_the_bible_app_case_study.md)
-* [Upworthy](upworthy_case_study.md)
-* [Watsi](watsi_case_study.md)
 
 ### User Story
 
