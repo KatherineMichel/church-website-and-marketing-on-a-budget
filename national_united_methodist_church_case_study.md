@@ -13,15 +13,7 @@ The website has an appealing design. The color scheme is a nod to the United Met
 
 ![](national-united-methodist-church/umc.org-mobile-apps.jpg)
 
-## Jesus and John Wesley, Social Pioneers
 
-Maybe the United Methodist Church need look no further than [social network](http://en.wikipedia.org/wiki/Social_network) pioneers Jesus and John Wesley for inspiration. 
-
-Jesus grew a social network that consisted of family, friends, and followers, who spread his message by word of mouth until it became viral the world over. 
-
-[John Wesley](http://en.wikipedia.org/wiki/John_Wesley) spread the Methodist religion across the United States by creating a social network of followers who were organized into "Class Meetings" across geographic territories and ministered to by "Circuit Riders." 
-
-"I look upon all the world as my parish" -John Wesley, founder of Methodism
 
 
 
