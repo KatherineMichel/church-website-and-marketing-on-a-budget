@@ -17,9 +17,6 @@ Who are competitors?
 * Other traditional Mainline churches
 * Contemporary churches such as LifeChurch
 
-* How does their product compare?
-* What behavior/expectations by uses might be transferable? 
-
 ## Deal Structure
 
 ### Corporate Structure Options
@@ -29,8 +26,6 @@ Who are competitors?
 ## Funding Required and Capital Sources
 * Seed money
 * Donated resources
-
-## Financial Projections
 
 ## Business Model
 * Key partners (who is known, who knows)
@@ -48,11 +43,14 @@ Cost Structure/Revenue Streams
 More than one cash flow source?
 
 ### Example Business Model
-* Donations (self-sustaining?)
-* Freemium (in-app purchases, ads)
-* Freemium for certain amount of time (ex. What's App was free for a year, then $.99, available on many devices, helped popularity)
-* Paid (may cause some users to be excluded)
-* Price varies based on device used (iPhones more expensive/users tend to spend more)
+
+| Business Model | Notes |
+| -- | -- |
+| Donations | Is this self-sustaining? |
+| Freemium | Supported through in-app purchases, ads, ect. |
+| Limited Freemium | Free for a year then $ .99 |
+| Paid | Potential users may be excluded |
+| Price based on OS | Different operating systems generate different amounts of revenue |
 
 ## Talent
 The app would need to be built by people of the right skill level. They could be recruited from:
@@ -71,6 +69,10 @@ The app would need to be built by people of the right skill level. They could be
 * What user need will the product satisfy?
 * How do users make decisions?
 * To what degree is product/service a compelling purchase?
+
+Competitors
+* How does their product compare?
+* What behavior/expectations by uses might be transferable? 
 
 ### Market Size
 Currently, United Methodist membership is steadily falling in the United States, but dramatically rising in certain developing countries. However, the app would be creating a new market. 
