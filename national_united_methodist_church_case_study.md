@@ -1,10 +1,4 @@
-# The National United Methodist Church Case Study
 
-What's the matter with the [United Methodist Church](http://www.umc.org)? Looking at the steady decline of interest in the United Methodist Church and how it can be fixed.
-
-## Google Trends Graph for Phrases "church" "Bible" and "Jesus"  
-Google Trends graph for the phrases ["church" "Bible" and "Jesus" (region: worldwide)](http://www.google.com/trends/explore#q=church%2C%20Bible%2C%20Jesus&cmpt=q&tz=), from around 2004 to 2015. Wavering, but not exactly down and to the right. This graph does not reflect increasing world population/increasing access to search tools. 
-![](google-maps-and-trends/google-trends-church-bible-jesus.jpg)
 
 ## Critique of [umc.org](http://www.umc.org) 
 ![](national-united-methodist-church/umc.org-home-page.jpg)
