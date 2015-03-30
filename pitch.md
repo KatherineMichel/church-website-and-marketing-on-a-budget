@@ -52,13 +52,7 @@ More than one cash flow source?
 | Paid | Potential users may be excluded |
 | Price based on OS | Different operating systems generate different amounts of revenue |
 
-## Talent
-The app would need to be built by people of the right skill level. They could be recruited from:
-
-* Staff
-* Third party business
-* Volunteers
-* Contest entries
+The suggested business model would be freemium with support through donations, in-app purchases, and limited ads/partnerships.
 
 ### Market Size
 Currently, United Methodist membership is steadily falling in the United States, but dramatically rising in certain developing countries. However, the app would be creating a new market. 
@@ -85,9 +79,20 @@ Who to target and how?
 
 * World population: ~7 billion
 * Number of Christians: 
+* Number of non-United Methodist Christians: 
+* Number of non-Christians
+* Number of people with no religions affiliation:
 * Number of people with internet: 
 * Number of people with desktop computers:
 * Number of people with mobile phones:
+
+## Talent
+The app would need to be built by people of the right skill level. They could be recruited from:
+
+* Staff
+* Third party business
+* Volunteers
+* Contest entries
 
 ### OKRs
 
