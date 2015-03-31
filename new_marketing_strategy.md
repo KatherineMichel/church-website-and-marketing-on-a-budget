@@ -39,6 +39,9 @@ I developed a set of training materials.
 ### Non-Digital Low-Hanging Fruit
 * Word of mouth
 * Newspaper articles
+
+![](new-marketing-strategy/ninnescah-valley-news-church-calendar.jpg)
+
 * Fliers in high traffic locations
 
 ### Digital Low-Hanging Fruit
