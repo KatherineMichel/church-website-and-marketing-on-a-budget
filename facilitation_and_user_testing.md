@@ -88,3 +88,5 @@ United Methodist Goals and Measurable Objectives example chart
 [Sample Online Survey](http://s3.amazonaws.com/Website_Properties_UGC/church-communications-audit/documents/sample_online_survey.pdf)
 
 [Sample Focus Group Questions](http://s3.amazonaws.com/Website_Properties_UGC/church-communications-audit/documents/sample_focus_group_questions.pdf)
+
+[Local Church Member Assessment Survey](http://s3.amazonaws.com/Website_Properties_UGC/mycom/SURVEY_7529893.PDF)
