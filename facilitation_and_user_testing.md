@@ -79,3 +79,4 @@ United Methodist Goals and Measurable Objectives example chart
 
 ## User Testing
 
+[Online Survey](http://s3.amazonaws.com/Website_Properties_UGC/church-communications-audit/documents/sample_online_survey.pdf)
