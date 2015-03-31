@@ -86,6 +86,8 @@ Who to target and how?
 * Number of people with desktop computers:
 * Number of people with mobile phones:
 
+## Platforms
+
 ## Example Use Case
 
 Information sheet about Dora North Circuit of the United Methodist Church in Mutare District of Zimbabwe, one of the missions of the Pretty Prairie United Methodist Church
