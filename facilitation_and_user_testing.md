@@ -81,6 +81,8 @@ United Methodist Goals and Measurable Objectives example chart
 
 [Audit Resources](http://www.umcom.org/services-products/audit-resources)
 
+[Suggested Steps](http://s3.amazonaws.com/Website_Properties_UGC/church-communications-audit/documents/suggested_steps.pdf)
+
 [Sample Audit Action Plan](http://s3.amazonaws.com/Website_Properties_UGC/church-communications-audit/documents/sample_audit_action_plan.pdf)
 
 [Sample Online Survey](http://s3.amazonaws.com/Website_Properties_UGC/church-communications-audit/documents/sample_online_survey.pdf)
