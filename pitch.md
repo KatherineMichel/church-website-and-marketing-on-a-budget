@@ -86,8 +86,6 @@ Who to target and how?
 * Number of people with desktop computers:
 * Number of people with mobile phones:
 
-## Platforms
-
 ## Talent
 The app would need to be built by people of the right skill level. They could be recruited from:
 
@@ -100,6 +98,8 @@ The app would need to be built by people of the right skill level. They could be
 [OKR Wikipedia](http://en.wikipedia.org/wiki/OKR)
 
 [How Google Set Goals: Objectives and Key Results](https://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs)
+
+## Platforms
 
 ## Home Screen
 Goal: occupy high value real estate on home screens
