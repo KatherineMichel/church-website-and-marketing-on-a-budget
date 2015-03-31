@@ -49,11 +49,17 @@ Though Google Ventures suggests including in the email a link to a non-disclosur
 
 ![](user-testing/interview-worksheet-6.jpg)
 
-### Interview Guide
-
 ### Interviews
 
 See [Prototype](prototype.md)
+
+### Interview Guide
+
+#### Example Use Case
+
+Information sheet about Dora North Circuit of the United Methodist Church in Mutare District of Zimbabwe, one of the missions of the Pretty Prairie United Methodist Church
+
+![](pitch/dora-north-mission.jpg)
 
 ### User Testing Summary Report
 Concern: that people would use the app instead of going to church and giving money in the offering
