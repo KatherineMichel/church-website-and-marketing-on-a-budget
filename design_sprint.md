@@ -77,4 +77,4 @@ What I intended to be Crazy Eights become more like a Storyboard. I felt that af
 
 ### Prototype
 
-See [Prototype](prototype.md)
+These sketches formed the basis for a [Prototype](prototype.md) that I made.
