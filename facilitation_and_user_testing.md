@@ -30,6 +30,8 @@ Church Vision Statement
 Church Mission Statement
 ![](new-marketing-strategy/mission-statement.jpg)
 
+Notes from previous church strategy meetings
+
 #### What does a successful Pretty Prairie United Methodist Church look like?
 
 #### Whom should the church reach?
