@@ -15,25 +15,3 @@ Mobile App Screen Mockups (iPhone 6+)
 ![](prototype/iphone-6-plus-screens-4.jpg)
 
 ![](prototype/iphone-6-plus-screens-5.jpg)
-
-## Google Search
-
-## Google Play
-
-## Apple iTunes Store
-
-## Free App Rankings
-
-## Website, Facebook, Twitter, Pinterest, Instagram profiles
-
-## Google+ and Rich Snippet
-
-## Google Ad
-
-## Facebook Ad
-
-## Twitter Ad
-
-## Facebook OpenGraph
-
-## Twitter Card

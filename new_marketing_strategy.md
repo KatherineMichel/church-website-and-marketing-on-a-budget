@@ -8,6 +8,8 @@ As part of the church's revitalization effort, in addition to the new website, a
 
 ![](new-marketing-strategy/sanctuary-screens.jpg)
 
+### Worship Committee
+
 ### Publicity Engine
 A self-sustaining publicity engine would be created, involving a variety of church leaders and members. Duties could include brainstorming, planning outreach activities, admin status for website/social media, help creating content. 
 

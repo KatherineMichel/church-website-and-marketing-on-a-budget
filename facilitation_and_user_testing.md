@@ -2,7 +2,7 @@
 
 ## Facilitation 
 
-Members of the Nurture, Outreach, Witness (NOW) Committee, which plans outreach for the church, collaborated on a new church marketing plan. I facilitated brainstorming and planning group work. 
+Members of the Nurture, Outreach, Witness (NOW) Committee, which plans outreach for the church, began to collaborate on a new church marketing plan. I facilitated brainstorming and planning group work. 
 
 We used the following [United Methodist Communications](http://www.umcom.org) resources:
 * [Annual Church Health Check Up](http://www.umcom.org/learn/take-an-annual-church-health-checkup)
@@ -11,7 +11,7 @@ We used the following [United Methodist Communications](http://www.umcom.org) re
 * [Re-Think Church](http://www.umcom.org/rethink-church)
 * [Small Membership Church Ministries](http://www.greatplainsumc.org/smallmembershipchurchresources)
 
-In preparation for their group work, I provided the NOW Committee with an example marketing plan, a [Marketing Plan Worksheet](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/UMCOM_YOUR_MARKETING_PLAN_WORKSHEET.PDF), and a ["Tactics" List](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/STEP_4_IMPLEMENTATION_HOMEWORK.PDF) taken from the [United Methodist Communications](http://www.umcom.org) [Marketing Audit](http://www.umcom.org/learn/market-your-church-getting-started). 
+In preparation for their group work, I provided the NOW Committee with an example marketing plan, and a [Marketing Plan Worksheet](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/UMCOM_YOUR_MARKETING_PLAN_WORKSHEET.PDF), and ["Tactics" List](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/STEP_4_IMPLEMENTATION_HOMEWORK.PDF) taken from the [United Methodist Communications](http://www.umcom.org) [Marketing Audit](http://www.umcom.org/learn/market-your-church-getting-started). 
 
 ### Reverse Engineering for Success
 We would use problem structuring methods to answer the following questions:
@@ -30,9 +30,12 @@ Church Vision Statement
 Church Mission Statement
 ![](new-marketing-strategy/mission-statement.jpg)
 
+Notes from previous church strategy meetings
+
 #### What does a successful Pretty Prairie United Methodist Church look like?
 
 #### Whom should the church reach?
+Demographics List
 
 Marketing Worksheet Target Audience Deliverable
 ![](new-marketing-strategy/demographics-sheet.jpg)
@@ -76,3 +79,14 @@ United Methodist Goals and Measurable Objectives example chart
 
 ## User Testing
 
+[Audit Resources](http://www.umcom.org/services-products/audit-resources)
+
+[Suggested Steps](http://s3.amazonaws.com/Website_Properties_UGC/church-communications-audit/documents/suggested_steps.pdf)
+
+[Sample Audit Action Plan](http://s3.amazonaws.com/Website_Properties_UGC/church-communications-audit/documents/sample_audit_action_plan.pdf)
+
+[Sample Online Survey](http://s3.amazonaws.com/Website_Properties_UGC/church-communications-audit/documents/sample_online_survey.pdf)
+
+[Sample Focus Group Questions](http://s3.amazonaws.com/Website_Properties_UGC/church-communications-audit/documents/sample_focus_group_questions.pdf)
+
+[Local Church Member Assessment Survey](http://s3.amazonaws.com/Website_Properties_UGC/mycom/SURVEY_7529893.PDF)

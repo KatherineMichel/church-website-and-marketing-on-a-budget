@@ -22,13 +22,9 @@ Taking stock of resources on hand
 I would do most of the design work alone, and act as facilitator for select brainstorming and planning group work, particularly involving the church's Nurture Outreach Witness (NOW) Committee, which plans outreach for the church. 
 ## Design Sprint Process
 
-### Lightning Demos
+### Research Sprint and Lightning Demo
 
- See [Case Studies](case_studies.md) for lightning demos of.... 
-* [The National United Methodist Church](the_national_united_methodist_church_case_study.md)
-* [LifeChurch and The Bible App](lifechurch_and_the_bible_app_case_study.md)
-* [Upworthy](upworthy_case_study.md)
-* [Watsi](watsi_case_study.md)
+See [Research Sprint](research_sprint.md) for research info and a lightning demo regarding the national United Methodist Church. See [LifeChurch and The Bible App](lifechurch_and_the_bible_app_case_study.md) for a related case study. 
 
 ### User Story
 
@@ -56,6 +52,8 @@ App for Kids
 
 #### User Story Divided into Parts
 
+Commonly used search terms in app name (Ex. Google search for 'Bible app' leads to search result "The Bible App" which leads to The Bible App website, which leads to selection of platforms and LifeChurch)
+
 ### Mind map
 
 #### Soft Systems Rich Picture
@@ -79,4 +77,4 @@ What I intended to be Crazy Eights become more like a Storyboard. I felt that af
 
 ### Prototype
 
-See [Prototype](prototype.md)
+These sketches formed the basis for a [Prototype](prototype.md) that I made.

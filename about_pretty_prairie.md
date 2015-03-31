@@ -63,5 +63,5 @@ A number of Pretty Prairie residents work locally (farmers, teachers, police, ci
 ## Dilemma
 The city of Pretty Prairie has a very small population. Though there are surrounding cities with far larger populations, there is no need for people to travel to Pretty Prairie to go to church. Though the population of Pretty Prairie may increase in time as the population of Wichita expands outward, presumably many years will go before this has a major impact. 
 
-Kansas is in the center of the Bible Belt, and there are many people of faith in the region. Still...
+Kansas is in the center of the Bible Belt, and there are many people of faith in the region. Still, changing lifestyles (digital and philosophical reorganizations) and a dwindling, predominantly elderly church population have had a negative effect on church attendance. 
 
