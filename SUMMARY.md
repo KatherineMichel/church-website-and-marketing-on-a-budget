@@ -15,7 +15,6 @@
    * [New Marketing Strategy](new_marketing_strategy.md)
    * [Revitalization Case Study](revitalization_case_study.md)
 * [Part 2: The National Church Re-Imagined :)](the_national_united_methodist_church_re-imagined.md)
-   * [Research and Design Sprint](research_and_design_sprint.md)
    * [Research Sprint](research_sprint.md)
        * [Global Re-Organization](global_re-organization.md)
        * [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_study.md)
