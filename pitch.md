@@ -88,12 +88,6 @@ Who to target and how?
 
 ## Platforms
 
-## Example Use Case
-
-Information sheet about Dora North Circuit of the United Methodist Church in Mutare District of Zimbabwe, one of the missions of the Pretty Prairie United Methodist Church
-
-![](pitch/dora-north-mission.jpg)
-
 ## Talent
 The app would need to be built by people of the right skill level. They could be recruited from:
 
@@ -137,7 +131,7 @@ Number 1 search result
 ### Free App Rankings
 Goal: have "Free App" rankings comparable to The Bible App in Apple iTunes Store and Google Play Store
 
-#Apple iTunes Store
+#### Apple iTunes Store
 Ranking comparable to The Bible App
 ![](prototype/apple-store-itune-charts-free-apps-the-church-app.jpg)
 
@@ -145,19 +139,25 @@ Ranking comparable to The Bible App
 Ranking comparable to The Bible App
 ![](prototype/google-play-top-selling-free-apps-the-church-app.jpg)
 
-## Website, Facebook, Twitter (tweets, retweets, intents), Pinterest, Instagram profiles
+### Website, Facebook, Twitter (tweets, retweets, intents), Pinterest, Instagram profiles
 
-## Google+ and Rich Snippet
+### Google+ and Rich Snippet
 
-## Google Ad
+### Google Ad
 
-## Facebook Ad
+### Facebook Ad
 
-## Twitter Ad
+### Twitter Ad
 
-## Facebook OpenGraph
+### Facebook OpenGraph
 
-## Twitter Card
+### Twitter Card
+
+## Example Use Case
+
+Information sheet about Dora North Circuit of the United Methodist Church in Mutare District of Zimbabwe, one of the missions of the Pretty Prairie United Methodist Church
+
+![](pitch/dora-north-mission.jpg)
 
 
 
