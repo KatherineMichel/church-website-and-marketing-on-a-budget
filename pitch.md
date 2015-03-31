@@ -47,6 +47,10 @@ More than one cash flow source?
 
 The suggested business model would be freemium with support through donations, in-app purchases, and limited ads/partnerships.
 
+http://www.lifechurch.tv/giving
+
+http://www.lifechurch.tv/digital-missions
+
 ### Market Size
 Currently, United Methodist membership is steadily falling in the United States, but dramatically rising in certain developing countries. However, the app would be creating a new market. 
 
