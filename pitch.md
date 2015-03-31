@@ -153,12 +153,6 @@ Ranking comparable to The Bible App
 
 ### Twitter Card
 
-## Example Use Case
-
-Information sheet about Dora North Circuit of the United Methodist Church in Mutare District of Zimbabwe, one of the missions of the Pretty Prairie United Methodist Church
-
-![](pitch/dora-north-mission.jpg)
-
 
 
 
