@@ -19,9 +19,9 @@ See [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_
 * Donated resources
 
 ## Business Model
-* Key partners (who is known, who knows)
+* Key partners
 * Key suppliers
-* Key resources (physical, intellectual (brand, patents, copyrights, data), human, financial)
+* Key resources 
 * Key activities
 
 * How will the organization make money?
