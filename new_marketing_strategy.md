@@ -38,10 +38,11 @@ I developed a set of training materials.
 
 ### Non-Digital Low-Hanging Fruit
 * Word of mouth
-* Newspaper articles
 
+Adding Pretty Prairie United Methodist Church website address in local newspaper Church Calendar
 ![](new-marketing-strategy/ninnescah-valley-news-church-calendar.jpg)
 
+* Newspaper articles
 * Fliers in high traffic locations
 
 ### Digital Low-Hanging Fruit
