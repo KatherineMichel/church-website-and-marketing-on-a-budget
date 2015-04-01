@@ -49,17 +49,20 @@ Also, the church had not fully made use of its information space in the newspape
 Pretty Prairie United Methodist Church website address added into the local newspaper Church Calendar to boost traffic and rankings
 ![](new-marketing-strategy/ninnescah-valley-news-church-calendar.jpg)
 
+Anytime possible, the Pretty Prairie United Methodist Church website address and/or Facebook address would be included to increase traffic and rankings.
+
+#### Signs
+* Banners to be hung in front of the church to announce 
+* Fliers in high traffic locations
+
 ### Up to Date Marketing Materials 
 * Website, Find-a-Church, Newsletter, Bulletin, Postcards, Greeting card, Email signature
-
-### Non-Digital Low-Hanging Fruit
 * Word of mouth
-* Fliers in high traffic locations
+* Business cards, presentations
 
 ### Digital Low-Hanging Fruit
 * Website
 * Facebook page
-* Add website/Facebook page address to newspaper ads/articles, to increase traffic
 * Search Engine Optimization (SEO)
 * Google Rich Snippet
 * Social media sharing (ex. Facebook)
