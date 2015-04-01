@@ -1,5 +1,5 @@
 # New Marketing Strategy
-The new marketing strategy incorporates both traditional and modern methods in order to fit with changing lifestyles, and reach the most people possible, perhaps even beyond city boundaries. The strategy is also as cost effective as possible. 
+The new marketing strategy incorporates both traditional and modern methods in order to fit with changing lifestyles, and reach the most people possible, perhaps even beyond city boundaries. The strategy is also as cost effective as possible. We would first begin to identify and take advantage of all "low-hanging fruit" previously overlooked. 
 
 ## Major, New Developments
 
@@ -8,26 +8,35 @@ As the revitalization effort generated momentum, an anonymous donor made a gener
 
 ![](new-marketing-strategy/sanctuary-screens.jpg)
 
+#### Worship Committee
+It was decided during an Administrative Council Meeting to form a Worship Committee to oversee Worship Service Design. 
+
 ## Self-Sustaining Publicity Engine
 We would aspire to create a self-sustaining publicity engine made up of church leaders, committee leaders and members, and congregation members (of all ages and backgrounds) working together in synergy. This would include: 
 
-* A Worship Committee formed to oversee Worship Service design
+* Church Leaders
+* Administrative Council
+* Worship Committee
+* NOW Committee (Nurture, Outreach, Witness)
+* A new Youth Leadership Initiative
+
+The church purchased a 2015 wall calendar. This Outreach Calendar Calendar is hung on a hook on the wall in a high traffic area of the church where it will not be overlooked. A pen and post it notes are nearby so that the calendar can be easily updated. The calendar can be removed from the wall and taken to meetings too. The calendar would help to keep everyone "on the same page."
+
+![](new-marketing-strategy/outreach-calendar.jpg)
+
+### Youth Leadership Initiative
+
 * A Youth Leadership Initiative to assist with publicity
 
 After identifying relevant duties, I would develop a set of training materials for the Youth Leadership Initiative. Duties could include brainstorming, helping to plan outreach activities, admin status for website/social media, running the new screen videos and music during worship, taking photos and/or writing blog posts. 
-
-Also, the church purchased a 2015 wall calendar. This Outreach Calendar Calendar is hung on a hook on the wall in a high traffic area of the church where it will not be overlooked. A pen and post it notes are nearby so that the calendar can be easily updated. The calendar can be removed from the wall and taken to meetings too. The calendar would help to keep everyone "on the same page."
-
-![](new-marketing-strategy/outreach-calendar.jpg)
 
 ## Example Marketing Plan
 
 ### Budget
 
-### Approach
-We would first begin to identify and take advantage of all "low-hanging fruit" previously overlooked. 
+### Low-Hanging Fruit"
 
-### Examples of Low-Hanging Fruit"
+#### Local Newspaper
 The church could submit articles and general information to the local newspaper. Although individual church members were occasionally submitting articles, this was being done ad hoc, without a coordinated strategy. Also, the church had not fully made use of its information space in the newspaper's Church Calendar section. 
 
 Pretty Prairie United Methodist Church website address added into the local newspaper Church Calendar to boost traffic and rankings
