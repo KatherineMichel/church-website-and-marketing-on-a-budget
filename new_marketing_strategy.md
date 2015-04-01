@@ -14,12 +14,9 @@ We would aspire to create a self-sustaining publicity engine made up of church l
 * A Worship Committee formed to oversee Worship Service design
 * A Youth Leadership Initiative to assist with publicity
 
-We would identify relevant duties. I developed a set of training materials for the Youth Leadership Initiative. 
+After identifying relevant duties, I would develop a set of training materials for the Youth Leadership Initiative. Duties could include brainstorming, helping to plan outreach activities, admin status for website/social media, running the new screen videos and music during worship, taking photos and/or writing blog posts. 
 
-Duties could include brainstorming, planning outreach activities, admin status for website/social media.running the new screen videos and music during worship, taking photos and/or writing blog posts. 
-
-### Outreach Calendar
-The church purchased a 2015 wall calendar. The calendar is hung on a hook on the wall in a high traffic area of the church where it will not be overlooked. A pen and post it notes are nearby so that the calendar can be easily updated. The calendar can be removed from the wall and taken to meetings too. The calendar would help to keep everyone "on the same page."
+Also, the church purchased a 2015 wall calendar. This Outreach Calendar Calendar is hung on a hook on the wall in a high traffic area of the church where it will not be overlooked. A pen and post it notes are nearby so that the calendar can be easily updated. The calendar can be removed from the wall and taken to meetings too. The calendar would help to keep everyone "on the same page."
 
 ![](new-marketing-strategy/outreach-calendar.jpg)
 
