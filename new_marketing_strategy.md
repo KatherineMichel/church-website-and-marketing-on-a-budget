@@ -8,16 +8,15 @@ As the revitalization effort generated momentum, an anonymous donor made a gener
 
 ![](new-marketing-strategy/sanctuary-screens.jpg)
 
-### Worship Committee
-It was also decided during an Administrative Council meeting that a new Worship Committe would be formed to oversee Worship Service design. 
+## Self-Sustaining Publicity Engine
+We would aspire to create a self-sustaining publicity engine made up of church leaders, committee leaders and members, and congregation members (including youth) working together in synergy. This would include: 
 
-### Youth Leadership Initiative
-Youth could assist with duties such as running the new screen videos and music during worship, taking photos and/or writing blog posts. 
+* A Worship Committee formed to oversee Worship Service design
+* A Youth Leadership Initiative to assist with publicity
 
-I developed a set of training materials.
+We would identify relevant duties. I developed a set of training materials for the Youth Leadership Initiative. 
 
-### Self-Sustaining Publicity Engine
-We would seek to create a self-sustaining publicity engine made up of church leaders, committee leaders and members, and congregation members (including youth) working together in synergy. Duties could include brainstorming, planning outreach activities, admin status for website/social media.
+Duties could include brainstorming, planning outreach activities, admin status for website/social media.running the new screen videos and music during worship, taking photos and/or writing blog posts. 
 
 ### Outreach Calendar
 The church purchased a 2015 wall calendar. The calendar is hung on a hook on the wall in a high traffic area of the church where it will not be overlooked. A pen and post it notes are nearby so that the calendar can be easily updated. The calendar can be removed from the wall and taken to meetings too. The calendar would help to keep everyone "on the same page."
