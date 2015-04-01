@@ -1,7 +1,7 @@
 # New Marketing Strategy
 The new marketing strategy incorporates both traditional and modern methods in order to fit with changing lifestyles, and reach the most people possible, perhaps even beyond city boundaries. The strategy is also as cost effective as possible. The church first and foremost would seek to have more people walking through its doors, whether to worship or use a service offered by the church. We would first begin to identify and take advantage of all "low-hanging fruit" previously overlooked. Beyond low-hanging fruit, we would consider the cost versus potential benefit. 
 
-In addition to the marketing plan below, the church would: 
+In addition to the Example Marketing Plan below, the church would: 
 * Maintain up to date basic info on marketing materials (Website, Find-a-Church, Newsletter, Bulletin, Postcards, Greeting card, Email signature)
 * Continue a Word of Mouth Ministry
 
