@@ -32,7 +32,7 @@ The church purchased a 2015 wall calendar. The calendar is hung on a hook on the
 We would first begin to identify and take advantage of all "low-hanging fruit" previously overlooked. 
 
 ### Examples of Low-Hanging Fruit"
-The church could submit articles and general information to the local newspaper. Although individual church members were occasionally submitting articles, this was being done ad hoc, without a coordinated strategy. Also, the church had not fully made use of it's information space in the newspaper's Church Calendar section. 
+The church could submit articles and general information to the local newspaper. Although individual church members were occasionally submitting articles, this was being done ad hoc, without a coordinated strategy. Also, the church had not fully made use of its information space in the newspaper's Church Calendar section. 
 
 Pretty Prairie United Methodist Church website address added into the local newspaper Church Calendar to boost traffic and rankings
 ![](new-marketing-strategy/ninnescah-valley-news-church-calendar.jpg)
