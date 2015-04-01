@@ -9,7 +9,7 @@ As the revitalization effort generated momentum, an anonymous donor made a gener
 ![](new-marketing-strategy/sanctuary-screens.jpg)
 
 ## Self-Sustaining Publicity Engine
-We would aspire to create a self-sustaining publicity engine made up of church leaders, committee leaders and members, and congregation members (including youth) working together in synergy. This would include: 
+We would aspire to create a self-sustaining publicity engine made up of church leaders, committee leaders and members, and congregation members (of all ages and backgrounds) working together in synergy. This would include: 
 
 * A Worship Committee formed to oversee Worship Service design
 * A Youth Leadership Initiative to assist with publicity
