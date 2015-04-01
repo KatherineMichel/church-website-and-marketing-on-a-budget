@@ -59,16 +59,16 @@ Anytime possible, the Pretty Prairie United Methodist Church website address and
 * Banners would be hung in front of the church to raise awareness about special events (special services, medical clinic, ect.)
 * Fliers would be placed in high traffic locations
 
+#### Partnering with Other Community Orgs to Provide Services
+After the revitalization effort began, an opportunity became available to partner with community organization Ubuntu to bring a weekly medical clinic to Pretty Prairie through [Advanced Mobile Healthcare](http://www.advancedmobilehealthcare.com), including in-home visits. Ubuntu needed a location for the clinic and the Pretty Prairie United Methodist Church basement was a perfect fit. This is an example of a partnership that would service the community and get people through the doors. 
 
+#### Search Engine Optimization (SEO) and Google Rich Snippet
 
-### Digital Low-Hanging Fruit
+#### Social Media Sharing (ex. Facebook)
+
 * Website
 * Facebook page
-* Search Engine Optimization (SEO)
-* Google Rich Snippet
-* Social media sharing (ex. Facebook)
 * Newsletter (electronic and mail)
-
 * Business cards, presentations
 
 Contact inactive church-goers to invite them back
@@ -81,9 +81,6 @@ Pooling Individual Knowledge, Telephone Book
 Setting aside pre-existing assumptions, members of the church would go through the Pretty Prairie section of the phone book to identify people for outreach. 
 
 ##### Cold Call/Visit/Letter
-
-#### Community Services
-[Advanced Mobile Healthcare](http://www.advancedmobilehealthcare.com) in partnership with Ubuntu
 
 #### Special Occasion Advertisement
 Local Events and Organizations
