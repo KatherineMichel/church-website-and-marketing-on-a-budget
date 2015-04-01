@@ -1,7 +1,7 @@
 # New Marketing Strategy
 The new marketing strategy incorporates both traditional and modern methods in order to fit with changing lifestyles, and reach the most people possible, perhaps even beyond city boundaries. The strategy is also as cost effective as possible. 
 
-## Major, New Development
+## Major, New Developments
 
 ### New Sanctuary Equipment
 As the revitalization effort generated momentum, an anonymous donor made a generous donation to purchase new, large flat-screen televisions and a laptop for the church sanctuary, to be used to play contemporary videos and music, and to project the words of the hymns. 
@@ -11,12 +11,19 @@ As the revitalization effort generated momentum, an anonymous donor made a gener
 ### Worship Committee
 It was also decided during an Administrative Council meeting that a new Worship Committe would be formed to oversee Worship Service design. 
 
+### Self-Sustaining Publicity Engine
+We would seek to create a self-sustaining publicity engine made up of church leaders, committee leaders and members, and congregation members working together in synergy.
+
+
+### Youth Leadership Initiative
+Youth will assist with duties such as running the new screen videos and music during worship, taking photos and/or writing blog posts. Duties could include brainstorming, planning outreach activities, admin status for website/social media, help creating content
+
+#### Youth Training 
+I developed a set of training materials.
+
 ## Example Marketing Plan
 
 ### Budget
-
-### Publicity Engine
-A self-sustaining publicity engine would be created, involving a variety of church leaders and members. Duties could include brainstorming, planning outreach activities, admin status for website/social media, help creating content. 
 
 In particular: 
 
@@ -24,15 +31,6 @@ In particular:
 The church purchased a 2015 wall calendar. The calendar is hung on a hook on the wall in a high traffic area of the church where it will not be overlooked. A pen and post it notes are nearby so that the calendar can be easily updated. The calendar can be removed from the wall and taken to meetings too.  
 
 ![](new-marketing-strategy/outreach-calendar.jpg)
-
-### Committee Coordination
-Coordinating committee leaders and members will help to keep everyone in the church on the same page. 
-
-### Youth Leadership Initiative
-Youth will assist with duties such as running the new screen videos and music during worship, taking photos and/or writing blog posts. 
-
-#### Youth Training 
-I developed a set of training materials.
 
 ### Up to Date Marketing Materials 
 * Website, Find-a-Church, Newsletter, Bulletin, Postcards, Greeting card, Email signature
