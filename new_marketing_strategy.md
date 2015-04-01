@@ -25,6 +25,7 @@ The church purchased a 2015 wall calendar. The calendar is hung on a hook on the
 ![](new-marketing-strategy/outreach-calendar.jpg)
 
 ## Example Marketing Plan
+We would first begin to identify and take advantage of all "low-hanging fruit" previously overlooked. 
 
 ### Example Budget
 
