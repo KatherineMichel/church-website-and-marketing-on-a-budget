@@ -1,14 +1,19 @@
 # New Marketing Strategy
 The new marketing strategy incorporates both traditional and modern methods in order to fit with changing lifestyles, and reach the most people possible, perhaps even beyond city boundaries. The strategy is also as cost effective as possible. 
 
-## New, High Level Developments
+## Major, New Development
 
 ### New Sanctuary Equipment
-As part of the church's revitalization effort, in addition to the new website, a generous donation was made by an anonymous donor to purchase new, large flat-screen televisions and a laptop for the church sanctuary, to be used to play contemporary videos and music, and to project the words of the hymns. 
+As the revitalization effort generated momentum, an anonymous donor made a generous donation to purchase new, large flat-screen televisions and a laptop for the church sanctuary, to be used to play contemporary videos and music, and to project the words of the hymns. 
 
 ![](new-marketing-strategy/sanctuary-screens.jpg)
 
 ### Worship Committee
+It was also decided during an Administrative Council meeting that a new Worship Committe would be formed to oversee Worship Service design. 
+
+## Example Marketing Plan
+
+### Budget
 
 ### Publicity Engine
 A self-sustaining publicity engine would be created, involving a variety of church leaders and members. Duties could include brainstorming, planning outreach activities, admin status for website/social media, help creating content. 
@@ -28,10 +33,6 @@ Youth will assist with duties such as running the new screen videos and music du
 
 #### Youth Training 
 I developed a set of training materials.
-
-## Example Marketing Plan
-
-### Budget
 
 ### Up to Date Marketing Materials 
 * Website, Find-a-Church, Newsletter, Bulletin, Postcards, Greeting card, Email signature
