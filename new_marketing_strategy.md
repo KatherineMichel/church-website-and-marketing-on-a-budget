@@ -103,11 +103,4 @@ Google AdWords targeting Pretty Prairie
 
 Google AdWords reach
 
-#### Twitter Advertising (Paid)
-
-Members of the church are less likely to use Twitter. However, Twitter is an option to keep in mind, particularly for reaching the public at large. 
-
-Twitter has a [Faith Playbook](https://media.twitter.com/playbook/faith-organizations) for faith organizations, and religious ads can be occasionally found on Twitter. 
-
-#### Interpreter Ad (Paid)
 
