@@ -20,15 +20,16 @@ We would aspire to create a self-sustaining publicity engine made up of church l
 * NOW Committee (Nurture, Outreach, Witness)
 * A new Youth Leadership Initiative
 
+Example duties: brainstorming, helping to plan outreach activities, admin status for website/social media 
+
 The church purchased a 2015 wall calendar. This Outreach Calendar Calendar is hung on a hook on the wall in a high traffic area of the church where it will not be overlooked. A pen and post it notes are nearby so that the calendar can be easily updated. The calendar can be removed from the wall and taken to meetings too. The calendar would help to keep everyone "on the same page."
 
 ![](new-marketing-strategy/outreach-calendar.jpg)
 
 ### Youth Leadership Initiative
+A Youth Leadership Initiative would be formed to assist with publicity duties such as running the new screen videos and music during worship, taking photos and/or writing blog posts.
 
-* A Youth Leadership Initiative to assist with publicity
-
-After identifying relevant duties, I would develop a set of training materials for the Youth Leadership Initiative. Duties could include brainstorming, helping to plan outreach activities, admin status for website/social media, running the new screen videos and music during worship, taking photos and/or writing blog posts. 
+After identifying relevant duties, I would develop a set of training materials for the Youth Leadership Initiative. I would go over these with the youth during Sunday School. 
 
 ## Example Marketing Plan
 
