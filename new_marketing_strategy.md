@@ -52,8 +52,8 @@ Pretty Prairie United Methodist Church website address added into the local news
 Anytime possible, the Pretty Prairie United Methodist Church website address and/or Facebook address would be included to increase traffic and rankings.
 
 #### Signs
-* Banners to be hung in front of the church to announce 
-* Fliers in high traffic locations
+* Banners would be hung in front of the church to raise awareness about special events (special services, medical clinic, ect.)
+* Fliers would be placed in high traffic locations
 
 ### Up to Date Marketing Materials 
 * Website, Find-a-Church, Newsletter, Bulletin, Postcards, Greeting card, Email signature
