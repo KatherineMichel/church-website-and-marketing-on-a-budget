@@ -1,5 +1,9 @@
 # New Marketing Strategy
-The new marketing strategy incorporates both traditional and modern methods in order to fit with changing lifestyles, and reach the most people possible, perhaps even beyond city boundaries. The strategy is also as cost effective as possible. We would first begin to identify and take advantage of all "low-hanging fruit" previously overlooked. Beyond low-hanging fruit, we would consider the cost versus potential benefit. 
+The new marketing strategy incorporates both traditional and modern methods in order to fit with changing lifestyles, and reach the most people possible, perhaps even beyond city boundaries. The strategy is also as cost effective as possible. The church first and foremost would seek to have more people walking through its doors, whether to worship or use a service offered by the church. We would first begin to identify and take advantage of all "low-hanging fruit" previously overlooked. Beyond low-hanging fruit, we would consider the cost versus potential benefit. 
+
+In addition to the marketing plan below, the church would: 
+* Maintain up to date basic info on marketing materials (Website, Find-a-Church, Newsletter, Bulletin, Postcards, Greeting card, Email signature)
+* Continue a Word of Mouth Ministry
 
 ## Major, New Developments
 
@@ -55,10 +59,7 @@ Anytime possible, the Pretty Prairie United Methodist Church website address and
 * Banners would be hung in front of the church to raise awareness about special events (special services, medical clinic, ect.)
 * Fliers would be placed in high traffic locations
 
-### Up to Date Marketing Materials 
-* Website, Find-a-Church, Newsletter, Bulletin, Postcards, Greeting card, Email signature
-* Word of mouth
-* Business cards, presentations
+
 
 ### Digital Low-Hanging Fruit
 * Website
@@ -68,6 +69,7 @@ Anytime possible, the Pretty Prairie United Methodist Church website address and
 * Social media sharing (ex. Facebook)
 * Newsletter (electronic and mail)
 
+* Business cards, presentations
 
 Contact inactive church-goers to invite them back
 Contact potential newcomers
