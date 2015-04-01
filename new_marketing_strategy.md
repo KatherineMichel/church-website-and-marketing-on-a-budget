@@ -9,7 +9,7 @@ As the revitalization effort generated momentum, an anonymous donor made a gener
 ![](new-marketing-strategy/sanctuary-screens.jpg)
 
 #### Worship Committee
-It was decided during an Administrative Council Meeting to form a Worship Committee to oversee Worship Service Design. 
+It was decided during an Administrative Council Meeting that a new Worship Committee would be formed to oversee Worship Service Design. 
 
 ## Self-Sustaining Publicity Engine
 We would aspire to create a self-sustaining publicity engine made up of church leaders, committee leaders and members, and congregation members (of all ages and backgrounds) working together in synergy. This would include: 
