@@ -53,7 +53,7 @@ Google Trends graph for phrases ["church iPhone" "church app" "church Android" "
 http://en.wikipedia.org/wiki/List_of_countries_by_number_of_mobile_phones_in_use
 
 ## Longterm Decline
-Is this decline in global United Methodist membership inevitable, or can the situation be turned around, for instance, through a different technoloogy approach? The answer might be found by taking a look at the success of LifeChurch. LifeChurch's Google Trends Graph results are up and to the right.
+Is this decline in global United Methodist membership inevitable, or can the situation be turned around, for instance, through a different technology approach? The answer might be found by taking a look at the success of LifeChurch. LifeChurch's Google Trends Graph results are up and to the right.
 
 ### [Google Trends Graph for Phrases "United Methodist Church" "LifeChurch" "The Bible App" "Upworthy"](http://www.google.com/trends/explore#q=United%20Methodist%20Church%2C%20LifeChurch%2C%20The%20Bible%20App%2C%20Upworthy&cmpt=q&tz=) from 2004 to 2015
 
