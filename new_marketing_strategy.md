@@ -91,8 +91,10 @@ Fliers would be placed in high traffic locations
 
 We would consider the option of reaching people via free social media sharing before considering paid social media advertisement.
 
-* Website/Blog
-* Facebook page
+Example sharing
+* Blog post on website
+* Facebook page post
+* Posts on congregation members' personal social media profiles
 
 #### Special Occasion Advertisement
 Local Events and Organizations
@@ -124,7 +126,11 @@ Google AdWords targeting Pretty Prairie
 
 Google AdWords reach
 
-#### Twitter
+#### Twitter Advertising (Paid)
+
+Members of the church are less likely to use Twitter. However, Twitter is an option to keep in mind, particularly for reaching the public at large. 
+
+Twitter has a [Faith Playbook](https://media.twitter.com/playbook/faith-organizations) for faith organizations, and religious ads can be occasionally found on Twitter.
 
 
 
