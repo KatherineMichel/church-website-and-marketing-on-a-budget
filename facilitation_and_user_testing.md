@@ -75,7 +75,7 @@ Tactics over $1000<br>
 
 United Methodist Goals and Measurable Objectives example chart
 
-![](new-marketing-strategy/goals-measurable-objectives-chart.jpg)
+![](facilitation-and-user-testing/goals-measurable-objectives-chart.jpg)
 
 ## User Testing
 
