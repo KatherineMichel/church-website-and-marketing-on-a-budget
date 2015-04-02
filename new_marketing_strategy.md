@@ -90,10 +90,6 @@ Contact potential newcomers
 
 Pooling Individual Knowledge, Telephone Book
 
-Setting aside pre-existing assumptions, members of the church would go through the Pretty Prairie section of the phone book to identify people for outreach. 
-
-
-
 ##### Cold Call/Visit/Letter
 
 #### Special Occasion Advertisement
