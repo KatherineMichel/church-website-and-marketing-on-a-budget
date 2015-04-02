@@ -10,7 +10,7 @@ When considering web hosting options, it was helpful to look at the websites of 
 
 http://calvarychapel-pp.com
 
-[!](lightning-demos/calvary-chapel.jpg)](http://calvarychapel-pp.com)
+[![](lightning-demos/calvary-chapel.jpg)](http://calvarychapel-pp.com)
 
 Pros:
 * Nice, logical look to website, with prairie color scheme and pictures of wheat
@@ -31,7 +31,7 @@ Cons:
 
 http://www.fmcprettyprairie.org
 
-[!](lightning-demos/first-mennonite-church.jpg)](http://www.fmcprettyprairie.org)
+[![](lightning-demos/first-mennonite-church.jpg)](http://www.fmcprettyprairie.org)
 
 Pros:
 * Live video streaming with video archive and "message" resources updated weekly
