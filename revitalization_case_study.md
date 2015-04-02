@@ -8,5 +8,8 @@ Over time, I began to realize that the process Pretty Prairie United Methodist C
 
 I looking up the [United Methodist Communications contact info](http://www.umcom.org/about/contact-us-at-united-methodist-communications) and sent an email. 
 
+#### Interpreter Ad (Paid)
+
+
 
 
