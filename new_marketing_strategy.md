@@ -42,8 +42,9 @@ After identifying relevant duties, I would develop a set of training materials f
 #### Budget
 
 #### Free
-* Community interest articles to newspaper
+* Community interest articles/church info (including web addresses) to newspaper
 * Social media sharing
+* Search Engine Optimization (SEO) and Google Rich Snippet
 
 #### Paid
 * Professionally made banners
