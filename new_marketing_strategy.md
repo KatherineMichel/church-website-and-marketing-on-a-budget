@@ -93,19 +93,6 @@ We would consider the option of reaching people via free social media sharing be
 
 * Website/Blog
 * Facebook page
-* Newsletter (electronic and mail)
-* Business cards, presentations
-
-
-
-Contact inactive church-goers to invite them back
-Contact potential newcomers
-
-##### Updating Directory
-
-Pooling Individual Knowledge, Telephone Book
-
-##### Cold Call/Visit/Letter
 
 #### Special Occasion Advertisement
 Local Events and Organizations
