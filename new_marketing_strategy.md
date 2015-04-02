@@ -59,18 +59,18 @@ Pretty Prairie United Methodist Church website address added into the local news
 
 Anytime possible, the Pretty Prairie United Methodist Church website address and/or Facebook address would be included to increase traffic and rankings.
 
-#### Signs
-
-Banners would be hung in front of the church to raise awareness about special events (special services, medical clinic, ect.)
-
-Fliers would be placed in high traffic locations
-
 #### Partnering with Other Community Orgs to Provide Services
 
 After the revitalization effort began, an opportunity became available to partner with community organization Ubuntu to bring a weekly medical clinic to Pretty Prairie through [Advanced Mobile Healthcare](http://www.advancedmobilehealthcare.com), including in-home visits. Ubuntu needed a location for the clinic and the Pretty Prairie United Methodist Church basement was a perfect fit. This is an example of a partnership that would service the community and get people through the doors. 
 
 On the right, story about healthcare clinic
 ![](new-marketing-strategy/afternoon-tea-newspaper.jpg)
+
+#### Signs
+
+Banners would be hung in front of the church to raise awareness about special events (special services, medical clinic, ect.)
+
+Fliers would be placed in high traffic locations
 
 #### Search Engine Optimization (SEO) and Google Rich Snippet
 
