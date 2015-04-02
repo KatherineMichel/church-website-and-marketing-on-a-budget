@@ -1,5 +1,9 @@
 # New Marketing Strategy
-The new marketing strategy incorporates both traditional and modern methods in order to fit with changing lifestyles, and reach the most people possible, perhaps even beyond city boundaries. The strategy is also as cost effective as possible. 
+The new marketing strategy incorporates both traditional and modern methods in order to fit with changing lifestyles, and reach the most people possible, perhaps even beyond city boundaries. The strategy is also as cost effective as possible. The church first and foremost would seek to have more people walking through its doors, whether to worship or use a service offered by the church. We would first begin to identify and take advantage of all "low-hanging fruit" previously overlooked. Beyond low-hanging fruit, we would consider the cost versus potential benefit. 
+
+In addition to the Example Marketing Plan below, the church would: 
+* Maintain up to date basic info on marketing materials (Website, Find-a-Church, Newsletter, Bulletin, Postcards, Greeting card, Email signature)
+* Continue a Word of Mouth Ministry
 
 ## Major, New Developments
 
@@ -11,47 +15,66 @@ As the revitalization effort generated momentum, an anonymous donor made a gener
 ### Worship Committee
 It was also decided during an Administrative Council meeting that a new Worship Committe would be formed to oversee Worship Service design. 
 
-### Youth Leadership Initiative
-Youth could assist with duties such as running the new screen videos and music during worship, taking photos and/or writing blog posts. 
+## Self-Sustaining Publicity Engine
+We would aspire to create a self-sustaining publicity engine made up of church leaders, committee leaders and members, and congregation members (of all ages and backgrounds) working together in synergy. This would include:
 
-I developed a set of training materials.
+* Church Leaders
+* Administrative Council
+* Worship Committee
+* NOW Committee (Nurture, Outreach, Witness)
+* A new Youth Leadership Initiative
 
-### Self-Sustaining Publicity Engine
-We would seek to create a self-sustaining publicity engine made up of church leaders, committee leaders and members, and congregation members (including youth) working together in synergy. Duties could include brainstorming, planning outreach activities, admin status for website/social media.
+Example duties: brainstorming, helping to plan outreach activities, admin status for website/social media 
 
-### Outreach Calendar
-The church purchased a 2015 wall calendar. The calendar is hung on a hook on the wall in a high traffic area of the church where it will not be overlooked. A pen and post it notes are nearby so that the calendar can be easily updated. The calendar can be removed from the wall and taken to meetings too. The calendar would help to keep everyone "on the same page."
+The church purchased a 2015 wall calendar. This Outreach Calendar Calendar is hung on a hook on the wall in a high traffic area of the church where it will not be overlooked. A pen and post it notes are nearby so that the calendar can be easily updated. The calendar can be removed from the wall and taken to meetings too. The calendar would help to keep everyone "on the same page."
 
 ![](new-marketing-strategy/outreach-calendar.jpg)
+
+### Youth Leadership Initiative
+A Youth Leadership Initiative would be formed to assist with publicity duties such as running the new screen videos and music during worship, taking photos and/or writing blog posts.
+
+After identifying relevant duties, I would develop a set of training materials for the Youth Leadership Initiative. I would go over these with the youth during Sunday School. 
 
 ## Example Marketing Plan
 
 ### Budget
 
-### Approach
-We would first begin to identify and take advantage of all "low-hanging fruit" previously overlooked. 
 
-### Examples of Low-Hanging Fruit"
-The church could submit articles and general information to the local newspaper. Although individual church members were occasionally submitting articles, this was being done ad hoc, without a coordinated strategy. Also, the church had not fully made use of its information space in the newspaper's Church Calendar section. 
+### "Low-Hanging Fruit"
+
+#### Local Newspaper
+
+The church could submit articles and general information to the local newspaper. Although individual church members were occasionally submitting articles, this was being done ad hoc, without a coordinated strategy.  
+
+Example Picture
+
+Example Story
+
+Also, the church had not fully made use of its information space in the newspaper's Church Calendar section.
 
 Pretty Prairie United Methodist Church website address added into the local newspaper Church Calendar to boost traffic and rankings
 ![](new-marketing-strategy/ninnescah-valley-news-church-calendar.jpg)
 
-### Up to Date Marketing Materials 
-* Website, Find-a-Church, Newsletter, Bulletin, Postcards, Greeting card, Email signature
+Anytime possible, the Pretty Prairie United Methodist Church website address and/or Facebook address would be included to increase traffic and rankings.
 
-### Non-Digital Low-Hanging Fruit
-* Word of mouth
-* Fliers in high traffic locations
+#### Signs
 
-### Digital Low-Hanging Fruit
+* Banners would be hung in front of the church to raise awareness about special events (special services, medical clinic, ect.)
+* Fliers would be placed in high traffic locations
+
+#### Partnering with Other Community Orgs to Provide Services
+
+After the revitalization effort began, an opportunity became available to partner with community organization Ubuntu to bring a weekly medical clinic to Pretty Prairie through [Advanced Mobile Healthcare](http://www.advancedmobilehealthcare.com), including in-home visits. Ubuntu needed a location for the clinic and the Pretty Prairie United Methodist Church basement was a perfect fit. This is an example of a partnership that would service the community and get people through the doors. 
+
+#### Search Engine Optimization (SEO) and Google Rich Snippet
+
+#### Social Media Sharing (ex. Facebook)
+
 * Website
 * Facebook page
-* Add website/Facebook page address to newspaper ads/articles, to increase traffic
-* Search Engine Optimization (SEO)
-* Google Rich Snippet
-* Social media sharing (ex. Facebook)
 * Newsletter (electronic and mail)
+* Business cards, presentations
+
 
 
 Contact inactive church-goers to invite them back
@@ -63,10 +86,9 @@ Pooling Individual Knowledge, Telephone Book
 
 Setting aside pre-existing assumptions, members of the church would go through the Pretty Prairie section of the phone book to identify people for outreach. 
 
-##### Cold Call/Visit/Letter
 
-#### Community Services
-[Advanced Mobile Healthcare](http://www.advancedmobilehealthcare.com) in partnership with Ubuntu
+
+##### Cold Call/Visit/Letter
 
 #### Special Occasion Advertisement
 Local Events and Organizations
@@ -101,5 +123,9 @@ Google AdWords targeting Pretty Prairie
 ![](new-marketing-strategy/google-adwords-pretty-prairie-targeting.jpg)
 
 Google AdWords reach
+
+
+
+
 
 
