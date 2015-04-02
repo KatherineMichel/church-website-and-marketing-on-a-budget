@@ -46,9 +46,11 @@ After identifying relevant duties, I would develop a set of training materials f
 
 The church could submit articles and general information to the local newspaper. Although individual church members were occasionally submitting articles, this was being done ad hoc, without a coordinated strategy.  
 
-Example Picture
+Example: photo at Pretty Prairie Sunset Home afternoon tea hosted by United Methodist Women
+![](new-marketing-strategy/afternoon-tea.jpg)
 
-Example Story
+Example: story made from photo, alongside story about healthcare clinic to take place in Pretty Prairie United Methodist Church
+![](new-marketing-strategy/afternoon-tea-newspaper.jpg)
 
 Also, the church had not fully made use of its information space in the newspaper's Church Calendar section.
 
