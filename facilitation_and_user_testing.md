@@ -25,10 +25,10 @@ We would use problem structuring methods to answer the following questions:
 We started by reflecting on the existing Vision and Mission Statements
 
 Church Vision Statement
-![](new-marketing-strategy/vision-statement.jpg)
+![](facilitation-and-user-testing/vision-statement.jpg)
 
 Church Mission Statement
-![](new-marketing-strategy/mission-statement.jpg)
+![](facilitation-and-user-testing/mission-statement.jpg)
 
 Notes from previous church strategy meetings
 
@@ -38,7 +38,7 @@ Notes from previous church strategy meetings
 Demographics List
 
 Marketing Worksheet Target Audience Deliverable
-![](new-marketing-strategy/demographics-sheet.jpg)
+![](facilitation-and-user-testing/demographics-sheet.jpg)
 
 #### How should the church reach them?
 
@@ -47,10 +47,10 @@ Marketing Worksheet Target Audience Deliverable
 Members of the church would take stock of the skills of individual members. This skills inventory would be used to identify ways to optimize what the church has to offer the community. 
 
 Old skills list<br>
-![](new-marketing-strategy/skills-inventory-1.jpg)
+![](facilitation-and-user-testing/skills-inventory-1.jpg)
 
 <br>
-![](new-marketing-strategy/skills-inventory-2.jpg)
+![](facilitation-and-user-testing/skills-inventory-2.jpg)
 
 ##### "How might we"
 
@@ -59,13 +59,13 @@ Audiences, tactics, and resources
 After having identified the target audiences, we would look at a list of possible tactics and compare against available resources. We would also consider which methods would be best suited to which audiences. 
 
 Tactics less than $300<br>
-![](new-marketing-strategy/tactics-less-than-$300.jpg)
+![](facilitation-and-user-testing/tactics-less-than-$300.jpg)
 
 Tactics between $300 and <br>
-![](new-marketing-strategy/tactics-$300-$1000.jpg)
+![](facilitation-and-user-testing/tactics-$300-$1000.jpg)
 
 Tactics over $1000<br>
-![](new-marketing-strategy/tactics-over-$1000.jpg)
+![](facilitation-and-user-testing/tactics-over-$1000.jpg)
 
 #### How should the church measure progress?
 
