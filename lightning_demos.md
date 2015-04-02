@@ -31,7 +31,7 @@ Cons:
 
 http://www.fmcprettyprairie.org
 
-[![](lightning-demos/first-mennonite-church.jpg)](http://www.fmcprettyprairie.org)
+[!](lightning-demos/first-mennonite-church.jpg)](http://www.fmcprettyprairie.org)
 
 Pros:
 * Live video streaming with video archive and "message" resources updated weekly
