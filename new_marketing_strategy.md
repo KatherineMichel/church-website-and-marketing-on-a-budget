@@ -59,8 +59,9 @@ Anytime possible, the Pretty Prairie United Methodist Church website address and
 
 #### Signs
 
-* Banners would be hung in front of the church to raise awareness about special events (special services, medical clinic, ect.)
-* Fliers would be placed in high traffic locations
+Banners would be hung in front of the church to raise awareness about special events (special services, medical clinic, ect.)
+
+Fliers would be placed in high traffic locations
 
 #### Partnering with Other Community Orgs to Provide Services
 
