@@ -37,8 +37,20 @@ After identifying relevant duties, I would develop a set of training materials f
 
 ## Example Marketing Plan
 
-### Budget
+### Budget and Cost
 
+#### Budget
+
+#### Free
+* Community interest articles to newspaper
+* Social media sharing
+
+#### Paid
+* Professionally made banners
+* Special occassion advertising/sponsorships
+* Google AdWords, Facebook and Twitter ads
+
+The Facebook advertisement program defaults to $50 spend for 1 week
 
 ### "Low-Hanging Fruit"
 
@@ -76,7 +88,9 @@ Fliers would be placed in high traffic locations
 
 #### Social Media Sharing (ex. Facebook)
 
-* Website
+We would consider the option of reaching people via free social media sharing before considering paid social media advertisement.
+
+* Website/Blog
 * Facebook page
 * Newsletter (electronic and mail)
 * Business cards, presentations
@@ -101,16 +115,12 @@ Local Events and Organizations
 
 #### Facebook Advertising (Paid)
 
-Based on feedback, members of the church and surrounding community are more likely to be on Facebook than Twitter. So, we would first consider the option of reaching people via Facebook, first through free sharing.
-
-In addition to free sharing, Facebook also offers paid advertising to people located within a target area. 
+In addition to free sharing, Facebook also offers paid advertising to people located within a target area. Additional advertising filters include gender and age ranges between 18 and 65+.
 
 One option would be to advertise the church's Facebook Page via the "Local Awareness" option to "reach people near your business." 
 
 Facebook advertisement preview
 ![](new-marketing-strategy/facebook-page-advertisement-preview.jpg)
-
-The Facebook advertisement program defaults to $50 spend for 1 week, advertising to both genders, ages 18 to 65+.
 
 Suggested target audience ranging from a radius of 50 km around Pretty Prairie... 
 
@@ -125,6 +135,8 @@ Google AdWords targeting Pretty Prairie
 ![](new-marketing-strategy/google-adwords-pretty-prairie-targeting.jpg)
 
 Google AdWords reach
+
+#### Twitter
 
 
 
