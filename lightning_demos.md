@@ -10,7 +10,7 @@ When considering web hosting options, it was helpful to look at the websites of 
 
 http://calvarychapel-pp.com
 
-[![](lightning-demos/calvary-chapel.jpg)](http://calvarychapel-pp.com)
+[!](lightning-demos/calvary-chapel.jpg)](http://calvarychapel-pp.com)
 
 Pros:
 * Nice, logical look to website, with prairie color scheme and pictures of wheat
