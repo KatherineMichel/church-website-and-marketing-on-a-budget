@@ -46,9 +46,11 @@ After identifying relevant duties, I would develop a set of training materials f
 
 The church could submit articles and general information to the local newspaper. Although individual church members were occasionally submitting articles, this was being done ad hoc, without a coordinated strategy.  
 
-Example Picture
+Photo at Pretty Prairie Sunset Home afternoon tea hosted by United Methodist Women
+![](new-marketing-strategy/afternoon-tea.jpg)
 
-Example Story
+On the left: story made from photo
+![](new-marketing-strategy/afternoon-tea-newspaper.jpg)
 
 Also, the church had not fully made use of its information space in the newspaper's Church Calendar section.
 
@@ -57,15 +59,18 @@ Pretty Prairie United Methodist Church website address added into the local news
 
 Anytime possible, the Pretty Prairie United Methodist Church website address and/or Facebook address would be included to increase traffic and rankings.
 
+#### Partnering with Other Community Orgs to Provide Services
+
+After the revitalization effort began, an opportunity became available to partner with community organization Ubuntu to bring a weekly medical clinic to Pretty Prairie through [Advanced Mobile Healthcare](http://www.advancedmobilehealthcare.com), including in-home visits. Ubuntu needed a location for the clinic and the Pretty Prairie United Methodist Church basement was a perfect fit. This is an example of a partnership that would service the community and get people through the doors. 
+
+On the right, story about healthcare clinic
+![](new-marketing-strategy/afternoon-tea-newspaper.jpg)
+
 #### Signs
 
 Banners would be hung in front of the church to raise awareness about special events (special services, medical clinic, ect.)
 
 Fliers would be placed in high traffic locations
-
-#### Partnering with Other Community Orgs to Provide Services
-
-After the revitalization effort began, an opportunity became available to partner with community organization Ubuntu to bring a weekly medical clinic to Pretty Prairie through [Advanced Mobile Healthcare](http://www.advancedmobilehealthcare.com), including in-home visits. Ubuntu needed a location for the clinic and the Pretty Prairie United Methodist Church basement was a perfect fit. This is an example of a partnership that would service the community and get people through the doors. 
 
 #### Search Engine Optimization (SEO) and Google Rich Snippet
 
