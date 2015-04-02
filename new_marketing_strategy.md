@@ -46,10 +46,10 @@ After identifying relevant duties, I would develop a set of training materials f
 
 The church could submit articles and general information to the local newspaper. Although individual church members were occasionally submitting articles, this was being done ad hoc, without a coordinated strategy.  
 
-Example: photo at Pretty Prairie Sunset Home afternoon tea hosted by United Methodist Women
+Photo at Pretty Prairie Sunset Home afternoon tea hosted by United Methodist Women
 ![](new-marketing-strategy/afternoon-tea.jpg)
 
-Example: story made from photo, alongside story about healthcare clinic to take place in Pretty Prairie United Methodist Church
+On the left: story made from photo
 ![](new-marketing-strategy/afternoon-tea-newspaper.jpg)
 
 Also, the church had not fully made use of its information space in the newspaper's Church Calendar section.
@@ -68,6 +68,9 @@ Fliers would be placed in high traffic locations
 #### Partnering with Other Community Orgs to Provide Services
 
 After the revitalization effort began, an opportunity became available to partner with community organization Ubuntu to bring a weekly medical clinic to Pretty Prairie through [Advanced Mobile Healthcare](http://www.advancedmobilehealthcare.com), including in-home visits. Ubuntu needed a location for the clinic and the Pretty Prairie United Methodist Church basement was a perfect fit. This is an example of a partnership that would service the community and get people through the doors. 
+
+On the right, story about healthcare clinic
+![](new-marketing-strategy/afternoon-tea-newspaper.jpg)
 
 #### Search Engine Optimization (SEO) and Google Rich Snippet
 
