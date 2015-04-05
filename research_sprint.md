@@ -50,6 +50,8 @@ Google Trends graph for phrases ["church iPhone" "church app" "church Android" "
 ![](google-maps-and-trends/google-trends-church-iphone-church-app-church-android-church-livestream.jpg)
 
 ## Increasing Mobile Phone Ownership in Developing Countries
+![](research-sprint/mobile-phones-subscriptions-world-bank.png)
+
 http://en.wikipedia.org/wiki/List_of_countries_by_number_of_mobile_phones_in_use
 
 ## Longterm Decline
@@ -67,6 +69,8 @@ In the article [Surviving Disruption](https://hbr.org/2012/12/surviving-disrupti
 * Identify the strengths of your disrupter’s business model
 * Identify your own relative advantages
 * Evaluate the conditions that would help or hinder the disrupter from co-opting your current advantages in the future.
+
+![](research-sprint/interpreter.jpg)
 
 ## Survival
 According to the [2012 United Methodist State of the Church Report](http://s3.amazonaws.com/Website_Properties/state-of-the-church/documents/2012-state-of-the-church-report.PDF), "Critical research conducted in 2010 found that 15 percent of United Methodist congregations in the United States were considered 'highly vital.' As a result, the Connectional Table and the Council of Bishops embraced a 10-year adaptive challenge to increase vitality across the denomination, especially in places where churches have been on the decline... Because of this Spirit-filled movement, the 2012 State of the Church Report focuses on vital congregations. Annual conferences and congregations in our worldwide connection are finding new ways to share the Good News of Jesus Christ, revitalizing the United Methodist movement in places of need. We praise God and celebrate the growth and vitality of our churches in Africa and the Philippines and will continue to find ways to strengthen our global connection"
