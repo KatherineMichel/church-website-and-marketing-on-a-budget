@@ -2,7 +2,7 @@
 
 ## Facilitation 
 
-Members of the Nurture, Outreach, Witness (NOW) Committee, which plans outreach for the church, began to collaborate on a new church marketing plan. I facilitated brainstorming and planning group work. 
+Members of Administrative Council and Nurture, Outreach, Witness (NOW) Committee, which both plan outreach for the church, began to collaborate on a new church marketing plan. I facilitated brainstorming and planning group work. 
 
 We used the following [United Methodist Communications](http://www.umcom.org) resources:
 * [Annual Church Health Check Up](http://www.umcom.org/learn/take-an-annual-church-health-checkup)
@@ -11,7 +11,7 @@ We used the following [United Methodist Communications](http://www.umcom.org) re
 * [Re-Think Church](http://www.umcom.org/rethink-church)
 * [Small Membership Church Ministries](http://www.greatplainsumc.org/smallmembershipchurchresources)
 
-In preparation for their group work, I provided the NOW Committee with an example marketing plan, and a [Marketing Plan Worksheet](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/UMCOM_YOUR_MARKETING_PLAN_WORKSHEET.PDF), and ["Tactics" List](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/STEP_4_IMPLEMENTATION_HOMEWORK.PDF) taken from the [United Methodist Communications](http://www.umcom.org) [Marketing Audit](http://www.umcom.org/learn/market-your-church-getting-started). 
+In preparation for their group work, I provided the Administative Council and NOW Committees with an example marketing plan, and a [Marketing Plan Worksheet](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/UMCOM_YOUR_MARKETING_PLAN_WORKSHEET.PDF), and ["Tactics" List](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/STEP_4_IMPLEMENTATION_HOMEWORK.PDF) taken from the [United Methodist Communications](http://www.umcom.org) [Marketing Audit](http://www.umcom.org/learn/market-your-church-getting-started). 
 
 ### Reverse Engineering for Success
 We would use problem structuring methods to answer the following questions:
