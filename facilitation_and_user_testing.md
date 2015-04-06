@@ -10,15 +10,17 @@ Members of Administrative Council Committee and Nurture, Outreach, Witness (NOW)
 * [Re-Think Church](http://www.umcom.org/rethink-church)
 * [Small Membership Church Ministries](http://www.greatplainsumc.org/smallmembershipchurchresources)
 
-In preparation for their group work, I provided the Administative Council and NOW Committees with an example marketing plan, and a [Marketing Plan Worksheet](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/UMCOM_YOUR_MARKETING_PLAN_WORKSHEET.PDF), and ["Tactics" List](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/STEP_4_IMPLEMENTATION_HOMEWORK.PDF) taken from the [United Methodist Communications](http://www.umcom.org) [Marketing Audit](http://www.umcom.org/learn/market-your-church-getting-started). 
-
 ### Reverse Engineering for Success
-We would use problem structuring methods to answer the following questions:
+We would use these resources along with problem structuring methods to answer the following questions:
 
 * What does a successful Pretty Prairie United Methodist Church look like?
 * Whom should the church reach?
 * How should the church reach them?
 * How should the church measure progress?
+
+### Marketing Audit
+
+Steps
 
 ### Church Vision and Mission Statements
 We started by reflecting on the existing Vision and Mission Statements
@@ -30,6 +32,8 @@ Church Mission Statement
 ![](facilitation-and-user-testing/mission-statement.jpg)
 
 Notes from previous church strategy meetings
+
+In preparation for their group work, I provided the Administative Council and NOW Committees with an example marketing plan, and a [Marketing Plan Worksheet](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/UMCOM_YOUR_MARKETING_PLAN_WORKSHEET.PDF), and ["Tactics" List](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/STEP_4_IMPLEMENTATION_HOMEWORK.PDF) taken from the [United Methodist Communications](http://www.umcom.org) [Marketing Audit](http://www.umcom.org/learn/market-your-church-getting-started). 
 
 #### What does a successful Pretty Prairie United Methodist Church look like?
 
