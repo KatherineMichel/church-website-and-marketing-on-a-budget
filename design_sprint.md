@@ -19,7 +19,8 @@ Taking stock of resources on hand
 
 ### People Needed
 
-I would do most of the design work alone, and act as facilitator for select brainstorming and planning group work, particularly involving the church's Nurture Outreach Witness (NOW) Committee, which plans outreach for the church. 
+I would do most of the design work alone, and facilitate select problem solving group work, particularly involving the church's Administrative Council Committee and Nurture, Outreach, Witness (NOW) Committee, which both plan outreach for the church. 
+
 ## Design Sprint Process
 
 ### Research Sprint and Lightning Demo
