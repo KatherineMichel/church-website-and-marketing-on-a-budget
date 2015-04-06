@@ -20,7 +20,7 @@ Members of Administrative Council Committee and Nurture, Outreach, Witness (NOW)
 
 ### Marketing Audit
 
-#### Step 1: Values & Vision
+#### Step 1: Values and Vision
 Prepare: 
 * Congregational Demographic Report
 * Congregational Behavior and Response Report
@@ -43,62 +43,61 @@ Other factors important to vision:
 * Resource allocation
 * Decision making
 
+#### Step 2: Perception and Needs
+Homework
+* Homework 1: Perception ("Understand the church's view of itself and the community's view")
+* Homework 2: Community Needs ("Open your eyes to your congregation and community's needs then determine if your church already has resources/abilities to meet those needs or if new ministries need to be developed.")
+
+Action Steps
+* Action Step 1: Congregational Survey or Team/Committee/Group Interview
+* Action Step 2: Newer Member Focus Groups
+* Action Step 3: Community Survey or Community Member Gatherings
+
+Marketing Plan Deliverables
+* Congregational Survey Results or Interview Summaries Report
+* Focus Group Summaries Report
+* Community Survey Report or Community Member Gatherings Report
+
+#### Step 3: Strategy
+
+"Set the direction and narrow the scope of your marketing resources so you can
+connect who you are (Values & Vision) with the people you want to reach (Target
+Audience)."
+"Defines what you want to accomplish within a designated amount of time."
+
+Homework/Marketing Plan Deliverables
+* S.W.O.T.
+* Target Audience
+* Strategic Objective
+* Goals
+* Resources
+
+#### Step 4: Implementation
+"Brainstorm, plan and implement the specific tactics and tools that will support your
+church’s goals and measurable objectives to reach its target audience."
+
+Prepare:
+* Budget information
+
+Homework
+* Homework 1: Tactics
+
+Action Steps
+* Action Step 1: Tactics Brainstorming & Prioritizing Session
+* Action Step 2: Marketing Plan Development & Review
+* Action Step 3: Marketing Plan Approval & Implementation
+
+Marketing Plan Deliverables
+* Goals/measurable objectives with supporting tactics
+* Timing/deadlines
+* Person/team coordinating
+
+
+
+STEP 5: EVALUATION/ADJUSTMENT
 
 Action Step 1: Values & Vision Retreat
 Marketing Team:
-
-STEP 2: PERCEPTION & NEEDS
- Perception: Understand the church's view of itself and the community's view
- Needs: Open your eyes to your congregation and community's needs then
-determine if your church already has resources/abilities to meet those needs or if
-new ministries need to be developed.
-Step 2: Perception & Needs
-Homework
- Homework 1: Perception
- Homework 2: Community Needs
-Action Steps
- Action Step 1: Congregational Survey or Team/Committee/Group
-Interview
- Action Step 2: Newer Member Focus Groups
- Action Step 3: Community Survey or Community Member Gatherings
-Marketing Plan Deliverables
- Congregational Survey Results or Interview Summaries Report
- Focus Group Summaries Report
- Community Survey Report or Community Member Gatherings Report
-
-
-STEP 3: STRATEGY
- Set the direction and narrow the scope of your marketing resources so you can
-connect who you are (Values & Vision) with the people you want to reach (Target
-Audience).
- Defines what you want to accomplish within a designated amount of time.
-Step 3: Strategy
-Action Step: Strategy Retreat
-Homework/Marketing Plan Deliverables
-S.W.O.T.
-Target Audience
-Strategic Objective
-Goals
-Resources
-
-STEP 4: IMPLEMENTATION
-• Brainstorm, plan and implement the specific tactics and tools that will support your
-church’s goals and measurable objectives to reach its target audience.
-Step 4: Implementation
-Homework
-• Homework 1: Tactics
-Action Steps
-• Action Step 1: Tactics Brainstorming & Prioritizing Session
-• Action Step 2: Marketing Plan Development & Review
- Action Step 3: Marketing Plan Approval & Implementation
-Marketing Plan Deliverables
- Goals/measurable objectives with supporting tactics
- Timing/deadlines
- Person/team coordinating
-Step 4: Implementation
- Budget information
-STEP 5: EVALUATION/ADJUSTMENT
-
 
 
 
