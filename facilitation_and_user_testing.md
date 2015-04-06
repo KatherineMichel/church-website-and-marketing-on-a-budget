@@ -20,36 +20,31 @@ We would use these resources along with problem structuring methods to answer th
 
 ### Marketing Audit
 
-Steps
+#### Step 1: Values & Vision<br>
+Prepare: 
+* Congregational Demographic Report
+* Congregational Behavior and Response Report
+* Community Demographic and Behaviors Reports
+* Church Budget and Staffing Report
 
-
-STEP 1: VALUES & VISION
- Read the Introduction and completed the:
-o Congregational Demographic Report
-o Congregational Behavior and Response Report
-o Community Demographic and Behaviors Reports
-o Church Budget and Staffing Report
-identify:
-o Who your church is. (Values).
-o Where your church is going. (Vision)
-Step 1: Values & Vision
 Homework
- Homework 1: Values
- Homework 2: Vision
-Action Steps
- Action Step 1: Values & Vision Retreat
-Marketing Plan Deliverables
- Core Values
- Demographics
- Vision Statement
- Key Messaging/Elevator Statement
+* Homework 1: Values (Who is your church>)
+* Homework 2: Vision (Where is your church going?)
 
-Your MARKETING PLAN is one of many components that move you toward your vision.
-Other components that support your vision and move you toward it:
- Organizational Structure
- Staffing
- Resource allocation
- Decision making
+Marketing Plan Deliverables
+* Core Values
+* Demographics
+* Vision Statement
+* Key Messaging/Elevator Statement
+
+Other factors important to vision:
+* Organizational Structure
+* Staffing
+* Resource allocation
+* Decision making
+
+
+Action Step 1: Values & Vision Retreat
 
 STEP 2: PERCEPTION & NEEDS
 This step will help your
