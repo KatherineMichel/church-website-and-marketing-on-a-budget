@@ -18,6 +18,8 @@ Members of Administrative Council Committee and Nurture, Outreach, Witness (NOW)
 * [Re-Think Church](http://www.umcom.org/rethink-church)
 * [Small Membership Church Ministries](http://www.greatplainsumc.org/smallmembershipchurchresources)
 
+### Annual Church Health Check Up
+
 ### Marketing Audit
 Mini-Retreat with Marketing Team
 
@@ -151,7 +153,7 @@ Old skills list<br>
 
 
 
-
+### Communication Audit
 
 ## User Testing
 
