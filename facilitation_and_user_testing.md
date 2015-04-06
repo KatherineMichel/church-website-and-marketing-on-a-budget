@@ -1,5 +1,13 @@
 # Facilitation and User Testing
 
+## Reverse Engineering for Success
+We would use problem structuring methods to answer the following questions:
+
+* What does a successful Pretty Prairie United Methodist Church look like?
+* Whom should the church reach?
+* How should the church reach them?
+* How should the church measure progress?
+
 ## Facilitation 
 
 Members of Administrative Council Committee and Nurture, Outreach, Witness (NOW) Committee, which both plan outreach for the church, began to collaborate on a new church marketing plan. I facilitated the group using the following United Methodist Communications resources:
@@ -10,17 +18,9 @@ Members of Administrative Council Committee and Nurture, Outreach, Witness (NOW)
 * [Re-Think Church](http://www.umcom.org/rethink-church)
 * [Small Membership Church Ministries](http://www.greatplainsumc.org/smallmembershipchurchresources)
 
-### Reverse Engineering for Success
-We would use these resources along with problem structuring methods to answer the following questions:
-
-* What does a successful Pretty Prairie United Methodist Church look like?
-* Whom should the church reach?
-* How should the church reach them?
-* How should the church measure progress?
-
 ### Marketing Audit
 
-#### Step 1: Values & Vision<br>
+#### Step 1: Values & Vision
 Prepare: 
 * Congregational Demographic Report
 * Congregational Behavior and Response Report
@@ -45,10 +45,9 @@ Other factors important to vision:
 
 
 Action Step 1: Values & Vision Retreat
+Marketing Team:
 
 STEP 2: PERCEPTION & NEEDS
-This step will help your
-Marketing Team identify:
  Perception: Understand the church's view of itself and the community's view
  Needs: Open your eyes to your congregation and community's needs then
 determine if your church already has resources/abilities to meet those needs or if
@@ -69,8 +68,6 @@ Marketing Plan Deliverables
 
 
 STEP 3: STRATEGY
-This step will help your Marketing
-Team:
  Set the direction and narrow the scope of your marketing resources so you can
 connect who you are (Values & Vision) with the people you want to reach (Target
 Audience).
