@@ -44,7 +44,7 @@ Other factors important to vision:
 * Resource allocation
 * Decision making
 
-### Church Vision and Mission Statements
+##### Church Vision and Mission Statements
 We started by reflecting on the existing Vision and Mission Statements
 
 Church Vision Statement
