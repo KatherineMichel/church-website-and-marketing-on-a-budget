@@ -1,6 +1,6 @@
 # Prototype
 
-## United Methodist Church Re-Imagined :)
+## United Methodist Church Mobile Presence Re-Imagined :)
 
 iPhone 6+, iPad, iMac
 ![](prototype/iphone-6-plus-ipad-imac.jpg)
