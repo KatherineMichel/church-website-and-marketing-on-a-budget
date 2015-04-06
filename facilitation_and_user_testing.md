@@ -1,19 +1,6 @@
 # Facilitation and User Testing
 
-## Facilitation 
-
-Members of the Nurture, Outreach, Witness (NOW) Committee, which plans outreach for the church, began to collaborate on a new church marketing plan. I facilitated brainstorming and planning group work. 
-
-We used the following [United Methodist Communications](http://www.umcom.org) resources:
-* [Annual Church Health Check Up](http://www.umcom.org/learn/take-an-annual-church-health-checkup)
-* [Marketing Audit](http://www.umcom.org/learn/market-your-church-getting-started)
-* [Communication Audit](http://www.umcom.org/services-products/audit-resources)
-* [Re-Think Church](http://www.umcom.org/rethink-church)
-* [Small Membership Church Ministries](http://www.greatplainsumc.org/smallmembershipchurchresources)
-
-In preparation for their group work, I provided the NOW Committee with an example marketing plan, and a [Marketing Plan Worksheet](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/UMCOM_YOUR_MARKETING_PLAN_WORKSHEET.PDF), and ["Tactics" List](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/STEP_4_IMPLEMENTATION_HOMEWORK.PDF) taken from the [United Methodist Communications](http://www.umcom.org) [Marketing Audit](http://www.umcom.org/learn/market-your-church-getting-started). 
-
-### Reverse Engineering for Success
+## Reverse Engineering for Success
 We would use problem structuring methods to answer the following questions:
 
 * What does a successful Pretty Prairie United Methodist Church look like?
@@ -21,7 +8,45 @@ We would use problem structuring methods to answer the following questions:
 * How should the church reach them?
 * How should the church measure progress?
 
-### Church Vision and Mission Statements
+## Facilitation 
+
+Members of Administrative Council Committee and Nurture, Outreach, Witness (NOW) Committee, which both plan outreach for the church, began to collaborate on a new church marketing plan. I facilitated the group using the following United Methodist Communications resources:
+
+* [Annual Church Health Check Up](http://www.umcom.org/learn/take-an-annual-church-health-checkup)
+* [Marketing Audit](http://www.umcom.org/learn/market-your-church-getting-started)
+* [Communication Audit](http://www.umcom.org/services-products/audit-resources)
+* [Re-Think Church](http://www.umcom.org/rethink-church)
+* [Small Membership Church Ministries](http://www.greatplainsumc.org/smallmembershipchurchresources)
+
+### Annual Church Health Check Up
+
+### Marketing Audit
+Mini-Retreat with Marketing Team
+
+#### Step 1: Values and Vision
+Prepare: 
+* Congregational Demographic Report
+* Congregational Behavior and Response Report
+* Community Demographic and Behaviors Reports
+* Church Budget and Staffing Report
+
+Homework
+* Homework 1: Values (Who is your church>)
+* Homework 2: Vision (Where is your church going?)
+
+Marketing Plan Deliverables
+* Core Values
+* Demographics
+* Vision Statement
+* Key Messaging/Elevator Statement
+
+Other factors important to vision:
+* Organizational Structure
+* Staffing
+* Resource allocation
+* Decision making
+
+##### Church Vision and Mission Statements
 We started by reflecting on the existing Vision and Mission Statements
 
 Church Vision Statement
@@ -30,27 +55,56 @@ Church Vision Statement
 Church Mission Statement
 ![](facilitation-and-user-testing/mission-statement.jpg)
 
-Notes from previous church strategy meetings
+#### Step 2: Perception and Needs
+Homework
+* Homework 1: Perception ("Understand the church's view of itself and the community's view")
+* Homework 2: Community Needs ("Open your eyes to your congregation and community's needs then determine if your church already has resources/abilities to meet those needs or if new ministries need to be developed.")
 
-#### What does a successful Pretty Prairie United Methodist Church look like?
+Action Steps
+* Action Step 1: Congregational Survey or Team/Committee/Group Interview
+* Action Step 2: Newer Member Focus Groups
+* Action Step 3: Community Survey or Community Member Gatherings
 
-#### Whom should the church reach?
-Demographics List
+Marketing Plan Deliverables
+* Congregational Survey Results or Interview Summaries Report
+* Focus Group Summaries Report
+* Community Survey Report or Community Member Gatherings Report
+
+#### Step 3: Strategy
+"Set the direction and narrow the scope of your marketing resources so you can
+connect who you are (Values & Vision) with the people you want to reach (Target
+Audience)."
+"Defines what you want to accomplish within a designated amount of time."
+
+Homework/Marketing Plan Deliverables
+* S.W.O.T.
+* Target Audience
+* Strategic Objective
+* Goals
+* Resources
 
 Marketing Worksheet Target Audience Deliverable
 ![](facilitation-and-user-testing/demographics-sheet.jpg)
 
-#### How should the church reach them?
+#### Step 4: Implementation
+"Brainstorm, plan and implement the specific tactics and tools that will support your
+church’s goals and measurable objectives to reach its target audience."
 
-##### Skills Inventory
+Prepare:
+* Budget information
 
-Members of the church would take stock of the skills of individual members. This skills inventory would be used to identify ways to optimize what the church has to offer the community. 
+Homework
+* Homework 1: Tactics
 
-Old skills list<br>
-![](facilitation-and-user-testing/skills-inventory-1.jpg)
+Action Steps
+* Action Step 1: Tactics Brainstorming & Prioritizing Session
+* Action Step 2: Marketing Plan Development & Review
+* Action Step 3: Marketing Plan Approval & Implementation
 
-<br>
-![](facilitation-and-user-testing/skills-inventory-2.jpg)
+Marketing Plan Deliverables
+* Goals/measurable objectives with supporting tactics
+* Timing/deadlines
+* Person/team coordinating
 
 ##### "How might we"
 
@@ -67,15 +121,39 @@ Tactics between $300 and <br>
 Tactics over $1000<br>
 ![](facilitation-and-user-testing/tactics-over-$1000.jpg)
 
-#### How should the church measure progress?
-
-##### Metrics
-
 [United Methodist Communications](http://www.umcom.org) suggests using a Goals and Measurable Objectives Chart as part of the [Evaluation Step](http://www.umcom.org/learn/evaluation-adjustment-resources) of its [Marketing Audit](http://www.umcom.org/learn/market-your-church-getting-started). 
 
 United Methodist Goals and Measurable Objectives example chart
 
 ![](facilitation-and-user-testing/goals-measurable-objectives-chart.jpg)
+
+#### Step 5: Evaluation/Adjustment
+
+
+
+
+
+
+
+Notes from previous church strategy meetings
+
+In preparation for their group work, I provided the Administative Council and NOW Committees with an example marketing plan, and a [Marketing Plan Worksheet](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/UMCOM_YOUR_MARKETING_PLAN_WORKSHEET.PDF), and ["Tactics" List](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/STEP_4_IMPLEMENTATION_HOMEWORK.PDF) taken from the [United Methodist Communications](http://www.umcom.org) [Marketing Audit](http://www.umcom.org/learn/market-your-church-getting-started). 
+
+Demographics List
+
+##### Skills Inventory
+
+Members of the church would take stock of the skills of individual members. This skills inventory would be used to identify ways to optimize what the church has to offer the community. 
+
+Old skills list<br>
+![](facilitation-and-user-testing/skills-inventory-1.jpg)
+
+<br>
+![](facilitation-and-user-testing/skills-inventory-2.jpg)
+
+
+
+### Communication Audit
 
 ## User Testing
 

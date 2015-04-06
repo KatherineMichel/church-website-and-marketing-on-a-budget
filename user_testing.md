@@ -59,7 +59,7 @@ See [Prototype](prototype.md)
 
 Information sheet about Dora North Circuit of the United Methodist Church in Mutare District of Zimbabwe, one of the missions of the Pretty Prairie United Methodist Church
 
-![](pitch/dora-north-mission.jpg)
+![](user-testing/dora-north-mission.jpg)
 
 ### User Testing Summary Report
 Concern: that people would use the app instead of going to church and giving money in the offering
