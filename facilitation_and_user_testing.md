@@ -22,6 +22,94 @@ We would use these resources along with problem structuring methods to answer th
 
 Steps
 
+
+STEP 1: VALUES & VISION
+ Read the Introduction and completed the:
+o Congregational Demographic Report
+o Congregational Behavior and Response Report
+o Community Demographic and Behaviors Reports
+o Church Budget and Staffing Report
+identify:
+o Who your church is. (Values).
+o Where your church is going. (Vision)
+Step 1: Values & Vision
+Homework
+ Homework 1: Values
+ Homework 2: Vision
+Action Steps
+ Action Step 1: Values & Vision Retreat
+Marketing Plan Deliverables
+ Core Values
+ Demographics
+ Vision Statement
+ Key Messaging/Elevator Statement
+
+Your MARKETING PLAN is one of many components that move you toward your vision.
+Other components that support your vision and move you toward it:
+ Organizational Structure
+ Staffing
+ Resource allocation
+ Decision making
+
+STEP 2: PERCEPTION & NEEDS
+This step will help your
+Marketing Team identify:
+ Perception: Understand the church's view of itself and the community's view
+ Needs: Open your eyes to your congregation and community's needs then
+determine if your church already has resources/abilities to meet those needs or if
+new ministries need to be developed.
+Step 2: Perception & Needs
+Homework
+ Homework 1: Perception
+ Homework 2: Community Needs
+Action Steps
+ Action Step 1: Congregational Survey or Team/Committee/Group
+Interview
+ Action Step 2: Newer Member Focus Groups
+ Action Step 3: Community Survey or Community Member Gatherings
+Marketing Plan Deliverables
+ Congregational Survey Results or Interview Summaries Report
+ Focus Group Summaries Report
+ Community Survey Report or Community Member Gatherings Report
+
+
+STEP 3: STRATEGY
+This step will help your Marketing
+Team:
+ Set the direction and narrow the scope of your marketing resources so you can
+connect who you are (Values & Vision) with the people you want to reach (Target
+Audience).
+ Defines what you want to accomplish within a designated amount of time.
+Step 3: Strategy
+Action Step: Strategy Retreat
+Homework/Marketing Plan Deliverables
+S.W.O.T.
+Target Audience
+Strategic Objective
+Goals
+Resources
+
+STEP 4: IMPLEMENTATION
+• Brainstorm, plan and implement the specific tactics and tools that will support your
+church’s goals and measurable objectives to reach its target audience.
+Step 4: Implementation
+Homework
+• Homework 1: Tactics
+Action Steps
+• Action Step 1: Tactics Brainstorming & Prioritizing Session
+• Action Step 2: Marketing Plan Development & Review
+ Action Step 3: Marketing Plan Approval & Implementation
+Marketing Plan Deliverables
+ Goals/measurable objectives with supporting tactics
+ Timing/deadlines
+ Person/team coordinating
+Step 4: Implementation
+ Budget information
+STEP 5: EVALUATION/ADJUSTMENT
+
+
+
+
 ### Church Vision and Mission Statements
 We started by reflecting on the existing Vision and Mission Statements
 
