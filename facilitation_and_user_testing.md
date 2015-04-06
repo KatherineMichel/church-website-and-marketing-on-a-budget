@@ -2,9 +2,8 @@
 
 ## Facilitation 
 
-Members of Administrative Council and Nurture, Outreach, Witness (NOW) Committee, which both plan outreach for the church, began to collaborate on a new church marketing plan. I facilitated brainstorming and planning group work. 
+Members of Administrative Council Committee and Nurture, Outreach, Witness (NOW) Committee, which both plan outreach for the church, began to collaborate on a new church marketing plan. I facilitated the group using the following United Methodist Communications resources:
 
-We used the following [United Methodist Communications](http://www.umcom.org) resources:
 * [Annual Church Health Check Up](http://www.umcom.org/learn/take-an-annual-church-health-checkup)
 * [Marketing Audit](http://www.umcom.org/learn/market-your-church-getting-started)
 * [Communication Audit](http://www.umcom.org/services-products/audit-resources)
