@@ -13,6 +13,7 @@ See [New Website](new_website.md) for a more detailed explanation of the new web
 
 ## New Facebook Page
 
+https://www.facebook.com/prettyprairieumc
 [![](new-marketing-materials/new-facebook-page.jpg)](https://www.facebook.com/prettyprairieumc)
 
 ## Facebook Page Ad
