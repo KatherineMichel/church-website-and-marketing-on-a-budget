@@ -118,30 +118,30 @@ Goal: be number 1 search result in app stores for relevant keyword searches
 
 #### Search 'Bible app'
 Number 1 search result
-![](prototype/google-play-search-bible-app-the-church-app.jpg)
+![](pitch/google-play-search-bible-app-the-church-app.jpg)
 
 #### Search 'church app'
 Number 1 search result
-![](prototype/google-play-search-church-app-the-church-app.jpg)
+![](pitch/google-play-search-church-app-the-church-app.jpg)
 
 #### Search 'mobile Bible'
 Number 1 search result
-![](prototype/google-play-search-mobile-bible-the-church-app.jpg)
+![](pitch/google-play-search-mobile-bible-the-church-app.jpg)
 
 #### Search 'mobile church'
 Number 1 search result
-![](prototype/google-play-search-mobile-church-the-church-app.jpg)
+![](pitch/google-play-search-mobile-church-the-church-app.jpg)
 
 ### Free App Rankings
 Goal: have "Free App" rankings comparable to The Bible App in Apple iTunes Store and Google Play Store
 
 #### Apple iTunes Store
 Ranking comparable to The Bible App
-![](prototype/apple-store-itune-charts-free-apps-the-church-app.jpg)
+![](pitch/apple-store-itune-charts-free-apps-the-church-app.jpg)
 
 #### Google Play Store (Android)
 Ranking comparable to The Bible App
-![](prototype/google-play-top-selling-free-apps-the-church-app.jpg)
+![](pitch/google-play-top-selling-free-apps-the-church-app.jpg)
 
 ### Website, Facebook, Twitter (tweets, retweets, intents), Pinterest, Instagram profiles
 
