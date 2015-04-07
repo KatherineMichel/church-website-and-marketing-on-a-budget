@@ -4,6 +4,8 @@ How has a religious app achieved [100 million+ downloads](http://www.businessins
 
 # LifeChurch: New Age Model
 
+"I’m telling you: we’ll do video church, we’ll take church online, we’ll leverage technology. We will do anything short of sin to reach people who do not know Christ." -Craig Groeschel, Senior Pastor of LifeChurch
+
 "A church isn't a building—it's the people. We meet in locations around the United States and globally online." -[LifeChurch.tv](http://www.lifechurch.tv/who-we-are)
 
 ## Google Trends Graph for Phrases "LifeChurch" and "The Bible App"
