@@ -90,6 +90,9 @@ Who to target and how?
 * Number of people with desktop computers:
 * Number of people with mobile phones:
 
+## Information Capture
+Global database
+
 ## Talent
 The app would need to be built by people of the right skill level. They could be recruited from:
 
