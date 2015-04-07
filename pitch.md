@@ -14,6 +14,8 @@ See [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_
 * Non-profit
 * B Corporation
 
+According to this [2013 Business Insider article](http://www.businessinsider.com/youversion-bible-app-has-100-million-downloads-2013-7), The Bible App...
+
 ## Funding Required and Capital Sources
 * Seed money
 * Donated resources
