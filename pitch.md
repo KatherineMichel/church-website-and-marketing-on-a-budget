@@ -64,7 +64,7 @@ Who are competitors?
 * Contemporary churches such as LifeChurch
 
 ### Network Effect
-Building the app is not the only challenge. A network effect also needs to be created. This is where a missed opportunity exists. The United Methodist Church would not be starting from scratch to build up a user base. A potential user base of 12 million United Methodist members already exists, not to mention casual church-goers and newcomers. 
+Building the app is not the only challenge. A network effect also needs to be created. This is where a missed opportunity exists. The United Methodist Church would not be starting from scratch to build up a user base. A potential user base of 12 million United Methodist members already exists, not to mention casual church-goers, newcomers, and those unaffilitated with the United Methodist Church. 
 
 ### Primary Users Segmentation
 
