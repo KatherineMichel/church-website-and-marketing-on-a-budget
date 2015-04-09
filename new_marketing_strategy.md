@@ -62,7 +62,7 @@ The church could submit articles and general information to the local newspaper.
 Photo at Pretty Prairie Sunset Home afternoon tea hosted by United Methodist Women
 ![](new-marketing-strategy/afternoon-tea.jpg)
 
-On the left: story made from photo
+On the left, story made from photo next to a story on the rgiht about the church's new mobile healthcare clinic
 ![](new-marketing-strategy/afternoon-tea-newspaper.jpg)
 
 Also, the church had not fully made use of its information space in the newspaper's Church Calendar section.
@@ -76,12 +76,9 @@ Anytime possible, the Pretty Prairie United Methodist Church website address and
 
 After the revitalization effort began, an opportunity became available to partner with community organization Ubuntu to bring a weekly medical clinic to Pretty Prairie through [Advanced Mobile Healthcare](http://www.advancedmobilehealthcare.com), including in-home visits. Ubuntu needed a location for the clinic and the Pretty Prairie United Methodist Church basement was a perfect fit. This is an example of a partnership that would service the community and get people through the doors. 
 
-On the right, story about healthcare clinic
-![](new-marketing-strategy/afternoon-tea-newspaper.jpg)
-
 #### Signs
 
-Banners would be hung in front of the church to raise awareness about special events (special services, medical clinic, ect.)
+Banners and signs would be placed in front of the church to raise awareness about special events (special services, medical clinic, ect.)
 
 ![](new-marketing-strategy/advanced-mobile-healthcare-sign.jpg)
 
