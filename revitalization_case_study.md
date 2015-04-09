@@ -1,14 +1,19 @@
 # Revitalization Case Study
 
-The national United Methodist Church provides a website called [United Methodist Communications](http://www.umcom.org) with many resources for growing membership. 
+The Pretty Prairie United Methodist Church is affiliated with the global United Methodist Church. The United Methodist Church provides a variety of resources to its membership churches and the public, including:
 
-As my church project evolved, I found myself using a number of United Methodist Communications resources, including the following: 
+* [The United Methodist Church website](http://www.umc.org)
+* [United Methodist Communications](http://www.umcom.org) 
+* [Interpreter Magazine](http://www.interpretermag.com)
 
-Over time, I began to realize that the process Pretty Prairie United Methodist Church has gone through might be of interest to other churches. I decided to contact United Methodist Communications about creating a feature article about Pretty Prairie United Methodist Church's revitalization process. 
+As the church revitalization project unfolded, it became clear to me that the lessons we had learned could be useful to other churches that are faced with the same sort of challenges and opportunities. It is not uncommon for an article about an individual church to be featured on one of these platforms.  
 
-I looking up the [United Methodist Communications contact info](http://www.umcom.org/about/contact-us-at-united-methodist-communications) and sent an email. 
+Because we had used a number of resources from [United Methodist Communications](http://www.umcom.org), I decided to contact UMCom to inquire if I could submit a feature article for its website about Pretty Prairie United Methodist Church's revitalization process. 
 
-#### Interpreter Ad (Paid)
+The answer I received was very positive. 
+
+
+
 
 
 
