@@ -51,6 +51,7 @@ After identifying relevant duties, I would develop a set of training materials f
 * Special occassion advertising/sponsorships
 * Google AdWords, Facebook and Twitter ads
 
+#### Example Costs
 The Facebook advertisement program defaults to $50 spend for 1 week
 
 ### "Low-Hanging Fruit"
@@ -62,7 +63,7 @@ The church could submit articles and general information to the local newspaper.
 Photo at Pretty Prairie Sunset Home afternoon tea hosted by United Methodist Women
 ![](new-marketing-strategy/afternoon-tea.jpg)
 
-On the left, story made from photo next to a story on the rgiht about the church's new mobile healthcare clinic
+On the left, story made from photo next to a story on the right about the church's new mobile healthcare clinic
 ![](new-marketing-strategy/afternoon-tea-newspaper.jpg)
 
 Also, the church had not fully made use of its information space in the newspaper's Church Calendar section.
