@@ -6,7 +6,7 @@ The Pretty Prairie United Methodist Church is affiliated with the global United 
 * [United Methodist Communications](http://www.umcom.org) 
 * [Interpreter Magazine](http://www.interpretermag.com)
 
-As the church revitalization project unfolded, it became clear to me that the lessons we had learned could be useful to other churches that are faced with the same sort of challenges and opportunities. It is not uncommon for an article about an individual church to be featured on one of these platforms.  
+As the church revitalization project unfolded, it became clear to me that the lessons we had learned could be useful to other churches that are faced with the same sort of challenges and opportunities. It is not uncommon for an article about an individual church to be featured in a global United Methodist Church website or publication.  
 
 Because we had used a number of resources from [United Methodist Communications](http://www.umcom.org), I decided to contact UMCom to inquire if I could submit a feature article for its website about Pretty Prairie United Methodist Church's revitalization process. 
 
