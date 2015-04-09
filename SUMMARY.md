@@ -14,6 +14,7 @@
    * [Facilitation and User Testing](facilitation_and_user_testing.md)
    * [New Marketing Strategy](new_marketing_strategy.md)
    * [Revitalization Case Study](revitalization_case_study.md)
+   * Personal Reflection
 * [Part 2: The National Church Re-Imagined :)](the_national_united_methodist_church_re-imagined.md)
    * [Research Sprint](research_sprint.md)
        * [Global Re-Organization](global_re-organization.md)
