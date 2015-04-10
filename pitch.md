@@ -61,28 +61,14 @@ Entries received from a contest or hackathon might not meet the quality standard
 | Public | Volunteers |
 
 Time/resources
-#### Information Capture
-There is where the United Methodist Church would leverage data by creating a global database of church members/regular church-goers, and app-users. 
 
 ### Customer Support Costs
 | Method | Cost |
 | -- | -- |
 | Volunteers | Free |
 
-## Key Partners
+## Market
 
-## Key Suppliers
-
-## Key Resources
-
-## Key Activities
-
-
-
-
-
-
-[Economics are the Future of Charity](https://chartio.com/blog/2015/03/saas-economics-are-the-future-of-charity)
 
 ### Market Size
 Currently, United Methodist membership is steadily falling in the United States, but dramatically rising in certain developing countries. However, the app would be creating a new market. 
@@ -127,6 +113,20 @@ Who to target and how?
 * Number of people with internet: 
 * Number of people with desktop computers:
 * Number of people with mobile phones:
+
+
+## Key Partners
+
+## Key Suppliers
+
+## Key Resources
+
+## Key Activities
+
+## Information Capture
+There is where the United Methodist Church would leverage data by creating a global database of church members/regular church-goers, and app-users. 
+
+[Economics are the Future of Charity](https://chartio.com/blog/2015/03/saas-economics-are-the-future-of-charity)
 
 ### Objectives and key Results (OKRs)
 [OKR Wikipedia](http://en.wikipedia.org/wiki/OKR)
