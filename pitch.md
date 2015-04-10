@@ -52,7 +52,7 @@ Potentially, the most costly aspect of producing the app would be technical tale
 | Volunteers | Free |
 | Contest/hackathon entries | Prizes |
 
-Entries received from a contest or hackathon might not meet the quality standard required, but a contest or hackathon could be a lesser known way to generate creative ideas, while providing a challenge for developers. 
+Entries received from a contest or "Christian hackathon" might not meet the quality standard required, but a contest or "Christian hackathon" could be a fun and less obvious way to generate creative ideas, while providing a challenge for developers. 
 
 ### Cost to Reach New Users
 * In-church campaign
@@ -70,13 +70,10 @@ Time/resources
 ### Market Size
 Currently, United Methodist membership is steadily falling in the United States, but dramatically rising in certain developing countries. However, the app would be creating a new market.
 
+In the book Zero-to-One, Peter Thiel recommends dominating a small market first, then expanding vertically. This could mean initially publicizing the app within United Methodist congregations, then expanding to publicizing to the public. This could also mean publicizing the app by country.  
+
 ### Network Effect
 Building the app is not the only challenge. A network effect also needs to be created. This is where a missed opportunity exists. The United Methodist Church would not be starting from scratch to build up a user base. A potential user base of 12 million United Methodist members already exists, not to mention casual church-goers, newcomers, and those unaffilitated with the United Methodist Church. The United Methodist Church could start by promoting the app to its own member base. 
-
-In the book Zero-to-One, Peter Thiel recommends dominating a small market first, then expanding vertically. 
-
-#### Information Capture
-There is where the United Methodist Church would leverage data by creating a global database of church members/regular church-goers, and app-users. 
 
 ### Primary Users Segmentation
 
@@ -94,7 +91,14 @@ Number of United Methodist Church members
 | Non-U.S. | 4,000,000 |
 | Total Worldwide | 12,000,000 |
 
-Of these members and constituents, who are the mobile users, or would become a mobile user and use an app?
+Of these members and constituents:
+* Who are the mobile users
+* Who would become a mobile user/use app?
+
+From my own experience, there are members, typically of an older generation, who do not use mobile, and are not receptive to adopting it.  
+
+#### Information Capture
+The United Methodist Church could leverage data by creating a global database of church members/regular church-goers, and app-users. 
 
 ### Vertical Integration/User Acquisition
 Who to target and how?
@@ -108,21 +112,18 @@ Who to target and how?
 * Number of people with desktop computers:
 * Number of people with mobile phones:
  
-
-
-
-
 ## Competitive Analysis
 
-According to Pew Research, churches are a highly competitive marketplace. 
+According to [Pew Research Religious Landscape Survey](http://religions.pewforum.org/reports), churches are a highly competitive marketplace. 
 
 ### Idea Maze
 Placeholder
 ![](pitch/idea-maze.jpg)
 
 Who are competitors? 
-* Other traditional Mainline churches
+* Other traditional mainline churches
 * Contemporary churches such as LifeChurch
+* Non-church competition
 
 
 
