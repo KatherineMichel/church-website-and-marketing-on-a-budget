@@ -68,7 +68,14 @@ Time/resources
 ## Market
 
 ### Primary Users Segmentation
-Of these, who are the mobile users, or will become one?
+
+Number of United Methodist congregations
+
+| Region | Approximate Number of Congregations |
+| -- | -- |
+| Worldwide | 34,892 |
+
+Number of United Methodist Church members
 
 | Region | Approximate Number of United Methodist Members |
 | -- | -- |
@@ -76,13 +83,16 @@ Of these, who are the mobile users, or will become one?
 | Non-U.S. | 4,000,000 |
 | Total Worldwide | 12,000,000 |
 
-| Region | Approximate Number of Congregations |
-| -- | -- |
-| Worldwide | 34,892 |
+Of these members and constituents, who are the mobile users, or would become a mobile user and use an app?
+
+
 ### Market Size
 Currently, United Methodist membership is steadily falling in the United States, but dramatically rising in certain developing countries. However, the app would be creating a new market. 
 
+### Network Effect
+Building the app is not the only challenge. A network effect also needs to be created. This is where a missed opportunity exists. The United Methodist Church would not be starting from scratch to build up a user base. A potential user base of 12 million United Methodist members already exists, not to mention casual church-goers, newcomers, and those unaffilitated with the United Methodist Church. The United Methodist Church could start by promoting the app to its own member base. 
 
+In the book Zero-to-One, Peter Thiel recommends dominating a small market first, then expanding vertically. 
 
 
 ## Competitive Analysis
@@ -96,11 +106,6 @@ Placeholder
 Who are competitors? 
 * Other traditional Mainline churches
 * Contemporary churches such as LifeChurch
-
-### Network Effect
-Building the app is not the only challenge. A network effect also needs to be created. This is where a missed opportunity exists. The United Methodist Church would not be starting from scratch to build up a user base. A potential user base of 12 million United Methodist members already exists, not to mention casual church-goers, newcomers, and those unaffilitated with the United Methodist Church. The United Methodist Church could start by promoting the app to its own member base. 
-
-In the book Zero-to-One, Peter Thiel recommends dominating a small market first, then expanding vertically. 
 
 
 ### User Acquisition
