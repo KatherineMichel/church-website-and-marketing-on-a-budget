@@ -61,7 +61,7 @@ See [Prototype](prototype.md)
 
 #### National Communication Audit
 
-#### Example Use Case
+#### Example Mobile App Use Case
 
 Information sheet about Dora North Circuit of the United Methodist Church in Mutare District of Zimbabwe, one of the missions of the Pretty Prairie United Methodist Church
 
