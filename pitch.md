@@ -10,20 +10,18 @@ See [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_
 
 ## Deal Structure
 
-### Likely Corporate Structure
+### Corporate Structure Options
 | Corporate Entity | Description |
 | -- | -- |
 | [Non-profit](http://en.wikipedia.org/wiki/Nonprofit_organization) | Traditional charity |
 | [B corporation](http://en.wikipedia.org/wiki/Benefit_corporation) | Special category of for-profit |
-
-Another lesser known structure: 
 
 ## Likely Funding
 | Funding Option | Source |
 | -- | -- |
 | Seed money | Donations |
 
-### Example Business Model
+### Possible Business Models
 
 | Business Model | Notes |
 | -- | -- |
@@ -35,8 +33,6 @@ Another lesser known structure:
 
 The suggested business model would be freemium with support through donations, in-app purchases, and limited ads/partnerships.
 
-
-According to this [2013 Business Insider article](http://www.businessinsider.com/youversion-bible-app-has-100-million-downloads-2013-7), The Bible App...
 
 ## Idea Maze
 Placeholder
