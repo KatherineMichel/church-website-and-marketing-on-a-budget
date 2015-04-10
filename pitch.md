@@ -8,6 +8,10 @@ See [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_
 
 ![](pitch/pitch-deck.jpg)
 
+## Idea Maze
+Placeholder
+![](pitch/idea-maze.jpg)
+
 ## Deal Structure
 
 ### Corporate Structure Options
