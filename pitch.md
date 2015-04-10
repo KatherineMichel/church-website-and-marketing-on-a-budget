@@ -31,7 +31,7 @@ How will the organization make money? How will the product/service be priced? Wi
 | Donations | Is this self-sustaining? |
 | Freemium | Supported through in-app purchases, ads, ect. |
 | Limited Freemium | Free for a year then $ .99 |
-| Paid | Potential users may be excluded |
+| Paid | Potential users may be excluded due to inability to pay |
 | Price based on OS | Different operating systems generate different amounts of revenue |
 
 The suggested business model would be freemium with support through donations, in-app purchases, and limited ads/partnerships.
