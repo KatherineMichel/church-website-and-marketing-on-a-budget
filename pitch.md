@@ -17,11 +17,14 @@ See [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_
 | [B corporation](http://en.wikipedia.org/wiki/Benefit_corporation) | Special category of for-profit |
 
 ## Likely Funding
+Where will the startup funding come from?
+
 | Funding Option | Source |
 | -- | -- |
 | Seed money | Donations |
 
-### Possible Business Models
+## Possible Business Models
+How will the organization make money? How will the product/service be priced? Will there be multiple revenue streams?
 
 | Business Model | Notes |
 | -- | -- |
@@ -33,23 +36,26 @@ See [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_
 
 The suggested business model would be freemium with support through donations, in-app purchases, and limited ads/partnerships.
 
+## Cost Structure
 
 
-
-## Business Model
-* Key partners
-* Key suppliers
-* Key resources 
-* Key activities
-
-* How will the organization make money?
-* How will the product/service be priced?
 * How much will it cost to produce/deliver product/service?
 * How much does it cost (time/resources) to reach new users?
 * How much will customer support cost?
 
-Cost Structure/Revenue Streams
+Revenue Streams
 More than one cash flow source?
+
+## Key Partners
+
+## Key Suppliers
+
+## Key Resources
+
+## Key Activities
+
+
+
 
 [Economics are the Future of Charity](https://chartio.com/blog/2015/03/saas-economics-are-the-future-of-charity)
 
