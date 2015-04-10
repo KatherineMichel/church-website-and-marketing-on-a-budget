@@ -10,19 +10,31 @@ See [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_
 
 ## Deal Structure
 
-### Corporate Structure Options
+### Likely Corporate Structure
 | Corporate Entity | Description |
 | -- | -- |
 | [Non-profit](http://en.wikipedia.org/wiki/Nonprofit_organization) | Traditional charity |
 | [B corporation](http://en.wikipedia.org/wiki/Benefit_corporation) | Special category of for-profit |
 
+Another lesser known structure: 
 
+## Likely Funding
+| Funding Option | Source |
+| -- | -- |
+| Seed money | Donations |
 
+### Example Business Model
 
+| Business Model | Notes |
+| -- | -- |
+| Donations | Is this self-sustaining? |
+| Freemium | Supported through in-app purchases, ads, ect. |
+| Limited Freemium | Free for a year then $ .99 |
+| Paid | Potential users may be excluded |
+| Price based on OS | Different operating systems generate different amounts of revenue |
 
-## Funding Required and Capital Sources
-* Seed money
-* Donated resources
+The suggested business model would be freemium with support through donations, in-app purchases, and limited ads/partnerships.
+
 
 According to this [2013 Business Insider article](http://www.businessinsider.com/youversion-bible-app-has-100-million-downloads-2013-7), The Bible App...
 
@@ -46,18 +58,6 @@ Cost Structure/Revenue Streams
 More than one cash flow source?
 
 [Economics are the Future of Charity](https://chartio.com/blog/2015/03/saas-economics-are-the-future-of-charity)
-
-### Example Business Model
-
-| Business Model | Notes |
-| -- | -- |
-| Donations | Is this self-sustaining? |
-| Freemium | Supported through in-app purchases, ads, ect. |
-| Limited Freemium | Free for a year then $ .99 |
-| Paid | Potential users may be excluded |
-| Price based on OS | Different operating systems generate different amounts of revenue |
-
-The suggested business model would be freemium with support through donations, in-app purchases, and limited ads/partnerships.
 
 http://www.lifechurch.tv/giving
 
