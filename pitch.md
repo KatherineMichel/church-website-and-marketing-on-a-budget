@@ -52,7 +52,7 @@ Potentially, the most costly aspect of producing the app would be technical tale
 | Volunteers | Free |
 | Contest/hackathon entries | Prizes |
 
-Entries received from a contest or hackathon might not meet the quality standard required, but a contest or hackathon could be a lesser known way to generate creative ideas, while providing a learning experiencing for developers in training. 
+Entries received from a contest or hackathon might not meet the quality standard required, but a contest or hackathon could be a lesser known way to generate creative ideas, while providing a challenge for developers. 
 
 ### Cost to Reach New Users
 * In-church campaign
