@@ -41,17 +41,19 @@ After identifying relevant duties, I would develop a set of training materials f
 
 #### Budget
 
-#### Free
-* Community interest articles/church info (including web addresses) to newspaper
-* Social media sharing
-* Search Engine Optimization (SEO) and Google Rich Snippet
-
-#### Paid
-* Professionally made banners
-* Special occassion advertising/sponsorships
-* Google AdWords, Facebook and Twitter ads
-
 #### Example Costs
+| Tactic | Cost |
+| -- | -- |
+| Serch Engine Optimization | Free |
+| Social Media Sharing | Free |
+| Google Rich Snippet | Free |
+| Newspaper Articles/Church Info | Free |
+| Professionally Made Banners/Signs | Placeholder |
+| Google AdWords | Placeholder |
+| Facebook Ads | Placeholder |
+| Twitter Ads | Placeholder |
+| Special Occasion Ads/Sponsorships | Placeholder |
+
 The Facebook advertisement program defaults to $50 spend for 1 week
 
 ### "Low-Hanging Fruit"
