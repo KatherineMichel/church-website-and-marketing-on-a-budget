@@ -39,11 +39,14 @@ The suggested business model would be freemium with support through donations, i
 ## Cost Structure
 
 ### Cost to Produce/Deliver
+Potentially, the most costly aspect of producing the app would be technical talent. The app would need to be built (across platforms) by people of the right skill level. They could be recruited from:
 
 | Method | Cost |
 | -- | -- |
-| In-house Staff | Regular wages |
+| In-house staff | Regular wages |
+| Third-party business | Contract pay |
 | Volunteers | Free |
+| Contest entries/hackathon | Prizes |
 
 ### Cost to Reach New Users
 Time/resources
@@ -112,14 +115,6 @@ Who to target and how?
 
 ## Information Capture
 Global database
-
-## Talent
-The app would need to be built by people of the right skill level. They could be recruited from:
-
-* Staff
-* Third party business
-* Volunteers
-* Contest entries
 
 ### Objectives and key Results (OKRs)
 [OKR Wikipedia](http://en.wikipedia.org/wiki/OKR)
