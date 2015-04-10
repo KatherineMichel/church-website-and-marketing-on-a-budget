@@ -122,7 +122,7 @@ Goal: be number 1 search result in search engines for relevant keyword searches
 Goal: be number 1 search result in app stores for relevant keyword searches
 
 ### Google Play Store (Android)
-
+Also, Google Play Store by country
 #### Search 'Bible app'
 Number 1 search result
 ![](pitch/google-play-search-bible-app-the-church-app.jpg)
