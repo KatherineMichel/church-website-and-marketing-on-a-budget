@@ -34,9 +34,7 @@ See [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_
 The suggested business model would be freemium with support through donations, in-app purchases, and limited ads/partnerships.
 
 
-## Idea Maze
-Placeholder
-![](pitch/idea-maze.jpg)
+
 
 ## Business Model
 * Key partners
@@ -63,6 +61,9 @@ Currently, United Methodist membership is steadily falling in the United States,
 According to Pew Research, churches are a highly competitive marketplace. 
 
 ### Idea Maze
+Placeholder
+![](pitch/idea-maze.jpg)
+
 Who are competitors? 
 * Other traditional Mainline churches
 * Contemporary churches such as LifeChurch
