@@ -55,10 +55,6 @@ More than one cash flow source?
 
 [Economics are the Future of Charity](https://chartio.com/blog/2015/03/saas-economics-are-the-future-of-charity)
 
-http://www.lifechurch.tv/giving
-
-http://www.lifechurch.tv/digital-missions
-
 ### Market Size
 Currently, United Methodist membership is steadily falling in the United States, but dramatically rising in certain developing countries. However, the app would be creating a new market. 
 
