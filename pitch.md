@@ -8,21 +8,27 @@ See [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_
 
 ![](pitch/pitch-deck.jpg)
 
-## Idea Maze
-Placeholder
-![](pitch/idea-maze.jpg)
-
 ## Deal Structure
 
 ### Corporate Structure Options
-* Non-profit
-* B Corporation
+| Corporate Entity | Description |
+| -- | -- |
+| [Non-profit](http://en.wikipedia.org/wiki/Nonprofit_organization) | Traditional charity |
+| [B corporation](http://en.wikipedia.org/wiki/Benefit_corporation) | Special category of for-profit |
 
-According to this [2013 Business Insider article](http://www.businessinsider.com/youversion-bible-app-has-100-million-downloads-2013-7), The Bible App...
+
+
+
 
 ## Funding Required and Capital Sources
 * Seed money
 * Donated resources
+
+According to this [2013 Business Insider article](http://www.businessinsider.com/youversion-bible-app-has-100-million-downloads-2013-7), The Bible App...
+
+## Idea Maze
+Placeholder
+![](pitch/idea-maze.jpg)
 
 ## Business Model
 * Key partners
