@@ -37,7 +37,7 @@ Where will the startup funding come from?
 
 The suggested business model would be freemium with funds raised through donations, in-app purchases, and limited ads/partnerships.
 
-Product Tier Selection
+Product Tier Selection Chart
 ![](pitch/marketing-strategy-product-tier.png)
 
 ## Cost Structure
@@ -52,10 +52,17 @@ Potentially, the most costly aspect of producing the app would be technical tale
 | Volunteers | Free |
 | Contest/hackathon entries | Prizes |
 
-Entries received from a contest or hackathon might not meet the quality standard required, but a contest or hackathon could be a lesser known way to generate creative ideas. 
+Entries received from a contest or hackathon might not meet the quality standard required, but a contest or hackathon could be a lesser known way to generate creative ideas, while providing a learning experiencing for developers in training. 
 
 ### Cost to Reach New Users
+| Method | Notes |
+| -- | -- |
+| In-church campaign | Orga |
+| Public | Volunteers |
+
 Time/resources
+#### Information Capture
+There is where the United Methodist Church would leverage data by creating a global database of church members/regular church-goers, and app-users. 
 
 ### Customer Support Costs
 | Method | Cost |
@@ -73,8 +80,7 @@ Time/resources
 
 
 
-## Information Capture
-Global database
+
 
 [Economics are the Future of Charity](https://chartio.com/blog/2015/03/saas-economics-are-the-future-of-charity)
 
