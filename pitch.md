@@ -46,7 +46,9 @@ Potentially, the most costly aspect of producing the app would be technical tale
 | In-house staff | Regular wages |
 | Third-party business | Contract pay |
 | Volunteers | Free |
-| Contest entries/hackathon | Prizes |
+| Contest/hackathon entries | Prizes |
+
+Accepting entries from a contest or hackathon might not meet the quality standard required, but could be a lesser known way to generate creative ideas. 
 
 ### Cost to Reach New Users
 Time/resources
