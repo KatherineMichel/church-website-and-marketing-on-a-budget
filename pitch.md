@@ -67,10 +67,16 @@ Time/resources
 
 ## Market
 
+### Market Size
+Currently, United Methodist membership is steadily falling in the United States, but dramatically rising in certain developing countries. However, the app would be creating a new market.
+
 ### Network Effect
 Building the app is not the only challenge. A network effect also needs to be created. This is where a missed opportunity exists. The United Methodist Church would not be starting from scratch to build up a user base. A potential user base of 12 million United Methodist members already exists, not to mention casual church-goers, newcomers, and those unaffilitated with the United Methodist Church. The United Methodist Church could start by promoting the app to its own member base. 
 
 In the book Zero-to-One, Peter Thiel recommends dominating a small market first, then expanding vertically. 
+
+#### Information Capture
+There is where the United Methodist Church would leverage data by creating a global database of church members/regular church-goers, and app-users. 
 
 ### Primary Users Segmentation
 
@@ -90,9 +96,18 @@ Number of United Methodist Church members
 
 Of these members and constituents, who are the mobile users, or would become a mobile user and use an app?
 
+### Vertical Integration/User Acquisition
+Who to target and how?
 
-### Market Size
-Currently, United Methodist membership is steadily falling in the United States, but dramatically rising in certain developing countries. However, the app would be creating a new market. 
+* World population: ~7 billion
+* Number of Christians: 
+* Number of non-United Methodist Christians: 
+* Number of non-Christians
+* Number of people with no religions affiliation:
+* Number of people with internet: 
+* Number of people with desktop computers:
+* Number of people with mobile phones:
+ 
 
 
 
@@ -110,17 +125,7 @@ Who are competitors?
 * Contemporary churches such as LifeChurch
 
 
-### User Acquisition
-Who to target and how?
 
-* World population: ~7 billion
-* Number of Christians: 
-* Number of non-United Methodist Christians: 
-* Number of non-Christians
-* Number of people with no religions affiliation:
-* Number of people with internet: 
-* Number of people with desktop computers:
-* Number of people with mobile phones:
 
 
 ## Key Partners
@@ -131,8 +136,7 @@ Who to target and how?
 
 ## Key Activities
 
-## Information Capture
-There is where the United Methodist Church would leverage data by creating a global database of church members/regular church-goers, and app-users. 
+
 
 [Economics are the Future of Charity](https://chartio.com/blog/2015/03/saas-economics-are-the-future-of-charity)
 
