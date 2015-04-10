@@ -55,10 +55,8 @@ Potentially, the most costly aspect of producing the app would be technical tale
 Entries received from a contest or hackathon might not meet the quality standard required, but a contest or hackathon could be a lesser known way to generate creative ideas, while providing a learning experiencing for developers in training. 
 
 ### Cost to Reach New Users
-| Method | Notes |
-| -- | -- |
-| In-church campaign | Orga |
-| Public | Volunteers |
+* In-church campaign
+* Public campaign
 
 Time/resources
 
@@ -69,9 +67,23 @@ Time/resources
 
 ## Market
 
+### Primary Users Segmentation
+Of these, who are the mobile users, or will become one?
 
+| Region | Approximate Number of United Methodist Members |
+| -- | -- |
+| U.S. | 7,725,039 |
+| Non-U.S. | 4,000,000 |
+| Total Worldwide | 12,000,000 |
+
+| Region | Approximate Number of Congregations |
+| -- | -- |
+| Worldwide | 34,892 |
 ### Market Size
 Currently, United Methodist membership is steadily falling in the United States, but dramatically rising in certain developing countries. However, the app would be creating a new market. 
+
+
+
 
 ## Competitive Analysis
 
@@ -90,17 +102,6 @@ Building the app is not the only challenge. A network effect also needs to be cr
 
 In the book Zero-to-One, Peter Thiel recommends dominating a small market first, then expanding vertically. 
 
-### Primary Users Segmentation
-
-| Region | Approximate Number of United Methodist Members |
-| -- | -- |
-| U.S. | 7,725,039 |
-| Non-U.S. | 4,000,000 |
-| Total Worldwide | 12,000,000 |
-
-| Region | Approximate Number of Congregations |
-| -- | -- |
-| Worldwide | 34,892 |
 
 ### User Acquisition
 Who to target and how?
