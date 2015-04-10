@@ -16,6 +16,8 @@ See [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_
 | [Non-profit](http://en.wikipedia.org/wiki/Nonprofit_organization) | Traditional charity |
 | [B corporation](http://en.wikipedia.org/wiki/Benefit_corporation) | Special category of for-profit |
 
+Presumably, the project would fall under the United Methodist Church's existing non-profit status. 
+
 ## Likely Funding
 Where will the startup funding come from?
 
@@ -24,7 +26,6 @@ Where will the startup funding come from?
 | Seed money | Donations |
 
 ## Possible Business Models
-How will the organization make money? How will the product/service be priced? Will there be multiple revenue streams?
 
 | Business Model | Notes |
 | -- | -- |
@@ -34,7 +35,10 @@ How will the organization make money? How will the product/service be priced? Wi
 | Paid | Potential users may be excluded due to inability to pay |
 | Price based on OS | Different operating systems generate different amounts of revenue |
 
-The suggested business model would be freemium with support through donations, in-app purchases, and limited ads/partnerships.
+The suggested business model would be freemium with funds raised through donations, in-app purchases, and limited ads/partnerships.
+
+Product Tier Selection
+![](pitch/marketing-strategy-product-tier.png)
 
 ## Cost Structure
 
@@ -48,7 +52,7 @@ Potentially, the most costly aspect of producing the app would be technical tale
 | Volunteers | Free |
 | Contest/hackathon entries | Prizes |
 
-Accepting entries from a contest or hackathon might not meet the quality standard required, but could be a lesser known way to generate creative ideas. 
+Entries received from a contest or hackathon might not meet the quality standard required, but a contest or hackathon could be a lesser known way to generate creative ideas. 
 
 ### Cost to Reach New Users
 Time/resources
