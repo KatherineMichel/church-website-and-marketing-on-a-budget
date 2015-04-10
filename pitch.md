@@ -38,13 +38,12 @@ The suggested business model would be freemium with support through donations, i
 
 ## Cost Structure
 
+### Cost to Produce/Deliver
 
-* How much will it cost to produce/deliver product/service?
-* How much does it cost (time/resources) to reach new users?
-* How much will customer support cost?
+### Cost to Reach New Users
+Time/resources
 
-Revenue Streams
-More than one cash flow source?
+### Customer Support Costs
 
 ## Key Partners
 
