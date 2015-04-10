@@ -67,6 +67,9 @@ Time/resources
 
 
 
+## Information Capture
+Global database
+
 [Economics are the Future of Charity](https://chartio.com/blog/2015/03/saas-economics-are-the-future-of-charity)
 
 ### Market Size
@@ -112,9 +115,6 @@ Who to target and how?
 * Number of people with internet: 
 * Number of people with desktop computers:
 * Number of people with mobile phones:
-
-## Information Capture
-Global database
 
 ### Objectives and key Results (OKRs)
 [OKR Wikipedia](http://en.wikipedia.org/wiki/OKR)
