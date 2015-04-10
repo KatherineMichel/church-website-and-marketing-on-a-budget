@@ -40,10 +40,18 @@ The suggested business model would be freemium with support through donations, i
 
 ### Cost to Produce/Deliver
 
+| Method | Cost |
+| -- | -- |
+| In-house Staff | Regular wages |
+| Volunteers | Free |
+
 ### Cost to Reach New Users
 Time/resources
 
 ### Customer Support Costs
+| Method | Cost |
+| -- | -- |
+| Volunteers | Free |
 
 ## Key Partners
 
