@@ -58,6 +58,10 @@ The Facebook advertisement program defaults to $50 spend for 1 week
 
 ### "Low-Hanging Fruit"
 
+#### Outreach
+
+Individual knowledge was pooled to personally invite inactive church-goers back, and to invite potential newcomers for the first time. 
+
 #### Local Newspaper
 
 The church could submit articles and general information to the local newspaper. Although individual church members were occasionally submitting articles, this was being done ad hoc, without a coordinated strategy.  
