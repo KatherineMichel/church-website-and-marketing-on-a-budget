@@ -58,6 +58,10 @@ The Facebook advertisement program defaults to $50 spend for 1 week
 
 ### "Low-Hanging Fruit"
 
+#### Outreach
+
+Individual knowledge was pooled to personally invite inactive church-goers back, and to invite potential newcomers for the first time. 
+
 #### Local Newspaper
 
 The church could submit articles and general information to the local newspaper. Although individual church members were occasionally submitting articles, this was being done ad hoc, without a coordinated strategy.  
@@ -83,7 +87,11 @@ After the revitalization effort began, an opportunity became available to partne
 
 Banners and signs would be placed in front of the church to raise awareness about special events (special services, medical clinic, ect.)
 
+Mobile healthcare clinic banner
 ![](new-marketing-strategy/advanced-mobile-healthcare-sign.jpg)
+
+Easter banner
+![](new-marketing-strategy/easter-banner-photo-shopped.jpg)
 
 Fliers would be placed in high traffic locations
 
@@ -115,7 +123,6 @@ Facebook advertisement preview
 ![](new-marketing-strategy/facebook-page-advertisement-preview.jpg)
 
 Suggested target audience ranging from a radius of 50 km around Pretty Prairie... 
-
 ![](new-marketing-strategy/facebook-page-advertisement-reach-50km.jpg)
 
 Down to 3 km or 1km (shown here)... 

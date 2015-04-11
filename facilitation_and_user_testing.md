@@ -83,6 +83,12 @@ Homework/Marketing Plan Deliverables
 * Goals
 * Resources
 
+S.W.O.T. Analysis (Strategy)
+* Strengths
+* Weaknesses
+* Opportunities
+* Threats
+
 Marketing Worksheet Target Audience Deliverable
 ![](facilitation-and-user-testing/demographics-sheet.jpg)
 

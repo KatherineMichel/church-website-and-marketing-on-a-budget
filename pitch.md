@@ -11,66 +11,87 @@ See [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_
 ## Deal Structure
 
 ### Corporate Structure Options
-* Non-profit
-* B Corporation
+| Corporate Entity | Description |
+| -- | -- |
+| [Non-profit](http://en.wikipedia.org/wiki/Nonprofit_organization) | Traditional charity |
+| [B corporation](http://en.wikipedia.org/wiki/Benefit_corporation) | Special category of for-profit |
 
-According to this [2013 Business Insider article](http://www.businessinsider.com/youversion-bible-app-has-100-million-downloads-2013-7), The Bible App...
+Presumably, the project would fall under the United Methodist Church's existing non-profit status. 
 
-## Funding Required and Capital Sources
-* Seed money
-* Donated resources
+## Likely Funding
+Where will the startup funding come from?
 
-## Business Model
-* Key partners
-* Key suppliers
-* Key resources 
-* Key activities
+| Funding Option | Source |
+| -- | -- |
+| Seed money | Donations |
 
-* How will the organization make money?
-* How will the product/service be priced?
-* How much will it cost to produce/deliver product/service?
-* How much does it cost (time/resources) to reach new users?
-* How much will customer support cost?
-
-Cost Structure/Revenue Streams
-More than one cash flow source?
-
-[Economics are the Future of Charity](https://chartio.com/blog/2015/03/saas-economics-are-the-future-of-charity)
-
-### Example Business Model
+## Possible Business Models
 
 | Business Model | Notes |
 | -- | -- |
 | Donations | Is this self-sustaining? |
 | Freemium | Supported through in-app purchases, ads, ect. |
 | Limited Freemium | Free for a year then $ .99 |
-| Paid | Potential users may be excluded |
+| Paid | Potential users may be excluded due to inability to pay |
 | Price based on OS | Different operating systems generate different amounts of revenue |
 
-The suggested business model would be freemium with support through donations, in-app purchases, and limited ads/partnerships.
+The suggested business model would be freemium with funds raised through donations, in-app purchases, and limited ads/partnerships.
 
-http://www.lifechurch.tv/giving
+Product Tier Selection Chart
+![](pitch/marketing-strategy-product-tier.png)
 
-http://www.lifechurch.tv/digital-missions
+### Product/Service Bundle by User Segment
+
+## Cost Structure
+
+### Cost to Produce/Deliver
+Potentially, the most costly aspect of producing the app would be technical talent. The app would need to be built (across platforms) by people of the right skill level. They could be recruited from:
+
+| Method | Cost |
+| -- | -- |
+| In-house staff | Regular wages |
+| Third-party business | Contract pay |
+| Volunteers | Free |
+| Contest/hackathon entries | Prizes |
+
+Entries received from a contest or "Christian hackathon" might not meet the quality standard required, but a contest or "Christian hackathon" could be a fun and less obvious way to generate creative ideas, while providing a challenge for developers. 
+
+### Cost to Reach New Users
+* In-church campaign
+* Public campaign
+
+Time/resources
+
+A new approach to ministry offers new publicity. Press releases and articles can be provided to news outlets about relevant and unique angles. 
+
+### Customer Support Costs
+| Method | Cost |
+| -- | -- |
+| Volunteers | Free |
+
+## Market
 
 ### Market Size
-Currently, United Methodist membership is steadily falling in the United States, but dramatically rising in certain developing countries. However, the app would be creating a new market. 
+Currently, United Methodist membership is steadily falling in the United States, but dramatically rising in certain developing countries. However, the app would be creating a new market.
 
-## Competitive Analysis
-
-According to Pew Research, churches are a highly competitive marketplace. 
-
-### Idea Maze
-Who are competitors? 
-* Other traditional Mainline churches
-* Contemporary churches such as LifeChurch
+In the book Zero-to-One, Peter Thiel recommends dominating a small market first, then expanding vertically. This could mean initially publicizing the app within United Methodist congregations, then expanding to publicizing to the public. This could also mean publicizing the app by country.  
 
 ### Network Effect
-Building the app is not the only challenge. A network effect also needs to be created. This is where a missed opportunity exists. The United Methodist Church would not be starting from scratch to build up a user base. A potential user base of 12 million United Methodist members already exists, not to mention casual church-goers, newcomers, and those unaffilitated with the United Methodist Church. The United Methodist Church could start by promoting the app to its own member base. 
+The two most difficult aspects of getting such an app off the ground would most likely be: 
+* Building the app
+* Creating a network effect
 
-In the book Zero-to-One, Peter Thiel recommends dominating a small market first, then expanding vertically. 
+This is where a missed opportunitiees exists to use the United Methodist Church's existing user base to achieve a permanent network effect that reaches the public. Unlike many other new ventures, the United Methodist Church would not be starting from scratch to build a user base. A potential user base of 12 million United Methodist members already exists, not to mention casual church-goers, newcomers, and those unaffilitated with the United Methodist Church. The United Methodist Church could start by heavily promoting the app to its own member base. 
 
 ### Primary Users Segmentation
+
+Number of United Methodist congregations
+
+| Region | Approximate Number of Congregations |
+| -- | -- |
+| Worldwide | 34,892 |
+
+Number of United Methodist Church members
 
 | Region | Approximate Number of United Methodist Members |
 | -- | -- |
@@ -78,11 +99,16 @@ In the book Zero-to-One, Peter Thiel recommends dominating a small market first,
 | Non-U.S. | 4,000,000 |
 | Total Worldwide | 12,000,000 |
 
-| Region | Approximate Number of Congregations |
-| -- | -- |
-| Worldwide | 34,892 |
+Of these members and constituents:
+* Who are the mobile users?
+* Who would become a mobile user/use app?
 
-### User Acquisition
+From my own experience, there are members, typically of an older generation, who do not use mobile, and are not receptive to adopting it.  
+
+#### Information Capture
+The United Methodist Church could leverage data by creating a global database of church members/regular church-goers, and app-users. 
+
+### Vertical Integration/User Acquisition
 Who to target and how?
 
 * World population: ~7 billion
@@ -93,17 +119,37 @@ Who to target and how?
 * Number of people with internet: 
 * Number of people with desktop computers:
 * Number of people with mobile phones:
+ 
+## Competitive Analysis
 
-## Information Capture
-Global database
+According to [Pew Research Religious Landscape Survey](http://religions.pewforum.org/reports), churches are a highly competitive marketplace. 
 
-## Talent
-The app would need to be built by people of the right skill level. They could be recruited from:
+### Idea Maze
+Placeholder
+![](pitch/idea-maze.jpg)
 
-* Staff
-* Third party business
-* Volunteers
-* Contest entries
+Who are competitors? 
+* Other traditional mainline churches
+* Contemporary churches such as LifeChurch
+* Non-church competition
+
+Competitors
+* How does their product compare?
+* What behavior/expectations by uses might be transferable? 
+
+
+
+## Key Partners
+
+## Key Suppliers
+
+## Key Resources
+
+## Key Activities
+
+
+
+[Economics are the Future of Charity](https://chartio.com/blog/2015/03/saas-economics-are-the-future-of-charity)
 
 ### Objectives and key Results (OKRs)
 [OKR Wikipedia](http://en.wikipedia.org/wiki/OKR)

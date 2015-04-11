@@ -67,5 +67,11 @@ The Kid's Bible App is Google Play Store top search result for "Bible app for ki
 
 ![](lifechurch-bible-app/google-play-search-bible-app-for-kids.jpg)
 
+According to this [2013 Business Insider article](http://www.businessinsider.com/youversion-bible-app-has-100-million-downloads-2013-7), The Bible App...
+
+http://www.lifechurch.tv/giving
+
+http://www.lifechurch.tv/digital-missions
+
 
 
