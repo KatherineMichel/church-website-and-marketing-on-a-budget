@@ -1,10 +1,7 @@
 # Research Sprint
 
-## The National United Methodist Church Case Study
-
-What's the matter with the [United Methodist Church](http://www.umc.org)? Looking at the steady decline of interest in the United Methodist Church and how it can be fixed.
-
 ## Reverse Engineering for Success
+The questions I would seek to answer in my research sprint:
 * What does a successful national United Methodist Church look like?
 * Whom should the church reach?
 * How should the church reach them?
@@ -28,7 +25,7 @@ Google Trends graph for the phrases ["United Methodist" "Catholic" "Presbyterian
 ![](google-maps-and-trends/google-trends-united-methodist-catholic-presbyterian-baptist.jpg)
 
 ## Google Trends Graph for Phrases "church" "Bible" and "Jesus"  
-Google Trends graph for the phrases ["church" "Bible" and "Jesus" (region: worldwide)](http://www.google.com/trends/explore#q=church%2C%20Bible%2C%20Jesus&cmpt=q&tz=), from around 2004 to 2015. Wavering, but not exactly down and to the right. This graph does not reflect increasing world population/increasing access to search tools. 
+Google Trends graph for the phrases ["church" "Bible" and "Jesus" (region: worldwide)](http://www.google.com/trends/explore#q=church%2C%20Bible%2C%20Jesus&cmpt=q&tz=), from around 2004 to 2015. Wavering, but not exactly down and to the right. 
 ![](google-maps-and-trends/google-trends-church-bible-jesus.jpg)
 
 ## Increasing United Methodist Membership in Developing Countries
@@ -95,6 +92,10 @@ Jesus grew a social network that consisted of family, friends, and followers, wh
 [John Wesley](http://en.wikipedia.org/wiki/John_Wesley) spread the Methodist religion across the United States by creating a social network of followers who were organized into "Class Meetings" across geographic territories and ministered to by "Circuit Riders." 
 
 "I look upon all the world as my parish" -John Wesley, founder of Methodism
+
+What's the matter with the [United Methodist Church](http://www.umc.org)? Looking at the steady decline of interest in the United Methodist Church and how it can be fixed.
+
+
 
 
 
