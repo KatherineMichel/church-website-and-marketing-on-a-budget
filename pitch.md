@@ -40,6 +40,8 @@ The suggested business model would be freemium with funds raised through donatio
 Product Tier Selection Chart
 ![](pitch/marketing-strategy-product-tier.png)
 
+### Product/Service Bundle by User Segment
+
 ## Cost Structure
 
 ### Cost to Produce/Deliver
