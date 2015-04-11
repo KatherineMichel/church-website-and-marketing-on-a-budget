@@ -87,7 +87,11 @@ After the revitalization effort began, an opportunity became available to partne
 
 Banners and signs would be placed in front of the church to raise awareness about special events (special services, medical clinic, ect.)
 
+Mobile healthcare clinic banner
 ![](new-marketing-strategy/advanced-mobile-healthcare-sign.jpg)
+
+Easter banner
+![](new-marketing-strategy/easter-banner-photo-shopped.jpg)
 
 Fliers would be placed in high traffic locations
 
@@ -119,7 +123,6 @@ Facebook advertisement preview
 ![](new-marketing-strategy/facebook-page-advertisement-preview.jpg)
 
 Suggested target audience ranging from a radius of 50 km around Pretty Prairie... 
-
 ![](new-marketing-strategy/facebook-page-advertisement-reach-50km.jpg)
 
 Down to 3 km or 1km (shown here)... 
