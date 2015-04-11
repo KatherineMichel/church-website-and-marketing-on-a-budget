@@ -8,9 +8,18 @@ The questions I would seek to answer in my research sprint:
 
 ## Declining United Methodist Membership in the U.S.
 
+According to the [2012 United Methodist State of the Church Report](http://s3.amazonaws.com/Website_Properties/state-of-the-church/documents/2012-state-of-the-church-report.PDF) (the latest report of its kind), between 2000 and 2010, United Methodist membership in the United States declined by 7.8%. <br>
+
+![](national-united-methodist-church/2012-state-of-the-church-report-professing-membership.jpg)
+
+
 Google Trends graph for the phrase ["United Methodist Church" (region: worldwide)](http://www.google.com/trends/explore#q=United%20Methodist%20Church), from around 2004 to 2015. 
 
 ![](google-maps-and-trends/google-trends-united-methodist-church-worldwide.jpg)
+
+This declining search interest comes almost 100% from the United States.   
+
+However, the United Methodist Church reported 
 
 Professing membership
 
@@ -27,8 +36,7 @@ Professing membership
 
 Membership in the United Methodist Church is on the decline in the United States. 
 
-According to the [2012 United Methodist State of the Church Report](http://s3.amazonaws.com/Website_Properties/state-of-the-church/documents/2012-state-of-the-church-report.PDF) (the latest report of its kind), between 2000 and 2010, professed membership in the United Methodist Church declined by 7.8% in the U.S. <br>
-![](national-united-methodist-church/2012-state-of-the-church-report-professing-membership.jpg)
+
 
 ## Declining Interest in Mainline Churches
 
