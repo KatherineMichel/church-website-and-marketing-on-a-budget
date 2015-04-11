@@ -60,6 +60,8 @@ Entries received from a contest or "Christian hackathon" might not meet the qual
 
 Time/resources
 
+A new approach to ministry offers new publicity. Press releases and articles can be provided to news outlets about relevant and unique angles. 
+
 ### Customer Support Costs
 | Method | Cost |
 | -- | -- |
@@ -96,7 +98,7 @@ Number of United Methodist Church members
 | Total Worldwide | 12,000,000 |
 
 Of these members and constituents:
-* Who are the mobile users
+* Who are the mobile users?
 * Who would become a mobile user/use app?
 
 From my own experience, there are members, typically of an older generation, who do not use mobile, and are not receptive to adopting it.  
