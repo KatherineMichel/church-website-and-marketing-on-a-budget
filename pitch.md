@@ -73,7 +73,11 @@ Currently, United Methodist membership is steadily falling in the United States,
 In the book Zero-to-One, Peter Thiel recommends dominating a small market first, then expanding vertically. This could mean initially publicizing the app within United Methodist congregations, then expanding to publicizing to the public. This could also mean publicizing the app by country.  
 
 ### Network Effect
-Building the app is not the only challenge. A network effect also needs to be created. This is where a missed opportunity exists. The United Methodist Church would not be starting from scratch to build up a user base. A potential user base of 12 million United Methodist members already exists, not to mention casual church-goers, newcomers, and those unaffilitated with the United Methodist Church. The United Methodist Church could start by promoting the app to its own member base. 
+The two most difficult aspects of getting such an app off the ground would most likely be: 
+* Building the app
+* Creating a network effect
+
+This is where a missed opportunitiees exists to use the United Methodist Church's existing user base to achieve a permanent network effect that reaches the public. Unlike many other new ventures, the United Methodist Church would not be starting from scratch to build a user base. A potential user base of 12 million United Methodist members already exists, not to mention casual church-goers, newcomers, and those unaffilitated with the United Methodist Church. The United Methodist Church could start by heavily promoting the app to its own member base. 
 
 ### Primary Users Segmentation
 
