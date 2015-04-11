@@ -133,7 +133,9 @@ Who are competitors?
 * Contemporary churches such as LifeChurch
 * Non-church competition
 
-
+Competitors
+* How does their product compare?
+* What behavior/expectations by uses might be transferable? 
 
 
 
