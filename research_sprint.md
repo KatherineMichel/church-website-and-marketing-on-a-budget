@@ -100,8 +100,9 @@ United Methodist membership is skyrocketing in developing countries where the pe
 
 ![](research-sprint/mobile-phones-subscriptions-world-bank.png)
 
-It should be noted that even though smartphones are becoming popular worldwide, different phones are popular among different different demographics and regions. For example, iPhones tend to be more expensive and their owners tend to spend more money. Companies that intend to be popular in developing countries may need to develop for a variety of inexpensive platforms in order to offer products the people there can afford. As an example, the messaging company WhatsApp developing for a variety of inexpensive platforms and went on to be very successful.
+It should be noted that even though smartphones are becoming popular worldwide, different phones are popular among different demographics and regions. For example, iPhones tend to be more expensive and their owners tend to spend more money. Companies that intend to be popular in developing countries may need to develop for a variety of inexpensive platforms in order to offer products the people there can afford. As an example, the messaging company WhatsApp developing for a variety of inexpensive platforms and went on to be very successful.
 
+# What Does a Successful National United Methodist Church Digital Presence Look Like?
 
 ## To What Extend Can a Different Tech Approach Help?
 Is this decline in global United Methodist membership a result of changes in lifestyle, or apathy toward the religion itself? To what extent can a drastic change in technology approach turn the situation around? In the case of apathy, presumably a change in technology will approach will do little to help, because technology is not at the root of the problem. 
