@@ -134,6 +134,8 @@ According to [this excerpt from The Book of Discipline (2012)](http://www.umc.or
 
 This decline membership in the United States and Europe was not due to a change in population, since the populations of these regions have greatly increased since then. Also,
 
+The Internet, 1969 ![](research-sprint/internet-1969.jpg)
+
 Tim Berners Lee's proposal for the World Wide Web, 1998 ![](research-sprint/tim-berners-lee-www-proposal-1998.jpg)
 
 This seems to point to apathy for the religion as a primary reason for the decline, at least up until the internet and other technology became widely available to the masses and diverted attention to the cloud.
