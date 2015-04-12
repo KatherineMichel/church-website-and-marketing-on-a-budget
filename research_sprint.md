@@ -67,6 +67,8 @@ At this rate, Africa will have more than doubled the U.S. in United Methodist me
 
 # How should the church reach them?
 
+
+
 ## Software is Eating the World
 [Marc Andreessen](https://twitter.com/pmarca) famously explained his theory of [Why Software Is Eating The World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html) in the Wall Street Journal in 2011. 
 
@@ -78,11 +80,12 @@ The "Software is Eating the World" theory was revisted in 2014 by [Marc Andreess
 
 Marc Andreessen: "Starting in 2007, with the iPhone, the smartphone comes out. The smartphone finally packages computers in a form where everybody on the planet can have one... I think everybody on the planet by the end of the decade is going to have a smartphone. Effectively everybody. Almost everybody. Including in places where it’s still hard to get electricity or water, people are going to have smartphones... So, I think we’re going to live in a world by the end of the decade in which there’s five, six, seven billion smartphones in people’s hands, which means five, six, seven billion people in the world connected to the Internet with what we would consider modern tools and technologies and access... I think the next five years is basically prime time to think about every business, every industry, every field and say, “Well, how can we reinvent it now knowing that software can basically play such an important role in everything.”
 
-### Mobile Takes Off with iPhone Launch
+### iPhone Launches and Mobile Takes Off
 
-Google Trends graph for phrases ["iPhone" "app" "Android" "desktop" "website" (region: worldwide)](http://www.google.com/trends/explore#q=iPhone%2C%20app%2C%20Android%2C%20desktop%2C%20website&cmpt=q&tz=), from 2004 to 2015. Words associated with mobile ("iPhone" "app" "Android") are up and to the right. Non-mobile words ("desktop" "website") are on the decline.
-
+Google Trends graph for phrases ["iPhone" "app" "Android" "desktop" "website" (region: worldwide)](http://www.google.com/trends/explore#q=iPhone%2C%20app%2C%20Android%2C%20desktop%2C%20website&cmpt=q&tz=), from 2004 to 2015. 
 ![](google-maps-and-trends/google-trends-iphone-app-android-desktop-website.jpg)
+
+Words associated with mobile ("iPhone" "app" "Android") are up and to the right. Non-mobile words ("desktop" "website") are on the decline.
 
 Google Trends graph for phrases ["church iPhone" "church app" "church Android" "church desktop" "church website" (region: worldwide)](http://www.google.com/trends/explore#q=church%20iPhone%2C%20church%20app%2C%20church%20Android%2C%20church%20livestream&cmpt=q&tz=), from 2004 to 2015.
 ![](google-maps-and-trends/google-trends-church-iphone-church-app-church-android-church-livestream.jpg)
@@ -91,8 +94,6 @@ Google Trends graph for phrases ["church iPhone" "church app" "church Android" "
 
 Different platforms
 ![](research-sprint/mobile-phones-subscriptions-world-bank.png)
-
-http://en.wikipedia.org/wiki/List_of_countries_by_number_of_mobile_phones_in_use
 
 ## To What Extend Can a Different Tech Approach Help?
 Is this decline in global United Methodist membership inevitable, or can the situation be turned around, for instance, through a different technology approach? The answer might be found by taking a look at the success of LifeChurch. LifeChurch's Google Trends Graph results are up and to the right.
