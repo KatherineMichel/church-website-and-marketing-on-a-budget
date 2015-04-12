@@ -98,10 +98,8 @@ Google Trends graph for phrases ["church iPhone" "church app" "church Android" "
 
 United Methodist membership is skyrocketing in developing countries where the people may not be able to afford a laptop, but perhaps can afford a smartphone as the price falls. Such a phone will be used for education, banking, to own a small business, to connect with other people from around the world, and perhaps to read the Bible. The phone may be the first and only computer that the person has ever owned.  
 
-It should be noted that even though smartphones are becoming popular worldwide, different phones are popular among different different demographics and regions. For example, iPhones tend to be more expensive and their owners tend to spend more money. Companies that intend to be popular in developing countries may need to develop for 
+It should be noted that even though smartphones are becoming popular worldwide, different phones are popular among different different demographics and regions. For example, iPhones tend to be more expensive and their owners tend to spend more money. Companies that intend to be popular in developing countries may need to develop for a variety of inexpensive platforms in order to offer products the people there can afford. As an example, the messaging company WhatsApp developing for a variety of inexpensive platforms and went on to be very successful.
 
-Notably, the devices that are popular in one country may not be popular in another. 
-Different platforms
 ![](research-sprint/mobile-phones-subscriptions-world-bank.png)
 
 ## To What Extend Can a Different Tech Approach Help?
