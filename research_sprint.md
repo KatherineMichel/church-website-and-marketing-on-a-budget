@@ -30,6 +30,7 @@ Note, this chart has a couple of discrepancies; It appear that Change in Members
 http://www.umc.org/gcfa/data-services
 http://www.umc.org/gcfa/data-services-statistics
 http://www.umc.org/gcfa/data-services-statistics
+http://www.umc.org/news-and-media/mixed-blessings-in-new-us-church-numbers
 
 ## Declining Interest in Mainline Churches
 
@@ -130,7 +131,11 @@ Using the theories of Software is Eating the World, Mobile is Eating the World, 
 Going into the future, many of the most successful organizations will be those that leverage the power of mobile to create a network effect. 
 
 ## To What Extend Can a Different Tech Approach Help?
-Is this decline in global United Methodist membership a result of changes in lifestyle, or apathy toward the religion itself? To what extent can a drastic change in technology approach turn the situation around? In the case of apathy, presumably a change in technology will approach will do little to help, because technology is not at the root of the problem. 
+Is this decline in global United Methodist membership a result of changes in lifestyle, or apathy toward the religion itself? To what extent can a drastic change in technology approach turn the situation around? In the case of apathy, presumably a change in technology will approach will do little to help, because technology is not at the root of the problem.
+
+According to this excerpt from The Book of Discipline (2012) published by the United Methodist Church , United Methodist membership in 
+
+http://www.umc.org/who-we-are/developments-and-changes-since-1968
 
 ## LifeChurch
 
