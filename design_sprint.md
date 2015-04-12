@@ -25,7 +25,7 @@ I would do most of the design work alone, and facilitate select problem solving 
 
 ### Research Sprint and Lightning Demo
 
-See [Research Sprint](research_sprint.md) for research info and a lightning demo regarding the national United Methodist Church. See [LifeChurch and The Bible App](lifechurch_and_the_bible_app_case_study.md) for a related case study. 
+See [Research Sprint](research_sprint.md) for research info and a lightning demo regarding the global United Methodist Church. See [LifeChurch and The Bible App](lifechurch_and_the_bible_app_case_study.md) for a related case study. 
 
 ### User Story
 
