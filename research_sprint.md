@@ -117,7 +117,9 @@ Perhaps the single most important feature of these states of mind is the increas
 
 # What Does a Successful National United Methodist Church Digital Presence Look Like?
 
-Using the theories of Software is Eating the World, Mobile is Eating the World, and Software is Re-Organizing the world, we can surmise that the future will be a place where people the world over will use smartphones as portals into online resources that will simultaneously support their physical survival.  
+Using the theories of Software is Eating the World, Mobile is Eating the World, and Software is Re-Organizing the world, we can surmise that going into the fuutre, the world will be a place largely automated by software. Though desktop computers will not go away, people the world over will own smartphones.  
+
+the future will be a place where people the world over will use smartphones as portals into online resources that will simultaneously support their physical survival.  
 
 Going into the future, mostly likely, successful organizations will be those that leverage the power of mobile to create a network effect. 
 
