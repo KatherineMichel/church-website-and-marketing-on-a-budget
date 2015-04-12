@@ -2,11 +2,11 @@
 
 ## Reverse Engineering for Success
 The questions I would seek to answer in my research sprint:
+* Whom should the church reach?
+* How should the church reach them?
 * What does a successful national United Methodist Church digital presence look like?
-* Whom should the church reach digitally?
-* How should the church reach them digitally?
 
-# Whom Should the Church Reach Digitally?
+# Whom Should the Church Reach?
 
 ## Google Trends Graph for "United Methodist Church"
 
@@ -53,7 +53,7 @@ According to the [2012 United Methodist State of the Church Report](http://s3.am
 | African regions | 4,191,108 (up by 3,014,552) |
 | Philippines | 145,642 (up by 88,862) |
 | Europe and Eurasia | 63,760 (down by 15,611) 
-So, even though the U.S. has the largest percentage of United Methodist members, this number is steadily stagnating. Meanwhile, membership in Africa threatens to overtake that of the United States. Philippines growth is big though considerably smaller than that of Africa. Membership in Europe and Euroasia is declining, but already small. 
+So, even though the U.S. has the largest percentage of United Methodist members, this number is steadily stagnating. Meanwhile, membership in Africa threatens to overtake that of the United States. Philippines growth is big percentage-wise though considerably smaller than that of Africa in comparison. Membership in Europe and Euroasia is declining, but already small. 
 
 Projected membership by 2020, using same percentage change as 2000 to 2010
 
@@ -63,9 +63,9 @@ Projected membership by 2020, using same percentage change as 2000 to 2010
 | Africa | 14,920,344 | 
 | Philippines | 227,929 |
 
-At this rate, Africa will have more than doubled the U.S. in United Methodist membership by 2020. 
+At this rate, Africa will have more than doubled the U.S. in United Methodist membership by 2020. And there is room for much more growth since Africa has a population of 1+ billion. 
 
-
+# How should the church reach them?
 
 
 
