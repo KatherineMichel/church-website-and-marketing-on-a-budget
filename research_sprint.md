@@ -69,9 +69,7 @@ At this rate, Africa will have more than doubled the U.S. in United Methodist me
 
 ## Software is Eating the World
 
-
-
-## The Rise of Mobile Phone Ownership
+## Mobile is Eating the World
 
 ### Google Trends Graph for Phrases "iPhone" "app" "Android" "desktop" "website"
 
@@ -83,6 +81,8 @@ Google Trends graph for phrases ["church iPhone" "church app" "church Android" "
 ![](google-maps-and-trends/google-trends-church-iphone-church-app-church-android-church-livestream.jpg)
 
 ## Increasing Mobile Phone Ownership in Developing Countries
+
+Different platforms
 ![](research-sprint/mobile-phones-subscriptions-world-bank.png)
 
 http://en.wikipedia.org/wiki/List_of_countries_by_number_of_mobile_phones_in_use
