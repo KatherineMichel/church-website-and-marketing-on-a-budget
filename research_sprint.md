@@ -135,7 +135,7 @@ Is this decline in global United Methodist membership a result of changes in lif
 
 According to [this excerpt from The Book of Discipline (2012)](http://www.umc.org/who-we-are/developments-and-changes-since-1968) published by the United Methodist Church , United Methodist membership in the United States and Europe has declined since 1968. During that same time, membership in Africa and Asia grew significantly. 
 
-
+This decline membership in the United States and Europe was not due to a change in population, since the populations of these regions have greatly increased since then. Also,
 
 ## LifeChurch
 
