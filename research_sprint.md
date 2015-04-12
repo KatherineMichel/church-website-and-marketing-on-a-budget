@@ -96,9 +96,9 @@ Google Trends graph for phrases ["church iPhone" "church app" "church Android" "
 ## Increasing Mobile Phone Ownership in Developing Countries
 "In the next 10 years, I expect at least five billion people worldwide to own smartphones, giving every individual with such a phone instant access to the full power of the Internet, every moment of every day." -Marc Andreessen
 
-United Methodist membership is skyrocketing in developing countries where the people may not be able to afford a laptop, but perhaps can afford a smartphone as the price falls. Such a phone will be used for education, banking, to own a small business, to connect with other people from around the world, and perhaps to read the Bible. The phone may be the firt and only computer that the person has ever owned.  
+United Methodist membership is skyrocketing in developing countries where the people may not be able to afford a laptop, but perhaps can afford a smartphone as the price falls. Such a phone will be used for education, banking, to own a small business, to connect with other people from around the world, and perhaps to read the Bible. The phone may be the first and only computer that the person has ever owned.  
 
-Notably, the devices that are popular in one country may not be 
+Notably, the devices that are popular in one country may not be popular in another. 
 Different platforms
 ![](research-sprint/mobile-phones-subscriptions-world-bank.png)
 
