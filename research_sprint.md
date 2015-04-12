@@ -136,7 +136,7 @@ This decline membership in the United States and Europe was not due to a change 
 
 The Internet, 1969 ![](research-sprint/internet-1969.jpg)
 
-Tim Berners Lee's proposal for the World Wide Web, 1998 ![](research-sprint/tim-berners-lee-www-proposal-1998.jpg)
+The Internet, 1993 ![](research-sprint/internet-1993.png)
 
 This seems to point to apathy for the religion as a primary reason for the decline, at least up until the internet and other technology became widely available to the masses and diverted attention to the cloud.
 
