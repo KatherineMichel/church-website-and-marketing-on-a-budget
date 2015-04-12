@@ -140,7 +140,11 @@ The Internet, 1993 ![](research-sprint/internet-1993.png)
 
 The United Methodist church can work to maintain current membership levels in regions where membership is declining, and minister in the most useful way to those in regions where membership is growing. 
 
-Notably, even as membership declined in the U.S., giving increased. 
+Also, 
+
+Notably, even as U.S. membership, giving increased. 
+
+http://www.umc.org/news-and-media/mixed-blessings-in-new-us-church-numbers
 
 Positive, also due to fundraising
 
