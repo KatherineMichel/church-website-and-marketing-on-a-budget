@@ -27,10 +27,6 @@ Note, this chart has a couple of discrepancies; It appear that "Change in Member
 * Philippines: 88,872
 * U.S.: -721,990
 
-http://www.umc.org/gcfa/data-services
-http://www.umc.org/gcfa/data-services-statistics
-http://www.umc.org/gcfa/data-services-statistics
-http://www.umc.org/news-and-media/mixed-blessings-in-new-us-church-numbers
 
 ## Declining Interest in Mainline Churches
 
