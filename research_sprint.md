@@ -35,7 +35,7 @@ According to the [2012 United Methodist State of the Church Report](http://s3.am
 
 ![](national-united-methodist-church/2012-state-of-the-church-report-professing-membership.jpg)
 
-| Region | % Change in Membership, Highest to Lowest |
+| Region | % Change in Membership, Highest to Lowest, 2000-2010 |
 | -- | -- |
 | West Africa | 297.6% |
 | Congo | 253.9% |
