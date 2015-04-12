@@ -27,7 +27,7 @@ Note, this chart has a couple of discrepancies; It appear that "Change in Member
 * Philippines: 88,872
 * U.S.: -721,990
 
-According to my math, with "Change in Membership" for U.S. as -721,990, "% Change in Membership" would be ~9%. 
+According to my math, with "Change in Membership" for U.S. as -721,990, "% Change in Membership" would be approximately -9%. 
 
 ## Declining Interest in Mainline Churches
 
@@ -48,7 +48,7 @@ According to the [2012 United Methodist State of the Church Report](http://s3.am
 | Congo | 253.9% |
 | Africa Central | 170.8% |
 | Philippines | 156.5% |
-| United States | -7.8% |
+| United States | Approximately -9% (*discrepancy*) |
 | Germany | -16.2% |
 | Northern Europe and Eurasia | -20% |
 | Central and Southern Europe | -25.6% |
@@ -56,9 +56,9 @@ According to the [2012 United Methodist State of the Church Report](http://s3.am
 
 | Region | Total Membership in 2010 |
 | -- | -- |
-| U.S. | 7,570,541 (down by -649,893) |
+| U.S. | 7,570,541 (down by -721,990 (*discrepancy*)) |
 | African regions | 4,191,108 (up by 3,014,552) |
-| Philippines | 145,642 (up by 88,862) |
+| Philippines | 145,642 (up by 88,872 (*discrepancy*)) |
 | Europe and Eurasia | 63,760 (down by 15,611) 
 So, even though the U.S. has the largest percentage of United Methodist members, this number is steadily stagnating. Meanwhile, membership in Africa threatens to overtake that of the United States. Philippines growth is big percentage-wise though considerably smaller than that of Africa in comparison. Membership in Europe and Euroasia is declining, but already small. 
 
