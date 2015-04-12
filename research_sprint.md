@@ -17,7 +17,15 @@ Google Trends graph for the phrase ["United Methodist Church" (region: worldwide
 
 ![](google-maps-and-trends/google-trends-united-methodist-church-worldwide.jpg)
 
-This declining search interest comes almost 100% from the United States.   
+This declining search interest traffic was almost 100% from the United States. Unfortunately, these search interest results do not give a breakdown of the % of traffic that comes from desktop or mobile.
+
+## Declining Interest in Mainline Churches
+
+This problem of declining interest is not exclusive to the United Methodist Church. Mainline churches in general are struggling to stay relevant in the United States. 
+
+Google Trends graph for the phrases ["United Methodist" "Catholic" "Presbyterian" "Baptist" (region: worldwide)](http://www.google.com/trends/explore#q=United%20Methodist%2C%20Catholic%2C%20Presbyterian%2C%20Baptist&cmpt=q&tz=), from around 2004 to 2015:
+![](google-maps-and-trends/google-trends-united-methodist-catholic-presbyterian-baptist.jpg)
+
 
 However, the United Methodist Church reported 
 
@@ -38,12 +46,7 @@ Membership in the United Methodist Church is on the decline in the United States
 
 
 
-## Declining Interest in Mainline Churches
 
-This problem of declining interest is not exclusive to the United Methodist Church. Mainline churches in general are struggling stay relevant. 
-
-Google Trends graph for the phrases ["United Methodist" "Catholic" "Presbyterian" "Baptist" (region: worldwide)](http://www.google.com/trends/explore#q=United%20Methodist%2C%20Catholic%2C%20Presbyterian%2C%20Baptist&cmpt=q&tz=), from around 2004 to 2015:
-![](google-maps-and-trends/google-trends-united-methodist-catholic-presbyterian-baptist.jpg)
 
 ## Increasing United Methodist Membership in Developing Countries
 
