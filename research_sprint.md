@@ -6,32 +6,34 @@ The questions I would seek to answer in my research sprint:
 * Whom should the church reach?
 * How should the church reach them?
 
+## Google Trends Graph for "United Methodist Church"
+
+Google Trends graph for the phrase ["United Methodist Church" (region: worldwide)](http://www.google.com/trends/explore#q=United%20Methodist%20Church), from around 2004 to 2015. 
+
+![](google-maps-and-trends/google-trends-united-methodist-church-worldwide.jpg)
+
+This declining search interest traffic was almost 100% from the United States. 
+
 ## Declining United Methodist Membership in the U.S.
 
 According to the [2012 United Methodist State of the Church Report](http://s3.amazonaws.com/Website_Properties/state-of-the-church/documents/2012-state-of-the-church-report.PDF) (the latest report of its kind), between 2000 and 2010, United Methodist membership in the United States declined by 7.8%. <br>
 
 ![](national-united-methodist-church/2012-state-of-the-church-report-professing-membership.jpg)
 
-
-Google Trends graph for the phrase ["United Methodist Church" (region: worldwide)](http://www.google.com/trends/explore#q=United%20Methodist%20Church), from around 2004 to 2015. 
-
-![](google-maps-and-trends/google-trends-united-methodist-church-worldwide.jpg)
-
-This declining search interest traffic was almost 100% from the United States. Unfortunately, these search interest results do not give a breakdown of the % of traffic that comes from desktop or mobile.
-
 ## Declining Interest in Mainline Churches
 
-This problem of declining interest is not exclusive to the United Methodist Church. Mainline churches in general are struggling to stay relevant in the United States. 
+This problem of declining interest is not exclusive to the United Methodist Church. Mainline churches in general are struggling to stay relevant. 
 
 Google Trends graph for the phrases ["United Methodist" "Catholic" "Presbyterian" "Baptist" (region: worldwide)](http://www.google.com/trends/explore#q=United%20Methodist%2C%20Catholic%2C%20Presbyterian%2C%20Baptist&cmpt=q&tz=), from around 2004 to 2015:
 ![](google-maps-and-trends/google-trends-united-methodist-catholic-presbyterian-baptist.jpg)
 
+## Increasing United Methodist Membership in Developing Countries
 
-However, the United Methodist Church reported 
+According to the [2012 United Methodist State of the Church Report](http://s3.amazonaws.com/Website_Properties/state-of-the-church/documents/2012-state-of-the-church-report.PDF), though membership is on the decline in the United States, between 2000 and 2010, membership has gone up 25% worldwide, due to skyrocketing membership in parts of Africa and the Philippines.
 
-Professing membership
+![](national-united-methodist-church/2012-state-of-the-church-report-professing-membership.jpg)
 
-| Region | % Change in Membership |
+| Region | % Change in Membership, Highest to Lowest |
 | -- | -- |
 | West Africa | 297.6% |
 | Congo | 253.9% |
@@ -39,19 +41,26 @@ Professing membership
 | Philippines | 156.5% |
 | United States | -7.8% |
 | Germany | -16.2% |
+| Northern Europe and Eurasia | -20% |
 | Central and Southern Europe | -25.6% |
 | Total Change | +25.6% |
 
-Membership in the United Methodist Church is on the decline in the United States. 
+| Region | Total Membership in 2010 |
+| -- | -- |
+| U.S. | 7,570,541 (down by -649,893) |
+| African regions | 4,191,108 (up by 3,014,552) |
+| Philippines | 145,642 (up by 88,862) |
+| Europe and Eurasia | 63,760 (down by 15,611) |
 
 
 
 
 
-## Increasing United Methodist Membership in Developing Countries
 
-According to the [2012 United Methodist State of the Church Report](http://s3.amazonaws.com/Website_Properties/state-of-the-church/documents/2012-state-of-the-church-report.PDF), between 2000 and 2010, professed membership in the United Methodist Church increased by 170.8% in Africa Central, 253.9% in the Congo, 297.6% in West Africa, and 156.5% in the Philippines.  <br>
-![](national-united-methodist-church/2012-state-of-the-church-report-professing-membership.jpg)
+
+
+
+
 
 ## The Rise of Mobile Phone Ownership
 
