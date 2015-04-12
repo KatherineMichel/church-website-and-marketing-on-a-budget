@@ -33,6 +33,8 @@ According to my math, with "Change in Membership" for U.S. as -721,990, "% Chang
 
 This problem of declining interest is not exclusive to the United Methodist Church. Mainline churches in general are struggling to stay relevant. 
 
+The United Methodist Church [has reported](http://www.umc.org/news-and-media/mixed-blessings-in-new-us-church-numbers), "The United Methodist Church remains the third-largest religious group in the United States, and its membership trends - decreases in the United States and increases in other countries - mirror those of other mainline denominations."
+
 Google Trends graph for the phrases ["United Methodist" "Catholic" "Presbyterian" "Baptist" (region: worldwide)](http://www.google.com/trends/explore#q=United%20Methodist%2C%20Catholic%2C%20Presbyterian%2C%20Baptist&cmpt=q&tz=), from around 2004 to 2015:
 ![](google-maps-and-trends/google-trends-united-methodist-catholic-presbyterian-baptist.jpg)
 
@@ -140,7 +142,7 @@ The Internet, 1993 ![](research-sprint/internet-1993.png)
 
 The United Methodist church can work to maintain current membership levels in regions where membership is declining, and minister in the most useful way to those in regions where membership is growing. 
 
-Also, 
+Also, though in recent years, local church spending has gone down, 
 
 Notably, even as U.S. membership, giving increased. 
 
