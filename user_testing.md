@@ -59,7 +59,7 @@ See [Prototype](prototype.md)
 
 #### Local Communication Audit
 
-#### National Communication Audit
+#### Global Communication Audit
 
 #### Example Mobile App Use Case
 
