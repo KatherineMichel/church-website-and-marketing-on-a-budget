@@ -77,6 +77,7 @@ A "technological and economic shift" is happening. The world is becoming a globa
 -Marc Andreessen
 
 ## Mobile is Eating the World
+"In the next 10 years, I expect at least five billion people worldwide to own smartphones, giving every individual with such a phone instant access to the full power of the Internet, every moment of every day." -Marc Andreessen
 
 The "Software is Eating the World" theory was revisted in 2014 by [Marc Andreessen](https://twitter.com/pmarca) and his investing partner [Ben Horowitz](https://twitter.com/bhorowitz) in the a16z podcast: "[Ben and Marc Explain (Practically) Everything – Part 1](http://a16z.com/2014/08/25/a16z-podcast-ben-and-marc-explain-practically-everything-part-1)," this time with a focus on the "Mobile is Eating the World," theory also illustrated by this [slidedeck](http://a16z.com/2014/10/28/mobile-is-eating-the-world) by a16z partner Benedict Evans.
 
