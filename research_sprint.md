@@ -130,15 +130,13 @@ Going into the future, many of the most successful organizations will be those t
 ## To What Extend Can a Different Tech Approach Help the United Methodist Church?
 Is this decline in global United Methodist membership a result of changes in lifestyle, or apathy toward the religion itself? To what extent can a drastic change in technology approach turn the situation around? In the case of apathy, presumably a change in technology will approach will do little to help, because technology is not at the root of the problem.
 
-According to [this excerpt from The Book of Discipline (2012)](http://www.umc.org/who-we-are/developments-and-changes-since-1968) published by the United Methodist Church , United Methodist membership in the United States and Europe has declined since 1968. During that same time, membership in Africa and Asia grew significantly. 
+According to [this excerpt from The Book of Discipline (2012)](http://www.umc.org/who-we-are/developments-and-changes-since-1968) published by the United Methodist Church, United Methodist membership in the United States and Europe has declined since 1968. During that same time, membership in Africa and Asia grew significantly. 
 
-This decline membership in the United States and Europe was not due to a change in population, since the populations of these regions have greatly increased since then. Also,
+This decline in membership in the United States and Europe was not due to a change in population, since the populations of these regions have greatly increased since then. Also, this decline had already begun before the internet had become widely available. 
 
 The Internet, 1969 ![](research-sprint/internet-1969.jpg)
 
 The Internet, 1993 ![](research-sprint/internet-1993.png)
-
-This seems to point to apathy for the religion as a primary reason for the decline, at least up until the internet and other technology became widely available to the masses and diverted attention to the cloud.
 
 However, the United Methodist church can work to maintain current membership levels in regions where membership is declining, and minister in the most useful way to those in regions where membership is growing. 
 
