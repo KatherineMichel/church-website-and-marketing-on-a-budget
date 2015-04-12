@@ -99,6 +99,8 @@ Different platforms
 ![](research-sprint/mobile-phones-subscriptions-world-bank.png)
 
 ## To What Extend Can a Different Tech Approach Help?
+Is this decline in global United Methodist membership a result of changes in lifestyle, or apathy toward the religion itself? To what extent can a drastic change in technology approach turn the situation around? 
+
 Is this decline in global United Methodist membership inevitable, or can the situation be turned around, for instance, through a different technology approach? The answer might be found by taking a look at the success of LifeChurch. LifeChurch's Google Trends Graph results are up and to the right.
 
 Positive, also due to fundraising
