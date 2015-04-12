@@ -137,6 +137,8 @@ According to [this excerpt from The Book of Discipline (2012)](http://www.umc.or
 
 This decline membership in the United States and Europe was not due to a change in population, since the populations of these regions have greatly increased since then. Also,
 
+This seems to point to apathy for the religion as a primary reason for the decline, at least up until the internet and other technology became widely available to the masses and diverted attention to the cloud.
+
 ## LifeChurch
 
 The answer might be found by taking a look at the success of LifeChurch. LifeChurch's Google Trends Graph results are up and to the right.
