@@ -17,7 +17,6 @@
    * [Personal Reflection](personal_reflection.md)
 * [Part 2: The National Church Re-Imagined :)](the_national_united_methodist_church_re-imagined.md)
    * [Research Sprint](research_sprint.md)
-       * [Global Re-Organization](global_re-organization.md)
        * [LifeChurch and The Bible App Case Study](lifechurch_and_the_bible_app_case_study.md)
    * [Design Sprint](design_sprint.md)
    * [Prototype](prototype.md)
