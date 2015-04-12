@@ -98,9 +98,10 @@ Google Trends graph for phrases ["church iPhone" "church app" "church Android" "
 
 United Methodist membership is skyrocketing in developing countries where the people may not be able to afford a laptop, but perhaps can afford a smartphone as the price falls. Such a phone will be used for education, banking, to own a small business, to connect with other people from around the world, and perhaps to read the Bible. The phone may be the first and only computer that the person has ever owned.  
 
+![](research-sprint/mobile-phones-subscriptions-world-bank.png)
+
 It should be noted that even though smartphones are becoming popular worldwide, different phones are popular among different different demographics and regions. For example, iPhones tend to be more expensive and their owners tend to spend more money. Companies that intend to be popular in developing countries may need to develop for a variety of inexpensive platforms in order to offer products the people there can afford. As an example, the messaging company WhatsApp developing for a variety of inexpensive platforms and went on to be very successful.
 
-![](research-sprint/mobile-phones-subscriptions-world-bank.png)
 
 ## To What Extend Can a Different Tech Approach Help?
 Is this decline in global United Methodist membership a result of changes in lifestyle, or apathy toward the religion itself? To what extent can a drastic change in technology approach turn the situation around? In the case of apathy, presumably a change in technology will approach will do little to help, because technology is not at the root of the problem. 
