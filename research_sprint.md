@@ -126,11 +126,11 @@ Perhaps the single most important feature of these states of mind is the increas
 
 # What Does a Successful National United Methodist Church Digital Presence Look Like?
 
-Using the theories of Software is Eating the World, Mobile is Eating the World, and [Software is Reorganizing the world](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations), we can surmise that going into the future, the world will be a place largely automated by software. Though desktop computers will not go away, people the world over will own smartphones. These smartphones will be remote controls in life. They will be portals into the online world, where we will interact with others "in the cloud," while simultaneously living our physical existence.  
+Using the theories of [Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html), Mobile is Eating the World, and [Software is Reorganizing the world](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations), we can surmise that going into the future, the world will be a place largely automated by software. Though desktop computers will not go away, people the world over will own smartphones. These smartphones will be remote controls in life. They will be portals into the online world, where we will interact with others "in the cloud," while simultaneously living our physical existence.  
 
 Going into the future, many of the most successful organizations will be those that leverage the power of mobile to create a network effect. 
 
-## To What Extend Can a Different Tech Approach Help?
+## To What Extend Can a Different Tech Approach Help the United Methodist Church?
 Is this decline in global United Methodist membership a result of changes in lifestyle, or apathy toward the religion itself? To what extent can a drastic change in technology approach turn the situation around? In the case of apathy, presumably a change in technology will approach will do little to help, because technology is not at the root of the problem.
 
 According to [this excerpt from The Book of Discipline (2012)](http://www.umc.org/who-we-are/developments-and-changes-since-1968) published by the United Methodist Church , United Methodist membership in the United States and Europe has declined since 1968. During that same time, membership in Africa and Asia grew significantly. 
