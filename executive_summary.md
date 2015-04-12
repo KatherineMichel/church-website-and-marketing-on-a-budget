@@ -15,7 +15,7 @@ The church's previous website, which had been made using a technique called [Fla
 
 ### Find-a-Church Page
 
-Without an independent website, the church was making due with a Find-a-Church page, (a basic information page hosted for free by the national United Methodist Church.
+Without an independent website, the church was making due with a Find-a-Church page, (a basic information page hosted for free by the global United Methodist Church.
 
 ![](marketing-as-is/find-a-church-about-us.jpg)
 
@@ -28,4 +28,4 @@ In addition to the website, church members were also ready for a new community o
 I would Project Manage a modern new website, marketing materials, and marketing plan for the Pretty Prairie United Methodist Church. Anytime possible, the project would utilize low-cost options and pre-existing resources. 
 
 ## Part 2
-Also, in the process of doing research for the outreach campaign, I learned about problems (and opportunities) facing the national [United Methodist Church](http://www.umc.org). I conducted a [Research and Design Sprint](http://www.gv.com/sprint) to re-imagine the national United Methodist Church's mobile presence, in line with trends in tech and United Methodist membership.
+Also, in the process of doing research for the outreach campaign, I learned about problems (and opportunities) facing the global [United Methodist Church](http://www.umc.org). I conducted a [Research and Design Sprint](http://www.gv.com/sprint) to re-imagine the global United Methodist Church's mobile presence, in line with trends in tech and United Methodist membership.
