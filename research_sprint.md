@@ -27,6 +27,7 @@ Note, this chart has a couple of discrepancies; It appear that "Change in Member
 * Philippines: 88,872
 * U.S.: -721,990
 
+According to my math, with "Change in Membership" for U.S. as -721,990, "% Change in Membership" would be ~9%. 
 
 ## Declining Interest in Mainline Churches
 
