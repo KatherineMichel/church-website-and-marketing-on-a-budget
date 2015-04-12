@@ -139,6 +139,8 @@ This decline membership in the United States and Europe was not due to a change 
 
 This seems to point to apathy for the religion as a primary reason for the decline, at least up until the internet and other technology became widely available to the masses and diverted attention to the cloud.
 
+However, the United Methodist church can work to maintain current membership levels in regions where membership is declining, and minister in the most useful way to those in regions where membership is growing. 
+
 ## LifeChurch
 
 The answer might be found by taking a look at the success of LifeChurch. LifeChurch's Google Trends Graph results are up and to the right.
