@@ -1,4 +1,4 @@
-# Part 3: The Global Church Re-Imagined :)
+# Part 3: The Global United Methodist Mobile Presence Re-Imagined :)
 
 ## Research and Design Sprint
 
