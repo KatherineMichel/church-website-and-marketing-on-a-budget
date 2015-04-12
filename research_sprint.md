@@ -23,6 +23,8 @@ According to the [2012 United Methodist State of the Church Report](http://s3.am
 
 ![](national-united-methodist-church/2012-state-of-the-church-report-professing-membership.jpg)
 
+Philippines: 88872
+U.S. 721,990
 ## Declining Interest in Mainline Churches
 
 This problem of declining interest is not exclusive to the United Methodist Church. Mainline churches in general are struggling to stay relevant. 
