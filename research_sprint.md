@@ -124,7 +124,7 @@ Going into the future, many of the most successful organizations will be those t
 ## To What Extend Can a Different Tech Approach Help?
 Is this decline in global United Methodist membership a result of changes in lifestyle, or apathy toward the religion itself? To what extent can a drastic change in technology approach turn the situation around? In the case of apathy, presumably a change in technology will approach will do little to help, because technology is not at the root of the problem. 
 
-## To What Extend Can a Different Tech Approach Help?
+## LifeChurch
 
 The answer might be found by taking a look at the success of LifeChurch. LifeChurch's Google Trends Graph results are up and to the right.
 
