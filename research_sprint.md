@@ -23,8 +23,8 @@ According to the [2012 United Methodist State of the Church Report](http://s3.am
 
 ![](national-united-methodist-church/2012-state-of-the-church-report-professing-membership.jpg)
 
-Note, this chart has a couple of discrepancies; It appear that Change in Membership should be:
-* Philippines: 88872
+Note, this chart has a couple of discrepancies; It appear that "Change in Membership" should have:
+* Philippines: 88,872
 * U.S.: -721,990
 
 http://www.umc.org/gcfa/data-services
