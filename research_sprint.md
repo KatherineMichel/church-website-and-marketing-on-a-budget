@@ -45,7 +45,7 @@ According to the [2012 United Methodist State of the Church Report](http://s3.am
 | Germany | -16.2% |
 | Northern Europe and Eurasia | -20% |
 | Central and Southern Europe | -25.6% |
-| Total Change | +25.6% |
+| Total Change | +25% |
 
 | Region | Total Membership in 2010 |
 | -- | -- |
@@ -67,6 +67,7 @@ At this rate, Africa will have more than doubled the U.S. in United Methodist me
 
 # How should the church reach them?
 
+## Software is Eating the World
 
 
 
@@ -86,8 +87,10 @@ Google Trends graph for phrases ["church iPhone" "church app" "church Android" "
 
 http://en.wikipedia.org/wiki/List_of_countries_by_number_of_mobile_phones_in_use
 
-## Longterm Decline
+## To What Extend Can a Different Tech Approach Help?
 Is this decline in global United Methodist membership inevitable, or can the situation be turned around, for instance, through a different technology approach? The answer might be found by taking a look at the success of LifeChurch. LifeChurch's Google Trends Graph results are up and to the right.
+
+Positive, also due to fundraising
 
 ### [Google Trends Graph for Phrases "United Methodist Church" "LifeChurch" "The Bible App" "Upworthy"](http://www.google.com/trends/explore#q=United%20Methodist%20Church%2C%20LifeChurch%2C%20The%20Bible%20App%2C%20Upworthy&cmpt=q&tz=) from 2004 to 2015
 
