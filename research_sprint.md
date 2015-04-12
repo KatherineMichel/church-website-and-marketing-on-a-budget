@@ -141,13 +141,15 @@ This seems to point to apathy for the religion as a primary reason for the decli
 
 However, the United Methodist church can work to maintain current membership levels in regions where membership is declining, and minister in the most useful way to those in regions where membership is growing. 
 
-## LifeChurch
-
-The answer might be found by taking a look at the success of LifeChurch. LifeChurch's Google Trends Graph results are up and to the right.
+In addition, even as membership declined in the U.S., giving increased. 
 
 Positive, also due to fundraising
 
 Laura Andreessen article
+
+## LifeChurch
+
+The answer might be found by taking a look at the success of LifeChurch. LifeChurch's Google Trends Graph results are up and to the right.
 
 Some fear people will not go to church because of digital products. On the other hand, church is a competitive marketplace. Seekers can find other digital products as replacements.
 
