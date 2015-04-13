@@ -129,6 +129,17 @@ Using the theories of [Software is Eating the World](http://online.wsj.com/artic
 
 Going into the future, many of the most successful organizations will be those that leverage the power of mobile to create a network effect. 
 
+## LifeChurch
+
+The answer might be found by taking a look at the success of LifeChurch. LifeChurch's Google Trends Graph results are up and to the right.
+
+Some fear people will not go to church because of digital products. On the other hand, church is a competitive marketplace. Seekers can find other digital products as replacements.
+
+### [Google Trends Graph for Phrases "United Methodist Church" "LifeChurch" "The Bible App" "Upworthy"](http://www.google.com/trends/explore#q=United%20Methodist%20Church%2C%20LifeChurch%2C%20The%20Bible%20App%2C%20Upworthy&cmpt=q&tz=) from 2004 to 2015
+
+The United Methodist Church, which is clearly of declining interest, is still a "giant" compared to Upworthy at Upworthy's peak search volume. LifeChurch and The Bible App are miniscule in comparison, but on the rise and with a strong, modern network effect in place of the sort that could disrupt traditional church.
+![](google-maps-and-trends/google-trends-united-methodist-church-lifechurch-the-bible-app-upworthy.jpg)
+
 ## To What Extend Can a Different Tech Approach Help the United Methodist Church?
 Is this decline in global United Methodist membership a result of changes in lifestyle, or apathy toward the religion itself? To what extent can a drastic change in technology approach turn the situation around? In the case of apathy, presumably a change in technology will approach will do little to help, because technology is not at the root of the problem.
 
@@ -152,18 +163,11 @@ According to Andreessen...
 
 Positive, also due to fundraising
 
-## LifeChurch
 
-The answer might be found by taking a look at the success of LifeChurch. LifeChurch's Google Trends Graph results are up and to the right.
-
-Some fear people will not go to church because of digital products. On the other hand, church is a competitive marketplace. Seekers can find other digital products as replacements.
-
-### [Google Trends Graph for Phrases "United Methodist Church" "LifeChurch" "The Bible App" "Upworthy"](http://www.google.com/trends/explore#q=United%20Methodist%20Church%2C%20LifeChurch%2C%20The%20Bible%20App%2C%20Upworthy&cmpt=q&tz=) from 2004 to 2015
-
-The United Methodist Church, which is clearly of declining interest, is still a "giant" compared to Upworthy at Upworthy's peak search volume. LifeChurch and The Bible App are miniscule in comparison, but on the rise and with a strong, modern network effect in place of the sort that could disrupt traditional church.
-![](google-maps-and-trends/google-trends-united-methodist-church-lifechurch-the-bible-app-upworthy.jpg)
 
 ### Surviving Disruption
+So in these changing times, how can the United Methodist Church disrupt itself first, before being irreparably disrupted by "competitors" and changing lifestyles? 
+
 
 In the article [Surviving Disruption](https://hbr.org/2012/12/surviving-disruption), Max Wessel and Clayton Christensen explain how a company can disrupt itself in order to avoid being disrupted:
 
