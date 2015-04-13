@@ -140,7 +140,7 @@ The Internet, 1969 ![](research-sprint/internet-1969.jpg)
 
 The Internet, 1993 ![](research-sprint/internet-1993.png)
 
-The United Methodist church can work to maintain current membership levels in regions where membership is declining, and minister in the most useful way to those in regions where membership is growing. In addition to the coincidence that membership is rapidly growing in developing countries where people will leap-frog desktop in favor of cheaper mobile, also, people in these regions may be recipients of some of the charitable contributions made by members of the U
+The United Methodist church can work to maintain current membership levels in regions where membership is declining, and minister in the most useful way to those in regions where membership is growing. In addition to the coincidence that membership is rapidly growing in developing countries where people will leap-frog desktop in favor of cheaper mobile, also, people in these regions may be recipients of some of the charitable contributions made to the United Methodist Church.
 
 Also, though in recent years, local church spending has gone down, 
 
