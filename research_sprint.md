@@ -125,13 +125,14 @@ Perhaps the single most important feature of these states of mind is the increas
 
 # What Does a Successful Global United Methodist Mobile Presence Look Like?
 
-Using the theories of [Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html), [Mobile is Eating the World](http://a16z.com/2014/10/28/mobile-is-eating-the-world), and [Software is Reorganizing the world](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations), we can surmise that going into the future, the world will be a place largely automated by software. Though desktop computers will not go away, people the world over will own smartphones. These smartphones will be remote controls in life. They will be portals into the online world, where we will interact with others "in the cloud," while simultaneously living our physical existence.  
+Using the theories of [Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html), [Mobile is Eating the World](http://a16z.com/2014/10/28/mobile-is-eating-the-world), and [Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations), we can surmise that going into the future, the world will be a place largely automated by software. Though desktop computers will not go away, people the world over will own smartphones. These smartphones will be remote controls in life. They will be portals into the online world, where we will interact with others "in the cloud," while simultaneously living our physical existence.  
 
 Going into the future, many of the most successful organizations will be those that leverage the power of mobile to create a network effect. 
 
 ## LifeChurch
+The answer to what a successful global church that leverages the power of mobile to create a network effect looks like might be found by analyzing the success of LifeChurch. 
 
-The answer might be found by taking a look at the success of LifeChurch. LifeChurch's Google Trends Graph results are up and to the right.
+LifeChurch's Google Trends Graph results are up and to the right.
 
 Some fear people will not go to church because of digital products. On the other hand, church is a competitive marketplace. Seekers can find other digital products as replacements.
 
