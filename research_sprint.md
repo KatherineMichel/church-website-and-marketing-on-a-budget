@@ -142,13 +142,9 @@ The Internet, 1993 ![](research-sprint/internet-1993.png)
 
 The United Methodist church can work to maintain current membership levels in regions where membership is declining, and minister in the most useful way to those in regions where membership is growing. In addition to the coincidence that membership is rapidly growing in developing countries where people will leap-frog desktop in favor of cheaper mobile, also, people in these regions may be recipients of some of the charitable contributions made to the United Methodist Church.
 
-Paradoxically, even as membership and local church spending has gone down in recent years, at times, dramatically more amounts of money have been given giving to charitable causes through the United Methodist Church. 
+Paradoxically, even as membership and local church spending has gone down in recent years, at times, dramatically more amounts of money have been given giving to charitable causes through the United Methodist Church. For instance, in 2010, the United Methodits Committee on Relief received 146% more, in part due to the disaster in Haiti. The United Methodist Church [also reported that](http://www.umc.org/news-and-media/mixed-blessings-in-new-us-church-numbers), "Direct giving to United Methodist-related causes increased by more than 29 percent."
 
 
-Giving in 2010 to the Advance, which includes contributions to the United Methodist Committee on Relief, increased a whopping 146 percent from 2009 to more than $44.9 million, in large part because of contributions for Haiti.
-Direct giving to United Methodist-related causes increased by more than 29 percent.
-
-http://www.umc.org/news-and-media/mixed-blessings-in-new-us-church-numbers
 
 Positive, also due to fundraising
 
