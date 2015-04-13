@@ -129,7 +129,7 @@ Using the theories of [Software is Eating the World](http://online.wsj.com/artic
 
 Going into the future, many of the most successful organizations will be those that leverage the power of mobile to create a network effect. 
 
-### Disrupction
+### Disruption
 Does this description fit the United Methodist Church and if not, how can the United Methodist Church disrupt itself, before being disrupted? 
 
 ## LifeChurch
