@@ -140,11 +140,14 @@ The Internet, 1969 ![](research-sprint/internet-1969.jpg)
 
 The Internet, 1993 ![](research-sprint/internet-1993.png)
 
-The United Methodist church can work to maintain current membership levels in regions where membership is declining, and minister in the most useful way to those in regions where membership is growing. 
+The United Methodist church can work to maintain current membership levels in regions where membership is declining, and minister in the most useful way to those in regions where membership is growing. In addition to the cincidence 
 
 Also, though in recent years, local church spending has gone down, 
 
 Notably, even as U.S. membership, giving increased. 
+
+Giving in 2010 to the Advance, which includes contributions to the United Methodist Committee on Relief, increased a whopping 146 percent from 2009 to more than $44.9 million, in large part because of contributions for Haiti.
+Direct giving to United Methodist-related causes increased by more than 29 percent.
 
 http://www.umc.org/news-and-media/mixed-blessings-in-new-us-church-numbers
 
