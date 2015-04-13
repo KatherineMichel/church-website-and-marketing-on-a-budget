@@ -147,7 +147,8 @@ Indeed, one of the concerns that I've heard about digital products, for example 
 1. Church-goers need not show up to church 
 2. Offering may decline as a result
 
-On the other hand, church is a competitive marketplace. Seekers can find other digital products as replacements.
+But these arguments may pose little relevance, because of the competitive marketplace. Church-goers can use the digital products of other denominations as replacements. 
+
 
 ![](research-sprint/interpreter.jpg)
 
