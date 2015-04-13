@@ -149,6 +149,7 @@ Indeed, one of the concerns that I've heard about digital products, for example 
 
 But these arguments may pose little relevance, because of the competitive marketplace. Church-goers can use the digital products of other denominations as replacements. 
 
+This recent article in the Interpreter Magazine confronts the consternation over tech versus worship services, instead suggesting that church
 
 ![](research-sprint/interpreter.jpg)
 
