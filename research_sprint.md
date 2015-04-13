@@ -149,7 +149,7 @@ Indeed, one of the concerns that I've heard about digital products, for example 
 
 But these arguments may pose little relevance, because of the competitive marketplace. Church-goers can use the digital products of other denominations as replacements. 
 
-This recent article in the Interpreter Magazine confronts the consternation over tech versus worship services, instead suggesting that church
+This recent article in the United Methodist Interpreter Magazine confronts the consternation over tech versus worship services, suggesting that instead of discouraging use of tech, church-goers should be encouraged to share their worhip experience online, for instance by tweeting scripture messages on Facebook or Twitter. The  
 
 ![](research-sprint/interpreter.jpg)
 
