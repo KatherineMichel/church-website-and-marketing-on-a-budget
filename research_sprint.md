@@ -130,7 +130,7 @@ Using the theories of [Software is Eating the World](http://online.wsj.com/artic
 Going into the future, many of the most successful organizations will be those that leverage the power of mobile to create a network effect. 
 
 ## LifeChurch
-The answer to what a successful global church that leverages the power of mobile to create a network effect looks like might be found by analyzing the success of LifeChurch. 
+The answer to what a successful global church that leverages the power of mobile to create a network effect looks like might be found by analyzing the success of LifeChurch. Yes, as organizations with previously no connection at all to software are being "eaten by software," that now includes reigious organizations. 
 
 LifeChurch is the smaller, more agile organization bootstrapped by a few techies that threatens the slower-moving, large-scale, established incumbent organization. 
 
