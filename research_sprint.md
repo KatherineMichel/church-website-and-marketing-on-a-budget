@@ -144,11 +144,13 @@ The United Methodist church can work to maintain current membership levels in re
 
 Paradoxically, even as membership and local church spending has gone down in recent years, at times, dramatically more amounts of money have been given giving to charitable causes through the United Methodist Church. For instance, in 2010, the United Methodits Committee on Relief received 146% more, in part due to the disaster in Haiti. The United Methodist Church [also reported that](http://www.umc.org/news-and-media/mixed-blessings-in-new-us-church-numbers), "Direct giving to United Methodist-related causes increased by more than 29 percent."
 
+Laura Arillaga-Andreessen, author of the book Giving 2.0
 
+and more recently, in the article
+
+According to Andreessen...
 
 Positive, also due to fundraising
-
-Laura Andreessen article
 
 ## LifeChurch
 
