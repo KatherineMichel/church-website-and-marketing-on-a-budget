@@ -156,7 +156,21 @@ But these arguments may pose little relevance, because of the competitive market
 This recent article in the United Methodist Interpreter Magazine confronts the consternation over tech versus worship services, suggesting that instead of discouraging use of tech, church-goers should be encouraged to share their worship experience online, for instance by tweeting scripture messages on Facebook or Twitter. The author of the article, actually references the LifeChurch Bible app as a method to incorporate tech and worship.  
 ![](research-sprint/interpreter.jpg)
 
+LifeChurch scorecard
 
+| Theory | Score |
+| -- | -- |
+| Software is Eating the World | A+ |
+| Mobile is Eating the World | A+ |
+| Software is Reorganizing the World | A |
+
+United Methodist scorecard
+
+| Theory | Score |
+| -- | -- |
+| Software is Eating the World | A |
+| Mobile is Eating the World | ? |
+| Software is Reorganizing the World | C |
 
 ## To What Extend Can a Different Tech Approach Help the United Methodist Church?
 Is this decline in global United Methodist membership a result of changes in lifestyle, or apathy toward the religion itself? To what extent can a drastic change in technology approach turn the situation around? In the case of apathy, presumably a change in technology will approach will do little to help, because technology is not at the root of the problem.
