@@ -132,7 +132,7 @@ Going into the future, many of the most successful organizations will be those t
 ## LifeChurch
 The answer to what a successful global church that leverages the power of mobile to create a network effect looks like might be found by analyzing the success of LifeChurch. 
 
-LifeChurch is the smaller, more agile organization bootstrapped by a few techies (it actually was) that threatens the slower-moving, large-scale, established incumbent organizations (including the United Methodist Church). Yes, as organizations with previously no connection at all to software are being "eaten by software," that now includes reigious organizations. 
+LifeChurch is the smaller, more agile organization bootstrapped by a few techies (it actually was) that threatens the slower-moving, large-scale, established incumbent organizations (including the United Methodist Church). Yes, as organizations with previously no connection at all to software are being "eaten by software," that now includes religious organizations. 
 
 LifeChurch's Google Trends Graph results are up and to the right.
 
