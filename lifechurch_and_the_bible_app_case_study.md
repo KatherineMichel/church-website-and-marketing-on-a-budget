@@ -14,11 +14,6 @@ How has a religious app achieved [100 million+ downloads](http://www.businessins
 * Prayer through Church Online Live Prayer: 90,500
 * Open Downloads: 1,173, 380
 
-## Google Trends Graph for Phrases "LifeChurch" and "The Bible App"
-
-Google Trends graph for the phrases ["LifeChurch" and "The Bible App" (region: worldwide)](http://www.google.com/trends/explore#q=LifeChurch%2C%20The%20Bible%20App&cmpt=q&tz=), from 2004 to 2015. [LifeChurch](http://en.wikipedia.org/wiki/LifeChurch.tv) is The Bible App's parent organization. LifeChurch was founded in 1996, but began offering online broadcasts in 2006. [The Bible App](https://www.bible.com/app) was founded in 2008. 
-![](google-maps-and-trends/google-trends-lifechurch-and-the-bible-app.jpg) 
-
 ## LifeChurch Physical Locations
 
 ![](lifechurch-bible-app/lifechurch.tv-locations.jpg)
