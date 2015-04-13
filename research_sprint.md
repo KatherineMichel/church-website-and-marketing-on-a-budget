@@ -141,6 +141,10 @@ Google Trends graph for phrases ["United Methodist Church" "LifeChurch" "The Bib
 The United Methodist Church, which is clearly of declining interest, is still a "giant" compared to Upworthy at Upworthy's peak search volume. LifeChurch and The Bible App are miniscule in comparison, but on the rise and with a strong, modern network effect in place of the sort that could disrupt traditional church.
 ![](google-maps-and-trends/google-trends-united-methodist-church-lifechurch-the-bible-app-upworthy.jpg)
 
+Before you argue that religions organizations are not exactly competing against each other, Pew Religion actually classifies the religions marketplace as a highly-competitive marketplace. 
+
+
+Indeed, one of the concerns that I've heard toward digital presence similar to that of LifeChurch is that 
 Some fear people will not go to church because of digital products. On the other hand, church is a competitive marketplace. Seekers can find other digital products as replacements.
 
 
