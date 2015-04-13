@@ -143,11 +143,13 @@ The United Methodist Church, which is clearly of declining interest, is still a 
 
 Before you argue that religions organizations are not exactly competing against each other, Pew Religion actually classifies the religions marketplace as a highly-competitive marketplace. 
 
+Indeed, one of the concerns that I've heard about digital products, for example livestreaming a church service (one of the primary tactics of LifeChurch), is that:
+1. Church-goers need not show up to church 
+2. Offering may decline as a result
 
-Indeed, one of the concerns that I've heard toward digital presence similar to that of LifeChurch is that 
-Some fear people will not go to church because of digital products. On the other hand, church is a competitive marketplace. Seekers can find other digital products as replacements.
+On the other hand, church is a competitive marketplace. Seekers can find other digital products as replacements.
 
-
+![](research-sprint/interpreter.jpg)
 
 
 
@@ -164,7 +166,7 @@ The Internet, 1993 ![](research-sprint/internet-1993.png)
 
 The United Methodist church can work to maintain current membership levels in regions where membership is declining, and minister in the most useful way to those in regions where membership is growing. In addition to the coincidence that membership is rapidly growing in developing countries where people will leap-frog desktop in favor of cheaper mobile, also, people in these regions may be recipients of some of the charitable contributions made to the United Methodist Church.
 
-Paradoxically, even as membership and local church spending has gone down in recent years, at times, dramatically more amounts of money have been given giving to charitable causes through the United Methodist Church. For instance, in 2010, the United Methodits Committee on Relief received 146% more, in part due to the disaster in Haiti. The United Methodist Church [also reported that](http://www.umc.org/news-and-media/mixed-blessings-in-new-us-church-numbers), "Direct giving to United Methodist-related causes increased by more than 29 percent."
+Paradoxically, even as membership and local church spending has gone down in recent years, at times, dramatically more amounts of money have been given giving to charitable causes through the United Methodist Church. For instance, in 2010, the United Methodist Committee on Relief received 146% more, in part due to the disaster in Haiti. The United Methodist Church [also reported that](http://www.umc.org/news-and-media/mixed-blessings-in-new-us-church-numbers), "Direct giving to United Methodist-related causes increased by more than 29 percent."
 
 Laura Arillaga-Andreessen, author of the book Giving 2.0
 
@@ -185,8 +187,6 @@ In the article [Surviving Disruption](https://hbr.org/2012/12/surviving-disrupti
 * Identify the strengths of your disrupter’s business model
 * Identify your own relative advantages
 * Evaluate the conditions that would help or hinder the disrupter from co-opting your current advantages in the future.
-
-![](research-sprint/interpreter.jpg)
 
 ## Survival
 According to the [2012 United Methodist State of the Church Report](http://s3.amazonaws.com/Website_Properties/state-of-the-church/documents/2012-state-of-the-church-report.PDF), "Critical research conducted in 2010 found that 15 percent of United Methodist congregations in the United States were considered 'highly vital.' As a result, the Connectional Table and the Council of Bishops embraced a 10-year adaptive challenge to increase vitality across the denomination, especially in places where churches have been on the decline... Because of this Spirit-filled movement, the 2012 State of the Church Report focuses on vital congregations. Annual conferences and congregations in our worldwide connection are finding new ways to share the Good News of Jesus Christ, revitalizing the United Methodist movement in places of need. We praise God and celebrate the growth and vitality of our churches in Africa and the Philippines and will continue to find ways to strengthen our global connection"
