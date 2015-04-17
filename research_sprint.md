@@ -159,9 +159,9 @@ One way to now may be to analyze a church that does already fit this description
 
 ## LifeChurch
 
-The story of LifeChurch is not unlike that of other tech startups such as Amazon or Google. According to Outreach Magazine, which named LifeChurch.tv the most innovative church in the country in 2007:  
+The story of LifeChurch is not unlike that of other tech startups such as Amazon or Google. According to Outreach Magazine:  
 
-“When LifeChurch.tv began in 1996, forty members met in a two-car garage equipped with just a borrowed overhead projector and two construction lights purchased at Lowe’s for $19.99. Ten years later, the church has been named No. 1 on our list of America’s Most Innovative Churches, primarily for its ability to leverage the latest technology available for its nine multi-state campuses, 18,000 members and thousands of weekly visitors, many of whom are window shopping Christianity.”
+“When LifeChurch.tv began in 1996, forty members met in a two-car garage equipped with just a borrowed overhead projector and two construction lights purchased at Lowe’s for $19.99. Ten years later, the church has been named No. 1 on (Outreach Magazine's) list of America’s Most Innovative Churches, primarily for its ability to leverage the latest technology available for its nine multi-state campuses, 18,000 members and thousands of weekly visitors, many of whom are window shopping Christianity.”
 
 Founded in 1996 
 Boostrapped (started in a garage)
