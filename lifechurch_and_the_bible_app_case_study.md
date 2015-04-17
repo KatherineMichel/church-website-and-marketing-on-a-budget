@@ -8,6 +8,10 @@ How has a religious app achieved [100 million+ downloads](http://www.businessins
 
 "A church isn't a building—it's the people. We meet in locations around the United States and globally online." -[LifeChurch.tv](http://www.lifechurch.tv/who-we-are)
 
+The story of LifeChurch is not unlike that of other tech startups such as Amazon or Google. According to [Covenant Newswire](http://blogs.covchurch.org/newswire/2007/01/16/5363):  
+
+“When LifeChurch.tv began in 1996, forty members met in a two-car garage equipped with just a borrowed overhead projector and two construction lights purchased at Lowe’s for $19.99. Ten years later, the church has been named No. 1 on (Outreach Magazine's) list of America’s Most Innovative Churches, primarily for its ability to leverage the latest technology available...”
+
 # LifeChurch 2014 Stats
 * The Bible App installs: 164,000,000
 * Church online visitors: 6,022,657
