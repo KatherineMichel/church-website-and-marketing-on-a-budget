@@ -111,7 +111,7 @@ We can see from this chart based on World Bank data that mobile phone subscripti
 
 ![](research-sprint/mobile-phones-subscriptions-world-bank.png)
 
-Furthermore, the work of Benedict Evans on behalf of A16Z shows that... 
+In the Mobile is Eating the World slidedeck, Benedict Evans on behalf of A16Z shows that... 
 
 http://a16z.com/2014/10/28/mobile-is-eating-the-world
 
