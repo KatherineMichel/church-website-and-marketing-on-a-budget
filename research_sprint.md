@@ -133,7 +133,7 @@ Between 2014 and 2020, "Another billion people will come online, all due to smar
 "More time is spent in mobile apps than on all of the web"
 ![](research-sprint/more-time-spent-in-mobile-apps.png)
 
-
+# What Does a Successful Global United Methodist Presence Look Like?
 
 
 ## Software is Reorganizing the World
