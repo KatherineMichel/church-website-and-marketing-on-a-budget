@@ -111,6 +111,8 @@ We can see from this chart based on World Bank data that mobile phone subscripti
 
 ![](research-sprint/mobile-phones-subscriptions-world-bank.png)
 
+Furthermore, the work of Benedict Evans on behalf of A16Z shows that... 
+
 http://blogs.wsj.com/digits/2014/10/28/never-mind-software-mobile-is-eating-the-world
 
 It should be noted that even though smartphones are becoming popular worldwide, different phones are popular among different demographics and regions. For example, in comparison to Android, iPhones tend to be more expensive and fewer are sold. However, their owners typically spend more money, which is one of the reasons why many business in the developed world develop for iPhone "first." People in a developing country may be less likely to be able to afford an iPhone. So organizations that intend to be successfully adopted in a developing country may need to develop for inexpensive platforms first in order to offer products the people there can afford. As an example, the messaging company WhatsApp developed for a variety of inexpensive platforms and made its mobile app free for a year. WhatsApp achieved widespread adoption and success.
