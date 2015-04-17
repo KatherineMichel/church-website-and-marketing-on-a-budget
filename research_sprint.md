@@ -153,10 +153,6 @@ Perhaps the single most important feature of these states of mind is the increas
 
 Based on the theories of [Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html), [Mobile is Eating the World](http://a16z.com/2014/10/28/mobile-is-eating-the-world), and [Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations), we can surmise that in the future, the world will be largely automated by software. The successful organizations will tend to be those that meet the needs of the communities of people reorganizing in the cloud. These organizations will tend to leverage the power of mobile, and will create such competitive advantages as virality and network effect. 
 
-those that leverage the power of mobile to create competitive advantages such as virality and network effect, while keeping in mind the reorganization of people in the cloud.
-
- These smartphones will be remote controls in life. They will be portals into the online world, where we will interact with others "in the cloud," 
-
 ### Disruption
 Does this description fit the United Methodist Church and if not, how can the United Methodist Church disrupt itself, before being disrupted? 
 
