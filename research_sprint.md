@@ -62,7 +62,7 @@ According to the [2012 United Methodist State of the Church Report](http://s3.am
 | African regions | 4,191,108 (up by 3,014,552) |
 | Philippines | 145,642 (up by 88,872 (*discrepancy*)) |
 | Europe and Eurasia | 63,760 (down by 15,611) 
-So, even though the U.S. has the largest percentage of United Methodist members, this number is steadily stagnating. Meanwhile, membership in Africa threatens to overtake that of the United States. Philippines growth is big percentage-wise though considerably smaller than that of Africa in comparison. Membership in Europe and Euroasia is declining, but already small. 
+So, even though the U.S. has the largest percentage of United Methodist members, this number is steadily stagnating. Meanwhile, membership in Africa threatens to overtake that of the United States. Growth in the Phillipines is big percentage-wise though considerably smaller than that of Africa in comparison. Membership in Europe and Euroasia is declining, but already small. 
 
 Projected membership by 2020, using same percentage change as 2000 to 2010
 
