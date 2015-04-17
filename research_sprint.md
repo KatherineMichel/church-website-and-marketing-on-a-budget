@@ -174,7 +174,7 @@ Google Trends graph for phrases ["United Methodist Church" "LifeChurch" "The Bib
 
 ![](google-maps-and-trends/google-trends-united-methodist-church-lifechurch-the-bible-app-upworthy.jpg)
 
-The United Methodist Church, which is clearly of declining interest, is still a "giant" compared to Upworthy at Upworthy's peak search volume. LifeChurch and The Bible App are miniscule in comparison, but on the rise and with a strong, modern network effect in place of the sort that could disrupt traditional church.
+The United Methodist Church, which is clearly of declining interest, is still a "giant" compared to LifeChurch and The Bible App. However, LifeChurch and the Bible App are on the rise with the type of strong, modern network effect in place that could unexpectedly disrupt a traditional church.
 
 Indeed, one of the concerns that I've heard about digital products, for example livestreaming a church service (one of the primary tactics of LifeChurch), is that:
 1. Church-goers need not show up to church 
