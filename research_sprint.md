@@ -159,7 +159,7 @@ One way to now may be to analyze a church that does already fit this description
 
 ## LifeChurch
 
-In the theory of Software is Eating the World, LifeChurch is the young, agile tech startup threatening the slower-moving, large-scale, established incumbent organization, which happens to be the United Methodist Church. Yes, the list of organizations that previously had no connection to software at all, but are now being "eaten by software" not includes religious organizations. 
+In the theory of Software is Eating the World, LifeChurch is the young, agile tech startup threatening the slower-moving, large-scale, established incumbent organization, which happens to be the United Methodist Church. Yes, the list of organizations that previously had no connection to software at all, but are now being "eaten by software" not includes religious organizations. Before you aregue that religious organizations are not competing against each other, Pew Religion actually classifies the religions marketplace as a highly-competitive marketplace. 
 
 
 LifeChurch bootstrapped by a few techies (it actually was). 
@@ -174,8 +174,6 @@ Google Trends graph for phrases ["United Methodist Church" "LifeChurch" "The Bib
 ![](google-maps-and-trends/google-trends-united-methodist-church-lifechurch-the-bible-app-upworthy.jpg)
 
 The United Methodist Church, which is clearly of declining interest, is still a "giant" compared to Upworthy at Upworthy's peak search volume. LifeChurch and The Bible App are miniscule in comparison, but on the rise and with a strong, modern network effect in place of the sort that could disrupt traditional church.
-
-Before you argue that religions organizations are not exactly competing against each other, Pew Religion actually classifies the religions marketplace as a highly-competitive marketplace. 
 
 Indeed, one of the concerns that I've heard about digital products, for example livestreaming a church service (one of the primary tactics of LifeChurch), is that:
 1. Church-goers need not show up to church 
