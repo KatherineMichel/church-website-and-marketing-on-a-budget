@@ -133,7 +133,7 @@ Between 2014 and 2020, "Another billion people will come online, all due to smar
 "More time is spent in mobile apps than on all of the web"
 ![](research-sprint/more-time-spent-in-mobile-apps.png)
 
-# What Does a Successful Global United Methodist Presence Look Like?
+
 
 
 ## Software is Reorganizing the World
@@ -149,12 +149,11 @@ Though the separation between our bodies is still best characterized by the geog
 Perhaps the single most important feature of these states of mind is the increasing divergence between our social and geographic neighbors, between the cloud formations of our heads and the physical communities surrounding our bodies. An infinity of subcultures outside the mainstream now blossoms on the Internet — vegans, body modifiers, CrossFitters, Wiccans, DIYers, Pinners, and support groups of all forms. Millions of people are finding their true peers in the cloud, a remedy for the isolation imposed by the anonymous apartment complex or the remote rural location."
 
 
+# What Does a Successful Global United Methodist Presence Look Like?
 
-# What Does a Successful Global United Methodist Mobile Presence Look Like?
+Based on the theories of [Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html), [Mobile is Eating the World](http://a16z.com/2014/10/28/mobile-is-eating-the-world), and [Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations), we can surmise that the successful organizations of the future will tend to be those that leverage the power of mobile to create competitive advantages such as virality and network effect. 
 
-Using the theories of [Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html), [Mobile is Eating the World](http://a16z.com/2014/10/28/mobile-is-eating-the-world), and [Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations), we can surmise that going into the future, the world will be a place largely automated by software. Though desktop computers will not go away, people the world over will own smartphones. These smartphones will be remote controls in life. They will be portals into the online world, where we will interact with others "in the cloud," while simultaneously living our physical existence.  
-
-Going into the future, many of the most successful organizations will be those that leverage the power of mobile to create a network effect. 
+we can surmise that going into the future, the world will be a place largely automated by software. Though desktop computers will not go away, people the world over will own smartphones. These smartphones will be remote controls in life. They will be portals into the online world, where we will interact with others "in the cloud," while simultaneously living our physical existence.  
 
 ### Disruption
 Does this description fit the United Methodist Church and if not, how can the United Methodist Church disrupt itself, before being disrupted? 
