@@ -210,15 +210,7 @@ According to Andreessen...
 
 Positive, also due to fundraising
 
-## Jesus and John Wesley, Social Pioneers
 
-As software and mobile reorganize the world, perhaps members of the the United Methodist Church need look no further than [social network](http://en.wikipedia.org/wiki/Social_network) pioneers Jesus and John Wesley for inspiration in how adapt. 
-
-Jesus grew a social network that consisted of family, friends, and followers, who spread his message by word of mouth until it became viral the world over. 
-
-[John Wesley](http://en.wikipedia.org/wiki/John_Wesley) spread the Methodist religion across the United States by creating a social network of followers who were organized into "Class Meetings" across geographic territories and ministered to by "Circuit Riders." 
-
-"I look upon all the world as my parish" -John Wesley, founder of Methodism
 
 
 
