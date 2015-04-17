@@ -159,10 +159,10 @@ One way to now may be to analyze a church that does already fit this description
 
 ## LifeChurch
 
-In the theory of Software is Eating the World, LifeChurch is the young, agile tech startup threatening the slower-moving, large-scale, established incumbent organization, which happens to be the United Methodist Church. Yes, the list of organizations that previously had no connection to software at all, but are now being "eaten by software" not includes religious organizations. Before you aregue that religious organizations are not competing against each other, [Pew Religious Landscape Survey](http://religions.pewforum.org/reports) refers the religious marketplace as "very competitive," due to the constant flux of people. 
+In the theory of Software is Eating the World, LifeChurch is the young, agile tech startup bootstrapped by a few techies (it actually was), threatening the slower-moving, large-scale, established incumbent organization, which happens to be the United Methodist Church. Yes, the list of organizations that previously had no connection to software at all, but are now being "eaten by software" now includes religious organizations. Though you might not think of religious organizations as competitive, [Pew Religious Landscape Survey](http://religions.pewforum.org/reports) refers the religious marketplace as "very competitive," due to the constant flux of people. 
 
 
-LifeChurch bootstrapped by a few techies (it actually was). 
+LifeChurch  
 
 LifeChurch's Google Trends Graph results are up and to the right.
 
