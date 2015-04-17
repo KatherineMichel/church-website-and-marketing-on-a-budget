@@ -117,7 +117,6 @@ https://twitter.com/BenedictEvans/status/583489997203869698
 
 
 
-It should be noted that even though smartphones are becoming popular worldwide, different phones are popular among different demographics and regions. For example, in comparison to Android, iPhones tend to be more expensive and fewer are sold. However, their owners typically spend more money, which is one of the reasons why many business in the developed world develop for iPhone "first." People in a developing country may be less likely to be able to afford an iPhone. So organizations that intend to be successfully adopted in a developing country may need to develop for inexpensive platforms first in order to offer products the people there can afford. As an example, the messaging company WhatsApp developed for a variety of inexpensive platforms and made its mobile app free for a year. WhatsApp achieved widespread adoption and success.
 
 ## Software is Reorganizing the World
 
@@ -167,22 +166,6 @@ But these arguments may pose little relevance, because of the competitive market
 This recent article in the United Methodist Interpreter Magazine confronts the consternation over tech versus worship services, suggesting that instead of discouraging use of tech, church-goers should be encouraged to share their worship experience online, for instance by tweeting scripture messages on Facebook or Twitter. The author of the article, actually references the LifeChurch Bible app as a method to incorporate tech and worship.  
 ![](research-sprint/interpreter.jpg)
 
-LifeChurch scorecard
-
-| Theory | Score |
-| -- | -- |
-| Software is Eating the World | A+ |
-| Mobile is Eating the World | A+ |
-| Software is Reorganizing the World | A |
-
-United Methodist scorecard
-
-| Theory | Score |
-| -- | -- |
-| Software is Eating the World | A |
-| Mobile is Eating the World | ? |
-| Software is Reorganizing the World | C |
-
 ## To What Extend Can a Different Tech Approach Help the United Methodist Church?
 Is this decline in global United Methodist membership a result of changes in lifestyle, or apathy toward the religion itself? To what extent can a drastic change in technology approach turn the situation around? In the case of apathy, presumably a change in technology will approach will do little to help, because technology is not at the root of the problem.
 
@@ -217,6 +200,26 @@ Jesus grew a social network that consisted of family, friends, and followers, wh
 "I look upon all the world as my parish" -John Wesley, founder of Methodism
 
 
+
+Presumably, as these new smartphone owners come online, they will begin to search for 
+
+It should be noted that even though smartphones are becoming popular worldwide, different phones are popular among different demographics and regions. For example, in comparison to Android, iPhones tend to be more expensive and fewer are sold. However, their owners typically spend more money, which is one of the reasons why many business in the developed world develop for iPhone "first." People in a developing country may be less likely to be able to afford an iPhone. So organizations that intend to be successfully adopted in a developing country may need to develop for inexpensive platforms first in order to offer products the people there can afford. As an example, the messaging company WhatsApp developed for a variety of inexpensive platforms and made its mobile app free for a year. WhatsApp achieved widespread adoption and success.
+
+LifeChurch scorecard
+
+| Theory | Score |
+| -- | -- |
+| Software is Eating the World | A+ |
+| Mobile is Eating the World | A+ |
+| Software is Reorganizing the World | A |
+
+United Methodist scorecard
+
+| Theory | Score |
+| -- | -- |
+| Software is Eating the World | A |
+| Mobile is Eating the World | ? |
+| Software is Reorganizing the World | C |
 
 
 
