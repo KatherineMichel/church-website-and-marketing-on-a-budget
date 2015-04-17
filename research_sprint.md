@@ -155,12 +155,12 @@ Based on the theories of [Software is Eating the World](http://online.wsj.com/ar
 ### Gap Analysis
 Does this description of a successful orgaization of the future fit the United Methodist Church? If not, should the United Methodist Church be more like this description?   
 
-how can the United Methodist Church disrupt itself, before being disrupted? 
+One way to now may be to analyze a church that does already fit this description. The name of the church is LifeChurch. 
 
 
 
 ## LifeChurch
-The answer to what a successful global church that leverages the power of mobile to create a network effect looks like might be found by analyzing the success of LifeChurch. 
+
 
 LifeChurch is the smaller, more agile organization bootstrapped by a few techies (it actually was) that threatens the slower-moving, large-scale, established incumbent organizations (including the United Methodist Church). Yes, as organizations with previously no connection at all to software are being "eaten by software," that now includes religious organizations. 
 
