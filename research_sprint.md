@@ -159,12 +159,9 @@ One way to now may be to analyze a church that does already fit this description
 
 ## LifeChurch
 
-The story of LifeChurch is not unlike that of other tech startups such as Amazon or Google. According to Outreach Magazine:  
+The story of LifeChurch is not unlike that of other tech startups such as Amazon or Google. According to [Covenant Newswire](http://blogs.covchurch.org/newswire/2007/01/16/5363):  
 
 “When LifeChurch.tv began in 1996, forty members met in a two-car garage equipped with just a borrowed overhead projector and two construction lights purchased at Lowe’s for $19.99. Ten years later, the church has been named No. 1 on (Outreach Magazine's) list of America’s Most Innovative Churches, primarily for its ability to leverage the latest technology available...”
-
-Founded in 1996 
-Boostrapped (started in a garage)
 
 In the theory of Software is Eating the World, LifeChurch is the young, agile tech startup bootstrapped by a few techies (it actually was), threatening the slower-moving, large-scale, established incumbent organization, which happens to be the United Methodist Church. Yes, the list of organizations that previously had no connection to software at all, but are now being "eaten by software" now includes religious organizations. Though it might be counter-intuitive to think of religious organizations as competing against one another, the [Pew Religious Landscape Survey](http://religions.pewforum.org/reports) refers the religious marketplace as "very competitive," due to the constant flux of people. 
 
