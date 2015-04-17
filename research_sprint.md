@@ -130,6 +130,9 @@ Between 2014 and 2020, "Another billion people will come online, all due to smar
 "The smartphone industry dwarfs PCs"
 ![](research-sprint/smartphone-industry-dwarfs-pcs.png)
 
+"More time is spent in mobile apps than on all of the web"
+![](research-sprint/more-time-spent-in-mobile-apps.png)
+
 ## Software is Reorganizing the World
 
 Balaji Srinivasan ([@balajis](https://twitter.com/balajis)) famously [wrote](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations)... 
