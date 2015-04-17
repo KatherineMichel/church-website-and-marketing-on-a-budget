@@ -188,9 +188,9 @@ On the other hand:
 1. If you do not offer a mobile app/livestreaming, ect, church-goers can easily find a replacement offered by another church, such as LifeChurch
 2. Connected products such as a mobile app/livestreaming create a new opportunity to share worship with anyone, anywhere in the world
 
-Digital and sharing during worship was the subject of a recent article in the United Methodist Interpreter Magazine, which suggested that rather than discouraging use of religous tech 
+Digital and sharing during worship was the subject of a recent article in the United Methodist Interpreter Magazine, which suggested that rather than discouraging use of religous tech, church-goers could be encouraged to share their worship experience online, for instance by tweeting scripture messages on Facebook or Twitter. 
 
-confronts the consternation over tech versus worship services, suggesting that instead of discouraging use of tech, church-goers should be encouraged to share their worship experience online, for instance by tweeting scripture messages on Facebook or Twitter. The author of the article, actually references the LifeChurch Bible app as a method to incorporate tech and worship.  
+The author of the article, actually references the LifeChurch Bible app as a method to incorporate tech and worship.  
 ![](research-sprint/interpreter.jpg)
 
 ## To What Extend Can a Different Tech Approach Help the United Methodist Church?
