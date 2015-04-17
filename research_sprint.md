@@ -127,6 +127,9 @@ Between 2014 and 2020, "Another billion people will come online, all due to smar
 "By 2020 80% of the adults on earth will have a smartphone."
 ![](research-sprint/by-2020-80-percent-of-adults.png)
 
+"The smartphone industry dwarfs PCs"
+![](research-sprint/smartphone-industry-dwarfs-pcs.png)
+
 ## Software is Reorganizing the World
 
 Balaji Srinivasan ([@balajis](https://twitter.com/balajis)) famously [wrote](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations)... 
