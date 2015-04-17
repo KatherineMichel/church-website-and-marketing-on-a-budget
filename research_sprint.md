@@ -181,7 +181,7 @@ Two of the concerns that I've heard about the idea of adopting LifeChurch-style 
 1. Church-goers will no longer show up to church
 2. Offering will decline as a result
 
-
+Indeed, a cost benefit analysis must be done while considering any change. 
 
 
 But these arguments may pose little relevance, because of the competitive marketplace. Church-goers can use the digital products of other denominations as replacements. 
