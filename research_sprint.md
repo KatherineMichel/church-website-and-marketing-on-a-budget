@@ -185,9 +185,9 @@ Indeed, a cost benefit analysis must be done while considering any change.
 
 On the other hand: 
 
-1. If you do not offer a mobile app/livestreaming, ect, church-goers can easily find a replacement offered by another church, such as LifeChruhc
+1. If you do not offer a mobile app/livestreaming, ect, church-goers can easily find a replacement offered by another church, such as LifeChurch
 
-But these arguments may pose little relevance, because of the competitive marketplace. Church-goers can use the digital products of other denominations as replacements. 
+
 
 This recent article in the United Methodist Interpreter Magazine confronts the consternation over tech versus worship services, suggesting that instead of discouraging use of tech, church-goers should be encouraged to share their worship experience online, for instance by tweeting scripture messages on Facebook or Twitter. The author of the article, actually references the LifeChurch Bible app as a method to incorporate tech and worship.  
 ![](research-sprint/interpreter.jpg)
