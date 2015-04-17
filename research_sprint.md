@@ -108,6 +108,7 @@ Marc Andreessen: "Starting in 2007, with the iPhone, the smartphone comes out. T
 Basically, people in developing countries sch as the United States (where United Methodist membership is on the decline) tend to be able to afford laptops and/or smartphones. In developing countries, such as Africa and the Phillipines (where United Methodist membership is skyrocketting), the people tend to not be able to afford a laptop. But they may be able to afford mobile phones, and increasingly smartphones, as the price falls. Such phones will be used as a lifeline- for education, banking (many do not have bank account), to own a small business (which will help bring people out of poverty and build up the economy), to connect with people from around the world (just like many people in developed countries already do, and perhaps to read the Bible! Unlike those of us accustomed to owning laptops, for many people in developing countries, the phone 
 
 The phone may be the first and only computer that the person has ever owned.  
+http://blogs.wsj.com/digits/2014/10/28/never-mind-software-mobile-is-eating-the-world
 
 6x more mobile phone subscriptions in developing world
 ![](research-sprint/mobile-phones-subscriptions-world-bank.png)
