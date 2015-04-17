@@ -219,26 +219,6 @@ Jesus grew a social network that consisted of family, friends, and followers, wh
 
 
 
-Presumably, as these new smartphone owners come online, they will begin to search for 
-
-It should be noted that even though smartphones are becoming popular worldwide, different phones are popular among different demographics and regions. For example, in comparison to Android, iPhones tend to be more expensive and fewer are sold. However, their owners typically spend more money, which is one of the reasons why many business in the developed world develop for iPhone "first." People in a developing country may be less likely to be able to afford an iPhone. So organizations that intend to be successfully adopted in a developing country may need to develop for inexpensive platforms first in order to offer products the people there can afford. As an example, the messaging company WhatsApp developed for a variety of inexpensive platforms and made its mobile app free for a year. WhatsApp achieved widespread adoption and success.
-
-LifeChurch scorecard
-
-| Theory | Score |
-| -- | -- |
-| Software is Eating the World | A+ |
-| Mobile is Eating the World | A+ |
-| Software is Reorganizing the World | A |
-
-United Methodist scorecard
-
-| Theory | Score |
-| -- | -- |
-| Software is Eating the World | A |
-| Mobile is Eating the World | ? |
-| Software is Reorganizing the World | C |
-
 
 
 
