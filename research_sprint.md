@@ -148,10 +148,11 @@ Though the separation between our bodies is still best characterized by the geog
 
 Perhaps the single most important feature of these states of mind is the increasing divergence between our social and geographic neighbors, between the cloud formations of our heads and the physical communities surrounding our bodies. An infinity of subcultures outside the mainstream now blossoms on the Internet — vegans, body modifiers, CrossFitters, Wiccans, DIYers, Pinners, and support groups of all forms. Millions of people are finding their true peers in the cloud, a remedy for the isolation imposed by the anonymous apartment complex or the remote rural location."
 
-
 # What Does a Successful Global United Methodist Presence Look Like?
 
 Based on the theories of [Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html), [Mobile is Eating the World](http://a16z.com/2014/10/28/mobile-is-eating-the-world), and [Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations), we can surmise that in the future, the world will be largely automated by software. The successful organizations will tend to be those that meet the needs of the communities of people reorganizing in the cloud. These organizations will tend to leverage the power of mobile, and will create such competitive advantages as virality and network effect. 
+
+
 
 ### Disruption
 Does this description fit the United Methodist Church and if not, how can the United Methodist Church disrupt itself, before being disrupted? 
