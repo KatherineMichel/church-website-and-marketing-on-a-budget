@@ -159,10 +159,6 @@ One way to now may be to analyze a church that does already fit this description
 
 ## LifeChurch
 
-The story of LifeChurch is not unlike that of other tech startups such as Amazon or Google. According to [Covenant Newswire](http://blogs.covchurch.org/newswire/2007/01/16/5363):  
-
-“When LifeChurch.tv began in 1996, forty members met in a two-car garage equipped with just a borrowed overhead projector and two construction lights purchased at Lowe’s for $19.99. Ten years later, the church has been named No. 1 on (Outreach Magazine's) list of America’s Most Innovative Churches, primarily for its ability to leverage the latest technology available...”
-
 In the theory of Software is Eating the World, LifeChurch is the young, agile tech startup bootstrapped by a few techies, threatening the slower-moving, large-scale, established incumbent organization, which happens to be the United Methodist Church. Yes, the list of organizations that previously had no connection to software at all, but are now being "eaten by software" now includes religious organizations. Though it might be counter-intuitive to think of religious organizations as competing against one another, the [Pew Religious Landscape Survey](http://religions.pewforum.org/reports) refers the religious marketplace as "very competitive," due to the constant flux of people. 
 
 Google Trends graph for the phrases ["LifeChurch" and "The Bible App" (region: worldwide)](http://www.google.com/trends/explore#q=LifeChurch%2C%20The%20Bible%20App&cmpt=q&tz=), from 2004 to 2015. [LifeChurch](http://en.wikipedia.org/wiki/LifeChurch.tv) is The Bible App's parent organization. LifeChurch was founded in 1996, but began offering online broadcasts in 2006. [The Bible App](https://www.bible.com/app), one of LifeChurch's flagship products, was founded in 2008. 
