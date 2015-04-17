@@ -183,6 +183,9 @@ Two of the concerns that I've heard about the idea of adopting LifeChurch-style 
 
 Indeed, a cost benefit analysis must be done while considering any change. 
 
+On the other hand: 
+
+1. If you do not offer a mobile app/livestreaming, ect, church-goers can easily find a replacement offered by another church, such as LifeChruhc
 
 But these arguments may pose little relevance, because of the competitive marketplace. Church-goers can use the digital products of other denominations as replacements. 
 
