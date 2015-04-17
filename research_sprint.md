@@ -114,7 +114,7 @@ We can see from this chart based on World Bank data that mobile phone subscripti
 In the [Mobile is Eating the World slidedeck](http://a16z.com/2014/10/28/mobile-is-eating-the-world), Benedict Evans of A16Z shows that... 
 
 
-Benedict Evans revisted the Sub-Saharan Africa slide in a [Twitter thread](https://twitter.com/BenedictEvans/status/583489997203869698) on April 2, 2015. 
+Benedict Evans revisted this Sub-Saharan Africa slide in a [Twitter thread](https://twitter.com/BenedictEvans/status/583489997203869698) on April 2, 2015. 
 
 
 
