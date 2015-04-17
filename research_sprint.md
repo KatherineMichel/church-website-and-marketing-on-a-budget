@@ -118,7 +118,8 @@ Sub-Saharan Africa population coverage, "The utility of mobile increases as inco
 
 Benedict Evans revisted the above Sub-Saharan Africa slide in a [Twitter thread](https://twitter.com/BenedictEvans/status/583489997203869698) on April 2, 2015. 
 
-
+Between 2014 and 2020, "Another billion people will come online, all due to smartphones."
+![](research-sprint/another-one-billion-online.png)
 
 
 
