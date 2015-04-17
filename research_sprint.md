@@ -138,7 +138,7 @@ Between 2014 and 2020, "Another billion people will come online, all due to smar
 
 ## Software is Reorganizing the World
 
-Balaji Srinivasan ([@balajis](https://twitter.com/balajis)) famously [wrote](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations)... 
+Not only will another one billion people com online by 2020, and spend more time using mobile apps than web, but "communities" of people are reorganizing online in the "cloud," as explained by Balaji Srinivasan ([@balajis](https://twitter.com/balajis)) famously [Software is Reorgaizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations)... 
 
 "It is not immediately obvious where those seeking opportunity might head today. Every square foot of earth is already spoken for by one (or more) nation states, every physical frontier long since closed.
 
