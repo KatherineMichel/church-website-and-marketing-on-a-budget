@@ -121,7 +121,8 @@ Benedict Evans revisted the above Sub-Saharan Africa slide in a [Twitter thread]
 Between 2014 and 2020, "Another billion people will come online, all due to smartphones."
 ![](research-sprint/another-one-billion-online.png)
 
-
+"By 2020 80% of the adults on earth will have a smartphone."
+![](research-sprint/by-2020-80-percent-of-adults.png)
 
 ## Software is Reorganizing the World
 
