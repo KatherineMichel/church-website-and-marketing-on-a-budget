@@ -162,7 +162,7 @@ One way to now may be to analyze a church that does already fit this description
 In the theory of Software is Eating the World, LifeChurch is the young, agile tech startup threatening the slower-moving, large-scale, established incumbent organization, which happens to be the United Methodist Church. Yes, the list of organizations that previously had no connection to software at all, but are now being "eaten by software" not include religious organizations. 
 
 
-LifeChurch is the smaller, more agile organization bootstrapped by a few techies (it actually was). 
+LifeChurch bootstrapped by a few techies (it actually was). 
 
 LifeChurch's Google Trends Graph results are up and to the right.
 
