@@ -165,16 +165,16 @@ The story of LifeChurch is not unlike that of other tech startups such as Amazon
 
 In the theory of Software is Eating the World, LifeChurch is the young, agile tech startup bootstrapped by a few techies, threatening the slower-moving, large-scale, established incumbent organization, which happens to be the United Methodist Church. Yes, the list of organizations that previously had no connection to software at all, but are now being "eaten by software" now includes religious organizations. Though it might be counter-intuitive to think of religious organizations as competing against one another, the [Pew Religious Landscape Survey](http://religions.pewforum.org/reports) refers the religious marketplace as "very competitive," due to the constant flux of people. 
 
-While the United Methodist Church's Google Trends Graph results are on the decline, LifeChurch's Google Trends Graph results are up and to the right.
-
 Google Trends graph for the phrases ["LifeChurch" and "The Bible App" (region: worldwide)](http://www.google.com/trends/explore#q=LifeChurch%2C%20The%20Bible%20App&cmpt=q&tz=), from 2004 to 2015. [LifeChurch](http://en.wikipedia.org/wiki/LifeChurch.tv) is The Bible App's parent organization. LifeChurch was founded in 1996, but began offering online broadcasts in 2006. [The Bible App](https://www.bible.com/app) was founded in 2008. 
 ![](google-maps-and-trends/google-trends-lifechurch-and-the-bible-app.jpg)
+
+LifeChurch's Google Trends Graph results are up and to the right.
 
 Google Trends graph for phrases ["United Methodist Church" "LifeChurch" "The Bible App" "Upworthy"](http://www.google.com/trends/explore#q=United%20Methodist%20Church%2C%20LifeChurch%2C%20The%20Bible%20App%2C%20Upworthy&cmpt=q&tz=) from 2004 to 2015
 
 ![](google-maps-and-trends/google-trends-united-methodist-church-lifechurch-the-bible-app-upworthy.jpg)
 
-The United Methodist Church, which is clearly of declining interest, is still a "giant" compared to LifeChurch and The Bible App. However, LifeChurch and the Bible App are on the rise with the type of strong, modern network effect in place that could unexpectedly disrupt a traditional church.
+The United Methodist Church, with its declining interest, is still a "giant" compared to LifeChurch and The Bible App. However, LifeChurch and the Bible App are on the rise with the type of strong, modern network effect in place that could unexpectedly disrupt a traditional church.
 
 
 
