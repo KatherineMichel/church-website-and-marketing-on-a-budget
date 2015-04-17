@@ -186,7 +186,7 @@ Indeed, a cost benefit analysis must be done while considering any change.
 On the other hand: 
 
 1. If you do not offer a mobile app/livestreaming, ect, church-goers can easily find a replacement offered by another church, such as LifeChurch
-2. Mobile app/livestreaming can offer 
+2. Mobile app/livestreaming create the potential to share worship with anyone, anywhere in the world
 
 
 
