@@ -111,10 +111,12 @@ We can see from this chart based on World Bank data that mobile phone subscripti
 
 ![](research-sprint/mobile-phones-subscriptions-world-bank.png)
 
-In the [Mobile is Eating the World slidedeck](http://a16z.com/2014/10/28/mobile-is-eating-the-world), Benedict Evans of A16Z shows that... 
+A few more slides from [Mobile is Eating the World slidedeck](http://a16z.com/2014/10/28/mobile-is-eating-the-world), by Benedict Evans of A16Z: 
 
+Sub-Saharan Africa population coverage, "The utility of mobile increases as income falls." 
+![](research-sprint/sub-saharan-africa-utility-of-mobile.png)
 
-Benedict Evans revisted this Sub-Saharan Africa slide in a [Twitter thread](https://twitter.com/BenedictEvans/status/583489997203869698) on April 2, 2015. 
+Benedict Evans revisted the above Sub-Saharan Africa slide in a [Twitter thread](https://twitter.com/BenedictEvans/status/583489997203869698) on April 2, 2015. 
 
 
 
