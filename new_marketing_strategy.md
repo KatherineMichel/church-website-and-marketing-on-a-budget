@@ -15,7 +15,9 @@ As the revitalization effort generated momentum, an anonymous donor made a gener
 ### Worship Committee
 It was also decided during an Administrative Council meeting that a new Worship Committe would be formed to oversee Worship Service design. 
 
-## Self-Sustaining Publicity Engine
+## Digitally Enabled Congregation
+
+### Self-Sustaining Publicity Engine
 We would aspire to create a self-sustaining publicity engine made up of church leaders, committee leaders and members, and congregation members (of all ages and backgrounds) working together in synergy. This would include:
 
 * Church Leaders
@@ -34,6 +36,8 @@ The church purchased a 2015 wall calendar. This Outreach Calendar Calendar is hu
 A Youth Leadership Initiative would be formed to assist with publicity duties such as running the new screen videos and music during worship, taking photos and/or writing blog posts.
 
 After identifying relevant duties, I would develop a set of training materials for the Youth Leadership Initiative. I would go over these with the youth during Sunday School. 
+
+### Training Materials
 
 ## Example Marketing Plan
 
