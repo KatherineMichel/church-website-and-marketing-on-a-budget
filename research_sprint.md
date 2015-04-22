@@ -102,8 +102,7 @@ Does the above description of a successful organization of the future fit the Un
    
 A successful global United Methodist presence is one that changes with the times to best meet the needs of current members, pontential future members and others in need. 
 
-## To What Extend Can a Different Tech Approach Help the United Methodist Church?
-According to the United Methodist [The Book of Discipline](http://www.umc.org/who-we-are/developments-and-changes-since-1968)), published in 2012, United Methodist membership in the United States and Europe has been declining since 1968, before web and mobile technlogies became available to the masses. This indicates that the decline in membership is at least due in part to non-tech related apathy toward the religion, rather than tech-related lifestyle change. Presumably, a change in tech approach will do little to help in the case of non-tech related apathy, because tech is not at the root of the problem. However, tech could still play a part in maintaining or increasing membership. 
+
 
 
 
@@ -182,6 +181,9 @@ Between 2014 and 2020, "Another billion people will come online, all due to smar
 
 "More time is spent in mobile apps than on all of the web"
 ![](research-sprint/more-time-spent-in-mobile-apps.png)
+
+## To What Extend Can a Different Tech Approach Help the United Methodist Church?
+According to the United Methodist [The Book of Discipline](http://www.umc.org/who-we-are/developments-and-changes-since-1968)), published in 2012, United Methodist membership in the United States and Europe has been declining since 1968, before web and mobile technlogies became available to the masses. This indicates that the decline in membership is at least due in part to non-tech related apathy toward the religion, rather than tech-related lifestyle change. Presumably, a change in tech approach will do little to help in the case of non-tech related apathy, because tech is not at the root of the problem. However, tech could still play a part in maintaining or increasing membership. 
 
 ## Paradox of Increased Giving
 Though in recent years U.S. membership and local church spending have gone down, the United Methodist church [has reported that](http://www.umc.org/news-and-media/mixed-blessings-in-new-us-church-numbers) at times, dramatically more amounts of money have been given giving to charitable causes through the United Methodist Church. For instance, in 2010, "direct giving to United Methodist-related causes increased by more than 29 percent" and the United Methodist Committee on Relief received 146% more, in part due to the disaster in Haiti. 
