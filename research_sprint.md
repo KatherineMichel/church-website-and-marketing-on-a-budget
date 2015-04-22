@@ -76,7 +76,7 @@ Even though the U.S. still has the largest percentage of United Methodist member
 Though of course, the United Methodist Church should seek to minister to all of its members and potential members worldwide, a timely opportunity exists to minister to people through technology, including in regions of rapid membership growth. 
 
 # How Should the Church Reach Them?
-How the church should reach people can be analyzed by studying 3 theories that originated from some of the best minds in tech:
+How the church should reach them can be analyzed by studying 3 theories that originated from some of the best minds in tech:
 * Software is Eating the World
 * Mobile is Eating the World
 * Software is Reorganizing the World
@@ -84,7 +84,7 @@ How the church should reach people can be analyzed by studying 3 theories that o
 ## Software is Eating the World
 [Marc Andreessen](https://twitter.com/pmarca) famously explained his theory of [Why Software Is Eating The World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html) in the Wall Street Journal in 2011. 
 
-It goes like this:<br>
+I am paraphrasing:<br>
 A "technological and economic shift" is happening. The world is becoming a global, digitally wired economy. The masses have growing access to personal computers, broadband, and now smartphones. Online services are increasingly more popular, becoming permanently integrated with daily habits. As demand grows, more low-cost SaaS and PaaS infrastructure products (Amazon Web Services, Heroku, Digital Ocean, ect.) are being offered that enable entrepreneurs to launch online businesses by renting micro-instances of infrastructure, and pay as they go, unlike in the past, when businesses had to spend five, six figures or more for the full computer infrastructure equipment needed to keep a business up and running. Suddenly, incumbent moats, barriers of entry of ago are becoming a thing of the past. A couple of agile software developers working out of an apartment can write the software needed to create a global business that threatens a slower-moving, large-scale, established incumbent business. This happened in the case of Amazon, and many others. Even companies with previously no connection at all to software are being "eaten by software," as more services are being delivered (and expected to be delivered) online. 
 
 "Companies in every industry need to assume that a software revolution is coming... in many industries, new software ideas will result in the rise of new Silicon Valley-style start-ups that invade existing industries with impunity. Over the next 10 years, the battles between incumbents and software-powered insurgents will be epic."<br>
