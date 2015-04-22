@@ -66,9 +66,9 @@ Though of course, the United Methodist Church should seek to minister to all of 
 
 # How Should the Church Reach Them?
 How the church should reach them can be analyzed by studying 3 theories that originated from some of the best minds in tech:
-* Software is Eating the World
-* Mobile is Eating the World
-* Software is Reorganizing the World
+* "Software is Eating the World"
+* "Mobile is Eating the World"
+* "Software is Reorganizing the World"
 
 ## Software is Eating the World
 [Marc Andreessen](https://twitter.com/pmarca) famously explained his theory of [Why Software Is Eating The World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html) in the Wall Street Journal in 2011. 
