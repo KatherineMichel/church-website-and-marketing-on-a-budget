@@ -83,6 +83,23 @@ The "Software is Eating the World" theory was revisted in 2014 by [Marc Andreess
 
 Marc Andreessen: "Starting in 2007, with the iPhone, the smartphone comes out. The smartphone finally packages computers in a form where everybody on the planet can have one... I think everybody on the planet by the end of the decade is going to have a smartphone. Effectively everybody. Almost everybody. Including in places where it’s still hard to get electricity or water, people are going to have smartphones... So, I think we’re going to live in a world by the end of the decade in which there’s five, six, seven billion smartphones in people’s hands, which means five, six, seven billion people in the world connected to the Internet with what we would consider modern tools and technologies and access... I think the next five years is basically prime time to think about every business, every industry, every field and say, “Well, how can we reinvent it now knowing that software can basically play such an important role in everything.”
 
+A few more slides from [Mobile is Eating the World slidedeck](http://a16z.com/2014/10/28/mobile-is-eating-the-world), by Benedict Evans of A16Z: 
+
+"The unconnected are shrinking"
+![](research-sprint/unconnected-are-shrinking.png)
+
+Between 2014 and 2020, "Another billion people will come online, all due to smartphones."
+![](research-sprint/another-one-billion-online.png)
+
+"By 2020 80% of the adults on earth will have a smartphone."
+![](research-sprint/by-2020-80-percent-of-adults.png)
+
+"The smartphone industry dwarfs PCs"
+![](research-sprint/smartphone-industry-dwarfs-pcs.png)
+
+"More time is spent in mobile apps than on all of the web"
+![](research-sprint/more-time-spent-in-mobile-apps.png)
+
 ## Software is Reorganizing the World
 Not only are "Software and Mobile Eating the World," but "communities" of people are reorganizing online in the "cloud," as explained by Balaji Srinivasan ([@balajis](https://twitter.com/balajis)) of A16Z in the article [Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations)... 
 
@@ -160,29 +177,12 @@ We can see from this chart based on World Bank data that mobile phone subscripti
 
 http://www.pewglobal.org/2015/04/15/cell-phones-in-africa-communication-lifeline
 
-A few more slides from [Mobile is Eating the World slidedeck](http://a16z.com/2014/10/28/mobile-is-eating-the-world), by Benedict Evans of A16Z: 
-
 Not only will another one billion people com online by 2020, and spend more time using mobile apps than web if the trend continues... 
 
 Sub-Saharan Africa population coverage, "The utility of mobile increases as income falls." 
 ![](research-sprint/sub-saharan-africa-utility-of-mobile.png)
 
 Benedict Evans revisted the above Sub-Saharan Africa slide in a [Twitter thread](https://twitter.com/BenedictEvans/status/583489997203869698) on April 2, 2015. 
-
-"The unconnected are shrinking"
-![](research-sprint/unconnected-are-shrinking.png)
-
-Between 2014 and 2020, "Another billion people will come online, all due to smartphones."
-![](research-sprint/another-one-billion-online.png)
-
-"By 2020 80% of the adults on earth will have a smartphone."
-![](research-sprint/by-2020-80-percent-of-adults.png)
-
-"The smartphone industry dwarfs PCs"
-![](research-sprint/smartphone-industry-dwarfs-pcs.png)
-
-"More time is spent in mobile apps than on all of the web"
-![](research-sprint/more-time-spent-in-mobile-apps.png)
 
 ## To What Extend Can a Different Tech Approach Help the United Methodist Church?
 According to the United Methodist [The Book of Discipline](http://www.umc.org/who-we-are/developments-and-changes-since-1968)), published in 2012, United Methodist membership in the United States and Europe has been declining since 1968, before web and mobile technlogies became available to the masses. This indicates that the decline in membership is at least due in part to non-tech related apathy toward the religion, rather than tech-related lifestyle change. Presumably, a change in tech approach will do little to help in the case of non-tech related apathy, because tech is not at the root of the problem. However, tech could still play a part in maintaining or increasing membership. 
