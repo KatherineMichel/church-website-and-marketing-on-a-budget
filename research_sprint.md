@@ -59,6 +59,8 @@ Projected membership by 2020, using same percentage change as 2000 to 2010
 | Africa | 14,920,344 | 
 | Philippines | 227,929 |
 
+Paradoxically, though in recent years U.S. membership and local church spending have gone down, the United Methodist church [has reported that](http://www.umc.org/news-and-media/mixed-blessings-in-new-us-church-numbers) at times, dramatically more amounts of money have been given giving to charitable causes through the United Methodist Church. For instance, in 2010, "direct giving to United Methodist-related causes increased by more than 29 percent" and the United Methodist Committee on Relief received 146% more, in part due to the disaster in Haiti.  
+
 ## Summary
 Even though the U.S. still has the largest percentage of United Methodist members, this number is steadily decreasing. Meanwhile, Africa, a continent with a population of 1+ billion, at this rate of growth, will have twice as many United Methodist members as the U.S. by 2020. Growth in the Phillipines is big percentage-wise though considerably smaller in number than that of Africa. Membership in Europe and Euroasia is declining, but already small. 
 
