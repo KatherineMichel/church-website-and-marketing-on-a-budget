@@ -112,7 +112,7 @@ Though the separation between our bodies is still best characterized by the geog
 Perhaps the single most important feature of these states of mind is the increasing divergence between our social and geographic neighbors, between the cloud formations of our heads and the physical communities surrounding our bodies. An infinity of subcultures outside the mainstream now blossoms on the Internet — vegans, body modifiers, CrossFitters, Wiccans, DIYers, Pinners, and support groups of all forms. Millions of people are finding their true peers in the cloud, a remedy for the isolation imposed by the anonymous apartment complex or the remote rural location."
 
 ## Summary
-Based on the theories of [Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html), [Mobile is Eating the World](http://a16z.com/2014/10/28/mobile-is-eating-the-world), and [Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations), we can surmise that in the future, the world will be largely automated by software. The successful organizations will tend to be those that leverage the power of mobile, particularly smartphones, to meet the needs of people reorganizing in the "cloud."
+Based on the theories of [Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html), [Mobile is Eating the World](http://a16z.com/2014/10/28/mobile-is-eating-the-world), and [Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations), we can surmise that in the future, the world will be largely automated by software. Another one billion people will be online by 2020 due to smartphones, and will spend more time using mobile apps than web. The successful organizations will tend to be those that leverage the power of mobile, particularly smartphones and smartphone apps, to meet the needs of people reorganizing in the "cloud."
 
 # What Does a Successful Global United Methodist Presence Look Like?
 Does the above description of a successful organization of the future fit the United Methodist Church? If not, should the United Methodist Church be more like this description?
@@ -176,8 +176,6 @@ We can see from this chart based on World Bank data that mobile phone subscripti
 ![](research-sprint/mobile-phones-subscriptions-world-bank.png)
 
 http://www.pewglobal.org/2015/04/15/cell-phones-in-africa-communication-lifeline
-
-Not only will another one billion people com online by 2020, and spend more time using mobile apps than web if the trend continues... 
 
 Sub-Saharan Africa population coverage, "The utility of mobile increases as income falls." 
 ![](research-sprint/sub-saharan-africa-utility-of-mobile.png)
