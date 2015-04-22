@@ -69,9 +69,11 @@ Projected membership by 2020, using same percentage change as 2000 to 2010
 | Africa | 14,920,344 | 
 | Philippines | 227,929 |
 
+## Summary
 
+Even thoough the U.S. still has the largest percentage of United Methodist members, this number is steadily decreasing. Meanwhile, at this pace, Africa will have more than double the members of the U.S. by 2020. 
 
-So, even though the U.S. has the largest percentage of United Methodist members, this number is steadily stagnating. Meanwhile, membership in Africa threatens to overtake that of the United States. Growth in the Phillipines is big percentage-wise though considerably smaller than that of Africa in comparison. Membership in Europe and Euroasia is declining, but already small. 
+Meanwhile, membership in Africa threatens to overtake that of the United States. Growth in the Phillipines is big percentage-wise though considerably smaller than that of Africa in comparison. Membership in Europe and Euroasia is declining, but already small. 
 
 At this rate, Africa will have more than doubled the U.S. in United Methodist membership by 2020. And Africa has room for growth with its population of 1+ billion. 
 
