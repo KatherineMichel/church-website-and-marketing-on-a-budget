@@ -87,8 +87,7 @@ How the church should reach them can be analyzed by studying 3 theories that ori
 I am paraphrasing:<br>
 A "technological and economic shift" is happening. The world is becoming a global, digitally wired economy. The masses have growing access to personal computers, broadband, and now smartphones. Online services are increasingly more popular, becoming permanently integrated with daily habits. As demand grows, more low-cost SaaS and PaaS infrastructure products (Amazon Web Services, Heroku, Digital Ocean, ect.) are being offered that enable entrepreneurs to launch online businesses by renting micro-instances of infrastructure, and pay as they go, unlike in the past, when businesses had to spend five, six figures or more for the full computer infrastructure equipment needed to keep a business up and running. Suddenly, incumbent moats, barriers of entry of ago are becoming a thing of the past. A couple of agile software developers working out of an apartment can write the software needed to create a global business that threatens a slower-moving, large-scale, established incumbent business. This happened in the case of Amazon, and many others. Even companies with previously no connection at all to software are being "eaten by software," as more services are being delivered (and expected to be delivered) online. 
 
-"Companies in every industry need to assume that a software revolution is coming... in many industries, new software ideas will result in the rise of new Silicon Valley-style start-ups that invade existing industries with impunity. Over the next 10 years, the battles between incumbents and software-powered insurgents will be epic."<br>
-
+Marc Andreessen: "Companies in every industry need to assume that a software revolution is coming... in many industries, new software ideas will result in the rise of new Silicon Valley-style start-ups that invade existing industries with impunity. Over the next 10 years, the battles between incumbents and software-powered insurgents will be epic."
 
 ## Mobile is Eating the World
 The "Software is Eating the World" theory was revisted in 2014 by [Marc Andreessen](https://twitter.com/pmarca) and his investing partner [Ben Horowitz](https://twitter.com/bhorowitz) in the A16Z podcast: "[Ben and Marc Explain (Practically) Everything – Part 1](http://a16z.com/2014/08/25/a16z-podcast-ben-and-marc-explain-practically-everything-part-1)," this time with a focus on the "Mobile is Eating the World," theory also illustrated by this [slidedeck](http://a16z.com/2014/10/28/mobile-is-eating-the-world) by A16Z partner Benedict Evans, and in this WSJ article, "[Never Mind Software – Mobile is Eating the World.](http://blogs.wsj.com/digits/2014/10/28/never-mind-software-mobile-is-eating-the-world)"
@@ -97,7 +96,9 @@ Marc Andreessen: "Starting in 2007, with the iPhone, the smartphone comes out. T
 
 ## Software is Reorganizing the World
 
-Not only will another one billion people com online by 2020, and spend more time using mobile apps than web if the trend continues, but "communities" of people are reorganizing online in the "cloud," as explained by Balaji Srinivasan ([@balajis](https://twitter.com/balajis)) of A16Z in the article [Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations)... 
+Not only will another one billion people com online by 2020, and spend more time using mobile apps than web if the trend continues, 
+
+Not only are "Software and Mobile Eating the World," but "communities" of people are reorganizing online in the "cloud," as explained by Balaji Srinivasan ([@balajis](https://twitter.com/balajis)) of A16Z in the article [Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations)... 
 
 "It is not immediately obvious where those seeking opportunity might head today. Every square foot of earth is already spoken for by one (or more) nation states, every physical frontier long since closed.
 
