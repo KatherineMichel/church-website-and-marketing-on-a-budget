@@ -105,6 +105,11 @@ A successful global United Methodist presence is one that changes with the times
 ## Gap Analysis
 One way to know if the United Methodist Church should be more like this description of a successful organization of the future may be to analyze a church that is already closer to fitting this description. The name of the church is [LifeChurch](http://www.lifechurch.tv). 
 
+In the article [Surviving Disruption](https://hbr.org/2012/12/surviving-disruption), Max Wessel and Clayton Christensen explain how a company can disrupt itself in order to avoid being disrupted:
+
+* Identify the strengths of your disrupter’s business model
+* Identify your own relative advantages
+* Evaluate the conditions that would help or hinder the disrupter from co-opting your current advantages in the future.
 
 
 LifeChurch does not have physical churches in 
