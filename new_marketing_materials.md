@@ -49,7 +49,7 @@ Inside<br>
 Back cover<br>
 ![](new-marketing-materials/new-greeting-card-back-cover.jpg)
 
-## New Multi-Purpose Postcard (example)
+## New Multi-Purpose Postcard
 
 ![](new-marketing-materials/new-post-card.jpg)
 
