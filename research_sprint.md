@@ -74,7 +74,9 @@ Projected membership by 2020, using same percentage change as 2000 to 2010
 | Africa | 14,920,344 | 
 | Philippines | 227,929 |
 
-At this rate, Africa will have more than doubled the U.S. in United Methodist membership by 2020. And Africa has room for growth with its population of 1+ billion. Though of course the United Methodist Church would seek to minister to people anywhere in the world, clearly the religion is trending more in some places than others. 
+At this rate, Africa will have more than doubled the U.S. in United Methodist membership by 2020. And Africa has room for growth with its population of 1+ billion. Though of course, the United Methodist Church should seek to minis
+
+Though of course the United Methodist Church would seek to minister to people anywhere in the world, clearly the religion is trending more in some places than others. 
 
 # How should the church reach them?
 
@@ -93,23 +95,27 @@ Marc Andreessen wrote his Software is Eating the World op-ed in 2011, just four 
 Google Trends graph for phrases ["iPhone" "app" "Android" "desktop" "website" (region: worldwide)](http://www.google.com/trends/explore#q=iPhone%2C%20app%2C%20Android%2C%20desktop%2C%20website&cmpt=q&tz=), from 2004 to 2015. 
 ![](google-maps-and-trends/google-trends-iphone-app-android-desktop-website.jpg)
 
-Also, when the iPhone launched, a corresponding market for church-related mobile products was immediately born, as illustrated in the Google Trends graph below. 
+Also, when the iPhone launched, a corresponding market for church-related mobile products was immediately born, as illustrated in the Google Trends graph below. New technologies create new markets.
 
 Google Trends graph for phrases ["church iPhone" "church app" "church Android" "church desktop" "church website" (region: worldwide)](http://www.google.com/trends/explore#q=church%20iPhone%2C%20church%20app%2C%20church%20Android%2C%20church%20livestream&cmpt=q&tz=), from 2004 to 2015.
 ![](google-maps-and-trends/google-trends-church-iphone-church-app-church-android-church-livestream.jpg)
 
 ## Mobile is Eating the World
-The "Software is Eating the World" theory was revisted in 2014 by [Marc Andreessen](https://twitter.com/pmarca) and his investing partner [Ben Horowitz](https://twitter.com/bhorowitz) in the A16Z podcast: "[Ben and Marc Explain (Practically) Everything – Part 1](http://a16z.com/2014/08/25/a16z-podcast-ben-and-marc-explain-practically-everything-part-1)," this time with a focus on the "Mobile is Eating the World," theory also illustrated by this [slidedeck](http://a16z.com/2014/10/28/mobile-is-eating-the-world) by A16Z partner Benedict Evans, and in the this WSJ article, "[Never Mind Software – Mobile is Eating the World.](http://blogs.wsj.com/digits/2014/10/28/never-mind-software-mobile-is-eating-the-world)"
+The "Software is Eating the World" theory was revisted in 2014 by [Marc Andreessen](https://twitter.com/pmarca) and his investing partner [Ben Horowitz](https://twitter.com/bhorowitz) in the A16Z podcast: "[Ben and Marc Explain (Practically) Everything – Part 1](http://a16z.com/2014/08/25/a16z-podcast-ben-and-marc-explain-practically-everything-part-1)," this time with a focus on the "Mobile is Eating the World," theory also illustrated by this [slidedeck](http://a16z.com/2014/10/28/mobile-is-eating-the-world) by A16Z partner Benedict Evans, and in this WSJ article, "[Never Mind Software – Mobile is Eating the World.](http://blogs.wsj.com/digits/2014/10/28/never-mind-software-mobile-is-eating-the-world)"
 
 Marc Andreessen: "Starting in 2007, with the iPhone, the smartphone comes out. The smartphone finally packages computers in a form where everybody on the planet can have one... I think everybody on the planet by the end of the decade is going to have a smartphone. Effectively everybody. Almost everybody. Including in places where it’s still hard to get electricity or water, people are going to have smartphones... So, I think we’re going to live in a world by the end of the decade in which there’s five, six, seven billion smartphones in people’s hands, which means five, six, seven billion people in the world connected to the Internet with what we would consider modern tools and technologies and access... I think the next five years is basically prime time to think about every business, every industry, every field and say, “Well, how can we reinvent it now knowing that software can basically play such an important role in everything.”
 
 ## What Does Increasing Mobile Phone (and Smartphone) Ownership in Developing Countries Mean for The Global United Methodist Church?
 
-Basically, people in developing countries such as the United States (where United Methodist membership is on the decline) tend to be able to afford laptops and/or smartphones. In developing countries, such as Africa and the Phillipines (where United Methodist membership is skyrocketting), the people tend to not be able to afford a laptop. But they may be able to afford mobile phones, and increasingly smartphones, as the price falls. Such phones will be used as a lifeline- for education, banking (many do not have a bank account or traditional credit), to own a small business (which will help bring people out of poverty and build up the economy), to connect with people from around the world (just like many people in developed countries already do), and perhaps to read the Bible! Unlike those of us accustomed to owning laptops, for many people in developing countries, the phone may be the first and only computer that the person will have ever owned.  
+Basically, people in developed countries such as the United States (where United Methodist membership is on the decline) tend to be able to afford laptops and/or smartphones. In developing countries, such as Africa and the Phillipines (where United Methodist membership is skyrocketting), the people tend to not be able to afford a laptop. But they may be able to afford mobile phones, and increasingly smartphones, as prices fall. Such phones will be used as a lifeline- for education, banking (many do not have a bank account or traditional credit), to own a small business (which will help bring people out of poverty and build up the economy), to connect with people from around the world (just like many people in developed countries already do), and perhaps to read the Bible! Unlike those of us accustomed to owning laptops, for many people in developing countries, the phone may be the first and only computer that the person will have ever owned.  
+
+### Smartphone Penetration in Developing Countries
 
 We can see from this chart based on World Bank data that mobile phone subscriptions in the developing world have vastly overtaken those of the developed world. Chart credit: [CFS Asset Management](http://www.cfsgam.com.au)
 
 ![](research-sprint/mobile-phones-subscriptions-world-bank.png)
+
+http://www.pewglobal.org/2015/04/15/cell-phones-in-africa-communication-lifeline
 
 A few more slides from [Mobile is Eating the World slidedeck](http://a16z.com/2014/10/28/mobile-is-eating-the-world), by Benedict Evans of A16Z: 
 
@@ -133,9 +139,6 @@ Between 2014 and 2020, "Another billion people will come online, all due to smar
 "More time is spent in mobile apps than on all of the web"
 ![](research-sprint/more-time-spent-in-mobile-apps.png)
 
-
-
-
 ## Software is Reorganizing the World
 
 Not only will another one billion people com online by 2020, and spend more time using mobile apps than web if the trend continues, but "communities" of people are reorganizing online in the "cloud," as explained by Balaji Srinivasan ([@balajis](https://twitter.com/balajis)) of A16Z in the article [Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations)... 
@@ -150,7 +153,9 @@ Perhaps the single most important feature of these states of mind is the increas
 
 # What Does a Successful Global United Methodist Presence Look Like?
 
-Based on the theories of [Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html), [Mobile is Eating the World](http://a16z.com/2014/10/28/mobile-is-eating-the-world), and [Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations), we can surmise that in the future, the world will be largely automated by software. The successful organizations will tend to be those that meet the needs of the communities of people reorganizing in the cloud. These organizations will tend to leverage the power of mobile, and will create such competitive advantages as virality and network effect. 
+Based on the theories of [Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html), [Mobile is Eating the World](http://a16z.com/2014/10/28/mobile-is-eating-the-world), and [Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations), we can surmise that in the future, the world will be largely automated by software. The successful organizations will tend to be those that meet the needs of the communities of people reorganizing in the cloud. These organizations will tend to leverage the power of mobile , predominantly smartphones ("By 2020 80% of the adults on earth will have a smartphone" and already "More time is spent in mobile apps than on all of the web" from Benedict Evans), and will create such competitive advantages as virality and network effect. 
+
+
 
 ### Gap Analysis
 Does this description of a successful organization of the future fit the United Methodist Church? If not, should the United Methodist Church be more like this description?   
