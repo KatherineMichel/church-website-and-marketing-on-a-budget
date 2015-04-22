@@ -145,7 +145,7 @@ Google Trends graph for the phrases ["LifeChurch" and "The Bible App" (region: w
 
 LifeChurch's Google Trends Graph results are up and to the right.
 
-Google Trends graph for phrases ["United Methodist Church" "LifeChurch" "The Bible App" "Upworthy"](http://www.google.com/trends/explore#q=United%20Methodist%20Church%2C%20LifeChurch%2C%20The%20Bible%20App) from 2004 to 2015
+Google Trends graph for phrases ["United Methodist Church" "LifeChurch" "The Bible App"](http://www.google.com/trends/explore#q=United%20Methodist%20Church%2C%20LifeChurch%2C%20The%20Bible%20App) from 2004 to 2015
 
 ![](google-maps-and-trends/google-trends-united-methodist-church-lifechurch-the-bible-app.jpg)
 
