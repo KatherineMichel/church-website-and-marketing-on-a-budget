@@ -4,22 +4,20 @@ What's the matter with the [United Methodist Church](http://www.umc.org)? Lookin
 ## Reverse Engineering for Success
 The questions I seek to answer in my research sprint:
 * Whom should the church reach?
-* How should the church reach the people?
+* How should the church reach them?
 * What does a successful global United Methodist presence look like?
 
 # Whom Should the Church Reach?
 
 "In the next 10 years, I expect at least five billion people worldwide to own smartphones, giving every individual with such a phone instant access to the full power of the Internet, every moment of every day." -Marc Andreessen on [Why Software is Eating the World](http://www.wsj.com/articles/SB10001424053111903480904576512250915629460), 2011
 
-## Google Trends Graph for "United Methodist Church"
+## Declining United Methodist Membership in the U.S.
 
 Google Trends graph for the phrase ["United Methodist Church" (region: worldwide)](http://www.google.com/trends/explore#q=United%20Methodist%20Church), from around 2004 to 2015. 
 
 ![](google-maps-and-trends/google-trends-united-methodist-church-worldwide.jpg)
 
 This declining search interest traffic was almost 100% from the United States. 
-
-## Declining United Methodist Membership in the U.S.
 
 According to the [2012 United Methodist State of the Church Report](http://s3.amazonaws.com/Website_Properties/state-of-the-church/documents/2012-state-of-the-church-report.PDF) (the latest report of its kind), between 2000 and 2010, United Methodist membership in the United States declined by 7.8%. <br>
 
