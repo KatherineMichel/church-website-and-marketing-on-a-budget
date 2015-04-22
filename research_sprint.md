@@ -146,7 +146,7 @@ Google Trends graph for phrases ["church iPhone" "church app" "church Android" "
 ![](google-maps-and-trends/google-trends-church-iphone-church-app-church-android-church-livestream.jpg)
 
 
-Not only will another one billion people com online by 2020, and spend more time using mobile apps than web if the trend continues, 
+
 
 ## What Does Increasing Mobile Phone (and Smartphone) Ownership in Developing Countries Mean for The Global United Methodist Church?
 
@@ -161,6 +161,8 @@ We can see from this chart based on World Bank data that mobile phone subscripti
 http://www.pewglobal.org/2015/04/15/cell-phones-in-africa-communication-lifeline
 
 A few more slides from [Mobile is Eating the World slidedeck](http://a16z.com/2014/10/28/mobile-is-eating-the-world), by Benedict Evans of A16Z: 
+
+Not only will another one billion people com online by 2020, and spend more time using mobile apps than web if the trend continues... 
 
 Sub-Saharan Africa population coverage, "The utility of mobile increases as income falls." 
 ![](research-sprint/sub-saharan-africa-utility-of-mobile.png)
