@@ -103,6 +103,22 @@ The "Software is Eating the World" theory was revisted in 2014 by [Marc Andreess
 
 Marc Andreessen: "Starting in 2007, with the iPhone, the smartphone comes out. The smartphone finally packages computers in a form where everybody on the planet can have one... I think everybody on the planet by the end of the decade is going to have a smartphone. Effectively everybody. Almost everybody. Including in places where it’s still hard to get electricity or water, people are going to have smartphones... So, I think we’re going to live in a world by the end of the decade in which there’s five, six, seven billion smartphones in people’s hands, which means five, six, seven billion people in the world connected to the Internet with what we would consider modern tools and technologies and access... I think the next five years is basically prime time to think about every business, every industry, every field and say, “Well, how can we reinvent it now knowing that software can basically play such an important role in everything.”
 
+
+"The unconnected are shrinking"
+![](research-sprint/unconnected-are-shrinking.png)
+
+Between 2014 and 2020, "Another billion people will come online, all due to smartphones."
+![](research-sprint/another-one-billion-online.png)
+
+"By 2020 80% of the adults on earth will have a smartphone."
+![](research-sprint/by-2020-80-percent-of-adults.png)
+
+"The smartphone industry dwarfs PCs"
+![](research-sprint/smartphone-industry-dwarfs-pcs.png)
+
+"More time is spent in mobile apps than on all of the web"
+![](research-sprint/more-time-spent-in-mobile-apps.png)
+
 ## What Does Increasing Mobile Phone (and Smartphone) Ownership in Developing Countries Mean for The Global United Methodist Church?
 
 Basically, people in developed countries such as the United States (where United Methodist membership is on the decline) tend to be able to afford laptops and/or smartphones. In developing countries, such as Africa and the Phillipines (where United Methodist membership is skyrocketting), the people tend to not be able to afford a laptop. But they may be able to afford mobile phones, and increasingly smartphones, as prices fall. Such phones will be used as a lifeline- for education, banking (many do not have a bank account or traditional credit), to own a small business (which will help bring people out of poverty and build up the economy), to connect with people from around the world (just like many people in developed countries already do), and perhaps to read the Bible! Unlike those of us accustomed to owning laptops, for many people in developing countries, the phone may be the first and only computer that the person will have ever owned.  
@@ -121,21 +137,6 @@ Sub-Saharan Africa population coverage, "The utility of mobile increases as inco
 ![](research-sprint/sub-saharan-africa-utility-of-mobile.png)
 
 Benedict Evans revisted the above Sub-Saharan Africa slide in a [Twitter thread](https://twitter.com/BenedictEvans/status/583489997203869698) on April 2, 2015. 
-
-"The unconnected are shrinking"
-![](research-sprint/unconnected-are-shrinking.png)
-
-Between 2014 and 2020, "Another billion people will come online, all due to smartphones."
-![](research-sprint/another-one-billion-online.png)
-
-"By 2020 80% of the adults on earth will have a smartphone."
-![](research-sprint/by-2020-80-percent-of-adults.png)
-
-"The smartphone industry dwarfs PCs"
-![](research-sprint/smartphone-industry-dwarfs-pcs.png)
-
-"More time is spent in mobile apps than on all of the web"
-![](research-sprint/more-time-spent-in-mobile-apps.png)
 
 ## Software is Reorganizing the World
 
