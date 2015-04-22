@@ -98,6 +98,19 @@ The "Software is Eating the World" theory was revisted in 2014 by [Marc Andreess
 
 Marc Andreessen: "Starting in 2007, with the iPhone, the smartphone comes out. The smartphone finally packages computers in a form where everybody on the planet can have one... I think everybody on the planet by the end of the decade is going to have a smartphone. Effectively everybody. Almost everybody. Including in places where it’s still hard to get electricity or water, people are going to have smartphones... So, I think we’re going to live in a world by the end of the decade in which there’s five, six, seven billion smartphones in people’s hands, which means five, six, seven billion people in the world connected to the Internet with what we would consider modern tools and technologies and access... I think the next five years is basically prime time to think about every business, every industry, every field and say, “Well, how can we reinvent it now knowing that software can basically play such an important role in everything.”
 
+## Software is Reorganizing the World
+
+Not only will another one billion people com online by 2020, and spend more time using mobile apps than web if the trend continues, but "communities" of people are reorganizing online in the "cloud," as explained by Balaji Srinivasan ([@balajis](https://twitter.com/balajis)) of A16Z in the article [Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations)... 
+
+"It is not immediately obvious where those seeking opportunity might head today. Every square foot of earth is already spoken for by one (or more) nation states, every physical frontier long since closed.
+
+With our bodies hemmed in, our minds have only the cloud — and it is the cloud that has become the destination for an extraordinary mental exodus. Hundreds of millions of people have now migrated to the cloud, spending hours per day working, playing, chatting, and laughing in real-time HD resolution with people thousands of miles away … without knowing their next-door neighbors.
+
+Though the separation between our bodies is still best characterized by the geographical distance between points on the surface of the earth, the distance between our minds is increasingly characterized by a completely different metric: the geodesic distance, the number of degrees of separation between two nodes in a social network. 
+
+Perhaps the single most important feature of these states of mind is the increasing divergence between our social and geographic neighbors, between the cloud formations of our heads and the physical communities surrounding our bodies. An infinity of subcultures outside the mainstream now blossoms on the Internet — vegans, body modifiers, CrossFitters, Wiccans, DIYers, Pinners, and support groups of all forms. Millions of people are finding their true peers in the cloud, a remedy for the isolation imposed by the anonymous apartment complex or the remote rural location."
+
+
 
 "The unconnected are shrinking"
 ![](research-sprint/unconnected-are-shrinking.png)
@@ -132,19 +145,6 @@ Sub-Saharan Africa population coverage, "The utility of mobile increases as inco
 ![](research-sprint/sub-saharan-africa-utility-of-mobile.png)
 
 Benedict Evans revisted the above Sub-Saharan Africa slide in a [Twitter thread](https://twitter.com/BenedictEvans/status/583489997203869698) on April 2, 2015. 
-
-## Software is Reorganizing the World
-
-Not only will another one billion people com online by 2020, and spend more time using mobile apps than web if the trend continues, but "communities" of people are reorganizing online in the "cloud," as explained by Balaji Srinivasan ([@balajis](https://twitter.com/balajis)) of A16Z in the article [Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations)... 
-
-"It is not immediately obvious where those seeking opportunity might head today. Every square foot of earth is already spoken for by one (or more) nation states, every physical frontier long since closed.
-
-With our bodies hemmed in, our minds have only the cloud — and it is the cloud that has become the destination for an extraordinary mental exodus. Hundreds of millions of people have now migrated to the cloud, spending hours per day working, playing, chatting, and laughing in real-time HD resolution with people thousands of miles away … without knowing their next-door neighbors.
-
-Though the separation between our bodies is still best characterized by the geographical distance between points on the surface of the earth, the distance between our minds is increasingly characterized by a completely different metric: the geodesic distance, the number of degrees of separation between two nodes in a social network. 
-
-Perhaps the single most important feature of these states of mind is the increasing divergence between our social and geographic neighbors, between the cloud formations of our heads and the physical communities surrounding our bodies. An infinity of subcultures outside the mainstream now blossoms on the Internet — vegans, body modifiers, CrossFitters, Wiccans, DIYers, Pinners, and support groups of all forms. Millions of people are finding their true peers in the cloud, a remedy for the isolation imposed by the anonymous apartment complex or the remote rural location."
-
 
 ## iPhone Launches and Mobile Takes Off
 Marc Andreessen wrote his Software is Eating the World op-ed in 2011, just four years after the [iPhone](http://en.wikipedia.org/wiki/IPhone) launched. The subsequent popularity of the iPhone and other mobile products, such as [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29), can be clearly seen in the graph below. Words associated with mobile ("iPhone" "app" "Android") are "up and to the right." Non-mobile words ("desktop" "website") are on the decline.
