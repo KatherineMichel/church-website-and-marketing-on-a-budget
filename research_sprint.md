@@ -107,10 +107,10 @@ Perhaps the single most important feature of these states of mind is the increas
 ## Summary
 Based on the theories of [Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html), [Mobile is Eating the World](http://a16z.com/2014/10/28/mobile-is-eating-the-world), and [Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations), we can surmise that in the future, the world will be largely automated by software. The successful organizations will tend to be those that leverage the power of mobile, particularly smartphones, to meet the needs of people reorganizing in the "cloud."
 
+# What Does a Successful Global United Methodist Presence Look Like?
 
 
 
-("By 2020 80% of the adults on earth will have a smartphone" and already "More time is spent in mobile apps than on all of the web" from Benedict Evans)
 
 Not only will another one billion people com online by 2020, and spend more time using mobile apps than web if the trend continues, 
 
@@ -159,7 +159,7 @@ Also, when the iPhone launched, a corresponding market for church-related mobile
 Google Trends graph for phrases ["church iPhone" "church app" "church Android" "church desktop" "church website" (region: worldwide)](http://www.google.com/trends/explore#q=church%20iPhone%2C%20church%20app%2C%20church%20Android%2C%20church%20livestream&cmpt=q&tz=), from 2004 to 2015.
 ![](google-maps-and-trends/google-trends-church-iphone-church-app-church-android-church-livestream.jpg)
 
-# What Does a Successful Global United Methodist Presence Look Like?
+
 
 
 ### Gap Analysis
