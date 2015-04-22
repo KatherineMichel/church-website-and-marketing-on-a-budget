@@ -75,8 +75,8 @@ Even thoough the U.S. still has the largest percentage of United Methodist membe
 
 Though of course, the United Methodist Church should seek to minister to all of its members, a timely opportunity exists to minister to people through technology, including in regions of rapid membership growth. 
 
-# How Should the Church Reach The People?
-How the church should reach people can be analyzed by studyin 3 theories that come from several of the best minds in tech.
+# How Should the Church Reach Them?
+How the church should reach people can be analyzed by studying 3 theories that originated from some of the best minds in tech:
 * Software is Eating the World
 * Mobile is Eating the World
 * Software is Reorganizing the World
