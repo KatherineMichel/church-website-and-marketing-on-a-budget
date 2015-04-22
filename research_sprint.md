@@ -28,7 +28,9 @@ Google Trends graph for the phrases ["United Methodist" "Catholic" "Presbyterian
 ![](google-maps-and-trends/google-trends-united-methodist-catholic-presbyterian-baptist.jpg)
 
 ## Increasing United Methodist Membership in Developing Countries
-According to the United Methodist Church, even though the U.S. has the most United Methodist members and membership there has been on the decline, between 2000 and 2010, worldwide membership has gone up 25%, due to membership skyrocketing by as much as 297.6% in parts of Africa and the Philippines (source: [United Methodist State of the Church Report, 2012](http://s3.amazonaws.com/Website_Properties/state-of-the-church/documents/2012-state-of-the-church-report.PDF)). 
+The U.S. has the most United Methodist members and membership there has been on the decline. 
+
+However, between 2000 and 2010, worldwide membership has gone up 25%, due to membership skyrocketing by as much as 297.6% in parts of Africa and the Philippines (source: [United Methodist State of the Church Report, 2012](http://s3.amazonaws.com/Website_Properties/state-of-the-church/documents/2012-state-of-the-church-report.PDF)). 
 
 | Region | % Change in Membership, Highest to Lowest, 2000-2010 |
 | -- | -- |
