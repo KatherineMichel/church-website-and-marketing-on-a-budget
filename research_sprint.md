@@ -102,10 +102,6 @@ Does the above description of a successful organization of the future fit the Un
    
 A successful global United Methodist presence is one that changes with the times to best meet the needs of current members, pontential future members and others in need. 
 
-
-The fact that membership in the U.S. long before web and mobile technology became available to the masses
-
-
 ## To What Extend Can a Different Tech Approach Help the United Methodist Church?
 That a decline in U.S. and European United Methodist membership began in 1968, before web and mobile technlogies became available to the masses, indicates that the decline in membership is at least due in part to non-tech related apathy toward the religion, rather than tech-related lifestyle change. Presumably, a change in tech approach will do little to help in the case of non-tech related apathy, because tech is not at the root of the problem. However, tech could still play a part in maintaining or increasing membership. 
 
