@@ -30,9 +30,7 @@ Google Trends graph for the phrases ["United Methodist" "Catholic" "Presbyterian
 ![](google-maps-and-trends/google-trends-united-methodist-catholic-presbyterian-baptist.jpg)
 
 ## Increasing United Methodist Membership in Developing Countries
-The U.S. has the most United Methodist members and membership there has been on the decline. 
-
-However, between 2000 and 2010, worldwide membership has gone up 25%, due to membership skyrocketing by as much as 297.6% in parts of Africa and the Philippines (source: [United Methodist State of the Church Report, 2012](http://s3.amazonaws.com/Website_Properties/state-of-the-church/documents/2012-state-of-the-church-report.PDF)). 
+However, according to the [United Methodist State of the Church Report, 2012](http://s3.amazonaws.com/Website_Properties/state-of-the-church/documents/2012-state-of-the-church-report.PDF), between the years 2000 and 2010, worldwide United Methodist membership went up 25% as membership in Africa and the Philippines skyrocketted by as much a 297.6%. 
 
 | Region | % Change in Membership, Highest to Lowest, 2000-2010 |
 | -- | -- |
@@ -62,7 +60,7 @@ Projected membership by 2020, using same percentage change as 2000 to 2010
 | Philippines | 227,929 |
 
 ## Summary
-Even though the U.S. still has the largest percentage of United Methodist members, this number is steadily decreasing. Meanwhile, at this rate, Africa, a continent with a population of 1+ billion, will have twice as many United Methodist members as the U.S. by 2020. Growth in the Phillipines is big percentage-wise though considerably smaller in number than that of Africa. Membership in Europe and Euroasia is declining, but already small. 
+Even though the U.S. still has the largest percentage of United Methodist members, this number is steadily decreasing. Meanwhile, Africa, a continent with a population of 1+ billion, at this rate of growth, will have twice as many United Methodist members as the U.S. by 2020. Growth in the Phillipines is big percentage-wise though considerably smaller in number than that of Africa. Membership in Europe and Euroasia is declining, but already small. 
 
 Of course, the United Methodist Church seeks to minister to all of its members and potential members worldwide. A timely opportunity exists to use technology to appeal to potential members in places where membership is on the decline, and to help grow membership in places where it is rapidly increasing. 
 
