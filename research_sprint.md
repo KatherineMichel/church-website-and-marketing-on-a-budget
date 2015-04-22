@@ -17,9 +17,7 @@ Google Trends graph for the phrase ["United Methodist Church" (region: worldwide
 
 ![](google-maps-and-trends/google-trends-united-methodist-church-worldwide.jpg)
 
-According to the [2012 United Methodist State of the Church Report](http://s3.amazonaws.com/Website_Properties/state-of-the-church/documents/2012-state-of-the-church-report.PDF) (the latest report of its kind), between 2000 and 2010, United Methodist membership in the United States declined by 7.8%. <br>
-
-According to [this excerpt from The Book of Discipline](http://www.umc.org/who-we-are/developments-and-changes-since-1968) published in 2012 by the United Methodist Church, United Methodist membership in the United States and Europe has declined since 1968. During that same time, membership in Africa and Asia grew significantly. 
+According to the United Methodist Church, between 2000 and 2010, United Methodist membership in the United States declined by 7.8% (Source: [2012 United Methodist State of the Church Report](http://s3.amazonaws.com/Website_Properties/state-of-the-church/documents/2012-state-of-the-church-report.PDF)). United Methodist membership in the United States and Europe has been declining since 1968 (Source: [The Book of Discipline](http://www.umc.org/who-we-are/developments-and-changes-since-1968)).  
 
 ## Declining U.S. Membership in Mainline Churches
 
@@ -31,6 +29,8 @@ Google Trends graph for the phrases ["United Methodist" "Catholic" "Presbyterian
 ![](google-maps-and-trends/google-trends-united-methodist-catholic-presbyterian-baptist.jpg)
 
 ## Increasing United Methodist Membership in Developing Countries
+
+During that same time, membership in Africa and Asia grew significantly. 
 
 According to the [2012 United Methodist State of the Church Report](http://s3.amazonaws.com/Website_Properties/state-of-the-church/documents/2012-state-of-the-church-report.PDF), though membership is on the decline in the United States, between 2000 and 2010, membership has gone up 25% worldwide, due to skyrocketing membership in parts of Africa and the Philippines.
 
