@@ -17,7 +17,7 @@ Google Trends graph for the phrase ["United Methodist Church" (region: worldwide
 
 ![](google-maps-and-trends/google-trends-united-methodist-church-worldwide.jpg)
 
-According to the United Methodist Church, between 2000 and 2010, United Methodist membership in the United States declined by 7.8% (source: [2012 United Methodist State of the Church Report](http://s3.amazonaws.com/Website_Properties/state-of-the-church/documents/2012-state-of-the-church-report.PDF)). United Methodist membership in the United States and Europe has been declining since 1968 (source: [The Book of Discipline](http://www.umc.org/who-we-are/developments-and-changes-since-1968)).  
+According to the United Methodist Church, between 2000 and 2010, United Methodist membership in the United States declined by 7.8% (source: [United Methodist State of the Church Report, 2012](http://s3.amazonaws.com/Website_Properties/state-of-the-church/documents/2012-state-of-the-church-report.PDF)). United Methodist membership in the United States and Europe has been declining since 1968 (source: [The Book of Discipline, 2012](http://www.umc.org/who-we-are/developments-and-changes-since-1968)).  
 
 ## United Membership Trends Mirror Those of Other Mainline Churches
 The problem of declining U.S. membership is not exclusive to the United Methodist Church. Mainline churches in general are struggling to stay relevant in the U.S. 
@@ -28,7 +28,7 @@ Google Trends graph for the phrases ["United Methodist" "Catholic" "Presbyterian
 ![](google-maps-and-trends/google-trends-united-methodist-catholic-presbyterian-baptist.jpg)
 
 ## Increasing United Methodist Membership in Developing Countries
-According to the United Methodist Church, even though the U.S. has the most United Methodist members and membership there has been on the decline, between 2000 and 2010, worldwide membership has gone up 25%, due to membership skyrocketing by as much as 297.6% in parts of Africa and the Philippines (source: [2012 United Methodist State of the Church Report](http://s3.amazonaws.com/Website_Properties/state-of-the-church/documents/2012-state-of-the-church-report.PDF)). 
+According to the United Methodist Church, even though the U.S. has the most United Methodist members and membership there has been on the decline, between 2000 and 2010, worldwide membership has gone up 25%, due to membership skyrocketing by as much as 297.6% in parts of Africa and the Philippines (source: [United Methodist State of the Church Report, 2012](http://s3.amazonaws.com/Website_Properties/state-of-the-church/documents/2012-state-of-the-church-report.PDF)). 
 
 | Region | % Change in Membership, Highest to Lowest, 2000-2010 |
 | -- | -- |
