@@ -112,6 +112,9 @@ Does the above description of a successful organization of the future fit the Un
    
 A successful global United Methodist presence is one that changes with the times to best meet the needs of current members, pontential future members and others in need. 
 
+## Gap Analysis
+
+
 ## iPhone Launches and Mobile Takes Off
 Marc Andreessen wrote his Software is Eating the World op-ed in 2011, just four years after the [iPhone](http://en.wikipedia.org/wiki/IPhone) launched. The subsequent popularity of the iPhone and other mobile products, such as [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29), can be clearly seen in the graph below. Words associated with mobile ("iPhone" "app" "Android") are "up and to the right." Non-mobile words ("desktop" "website") are on the decline.
 
