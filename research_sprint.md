@@ -93,17 +93,6 @@ A "technological and economic shift" is happening. The world is becoming a globa
 "Companies in every industry need to assume that a software revolution is coming... in many industries, new software ideas will result in the rise of new Silicon Valley-style start-ups that invade existing industries with impunity. Over the next 10 years, the battles between incumbents and software-powered insurgents will be epic."<br>
 -Marc Andreessen
 
-## iPhone Launches and Mobile Takes Off
-Marc Andreessen wrote his Software is Eating the World op-ed in 2011, just four years after the [iPhone](http://en.wikipedia.org/wiki/IPhone) launched. The subsequent popularity of the iPhone and other mobile products, such as [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29), can be clearly seen in the graph below. Words associated with mobile ("iPhone" "app" "Android") are "up and to the right." Non-mobile words ("desktop" "website") are on the decline.
-
-Google Trends graph for phrases ["iPhone" "app" "Android" "desktop" "website" (region: worldwide)](http://www.google.com/trends/explore#q=iPhone%2C%20app%2C%20Android%2C%20desktop%2C%20website&cmpt=q&tz=), from 2004 to 2015. 
-![](google-maps-and-trends/google-trends-iphone-app-android-desktop-website.jpg)
-
-Also, when the iPhone launched, a corresponding market for church-related mobile products was immediately born, as illustrated in the Google Trends graph below. New technologies create new markets.
-
-Google Trends graph for phrases ["church iPhone" "church app" "church Android" "church desktop" "church website" (region: worldwide)](http://www.google.com/trends/explore#q=church%20iPhone%2C%20church%20app%2C%20church%20Android%2C%20church%20livestream&cmpt=q&tz=), from 2004 to 2015.
-![](google-maps-and-trends/google-trends-church-iphone-church-app-church-android-church-livestream.jpg)
-
 ## Mobile is Eating the World
 The "Software is Eating the World" theory was revisted in 2014 by [Marc Andreessen](https://twitter.com/pmarca) and his investing partner [Ben Horowitz](https://twitter.com/bhorowitz) in the A16Z podcast: "[Ben and Marc Explain (Practically) Everything – Part 1](http://a16z.com/2014/08/25/a16z-podcast-ben-and-marc-explain-practically-everything-part-1)," this time with a focus on the "Mobile is Eating the World," theory also illustrated by this [slidedeck](http://a16z.com/2014/10/28/mobile-is-eating-the-world) by A16Z partner Benedict Evans, and in this WSJ article, "[Never Mind Software – Mobile is Eating the World.](http://blogs.wsj.com/digits/2014/10/28/never-mind-software-mobile-is-eating-the-world)"
 
@@ -155,6 +144,18 @@ With our bodies hemmed in, our minds have only the cloud — and it is the cloud
 Though the separation between our bodies is still best characterized by the geographical distance between points on the surface of the earth, the distance between our minds is increasingly characterized by a completely different metric: the geodesic distance, the number of degrees of separation between two nodes in a social network. 
 
 Perhaps the single most important feature of these states of mind is the increasing divergence between our social and geographic neighbors, between the cloud formations of our heads and the physical communities surrounding our bodies. An infinity of subcultures outside the mainstream now blossoms on the Internet — vegans, body modifiers, CrossFitters, Wiccans, DIYers, Pinners, and support groups of all forms. Millions of people are finding their true peers in the cloud, a remedy for the isolation imposed by the anonymous apartment complex or the remote rural location."
+
+
+## iPhone Launches and Mobile Takes Off
+Marc Andreessen wrote his Software is Eating the World op-ed in 2011, just four years after the [iPhone](http://en.wikipedia.org/wiki/IPhone) launched. The subsequent popularity of the iPhone and other mobile products, such as [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29), can be clearly seen in the graph below. Words associated with mobile ("iPhone" "app" "Android") are "up and to the right." Non-mobile words ("desktop" "website") are on the decline.
+
+Google Trends graph for phrases ["iPhone" "app" "Android" "desktop" "website" (region: worldwide)](http://www.google.com/trends/explore#q=iPhone%2C%20app%2C%20Android%2C%20desktop%2C%20website&cmpt=q&tz=), from 2004 to 2015. 
+![](google-maps-and-trends/google-trends-iphone-app-android-desktop-website.jpg)
+
+Also, when the iPhone launched, a corresponding market for church-related mobile products was immediately born, as illustrated in the Google Trends graph below. New technologies create new markets.
+
+Google Trends graph for phrases ["church iPhone" "church app" "church Android" "church desktop" "church website" (region: worldwide)](http://www.google.com/trends/explore#q=church%20iPhone%2C%20church%20app%2C%20church%20Android%2C%20church%20livestream&cmpt=q&tz=), from 2004 to 2015.
+![](google-maps-and-trends/google-trends-church-iphone-church-app-church-android-church-livestream.jpg)
 
 # What Does a Successful Global United Methodist Presence Look Like?
 
