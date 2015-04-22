@@ -108,8 +108,22 @@ Perhaps the single most important feature of these states of mind is the increas
 Based on the theories of [Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html), [Mobile is Eating the World](http://a16z.com/2014/10/28/mobile-is-eating-the-world), and [Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations), we can surmise that in the future, the world will be largely automated by software. The successful organizations will tend to be those that leverage the power of mobile, particularly smartphones, to meet the needs of people reorganizing in the "cloud."
 
 # What Does a Successful Global United Methodist Presence Look Like?
+"The successful organizations will tend to be those that leverage the power of mobile, particularly smartphones, to meet the needs of people reorganizing in the "cloud."
+
+Does this sound like the United Methodist Church, and should it?
+
 A successful global United Methodist presence is one that changes with the times to best meet the needs of current members and constituents, and to reach pontential future members and others in need. 
 
+## iPhone Launches and Mobile Takes Off
+Marc Andreessen wrote his Software is Eating the World op-ed in 2011, just four years after the [iPhone](http://en.wikipedia.org/wiki/IPhone) launched. The subsequent popularity of the iPhone and other mobile products, such as [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29), can be clearly seen in the graph below. Words associated with mobile ("iPhone" "app" "Android") are "up and to the right." Non-mobile words ("desktop" "website") are on the decline.
+
+Google Trends graph for phrases ["iPhone" "app" "Android" "desktop" "website" (region: worldwide)](http://www.google.com/trends/explore#q=iPhone%2C%20app%2C%20Android%2C%20desktop%2C%20website&cmpt=q&tz=), from 2004 to 2015. 
+![](google-maps-and-trends/google-trends-iphone-app-android-desktop-website.jpg)
+
+Also, when the iPhone launched, a corresponding market for church-related mobile products was immediately born, as illustrated in the Google Trends graph below. New technologies create new markets.
+
+Google Trends graph for phrases ["church iPhone" "church app" "church Android" "church desktop" "church website" (region: worldwide)](http://www.google.com/trends/explore#q=church%20iPhone%2C%20church%20app%2C%20church%20Android%2C%20church%20livestream&cmpt=q&tz=), from 2004 to 2015.
+![](google-maps-and-trends/google-trends-church-iphone-church-app-church-android-church-livestream.jpg)
 
 
 Not only will another one billion people com online by 2020, and spend more time using mobile apps than web if the trend continues, 
@@ -147,20 +161,6 @@ Sub-Saharan Africa population coverage, "The utility of mobile increases as inco
 ![](research-sprint/sub-saharan-africa-utility-of-mobile.png)
 
 Benedict Evans revisted the above Sub-Saharan Africa slide in a [Twitter thread](https://twitter.com/BenedictEvans/status/583489997203869698) on April 2, 2015. 
-
-## iPhone Launches and Mobile Takes Off
-Marc Andreessen wrote his Software is Eating the World op-ed in 2011, just four years after the [iPhone](http://en.wikipedia.org/wiki/IPhone) launched. The subsequent popularity of the iPhone and other mobile products, such as [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29), can be clearly seen in the graph below. Words associated with mobile ("iPhone" "app" "Android") are "up and to the right." Non-mobile words ("desktop" "website") are on the decline.
-
-Google Trends graph for phrases ["iPhone" "app" "Android" "desktop" "website" (region: worldwide)](http://www.google.com/trends/explore#q=iPhone%2C%20app%2C%20Android%2C%20desktop%2C%20website&cmpt=q&tz=), from 2004 to 2015. 
-![](google-maps-and-trends/google-trends-iphone-app-android-desktop-website.jpg)
-
-Also, when the iPhone launched, a corresponding market for church-related mobile products was immediately born, as illustrated in the Google Trends graph below. New technologies create new markets.
-
-Google Trends graph for phrases ["church iPhone" "church app" "church Android" "church desktop" "church website" (region: worldwide)](http://www.google.com/trends/explore#q=church%20iPhone%2C%20church%20app%2C%20church%20Android%2C%20church%20livestream&cmpt=q&tz=), from 2004 to 2015.
-![](google-maps-and-trends/google-trends-church-iphone-church-app-church-android-church-livestream.jpg)
-
-
-
 
 ### Gap Analysis
 Does this description of a successful organization of the future fit the United Methodist Church? If not, should the United Methodist Church be more like this description?   
