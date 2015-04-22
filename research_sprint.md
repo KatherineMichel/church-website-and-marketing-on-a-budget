@@ -13,11 +13,9 @@ The questions I seek to answer in my research sprint:
 
 ## Declining United Methodist Membership in the U.S.
 
-Google Trends graph for the phrase ["United Methodist Church" (region: worldwide)](http://www.google.com/trends/explore#q=United%20Methodist%20Church), from around 2004 to 2015. 
+Google Trends graph for the phrase ["United Methodist Church" (region: worldwide)](http://www.google.com/trends/explore#q=United%20Methodist%20Church), from around 2004 to 2015. This declining was predominantly the United States.
 
 ![](google-maps-and-trends/google-trends-united-methodist-church-worldwide.jpg)
-
-This declining search interest traffic was almost 100% from the United States. 
 
 According to the [2012 United Methodist State of the Church Report](http://s3.amazonaws.com/Website_Properties/state-of-the-church/documents/2012-state-of-the-church-report.PDF) (the latest report of its kind), between 2000 and 2010, United Methodist membership in the United States declined by 7.8%. <br>
 
