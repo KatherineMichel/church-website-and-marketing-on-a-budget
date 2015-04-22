@@ -19,15 +19,7 @@ Google Trends graph for the phrase ["United Methodist Church" (region: worldwide
 
 According to the [2012 United Methodist State of the Church Report](http://s3.amazonaws.com/Website_Properties/state-of-the-church/documents/2012-state-of-the-church-report.PDF) (the latest report of its kind), between 2000 and 2010, United Methodist membership in the United States declined by 7.8%. <br>
 
-![](national-united-methodist-church/2012-state-of-the-church-report-professing-membership.jpg)
-
-Note, this chart has a couple of discrepancies; It appear that "Change in Membership" should have:
-* Philippines: 88,872
-* U.S.: -721,990
-
-According to my math, with "Change in Membership" for U.S. as -721,990, "% Change in Membership" would be approximately -9%. 
-
-According to [this excerpt from The Book of Discipline (2012)](http://www.umc.org/who-we-are/developments-and-changes-since-1968) published by the United Methodist Church, United Methodist membership in the United States and Europe has declined since 1968. During that same time, membership in Africa and Asia grew significantly. 
+According to [this excerpt from The Book of Discipline](http://www.umc.org/who-we-are/developments-and-changes-since-1968) published in 2012 by the United Methodist Church, United Methodist membership in the United States and Europe has declined since 1968. During that same time, membership in Africa and Asia grew significantly. 
 
 ## Declining U.S. Membership in Mainline Churches
 
