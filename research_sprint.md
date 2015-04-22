@@ -65,7 +65,7 @@ Even though the U.S. still has the largest percentage of United Methodist member
 Of course, the United Methodist Church seeks to minister to all of its members and potential members worldwide. A timely opportunity exists to use technology to appeal to potential members in places where membership is on the decline, and to help grow membership in places where it is rapidly increasing. 
 
 # How Should the Church Reach Them?
-How the church should reach them can be analyzed by studying 3 theories that originated from some of the best minds in tech:
+How the church should reach them can be analyzed by studying three theories that originated from some of the best minds in tech:
 * "Software is Eating the World"
 * "Mobile is Eating the World"
 * "Software is Reorganizing the World"
