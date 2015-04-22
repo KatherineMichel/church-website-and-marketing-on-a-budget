@@ -13,7 +13,7 @@ The questions I seek to answer in my research sprint:
 
 ## Declining United Methodist Membership in the U.S.
 
-Google Trends graph for the phrase ["United Methodist Church" (region: worldwide)](http://www.google.com/trends/explore#q=United%20Methodist%20Church), from around 2004 to 2015. This chart predominantly reflects a decline in search interest in the United States.
+Google Trends graph for the phrase ["United Methodist Church" (region: worldwide)](http://www.google.com/trends/explore#q=United%20Methodist%20Church), from around 2004 to 2015. This declining traffic was predominantly from the United States.
 
 ![](google-maps-and-trends/google-trends-united-methodist-church-worldwide.jpg)
 
