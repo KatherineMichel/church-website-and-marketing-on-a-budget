@@ -115,6 +115,12 @@ A successful global United Methodist presence is one that changes with the times
 ## Gap Analysis
 
 
+
+
+One way to now may be to analyze a church that does already fit this description. The name of the church is [LifeChurch](http://www.lifechurch.tv). 
+
+LifeChurch does not have physical churches in 
+
 ## iPhone Launches and Mobile Takes Off
 Marc Andreessen wrote his Software is Eating the World op-ed in 2011, just four years after the [iPhone](http://en.wikipedia.org/wiki/IPhone) launched. The subsequent popularity of the iPhone and other mobile products, such as [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29), can be clearly seen in the graph below. Words associated with mobile ("iPhone" "app" "Android") are "up and to the right." Non-mobile words ("desktop" "website") are on the decline.
 
@@ -163,10 +169,7 @@ Sub-Saharan Africa population coverage, "The utility of mobile increases as inco
 
 Benedict Evans revisted the above Sub-Saharan Africa slide in a [Twitter thread](https://twitter.com/BenedictEvans/status/583489997203869698) on April 2, 2015. 
 
-### Gap Analysis
 
-
-One way to now may be to analyze a church that does already fit this description. The name of the church is [LifeChurch](http://www.lifechurch.tv). 
 
 ## LifeChurch
 
