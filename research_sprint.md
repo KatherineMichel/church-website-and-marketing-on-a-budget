@@ -73,7 +73,7 @@ Projected membership by 2020, using same percentage change as 2000 to 2010
 
 Even though the U.S. still has the largest percentage of United Methodist members, this number is steadily decreasing. Meanwhile, at this rate, Africa, a continent with a population of 1+ billion, will have twice as many United Methodist members as the U.S. by 2020. Growth in the Phillipines is big percentage-wise though considerably smaller in number than that of Africa. Membership in Europe and Euroasia is declining, but already small. 
 
-Though of course, the United Methodist Church should seek to minister to all of its members, a timely opportunity exists to minister to people through technology, including in regions of rapid membership growth. 
+Though of course, the United Methodist Church should seek to minister to all of its members and potential members worldwide, a timely opportunity exists to minister to people through technology, including in regions of rapid membership growth. 
 
 # How Should the Church Reach Them?
 How the church should reach people can be analyzed by studying 3 theories that originated from some of the best minds in tech:
