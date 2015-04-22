@@ -17,9 +17,13 @@ Google Trends graph for the phrase ["United Methodist Church" (region: worldwide
 
 ![](google-maps-and-trends/google-trends-united-methodist-church-worldwide.jpg)
 
+The United Methodist Church reported in [The Book of Discipline](http://www.umc.org/who-we-are/developments-and-changes-since-1968), 2012, that United Methodist membership in the United States and Europe has been declining since 1968.
+
 According to the [United Methodist State of the Church Report, 2012](http://s3.amazonaws.com/Website_Properties/state-of-the-church/documents/2012-state-of-the-church-report.PDF), between the years 2000 and 2010, United Methodist membership in the United States declined by 7.8% to 7,570,541 members. 
 
-The United Methodist Church also reported in [The Book of Discipline](http://www.umc.org/who-we-are/developments-and-changes-since-1968), 2012, that United Methodist membership in the United States and Europe has been declining since 1968.
+15% of U.S. United Methodit congregations were found to be "highly vital." As a result, a vital congregations campaign was launched to find ways to revitalize congregations. 
+
+"We praise God and celebrate the growth and vitality of our churches in Africa and the Philippines and will continue to find ways to strengthen our global connection," [United Methodist State of the Church Report, 2012](http://s3.amazonaws.com/Website_Properties/state-of-the-church/documents/2012-state-of-the-church-report.PDF)
 
 ## United Membership Trends Mirror Those of Other Mainline Churches
 The problem of declining U.S. membership is not exclusive to the United Methodist Church. Mainline churches in general are struggling to stay relevant in the U.S. 
@@ -187,5 +191,3 @@ According to the United Methodist [The Book of Discipline](http://www.umc.org/wh
 
 ## Paradox of Increased Giving
 Though in recent years U.S. membership and local church spending have gone down, the United Methodist church [has reported that](http://www.umc.org/news-and-media/mixed-blessings-in-new-us-church-numbers) at times, dramatically more amounts of money have been given giving to charitable causes through the United Methodist Church. For instance, in 2010, "direct giving to United Methodist-related causes increased by more than 29 percent" and the United Methodist Committee on Relief received 146% more, in part due to the disaster in Haiti. 
-
-
