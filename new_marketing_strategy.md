@@ -39,6 +39,8 @@ After identifying relevant duties, I would develop a set of training materials f
 
 ### Training Materials
 
+![](new-marketing-strategy/media-manual.jpg)
+
 ## Example Marketing Plan
 
 ### Budget and Cost
