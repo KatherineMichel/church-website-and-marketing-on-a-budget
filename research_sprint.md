@@ -79,6 +79,10 @@ At this rate, Africa will have more than doubled the U.S. in United Methodist me
 Though of course, the United Methodist Church should seek to minister to all of its members, a timely opportunity exists to minister to people through technology, including in regions of rapid membership growth. 
 
 # How Should the Church Reach The People?
+How the church should reach people can be analyzed by studyin 3 theories that come from several of the best minds in tech.
+* Software is Eating the World
+* Mobile is Eating the World
+* Software is Reorganizing the World
 
 ## Software is Eating the World
 [Marc Andreessen](https://twitter.com/pmarca) famously explained his theory of [Why Software Is Eating The World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html) in the Wall Street Journal in 2011. 
