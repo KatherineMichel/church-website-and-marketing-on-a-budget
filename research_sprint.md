@@ -70,7 +70,6 @@ Projected membership by 2020, using same percentage change as 2000 to 2010
 | Philippines | 227,929 |
 
 ## Summary
-
 Even though the U.S. still has the largest percentage of United Methodist members, this number is steadily decreasing. Meanwhile, at this rate, Africa, a continent with a population of 1+ billion, will have twice as many United Methodist members as the U.S. by 2020. Growth in the Phillipines is big percentage-wise though considerably smaller in number than that of Africa. Membership in Europe and Euroasia is declining, but already small. 
 
 Though of course, the United Methodist Church should seek to minister to all of its members and potential members worldwide, a timely opportunity exists to minister to people through technology, including in regions of rapid membership growth. 
@@ -106,10 +105,14 @@ Though the separation between our bodies is still best characterized by the geog
 Perhaps the single most important feature of these states of mind is the increasing divergence between our social and geographic neighbors, between the cloud formations of our heads and the physical communities surrounding our bodies. An infinity of subcultures outside the mainstream now blossoms on the Internet — vegans, body modifiers, CrossFitters, Wiccans, DIYers, Pinners, and support groups of all forms. Millions of people are finding their true peers in the cloud, a remedy for the isolation imposed by the anonymous apartment complex or the remote rural location."
 
 ## Summary
+Based on the theories of [Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html), [Mobile is Eating the World](http://a16z.com/2014/10/28/mobile-is-eating-the-world), and [Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations), we can surmise that in the future, the world will be largely automated by software. The successful organizations will tend to be those that leverage the power of mobile, particularly smartphones, to meet the needs of people reorganizing in the 'cloud."
 
-Based on the theories of [Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html), [Mobile is Eating the World](http://a16z.com/2014/10/28/mobile-is-eating-the-world), and [Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations), we can surmise that in the future, the world will be largely automated by software. The successful organizations will tend to be those that meet the needs of the communities of people reorganizing in the cloud. These organizations will tend to leverage the power of mobile , predominantly smartphones ("By 2020 80% of the adults on earth will have a smartphone" and already "More time is spent in mobile apps than on all of the web" from Benedict Evans), and will create such competitive advantages as virality and network effect. 
+meet the needs of the communities of people reorganizing in the cloud. These organizations will tend to 
+
+, and will create such competitive advantages as virality and network effect. 
 
 
+("By 2020 80% of the adults on earth will have a smartphone" and already "More time is spent in mobile apps than on all of the web" from Benedict Evans)
 
 Not only will another one billion people com online by 2020, and spend more time using mobile apps than web if the trend continues, 
 
