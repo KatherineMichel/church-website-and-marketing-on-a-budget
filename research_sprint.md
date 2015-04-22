@@ -103,11 +103,9 @@ Does the above description of a successful organization of the future fit the Un
 A successful global United Methodist presence is one that changes with the times to best meet the needs of current members, pontential future members and others in need. 
 
 ## Gap Analysis
+One way to know if the United Methodist Church should be more like this description of a successful organization of the future may be to analyze a church that is already closer to fitting this description. The name of the church is [LifeChurch](http://www.lifechurch.tv). 
 
 
-
-
-One way to now may be to analyze a church that does already fit this description. The name of the church is [LifeChurch](http://www.lifechurch.tv). 
 
 LifeChurch does not have physical churches in 
 
