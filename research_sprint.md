@@ -29,7 +29,7 @@ According to my math, with "Change in Membership" for U.S. as -721,990, "% Chang
 
 ## Declining U.S. Membership in Mainline Churches
 
-This problem of declining interest is not exclusive to the United Methodist Church. Mainline churches in general are struggling to stay relevant. 
+This problem of declining U.S. membership is not exclusive to the United Methodist Church. Mainline churches in general are struggling to stay relevant in the U.S. 
 
 The United Methodist Church [has reported](http://www.umc.org/news-and-media/mixed-blessings-in-new-us-church-numbers), "The United Methodist Church remains the third-largest religious group in the United States, and its membership trends - decreases in the United States and increases in other countries - mirror those of other mainline denominations."
 
