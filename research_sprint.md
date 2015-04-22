@@ -116,8 +116,24 @@ In the article [Surviving Disruption](https://hbr.org/2012/12/surviving-disrupti
 * Identify your own relative advantages
 * Evaluate the conditions that would help or hinder the disrupter from co-opting your current advantages in the future.
 
-
 LifeChurch does not have physical churches in 
+
+## LifeChurch
+
+In the theory of Software is Eating the World, LifeChurch is the young, agile tech startup bootstrapped by a few techies, threatening the slower-moving, large-scale, established incumbent organization, which happens to be the United Methodist Church. Yes, the list of organizations that previously had no connection to software at all, but are now being "eaten by software" now includes religious organizations. 
+
+Though it might be counter-intuitive to think of religious organizations as competing against one another, the [Pew Religious Landscape Survey](http://religions.pewforum.org/reports) refers the religious marketplace as "very competitive," due to the constant flux of people. 
+
+Google Trends graph for the phrases ["LifeChurch" and "The Bible App" (region: worldwide)](http://www.google.com/trends/explore#q=LifeChurch%2C%20The%20Bible%20App&cmpt=q&tz=), from 2004 to 2015. [LifeChurch](http://en.wikipedia.org/wiki/LifeChurch.tv) is The Bible App's parent organization. LifeChurch was founded in 1996, but began offering online broadcasts in 2006. [The Bible App](https://www.bible.com/app), one of LifeChurch's flagship products, was founded in 2008. 
+![](google-maps-and-trends/google-trends-lifechurch-and-the-bible-app.jpg)
+
+LifeChurch's Google Trends Graph results are up and to the right.
+
+Google Trends graph for phrases ["United Methodist Church" "LifeChurch" "The Bible App" "Upworthy"](http://www.google.com/trends/explore#q=United%20Methodist%20Church%2C%20LifeChurch%2C%20The%20Bible%20App%2C%20Upworthy&cmpt=q&tz=) from 2004 to 2015
+
+![](google-maps-and-trends/google-trends-united-methodist-church-lifechurch-the-bible-app-upworthy.jpg)
+
+The United Methodist Church, with its declining interest, is still a "giant" compared to LifeChurch and The Bible App. However, LifeChurch and the Bible App are on the rise with the type of strong, modern network effect in place that could unexpectedly disrupt a traditional church.
 
 ## iPhone Launches and Mobile Takes Off
 Marc Andreessen wrote his Software is Eating the World op-ed in 2011, just four years after the [iPhone](http://en.wikipedia.org/wiki/IPhone) launched. The subsequent popularity of the iPhone and other mobile products, such as [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29), can be clearly seen in the graph below. Words associated with mobile ("iPhone" "app" "Android") are "up and to the right." Non-mobile words ("desktop" "website") are on the decline.
@@ -167,22 +183,4 @@ Sub-Saharan Africa population coverage, "The utility of mobile increases as inco
 
 Benedict Evans revisted the above Sub-Saharan Africa slide in a [Twitter thread](https://twitter.com/BenedictEvans/status/583489997203869698) on April 2, 2015. 
 
-
-
-## LifeChurch
-
-In the theory of Software is Eating the World, LifeChurch is the young, agile tech startup bootstrapped by a few techies, threatening the slower-moving, large-scale, established incumbent organization, which happens to be the United Methodist Church. Yes, the list of organizations that previously had no connection to software at all, but are now being "eaten by software" now includes religious organizations. 
-
-Though it might be counter-intuitive to think of religious organizations as competing against one another, the [Pew Religious Landscape Survey](http://religions.pewforum.org/reports) refers the religious marketplace as "very competitive," due to the constant flux of people. 
-
-Google Trends graph for the phrases ["LifeChurch" and "The Bible App" (region: worldwide)](http://www.google.com/trends/explore#q=LifeChurch%2C%20The%20Bible%20App&cmpt=q&tz=), from 2004 to 2015. [LifeChurch](http://en.wikipedia.org/wiki/LifeChurch.tv) is The Bible App's parent organization. LifeChurch was founded in 1996, but began offering online broadcasts in 2006. [The Bible App](https://www.bible.com/app), one of LifeChurch's flagship products, was founded in 2008. 
-![](google-maps-and-trends/google-trends-lifechurch-and-the-bible-app.jpg)
-
-LifeChurch's Google Trends Graph results are up and to the right.
-
-Google Trends graph for phrases ["United Methodist Church" "LifeChurch" "The Bible App" "Upworthy"](http://www.google.com/trends/explore#q=United%20Methodist%20Church%2C%20LifeChurch%2C%20The%20Bible%20App%2C%20Upworthy&cmpt=q&tz=) from 2004 to 2015
-
-![](google-maps-and-trends/google-trends-united-methodist-church-lifechurch-the-bible-app-upworthy.jpg)
-
-The United Methodist Church, with its declining interest, is still a "giant" compared to LifeChurch and The Bible App. However, LifeChurch and the Bible App are on the rise with the type of strong, modern network effect in place that could unexpectedly disrupt a traditional church.
 
