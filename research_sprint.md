@@ -95,9 +95,6 @@ The "Software is Eating the World" theory was revisted in 2014 by [Marc Andreess
 Marc Andreessen: "Starting in 2007, with the iPhone, the smartphone comes out. The smartphone finally packages computers in a form where everybody on the planet can have one... I think everybody on the planet by the end of the decade is going to have a smartphone. Effectively everybody. Almost everybody. Including in places where it’s still hard to get electricity or water, people are going to have smartphones... So, I think we’re going to live in a world by the end of the decade in which there’s five, six, seven billion smartphones in people’s hands, which means five, six, seven billion people in the world connected to the Internet with what we would consider modern tools and technologies and access... I think the next five years is basically prime time to think about every business, every industry, every field and say, “Well, how can we reinvent it now knowing that software can basically play such an important role in everything.”
 
 ## Software is Reorganizing the World
-
-Not only will another one billion people com online by 2020, and spend more time using mobile apps than web if the trend continues, 
-
 Not only are "Software and Mobile Eating the World," but "communities" of people are reorganizing online in the "cloud," as explained by Balaji Srinivasan ([@balajis](https://twitter.com/balajis)) of A16Z in the article [Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations)... 
 
 "It is not immediately obvious where those seeking opportunity might head today. Every square foot of earth is already spoken for by one (or more) nation states, every physical frontier long since closed.
@@ -108,7 +105,13 @@ Though the separation between our bodies is still best characterized by the geog
 
 Perhaps the single most important feature of these states of mind is the increasing divergence between our social and geographic neighbors, between the cloud formations of our heads and the physical communities surrounding our bodies. An infinity of subcultures outside the mainstream now blossoms on the Internet — vegans, body modifiers, CrossFitters, Wiccans, DIYers, Pinners, and support groups of all forms. Millions of people are finding their true peers in the cloud, a remedy for the isolation imposed by the anonymous apartment complex or the remote rural location."
 
+## Summary
 
+Based on the theories of [Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html), [Mobile is Eating the World](http://a16z.com/2014/10/28/mobile-is-eating-the-world), and [Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations), we can surmise that in the future, the world will be largely automated by software. The successful organizations will tend to be those that meet the needs of the communities of people reorganizing in the cloud. These organizations will tend to leverage the power of mobile , predominantly smartphones ("By 2020 80% of the adults on earth will have a smartphone" and already "More time is spent in mobile apps than on all of the web" from Benedict Evans), and will create such competitive advantages as virality and network effect. 
+
+
+
+Not only will another one billion people com online by 2020, and spend more time using mobile apps than web if the trend continues, 
 
 "The unconnected are shrinking"
 ![](research-sprint/unconnected-are-shrinking.png)
@@ -156,9 +159,6 @@ Google Trends graph for phrases ["church iPhone" "church app" "church Android" "
 ![](google-maps-and-trends/google-trends-church-iphone-church-app-church-android-church-livestream.jpg)
 
 # What Does a Successful Global United Methodist Presence Look Like?
-
-Based on the theories of [Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html), [Mobile is Eating the World](http://a16z.com/2014/10/28/mobile-is-eating-the-world), and [Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations), we can surmise that in the future, the world will be largely automated by software. The successful organizations will tend to be those that meet the needs of the communities of people reorganizing in the cloud. These organizations will tend to leverage the power of mobile , predominantly smartphones ("By 2020 80% of the adults on earth will have a smartphone" and already "More time is spent in mobile apps than on all of the web" from Benedict Evans), and will create such competitive advantages as virality and network effect. 
-
 
 
 ### Gap Analysis
