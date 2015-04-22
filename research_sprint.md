@@ -66,7 +66,7 @@ Projected membership by 2020, using same percentage change as 2000 to 2010
 ## Summary
 Even though the U.S. still has the largest percentage of United Methodist members, this number is steadily decreasing. Meanwhile, Africa, a continent with a population of 1+ billion, at this rate of growth, will have twice as many United Methodist members as the U.S. by 2020. Growth in the Phillipines is big percentage-wise though considerably smaller in number than that of Africa. Membership in Europe and Euroasia is declining, but already small. 
 
-Of course, the United Methodist Church seeks to minister to all of its members and potential members worldwide. A timely opportunity exists to use technology to appeal to potential members in places where membership is on the decline, and to help grow membership in places where it is rapidly increasing. 
+A successful global United Methodist Church will change with the times to minister to all of its members and potential members worldwide. A opportunity exists to use technology to appeal to potential members in places where membership is on the decline, and to help grow membership in places where it is rapidly increasing. 
 
 # How Should the Church Reach Them?
 How the church should reach them can be analyzed by studying three theories that originated from some of the best minds in tech:
@@ -121,22 +121,18 @@ Based on the theories of [Software is Eating the World](http://online.wsj.com/ar
 # What Does a Successful Global United Methodist Presence Look Like?
 Does the above description of a successful organization of the future fit the United Methodist Church? If not, should the United Methodist Church be more like this description?
    
-A successful global United Methodist presence is one that changes with the times to best meet the needs of current members, pontential future members and others in need. 
-
-
-
-
-
 ## Gap Analysis
-One way to know if the United Methodist Church should be more like this description of a successful organization of the future may be to analyze a church that is already closer to fitting this description. The name of the church is [LifeChurch](http://www.lifechurch.tv). 
+One way to know if the United Methodist Church should be more like this description of a successful organization of the future may be to analyze a church that is already closer to fitting this description. 
+
+The name of the church is [LifeChurch](http://www.lifechurch.tv). 
+
+
 
 In the article [Surviving Disruption](https://hbr.org/2012/12/surviving-disruption), Max Wessel and Clayton Christensen explain how a company can disrupt itself in order to avoid being disrupted:
 
 * Identify the strengths of your disrupter’s business model
 * Identify your own relative advantages
 * Evaluate the conditions that would help or hinder the disrupter from co-opting your current advantages in the future.
-
-LifeChurch does not have physical churches in 
 
 ## LifeChurch
 
@@ -154,6 +150,8 @@ Google Trends graph for phrases ["United Methodist Church" "LifeChurch" "The Bib
 ![](google-maps-and-trends/google-trends-united-methodist-church-lifechurch-the-bible-app-upworthy.jpg)
 
 The United Methodist Church, with its declining interest, is still a "giant" compared to LifeChurch and The Bible App. However, LifeChurch and the Bible App are on the rise with the type of strong, modern network effect in place that could unexpectedly disrupt a traditional church.
+
+LifeChurch does not have physical churches in
 
 ## iPhone Launches and Mobile Takes Off
 Marc Andreessen wrote his Software is Eating the World op-ed in 2011, just four years after the [iPhone](http://en.wikipedia.org/wiki/IPhone) launched. The subsequent popularity of the iPhone and other mobile products, such as [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29), can be clearly seen in the graph below. Words associated with mobile ("iPhone" "app" "Android") are "up and to the right." Non-mobile words ("desktop" "website") are on the decline.
