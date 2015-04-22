@@ -27,6 +27,8 @@ Note, this chart has a couple of discrepancies; It appear that "Change in Member
 
 According to my math, with "Change in Membership" for U.S. as -721,990, "% Change in Membership" would be approximately -9%. 
 
+According to [this excerpt from The Book of Discipline (2012)](http://www.umc.org/who-we-are/developments-and-changes-since-1968) published by the United Methodist Church, United Methodist membership in the United States and Europe has declined since 1968. During that same time, membership in Africa and Asia grew significantly. 
+
 ## Declining U.S. Membership in Mainline Churches
 
 This problem of declining U.S. membership is not exclusive to the United Methodist Church. Mainline churches in general are struggling to stay relevant in the U.S. 
