@@ -20,10 +20,9 @@ Google Trends graph for the phrase ["United Methodist Church" (region: worldwide
 According to the United Methodist Church, between 2000 and 2010, United Methodist membership in the United States declined by 7.8% (Source: [2012 United Methodist State of the Church Report](http://s3.amazonaws.com/Website_Properties/state-of-the-church/documents/2012-state-of-the-church-report.PDF)). United Methodist membership in the United States and Europe has been declining since 1968 (Source: [The Book of Discipline](http://www.umc.org/who-we-are/developments-and-changes-since-1968)).  
 
 ## United Membership Trends Mirror Those of Other Mainline Churches
+The problem of declining U.S. membership is not exclusive to the United Methodist Church. Mainline churches in general are struggling to stay relevant in the U.S. 
 
-This problem of declining U.S. membership is not exclusive to the United Methodist Church. Mainline churches in general are struggling to stay relevant in the U.S. 
-
-The United Methodist Church [has reported](http://www.umc.org/news-and-media/mixed-blessings-in-new-us-church-numbers), "The United Methodist Church remains the third-largest religious group in the United States, and its membership trends - decreases in the United States and increases in other countries - mirror those of other mainline denominations."
+The United Methodist Church [has reported](http://www.umc.org/news-and-media/mixed-blessings-in-new-us-church-numbers) that, "The United Methodist Church remains the third-largest religious group in the United States, and its membership trends - decreases in the United States and increases in other countries - mirror those of other mainline denominations."
 
 Google Trends graph for the phrases ["United Methodist" "Catholic" "Presbyterian" "Baptist" (region: worldwide)](http://www.google.com/trends/explore#q=United%20Methodist%2C%20Catholic%2C%20Presbyterian%2C%20Baptist&cmpt=q&tz=), from around 2004 to 2015:
 ![](google-maps-and-trends/google-trends-united-methodist-catholic-presbyterian-baptist.jpg)
