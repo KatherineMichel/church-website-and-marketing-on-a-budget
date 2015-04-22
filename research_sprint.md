@@ -74,7 +74,9 @@ Projected membership by 2020, using same percentage change as 2000 to 2010
 | Africa | 14,920,344 | 
 | Philippines | 227,929 |
 
-At this rate, Africa will have more than doubled the U.S. in United Methodist membership by 2020. And Africa has room for growth with its population of 1+ billion. Though of course, the United Methodist Church should seek to minister to all of its members, a special and timely opportunity exists to minister to people through technology, including in regions of rapid membership growth. 
+At this rate, Africa will have more than doubled the U.S. in United Methodist membership by 2020. And Africa has room for growth with its population of 1+ billion. 
+
+Though of course, the United Methodist Church should seek to minister to all of its members, a timely opportunity exists to minister to people through technology, including in regions of rapid membership growth. 
 
 # How Should the Church Reach The People?
 
