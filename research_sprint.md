@@ -27,7 +27,7 @@ Note, this chart has a couple of discrepancies; It appear that "Change in Member
 
 According to my math, with "Change in Membership" for U.S. as -721,990, "% Change in Membership" would be approximately -9%. 
 
-## Declining Interest in Mainline Churches
+## Declining U.S. Membership in Mainline Churches
 
 This problem of declining interest is not exclusive to the United Methodist Church. Mainline churches in general are struggling to stay relevant. 
 
