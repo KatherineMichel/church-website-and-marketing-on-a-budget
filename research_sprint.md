@@ -17,7 +17,7 @@ Google Trends graph for the phrase ["United Methodist Church" (region: worldwide
 
 ![](google-maps-and-trends/google-trends-united-methodist-church-worldwide.jpg)
 
-According to the United Methodist Church, between 2000 and 2010, United Methodist membership in the United States declined by 7.8% (source: [United Methodist State of the Church Report, 2012](http://s3.amazonaws.com/Website_Properties/state-of-the-church/documents/2012-state-of-the-church-report.PDF)). United Methodist membership in the United States and Europe has been declining since 1968 (source: [The Book of Discipline, 2012](http://www.umc.org/who-we-are/developments-and-changes-since-1968)).  
+According to the United Methodist Church, between 2000 and 2010, United Methodist membership in the United States declined by 7.8% (source: [United Methodist State of the Church Report, 2012](http://s3.amazonaws.com/Website_Properties/state-of-the-church/documents/2012-state-of-the-church-report.PDF)).   
 
 ## United Membership Trends Mirror Those of Other Mainline Churches
 The problem of declining U.S. membership is not exclusive to the United Methodist Church. Mainline churches in general are struggling to stay relevant in the U.S. 
@@ -103,7 +103,7 @@ Does the above description of a successful organization of the future fit the Un
 A successful global United Methodist presence is one that changes with the times to best meet the needs of current members, pontential future members and others in need. 
 
 ## To What Extend Can a Different Tech Approach Help the United Methodist Church?
-That a decline in U.S. and European United Methodist membership began in 1968, before web and mobile technlogies became available to the masses, indicates that the decline in membership is at least due in part to non-tech related apathy toward the religion, rather than tech-related lifestyle change. Presumably, a change in tech approach will do little to help in the case of non-tech related apathy, because tech is not at the root of the problem. However, tech could still play a part in maintaining or increasing membership. 
+According to the United Methodist [The Book of Discipline](http://www.umc.org/who-we-are/developments-and-changes-since-1968)), published in 2012, United Methodist membership in the United States and Europe has been declining since 1968, before web and mobile technlogies became available to the masses. This indicates that the decline in membership is at least due in part to non-tech related apathy toward the religion, rather than tech-related lifestyle change. Presumably, a change in tech approach will do little to help in the case of non-tech related apathy, because tech is not at the root of the problem. However, tech could still play a part in maintaining or increasing membership. 
 
 
 
