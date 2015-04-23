@@ -61,7 +61,7 @@ Cost Benefit Analysis
 ## Examples
 
 ### Contacting Inactive/Potential New-Comers
-A campaign was begun to personally invite inactive church-goers back, and to invite potential newcomers for the first time, including making a new photo directory.
+A campaign was begun to personally invite inactive church-goers back, and to invite potential newcomers for the first time, including making a new professional photo directory.
 
 #### Local Newspaper
 The church had not been fully makinge use of its information space in the Church Calendar section of the local newspaper, The Ninnescah Valley News. 
