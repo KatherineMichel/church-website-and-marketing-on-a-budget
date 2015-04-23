@@ -119,13 +119,13 @@ Based on the theories of [Software is Eating the World](http://online.wsj.com/ar
 # What Does a Successful Global United Methodist Presence Look Like?
 Does the above description of a successful organization of the future fit the United Methodist Church? If not, should the United Methodist Church be more like this description?
    
+## Gap Analysis
 In the article [Surviving Disruption](https://hbr.org/2012/12/surviving-disruption), Max Wessel and Clayton Christensen explain how a company can disrupt itself in order to avoid being disrupted:
 
 * Identify the strengths of your disrupter’s business model
 * Identify your own relative advantages
 * Evaluate the conditions that would help or hinder the disrupter from co-opting your current advantages in the future.
 
-## Gap Analysis
 One way to know if the United Methodist Church should be more like this description of a successful organization of the future may be to analyze a church that is already closer to fitting this description. 
 
 The name of the church is [LifeChurch](http://www.lifechurch.tv). 
