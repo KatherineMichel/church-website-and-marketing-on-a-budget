@@ -11,4 +11,6 @@ Sadly technological progress is moving at such a fast (and increasingly faster r
 
 The dilemma is that even as diehard members work to improve membership, their efforts may go largely unrewarded. Offering plates grow emptier. Meanwhile, organizations that find the right online business model can learn to thrive. 
 
+So, even as small victories are enjoyed, the question looms of what the future holds for organizations that continue to focus their efforts on the physical space. 
+
 
