@@ -60,9 +60,8 @@ Cost Benefit Analysis
 
 ## Examples
 
-#### Outreach
-
-Individual knowledge was pooled to personally invite inactive church-goers back, and to invite potential newcomers for the first time. 
+### Contacting Inactive/Potential New-Comers
+A campaign was begun to personally invite inactive church-goers back, and to invite potential newcomers for the first time, including making a new photo directory.
 
 #### Local Newspaper
 
