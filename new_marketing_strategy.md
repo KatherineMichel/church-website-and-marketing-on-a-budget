@@ -51,7 +51,7 @@ Cost Benefit Analysis
 
 | Tactic | Cost |
 | -- | -- |
-| Professionally Made Banners/Signs | Placeholder |
+| Professionally Made Banners/Signs | TBD |
 | Google AdWords | TBD |
 | Facebook Ads | TBD |
 | Twitter Ads | TBD |
