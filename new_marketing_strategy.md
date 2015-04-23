@@ -122,7 +122,7 @@ Suggested target audiences range from a radius of 50 km around Pretty Prairie, d
 ![](new-marketing-strategy/facebook-page-advertisement-reach-1km.jpg)
 
 #### Google AdWords (Paid)
-In additional to creating a free Google Rich Snippet, the church can advertise through Google AdWords
+In additional to creating a free Google Rich Snippet, the church can use Google AdWords to create ads that people in the Pretty Prairie region see when they do a Google search.
 
 Google AdWords targeting Pretty Prairie 
 ![](new-marketing-strategy/google-adwords-pretty-prairie-targeting.jpg)
