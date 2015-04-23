@@ -15,7 +15,7 @@ As the revitalization effort generated momentum, an anonymous donor made a gener
 ![](new-marketing-strategy/sanctuary-screens.jpg)
 
 ## Worship Committee
-It was decided that a new Worship Committe would be formed to oversee Worship Service design. 
+It was decided that a new Worship Committe would be formed to oversee worship service design. 
 
 ## Youth Leadership Initiative
 A Youth Leadership Initiative would be formed to assist with publicity duties such as running the new screen videos and music during worship. 
@@ -35,6 +35,7 @@ Website
 | -- | -- |
 | Website | $96/year |
 | Search Engine Optimization | Included |
+| Google Rich Snippet | Free |
 
 Low-Hanging Fruit
 
@@ -42,7 +43,6 @@ Low-Hanging Fruit
 | -- | -- |
 | Word of Mouth | Free |
 | Fliers in High Traffic Locations | Free |
-| Google Rich Snippet | Free |
 | Social Media Sharing | Free |
 | Newspaper Articles/Church Info | Free |
 
