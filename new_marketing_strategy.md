@@ -23,7 +23,9 @@ The church purchased a 2015 wall calendar to be used as an outreach calendar. Th
 ![](new-marketing-strategy/outreach-calendar.jpg)
 
 ## Youth Leadership Initiative
-A Youth Leadership Initiative would be formed to assist with publicity duties such as running the new screen videos and music during worship, taking photos and/or writing blog posts.
+A Youth Leadership Initiative would be formed to assist with publicity duties such as running the new screen videos and music during worship. 
+
+taking photos and/or writing blog posts.
 
 Church leaders, committee leaders and members, and congregation members (of all ages and backgrounds) working together in synergy. This would include:
 
