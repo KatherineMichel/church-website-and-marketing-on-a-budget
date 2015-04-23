@@ -126,12 +126,8 @@ In the article [Surviving Disruption](https://hbr.org/2012/12/surviving-disrupti
 * Identify your own relative advantages
 * Evaluate the conditions that would help or hinder the disrupter from co-opting your current advantages in the future.
 
-
-One way to know if the United Methodist Church should be more like this description of a successful organization of the future may be to analyze a church that is already closer to fitting this description. 
-
-The name of the church is [LifeChurch](http://www.lifechurch.tv). 
-
 ## LifeChurch
+Based on the theory of Wessel and Christensen, the first step is to identify the strengths of your disruptor's business model. A potential disruptor is [LifeChurch](http://www.lifechurch.tv).
 
 In the theory of Software is Eating the World, LifeChurch is the young, agile tech startup bootstrapped by a few techies, threatening the slower-moving, large-scale, established incumbent organization, which happens to be the United Methodist Church. Yes, the list of organizations that previously had no connection to software at all, but are now being "eaten by software" now includes religious organizations. 
 
