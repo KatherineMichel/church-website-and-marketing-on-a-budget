@@ -86,7 +86,7 @@ After the revitalization effort began, an opportunity became available to partne
 
 #### Signs
 
-Banners and signs would be placed in front of the church to raise awareness about special events (special services, medical clinic, ect.)
+Banners and signs would be placed in front of the church to raise awareness about special events (special worship services, medical clinic, ect.)
 
 Mobile healthcare clinic banner
 ![](new-marketing-strategy/advanced-mobile-healthcare-sign.jpg)
