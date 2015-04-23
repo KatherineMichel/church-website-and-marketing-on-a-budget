@@ -91,6 +91,7 @@ Mobile healthcare clinic sign
 Easter banner
 ![](new-marketing-strategy/easter-banner-photo-shopped.jpg)
 
+
 #### Search Engine Optimization (SEO) and Google Rich Snippet
 
 #### Social Media Sharing (ex. Facebook)
@@ -118,10 +119,7 @@ One option would be to advertise the church's Facebook Page via the "Local Aware
 Facebook advertisement preview
 ![](new-marketing-strategy/facebook-page-advertisement-preview.jpg)
 
-Suggested target audience ranging from a radius of 50 km around Pretty Prairie... 
-![](new-marketing-strategy/facebook-page-advertisement-reach-50km.jpg)
-
-Down to 3 km or 1km (shown here)... 
+Suggested target audiences range from a radius of 50 km around Pretty Prairie, down to 3 km, or 1km (as shown here)... 
 
 ![](new-marketing-strategy/facebook-page-advertisement-reach-1km.jpg)
 
