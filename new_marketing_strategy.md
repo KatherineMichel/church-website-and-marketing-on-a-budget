@@ -127,8 +127,6 @@ In additional to creating a free Google Rich Snippet, the church can use Google 
 Google AdWords targeting Pretty Prairie 
 ![](new-marketing-strategy/google-adwords-pretty-prairie-targeting.jpg)
 
-Google AdWords reach
-
 #### Twitter Advertising (Paid)
 
 Members of the church are less likely to use Twitter than Facebook. However, Twitter is an option to keep in mind, particularly for reaching the public at large, including identifying people who are more likely to make donations. 
