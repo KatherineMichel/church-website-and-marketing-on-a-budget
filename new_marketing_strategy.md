@@ -29,15 +29,21 @@ The church purchased a 2015 wall calendar to be used as an outreach calendar. Th
 
 ### Example Budget and Costs
 
+Website
+
+| Tactic | Cost |
+| -- | -- |
+| Website | $96/year |
+| Search Engine Optimization | Included |
+
 Low-Hanging Fruit
 
 | Tactic | Cost |
 | -- | -- |
 | Word of Mouth | Free |
 | Fliers in High Traffic Locations | Free |
-| Search Engine Optimization | Free |
-| Social Media Sharing | Free |
 | Google Rich Snippet | Free |
+| Social Media Sharing | Free |
 | Newspaper Articles/Church Info | Free |
 
 Cost Benefit Analysis
