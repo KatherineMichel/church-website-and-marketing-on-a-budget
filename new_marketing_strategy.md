@@ -7,6 +7,12 @@ The strategy would be as cost effective as possible by first identifying and tak
 
 ### Example Budget and Costs
 
+New Sanctuary Equipment
+
+| Tactic | Cost |
+| -- | -- |
+| Screens and Computer | Private Donation |
+
 Website
 
 | Tactic | Cost |
@@ -50,7 +56,7 @@ It was decided that a new Worship Committe would be formed to oversee worship se
 A Youth Leadership Initiative would be formed to assist with publicity duties such as running the new screen videos and music during worship. 
 
 ### Digitally Empowered Congregation
-Though something of an experiment, I would develop a manual to give to members of the church, with the goal of empowering the congregation to become a self-sustaining publicity engine among the membership. The manual would explain in simple terms how to:
+Though something of an experiment, I would develop a manual to give to members of the church, with the goal of empowering the congregation to become a self-sustaining publicity engine. The manual would explain in simple terms how to:
 
 Training manual
 ![](new-marketing-strategy/media-manual.jpg)
@@ -77,7 +83,7 @@ Photo at Pretty Prairie Sunset Home afternoon tea hosted by United Methodist Wom
 On the left, story made from photo with a link to the church's Facebook Page; On the right, a story about the church's new mobile healthcare clinic (see below)
 ![](new-marketing-strategy/afternoon-tea-newspaper.jpg)
 
-### Partnering with Other Community Orgs to Provide Services (Potential Cost TBD)
+### Partnering with Other Community Orgs to Provide Services (Cost Varies)
 
 After the revitalization effort began, an opportunity became available to partner with community organization Ubuntu to bring a weekly medical clinic to Pretty Prairie through [Advanced Mobile Healthcare](http://www.advancedmobilehealthcare.com), including in-home visits. Ubuntu needed a location for the clinic and the Pretty Prairie United Methodist Church basement was a perfect fit. This is an example of a partnership that would service the community and get people through the doors. 
 
