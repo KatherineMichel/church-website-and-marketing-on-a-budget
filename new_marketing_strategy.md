@@ -51,6 +51,7 @@ Cost Benefit Analysis
 
 | Tactic | Cost |
 | -- | -- |
+| Partnerships | Currently Free |
 | Professionally Made Banners/Signs | TBD |
 | Google AdWords | TBD |
 | Facebook Ads | TBD |
