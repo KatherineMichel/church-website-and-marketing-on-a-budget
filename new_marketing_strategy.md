@@ -64,21 +64,18 @@ Cost Benefit Analysis
 A campaign was begun to personally invite inactive church-goers back, and to invite potential newcomers for the first time, including making a new photo directory.
 
 #### Local Newspaper
-
-The church could submit articles and general information to the local newspaper, The Ninnescah Valley News. Although individual church members were occasionally submitting articles, this was being done ad hoc, without a coordinated strategy.  
-
-Photo at Pretty Prairie Sunset Home afternoon tea hosted by United Methodist Women
-![](new-marketing-strategy/afternoon-tea.jpg)
-
-On the left, story made from photo next to a story on the right about the church's new mobile healthcare clinic
-![](new-marketing-strategy/afternoon-tea-newspaper.jpg)
-
-Also, the church had not fully made use of its information space in newspaper's Church Calendar section.
+The church had not been fully makinge use of its information space in the Church Calendar section of the local newspaper, The Ninnescah Valley News. 
 
 Pretty Prairie United Methodist Church website address added to local newspaper Church Calendar to boost traffic and rankings
 ![](new-marketing-strategy/ninnescah-valley-news-church-calendar.jpg)
 
-Anytime possible, the Pretty Prairie United Methodist Church website address and/or Facebook address would be included in articles to increase traffic and rankings.
+Also, the church could submit articles and general information to the newspaper. Although individual church members were occasionally submitting articles, this was being done ad hoc, without a coordinated strategy. Anytime possible, the Pretty Prairie United Methodist Church website address and/or Facebook address would be included in articles to increase traffic and rankings.
+
+Photo at Pretty Prairie Sunset Home afternoon tea hosted by United Methodist Women
+![](new-marketing-strategy/afternoon-tea.jpg)
+
+On the left, story made from photo with a link to the church's Facebook Page; On the right, a story about the church's new mobile healthcare clinic (see below)
+![](new-marketing-strategy/afternoon-tea-newspaper.jpg)
 
 #### Partnering with Other Community Orgs to Provide Services
 
