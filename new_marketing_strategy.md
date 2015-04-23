@@ -51,10 +51,10 @@ Cost Benefit Analysis
 | Tactic | Cost |
 | -- | -- |
 | Professionally Made Banners/Signs | Placeholder |
-| Google AdWords | Placeholder |
-| Facebook Ads | Placeholder |
-| Twitter Ads | Placeholder |
-| Special Occasion Ads/Sponsorships | Placeholder |
+| Google AdWords | TBD |
+| Facebook Ads | TBD |
+| Twitter Ads | TBD |
+| Special Occasion Ads/Sponsorships | TBD |
 
 The Facebook advertisement program defaults to $50 spend for 1 week
 
