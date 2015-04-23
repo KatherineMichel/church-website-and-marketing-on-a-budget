@@ -65,7 +65,7 @@ A campaign was begun to personally invite inactive church-goers back, and to inv
 
 #### Local Newspaper
 
-The church could submit articles and general information to the local newspaper. Although individual church members were occasionally submitting articles, this was being done ad hoc, without a coordinated strategy.  
+The church could submit articles and general information to the local newspaper, The Ninnescah Valley News. Although individual church members were occasionally submitting articles, this was being done ad hoc, without a coordinated strategy.  
 
 Photo at Pretty Prairie Sunset Home afternoon tea hosted by United Methodist Women
 ![](new-marketing-strategy/afternoon-tea.jpg)
@@ -73,12 +73,12 @@ Photo at Pretty Prairie Sunset Home afternoon tea hosted by United Methodist Wom
 On the left, story made from photo next to a story on the right about the church's new mobile healthcare clinic
 ![](new-marketing-strategy/afternoon-tea-newspaper.jpg)
 
-Also, the church had not fully made use of its information space in the newspaper's Church Calendar section.
+Also, the church had not fully made use of its information space in newspaper's Church Calendar section.
 
-Pretty Prairie United Methodist Church website address added into the local newspaper Church Calendar to boost traffic and rankings
+Pretty Prairie United Methodist Church website address added to local newspaper Church Calendar to boost traffic and rankings
 ![](new-marketing-strategy/ninnescah-valley-news-church-calendar.jpg)
 
-Anytime possible, the Pretty Prairie United Methodist Church website address and/or Facebook address would be included to increase traffic and rankings.
+Anytime possible, the Pretty Prairie United Methodist Church website address and/or Facebook address would be included in articles to increase traffic and rankings.
 
 #### Partnering with Other Community Orgs to Provide Services
 
