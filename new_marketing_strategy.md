@@ -1,13 +1,13 @@
 # New Marketing Strategy
-The new marketing strategy incorporates both traditional and modern methods in order to fit with changing lifestyles, and reach the most people possible, perhaps even beyond city boundaries. The strategy is also as cost effective as possible. The church first and foremost would seek to have more people walking through its doors, whether to worship or use a service offered by the church. We would first begin to identify and take advantage of all "low-hanging fruit" previously overlooked. Beyond low-hanging fruit, we would consider the cost versus potential benefit. 
+The new marketing strategy incorporates both traditional and modern methods in order to fit with changing lifestyles, and reach the most people possible, perhaps even beyond city boundaries. 
 
-In addition to the Example Marketing Plan below, the church would: 
-* Maintain up to date basic info on marketing materials (Website, Find-a-Church, Newsletter, Bulletin, Postcards, Greeting card, Email signature)
-* Continue a Word of Mouth Ministry
+## Digitally Empowered Congregation
+I developed a manual to give to members of the church explaining in simple terms how to do things such as:
 
-## Major, New Developments
+Training Manual
+![](new-marketing-strategy/media-manual.jpg)
 
-### New Sanctuary Equipment
+## New Sanctuary Equipment
 As the revitalization effort generated momentum, an anonymous donor made a generous donation to purchase new, large flat-screen televisions and a laptop for the church sanctuary, to be used to play contemporary videos and music, and to project the words of the hymns. 
 
 ![](new-marketing-strategy/sanctuary-screens.jpg)
@@ -15,9 +15,7 @@ As the revitalization effort generated momentum, an anonymous donor made a gener
 ### Worship Committee
 It was also decided during an Administrative Council meeting that a new Worship Committe would be formed to oversee Worship Service design. 
 
-## Digitally Enabled Congregation
-
-### Self-Sustaining Publicity Engine
+## Self-Sustaining Publicity Engine
 We would aspire to create a self-sustaining publicity engine made up of church leaders, committee leaders and members, and congregation members (of all ages and backgrounds) working together in synergy. This would include:
 
 * Church Leaders
@@ -34,12 +32,6 @@ The church purchased a 2015 wall calendar. This Outreach Calendar Calendar is hu
 
 ### Youth Leadership Initiative
 A Youth Leadership Initiative would be formed to assist with publicity duties such as running the new screen videos and music during worship, taking photos and/or writing blog posts.
-
-After identifying relevant duties, I would develop a set of training materials for the Youth Leadership Initiative. I would go over these with the youth during Sunday School. 
-
-### Training Materials
-
-![](new-marketing-strategy/media-manual.jpg)
 
 ## Example Marketing Plan
 
@@ -64,6 +56,12 @@ The Facebook advertisement program defaults to $50 spend for 1 week
 
 ### "Low-Hanging Fruit"
 
+The strategy is also as cost effective as possible. We would first begin to identify and take advantage of all "low-hanging fruit" previously overlooked. Beyond low-hanging fruit, we would consider the cost versus potential benefit. The church first and foremost would seek to have more people walking through its doors, whether to worship or use a service offered by the church. 
+
+In addition to the Example Marketing Plan below, the church would: 
+* Maintain up to date basic info on marketing materials (Website, Find-a-Church, Newsletter, Bulletin, Postcards, Greeting card, Email signature)
+* Continue a Word of Mouth Ministry
+* 
 #### Outreach
 
 Individual knowledge was pooled to personally invite inactive church-goers back, and to invite potential newcomers for the first time. 
