@@ -27,15 +27,23 @@ The church purchased a 2015 wall calendar to be used as an outreach calendar. Th
 
 ## Example Marketing Plan
 
-### Budget
+### Example Budget and Costs
 
-### Example Costs
+Low-Hanging Fruit
+
 | Tactic | Cost |
 | -- | -- |
-| Serch Engine Optimization | Free |
+| Word of Mouth | Free |
+| Fliers in High Traffic Locations | Free |
+| Search Engine Optimization | Free |
 | Social Media Sharing | Free |
 | Google Rich Snippet | Free |
 | Newspaper Articles/Church Info | Free |
+
+Cost Benefit Analysis
+
+| Tactic | Cost |
+| -- | -- |
 | Professionally Made Banners/Signs | Placeholder |
 | Google AdWords | Placeholder |
 | Facebook Ads | Placeholder |
