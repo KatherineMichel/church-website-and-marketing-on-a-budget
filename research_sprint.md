@@ -23,7 +23,7 @@ According to the [United Methodist State of the Church Report, 2012](http://s3.a
 
 15% of U.S. United Methodit congregations were found to be "highly vital." As a result, a vital congregations campaign was launched to find ways to revitalize congregations. 
 
-"We praise God and celebrate the growth and vitality of our churches in Africa and the Philippines and will continue to find ways to strengthen our global connection," [United Methodist State of the Church Report, 2012](http://s3.amazonaws.com/Website_Properties/state-of-the-church/documents/2012-state-of-the-church-report.PDF)
+"We praise God and celebrate the growth and vitality of our churches in Africa and the Philippines and will continue to find ways to strengthen our global connection," [United Methodist State of the Church Report, 2012](http://s3.amazonaws.com/Website_Properties/state-of-the-church/documents/2012-state-of-the-church-report.PDF).
 
 ## United Membership Trends Mirror Those of Other Mainline Churches
 The problem of declining U.S. membership is not exclusive to the United Methodist Church. Mainline churches in general are struggling to stay relevant in the U.S. 
