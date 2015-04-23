@@ -91,21 +91,6 @@ Mobile healthcare clinic sign
 Easter banner
 ![](new-marketing-strategy/easter-banner-photo-shopped.jpg)
 
-
-#### Social Media Sharing (ex. Facebook)
-
-We would consider the option of reaching people via free social media sharing before considering paid social media advertisement.
-
-Example sharing
-* Blog post on website
-* Facebook page post
-* Posts on congregation members' personal social media profiles
-
-#### Special Occasion Advertisement
-Local Events and Organizations
-* [Pretty Prairie Rodeo advertisement](http://www.pprodeo.com/#!sponsors/c1v7y)
-* Other local sponsorships
-
 ### Online Advertising
 
 #### Facebook Advertising (Paid)
