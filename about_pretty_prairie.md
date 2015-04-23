@@ -60,8 +60,3 @@ Google Trends search interest graph showing increased interest every July for ph
 ## Work
 A number of Pretty Prairie residents work locally (farmers, teachers, police, city workers, ect.), or commute to other nearby cities (Kingman, Hutchinson, Wichita, ect.) for work (business people, machine operators, ect.). Though the cost of living may be lower, the price of gas and time spent commuting also have to be considered. Meanwhile, the outskirts of Wichita are steadily expanding outward. Still, the Pretty Prairie population remains fairly constant (~688). 
 
-## Dilemma
-The city of Pretty Prairie has a very small population. Though there are surrounding cities with far larger populations, there is no need for people to travel to Pretty Prairie to go to church. Though the population of Pretty Prairie may increase in time as the population of Wichita expands outward, presumably many years will go before this has a major impact. 
-
-Kansas is in the center of the Bible Belt, and there are many people of faith in the region. Still, changing lifestyles (digital and philosophical reorganizations) and a dwindling, predominantly elderly church population have had a negative effect on church attendance. 
-
