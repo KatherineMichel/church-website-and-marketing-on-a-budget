@@ -119,18 +119,27 @@ Based on the theories of [Software is Eating the World](http://online.wsj.com/ar
 # What Does a Successful Global United Methodist Presence Look Like?
 Does the above description of a successful organization of the future fit the United Methodist Church? If not, should the United Methodist Church be more like this description?
    
-## Gap Analysis
-One way to know if the United Methodist Church should be more like this description of a successful organization of the future may be to analyze a church that is already closer to fitting this description. 
-
-The name of the church is [LifeChurch](http://www.lifechurch.tv). 
-
-
-
 In the article [Surviving Disruption](https://hbr.org/2012/12/surviving-disruption), Max Wessel and Clayton Christensen explain how a company can disrupt itself in order to avoid being disrupted:
 
 * Identify the strengths of your disrupter’s business model
 * Identify your own relative advantages
 * Evaluate the conditions that would help or hinder the disrupter from co-opting your current advantages in the future.
+
+## Gap Analysis
+One way to know if the United Methodist Church should be more like this description of a successful organization of the future may be to analyze a church that is already closer to fitting this description. 
+
+The name of the church is [LifeChurch](http://www.lifechurch.tv). 
+
+## iPhone Launches and Mobile Takes Off
+Marc Andreessen wrote his Software is Eating the World op-ed in 2011, just four years after the [iPhone](http://en.wikipedia.org/wiki/IPhone) launched. The subsequent popularity of the iPhone and other mobile products, such as [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29), can be clearly seen in the graph below. Words associated with mobile ("iPhone" "app" "Android") are "up and to the right." Non-mobile words ("desktop" "website") are on the decline.
+
+Google Trends graph for phrases ["iPhone" "app" "Android" "desktop" "website" (region: worldwide)](http://www.google.com/trends/explore#q=iPhone%2C%20app%2C%20Android%2C%20desktop%2C%20website&cmpt=q&tz=), from 2004 to 2015. 
+![](google-maps-and-trends/google-trends-iphone-app-android-desktop-website.jpg)
+
+Also, when the iPhone launched, a corresponding market for church-related mobile products was immediately born, as illustrated in the Google Trends graph below. New technologies create new markets.
+
+Google Trends graph for phrases ["church iPhone" "church app" "church Android" "church desktop" "church website" (region: worldwide)](http://www.google.com/trends/explore#q=church%20iPhone%2C%20church%20app%2C%20church%20Android%2C%20church%20livestream&cmpt=q&tz=), from 2004 to 2015.
+![](google-maps-and-trends/google-trends-church-iphone-church-app-church-android-church-livestream.jpg)
 
 ## LifeChurch
 
@@ -151,16 +160,7 @@ The United Methodist Church, with its declining interest, is still a "giant" com
 
 LifeChurch does not have physical churches in
 
-## iPhone Launches and Mobile Takes Off
-Marc Andreessen wrote his Software is Eating the World op-ed in 2011, just four years after the [iPhone](http://en.wikipedia.org/wiki/IPhone) launched. The subsequent popularity of the iPhone and other mobile products, such as [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29), can be clearly seen in the graph below. Words associated with mobile ("iPhone" "app" "Android") are "up and to the right." Non-mobile words ("desktop" "website") are on the decline.
 
-Google Trends graph for phrases ["iPhone" "app" "Android" "desktop" "website" (region: worldwide)](http://www.google.com/trends/explore#q=iPhone%2C%20app%2C%20Android%2C%20desktop%2C%20website&cmpt=q&tz=), from 2004 to 2015. 
-![](google-maps-and-trends/google-trends-iphone-app-android-desktop-website.jpg)
-
-Also, when the iPhone launched, a corresponding market for church-related mobile products was immediately born, as illustrated in the Google Trends graph below. New technologies create new markets.
-
-Google Trends graph for phrases ["church iPhone" "church app" "church Android" "church desktop" "church website" (region: worldwide)](http://www.google.com/trends/explore#q=church%20iPhone%2C%20church%20app%2C%20church%20Android%2C%20church%20livestream&cmpt=q&tz=), from 2004 to 2015.
-![](google-maps-and-trends/google-trends-church-iphone-church-app-church-android-church-livestream.jpg)
 
 
 
