@@ -25,25 +25,11 @@ The church purchased a 2015 wall calendar to be used as an outreach calendar. Th
 ## Youth Leadership Initiative
 A Youth Leadership Initiative would be formed to assist with publicity duties such as running the new screen videos and music during worship. 
 
-taking photos and/or writing blog posts.
-
-Church leaders, committee leaders and members, and congregation members (of all ages and backgrounds) working together in synergy. This would include:
-
-* Church Leaders
-* Administrative Council
-* Worship Committee
-* NOW Committee (Nurture, Outreach, Witness)
-* A new Youth Leadership Initiative
-
-Example duties: brainstorming, helping to plan outreach activities, admin status for website/social media 
-
 ## Example Marketing Plan
 
-### Budget and Cost
+### Budget
 
-#### Budget
-
-#### Example Costs
+### Example Costs
 | Tactic | Cost |
 | -- | -- |
 | Serch Engine Optimization | Free |
@@ -59,6 +45,18 @@ Example duties: brainstorming, helping to plan outreach activities, admin status
 The Facebook advertisement program defaults to $50 spend for 1 week
 
 ### "Low-Hanging Fruit"
+
+taking photos and/or writing blog posts.
+
+Church leaders, committee leaders and members, and congregation members (of all ages and backgrounds) working together in synergy. This would include:
+
+* Church Leaders
+* Administrative Council
+* Worship Committee
+* NOW Committee (Nurture, Outreach, Witness)
+* A new Youth Leadership Initiative
+
+Example duties: brainstorming, helping to plan outreach activities, admin status for website/social media 
 
 The strategy is also as cost effective as possible. We would first begin to identify and take advantage of all "low-hanging fruit" previously overlooked. Beyond low-hanging fruit, we would consider the cost versus potential benefit. The church first and foremost would seek to have more people walking through its doors, whether to worship or use a service offered by the church. 
 
