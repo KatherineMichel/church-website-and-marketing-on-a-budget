@@ -94,8 +94,7 @@ Easter banner
 ### Online Advertising
 
 #### Facebook Advertising (Paid)
-
-In addition to free sharing, Facebook also offers paid advertising to people located within a target area. Additional advertising filters include gender and age ranges between 18 and 65+.
+In addition to the ability to share Facebook page posts and website blog posts for free, Facebook also offers paid advertising to target people located within a region. Additional advertising filters include gender and age ranges between 18 and 65+.
 
 One option would be to advertise the church's Facebook Page via the "Local Awareness" option to "reach people near your business." 
 
