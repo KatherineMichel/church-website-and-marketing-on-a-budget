@@ -38,14 +38,6 @@ Cost Benefit Analysis
 
 ## Main Tactics
 
-### Digitally Empowered Congregation
-I developed a manual to give to members of the church explaining in simple terms how to do things such as:
-
-Training Manual
-![](new-marketing-strategy/media-manual.jpg)
-
-Though something of an experiment, the goal of this would be to create a self-sustaining publicity engine among the membership. 
-
 ### New Sanctuary Equipment
 As the revitalization effort generated momentum, an anonymous donor made a generous donation to purchase new, large flat-screen televisions and a laptop for the church sanctuary, to be used to play contemporary videos and music, and to project the words of the hymns. 
 
@@ -56,6 +48,14 @@ It was decided that a new Worship Committe would be formed to oversee worship se
 
 ### Youth Leadership Initiative
 A Youth Leadership Initiative would be formed to assist with publicity duties such as running the new screen videos and music during worship. 
+
+### Digitally Empowered Congregation
+I developed a manual to give to members of the church explaining in simple terms how to do things such as:
+
+Training Manual
+![](new-marketing-strategy/media-manual.jpg)
+
+Though something of an experiment, the goal of this would be to create a self-sustaining publicity engine among the membership. 
 
 ### Outreach Calendar
 The church purchased a 2015 wall calendar to be used as an outreach calendar. This outreach calendar is hung on a hook on the wall in a high traffic area of the church where it will not be overlooked. A pen and post it notes are nearby so that the calendar can be easily updated. The calendar can be removed from the wall and taken to meetings too. The calendar would help to keep everyone "on the same page."
