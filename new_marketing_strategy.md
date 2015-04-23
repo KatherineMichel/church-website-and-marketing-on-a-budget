@@ -65,7 +65,7 @@ The church purchased a 2015 wall calendar to be used as an outreach calendar. Th
 ### Contacting Inactive/Potential New-Comers
 A campaign was begun to personally invite inactive church-goers back, and to invite potential newcomers for the first time, including making a new, professional photo directory.
 
-#### Local Newspaper
+### Local Newspaper
 The church had not been fully makinge use of its information space in the Church Calendar section of the local newspaper, The Ninnescah Valley News. 
 
 Pretty Prairie United Methodist Church website address added to local newspaper Church Calendar to boost traffic and rankings
