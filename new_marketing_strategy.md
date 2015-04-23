@@ -122,7 +122,7 @@ Suggested target audiences range from a radius of 50 km around Pretty Prairie, d
 ![](new-marketing-strategy/facebook-page-advertisement-reach-1km.jpg)
 
 #### Google AdWords (Paid)
-Google Rich Snippet
+In additional to creating a free Google Rich Snippet, the church can advertise through Google AdWords
 
 Google AdWords targeting Pretty Prairie 
 ![](new-marketing-strategy/google-adwords-pretty-prairie-targeting.jpg)
@@ -131,7 +131,7 @@ Google AdWords reach
 
 #### Twitter Advertising (Paid)
 
-Members of the church are less likely to use Twitter. However, Twitter is an option to keep in mind, particularly for reaching the public at large. 
+Members of the church are less likely to use Twitter than Facebook. However, Twitter is an option to keep in mind, particularly for reaching the public at large, including identifying people who are more likely to make donations. 
 
 Mockup of a Pretty Prairie United Methodist Church Twitter ad
 ![](new-marketing-materials/new-twitter-advertisement.jpg)
