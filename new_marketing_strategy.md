@@ -1,5 +1,7 @@
 # New Marketing Strategy
-The new marketing strategy incorporates both traditional and modern methods in order to fit with changing lifestyles, and reach the most people possible, perhaps even beyond city boundaries. 
+The new marketing strategy incorporates both traditional and modern methods in order to fit with changing lifestyles, and to reach the most people possible, perhaps even beyond city boundaries. 
+
+The strategy would be as cost effective as possible by first identifying and taking advantage of "low-hanging fruit" previously overlooked. Beyond low-hanging fruit, we would consider the cost versus potential benefit. 
 
 ## Digitally Empowered Congregation
 I developed a manual to give to members of the church explaining in simple terms how to do things such as:
