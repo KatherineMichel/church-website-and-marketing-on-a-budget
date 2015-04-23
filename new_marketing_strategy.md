@@ -88,13 +88,11 @@ After the revitalization effort began, an opportunity became available to partne
 
 Banners and signs would be placed in front of the church to raise awareness about special events (special worship services, medical clinic, ect.)
 
-Mobile healthcare clinic banner
+Mobile healthcare clinic sign
 ![](new-marketing-strategy/advanced-mobile-healthcare-sign.jpg)
 
 Easter banner
 ![](new-marketing-strategy/easter-banner-photo-shopped.jpg)
-
-Fliers would be placed in high traffic locations
 
 #### Search Engine Optimization (SEO) and Google Rich Snippet
 
