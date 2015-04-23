@@ -7,16 +7,18 @@ I developed a manual to give to members of the church explaining in simple terms
 Training Manual
 ![](new-marketing-strategy/media-manual.jpg)
 
+Though something of an experiment, the goal of this would be to create a self-sustaining publicity engine among the membership. 
+
 ## New Sanctuary Equipment
 As the revitalization effort generated momentum, an anonymous donor made a generous donation to purchase new, large flat-screen televisions and a laptop for the church sanctuary, to be used to play contemporary videos and music, and to project the words of the hymns. 
 
 ![](new-marketing-strategy/sanctuary-screens.jpg)
 
-### Worship Committee
-It was also decided during an Administrative Council meeting that a new Worship Committe would be formed to oversee Worship Service design. 
+## Worship Committee
+It was decided that a new Worship Committe would be formed to oversee Worship Service design. 
 
-## Self-Sustaining Publicity Engine
-We would aspire to create a self-sustaining publicity engine made up of church leaders, committee leaders and members, and congregation members (of all ages and backgrounds) working together in synergy. This would include:
+## 
+Church leaders, committee leaders and members, and congregation members (of all ages and backgrounds) working together in synergy. This would include:
 
 * Church Leaders
 * Administrative Council
