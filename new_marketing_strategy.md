@@ -92,8 +92,6 @@ Easter banner
 ![](new-marketing-strategy/easter-banner-photo-shopped.jpg)
 
 
-#### Search Engine Optimization (SEO) and Google Rich Snippet
-
 #### Social Media Sharing (ex. Facebook)
 
 We would consider the option of reaching people via free social media sharing before considering paid social media advertisement.
@@ -124,6 +122,8 @@ Suggested target audiences range from a radius of 50 km around Pretty Prairie, d
 ![](new-marketing-strategy/facebook-page-advertisement-reach-1km.jpg)
 
 #### Google AdWords (Paid)
+Google Rich Snippet
+
 Google AdWords targeting Pretty Prairie 
 ![](new-marketing-strategy/google-adwords-pretty-prairie-targeting.jpg)
 
