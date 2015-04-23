@@ -6,6 +6,8 @@ It is not uncommon for an article about an individual church to be featured in a
 
 The answer I received was very positive. 
 
+The article is in process...
+
 
 
 
