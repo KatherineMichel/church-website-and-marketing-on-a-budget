@@ -42,6 +42,7 @@ Low-Hanging Fruit
 | Tactic | Cost |
 | -- | -- |
 | Word of Mouth | Free |
+| Contacting Inactive/Potential New-Comers | Free |
 | Fliers in High Traffic Locations | Free |
 | Social Media Sharing | Free |
 | Newspaper Articles/Church Info | Free |
@@ -56,9 +57,9 @@ Cost Benefit Analysis
 | Twitter Ads | TBD |
 | Special Occasion Ads/Sponsorships | TBD |
 
-The Facebook advertisement program defaults to $50 spend for 1 week
-
 ### "Low-Hanging Fruit"
+
+The Facebook advertisement program defaults to $50 spend for 1 week
 
 taking photos and/or writing blog posts.
 
