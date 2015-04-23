@@ -3,30 +3,6 @@ The new marketing strategy incorporates both traditional and modern methods in o
 
 The strategy would be as cost effective as possible by first identifying and taking advantage of "low-hanging fruit" previously overlooked. Beyond low-hanging fruit, we would consider the cost versus potential benefit. 
 
-## Digitally Empowered Congregation
-I developed a manual to give to members of the church explaining in simple terms how to do things such as:
-
-Training Manual
-![](new-marketing-strategy/media-manual.jpg)
-
-Though something of an experiment, the goal of this would be to create a self-sustaining publicity engine among the membership. 
-
-## New Sanctuary Equipment
-As the revitalization effort generated momentum, an anonymous donor made a generous donation to purchase new, large flat-screen televisions and a laptop for the church sanctuary, to be used to play contemporary videos and music, and to project the words of the hymns. 
-
-![](new-marketing-strategy/sanctuary-screens.jpg)
-
-## Worship Committee
-It was decided that a new Worship Committe would be formed to oversee worship service design. 
-
-## Youth Leadership Initiative
-A Youth Leadership Initiative would be formed to assist with publicity duties such as running the new screen videos and music during worship. 
-
-## Outreach Calendar
-The church purchased a 2015 wall calendar to be used as an outreach calendar. This outreach calendar is hung on a hook on the wall in a high traffic area of the church where it will not be overlooked. A pen and post it notes are nearby so that the calendar can be easily updated. The calendar can be removed from the wall and taken to meetings too. The calendar would help to keep everyone "on the same page."
-
-![](new-marketing-strategy/outreach-calendar.jpg)
-
 ## Example Marketing Plan
 
 ### Example Budget and Costs
@@ -60,7 +36,31 @@ Cost Benefit Analysis
 | Twitter Ads | TBD |
 | Special Occasion Ads/Sponsorships | TBD |
 
-## Examples
+## Main Tactics
+
+### Digitally Empowered Congregation
+I developed a manual to give to members of the church explaining in simple terms how to do things such as:
+
+Training Manual
+![](new-marketing-strategy/media-manual.jpg)
+
+Though something of an experiment, the goal of this would be to create a self-sustaining publicity engine among the membership. 
+
+### New Sanctuary Equipment
+As the revitalization effort generated momentum, an anonymous donor made a generous donation to purchase new, large flat-screen televisions and a laptop for the church sanctuary, to be used to play contemporary videos and music, and to project the words of the hymns. 
+
+![](new-marketing-strategy/sanctuary-screens.jpg)
+
+### Worship Committee
+It was decided that a new Worship Committe would be formed to oversee worship service design. 
+
+### Youth Leadership Initiative
+A Youth Leadership Initiative would be formed to assist with publicity duties such as running the new screen videos and music during worship. 
+
+### Outreach Calendar
+The church purchased a 2015 wall calendar to be used as an outreach calendar. This outreach calendar is hung on a hook on the wall in a high traffic area of the church where it will not be overlooked. A pen and post it notes are nearby so that the calendar can be easily updated. The calendar can be removed from the wall and taken to meetings too. The calendar would help to keep everyone "on the same page."
+
+![](new-marketing-strategy/outreach-calendar.jpg)
 
 ### Contacting Inactive/Potential New-Comers
 A campaign was begun to personally invite inactive church-goers back, and to invite potential newcomers for the first time, including making a new, professional photo directory.
@@ -79,11 +79,11 @@ Photo at Pretty Prairie Sunset Home afternoon tea hosted by United Methodist Wom
 On the left, story made from photo with a link to the church's Facebook Page; On the right, a story about the church's new mobile healthcare clinic (see below)
 ![](new-marketing-strategy/afternoon-tea-newspaper.jpg)
 
-#### Partnering with Other Community Orgs to Provide Services
+### Partnering with Other Community Orgs to Provide Services (Potential Cost TBD)
 
 After the revitalization effort began, an opportunity became available to partner with community organization Ubuntu to bring a weekly medical clinic to Pretty Prairie through [Advanced Mobile Healthcare](http://www.advancedmobilehealthcare.com), including in-home visits. Ubuntu needed a location for the clinic and the Pretty Prairie United Methodist Church basement was a perfect fit. This is an example of a partnership that would service the community and get people through the doors. 
 
-#### Signs
+### Signs (Paid)
 
 Banners and signs would be placed in front of the church to raise awareness about special events (special worship services, medical clinic, ect.)
 
