@@ -62,6 +62,7 @@ See [Prototype](prototype.md)
 #### Global Communication Audit
 
 #### Example Mobile App Use Case
+"We praise God and celebrate the growth and vitality of our churches in Africa and the Philippines and will continue to find ways to strengthen our global connection," [United Methodist State of the Church Report, 2012](http://s3.amazonaws.com/Website_Properties/state-of-the-church/documents/2012-state-of-the-church-report.PDF).
 
 Information sheet about Dora North Circuit of the United Methodist Church in Mutare District of Zimbabwe, one of the missions of the Pretty Prairie United Methodist Church
 
