@@ -1,4 +1,4 @@
-# Part 3: The Global United Methodist Church Re-Imagined :)
+# Part 2: The Global United Methodist Church Re-Imagined :)
 
 ## Research and Design Sprint
 
