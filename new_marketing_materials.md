@@ -8,7 +8,7 @@ Templates in both color and black-and-white are used to address the impracticali
 (See New Website chapter for a more detailed explanation of the new website)
 
 New website address: 
-http://www.prettyprairieumc.org<br>
+http://www.prettyprairieumc.org
 
 New website responsive design
 ![](new-marketing-materials/new-website-iphone-6+-ipad-imac.jpg)
