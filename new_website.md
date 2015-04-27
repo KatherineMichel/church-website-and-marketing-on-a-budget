@@ -1,6 +1,9 @@
 # New Website
 
-The new church website (http://www.prettyprairieumc.org) is very reasonably priced. The design has a clean, modern, minimalistic look, with a lightweight, responsive layout that adapts well from desktop to mobile. The user experience (UI) is intuitive.
+The new church website is very reasonably priced. The design has a clean, modern, minimalistic look, with a lightweight, responsive layout that adapts well from desktop to mobile. The user experience (UI) is intuitive.
+
+New website address: 
+http://www.prettyprairieumc.org
 
 New website responsive design
 ![](new-marketing-materials/new-website-iphone-6+-ipad-imac.jpg)
