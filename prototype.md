@@ -3,7 +3,7 @@
 ## Global United Methodist Church Mobile Presence Re-Imagined :)
 
 iPhone 6+, iPad, iMac
-![](prototype/iphone-6-plus-ipad-imac.jpg)
+![](prototype/iphone-6-plus-ipad-imac.png)
 
 Mobile App Screen Mockups (iPhone 6+)
 ![](prototype/iphone-6-plus-screens-1.jpg)
