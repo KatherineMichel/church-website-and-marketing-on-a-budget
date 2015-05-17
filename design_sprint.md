@@ -19,7 +19,7 @@ Taking stock of resources on hand
 
 ### People Needed
 
-I would do most of the design work alone, and facilitate select problem solving group work, particularly involving the church's Administrative Council Committee and Nurture, Outreach, Witness (NOW) Committee, which both plan outreach for the church. 
+I did most of the design work alone, and facilitated select problem solving group work, particularly involving the church's Administrative Council Committee and Nurture, Outreach, Witness (NOW) Committee, which both plan outreach for the church. 
 
 ## Design Sprint Process
 
