@@ -31,33 +31,19 @@ See [Research Sprint](research_sprint.md) for research info and a lightning demo
 
 #### User Story Task List
 
-* Login and Sign Up
+* Login and sign up
+* Tour (optional)
 * Settings
-* Questionnaire to customize content
-* Product tour
-* Menus
-* Profiles
-* News/Activity feeds
-* Sharing
-* Comments
-* Bible study
+* Main menu
+* Profile, news/activity feed
+* Bible study, groups, live prayer
+* Marketplace
 * Portal to United Methodist content
-* eCommerce/Marketplace
-* Galleries
-* Calendars
-* On demand prayer
-* Crowdsourced volunteers
-
-App for Kids
-* Gamification
+* Calendar/ephemeral scripture messages
 
 #### User Story Divided into Parts
 
-Commonly used search terms in app name (Ex. Google search for 'Bible app' leads to search result "The Bible App" which leads to The Bible App website, which leads to selection of platforms and LifeChurch)
-
 ### Mind map
-
-#### Soft Systems Rich Picture
 
 ### Storyboard
 What I intended to be Crazy Eights become more like a Storyboard. I felt that after a critique, I could move on to a prototype. 
