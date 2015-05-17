@@ -26,7 +26,6 @@ https://www.facebook.com/prettyprairieumc
 ![](new-marketing-materials/new-facebook-page-advertisement.jpg)
 
 ## New e-Newsletter
-(Some information altered to protect privacy) 
 
 ![](new-marketing-materials/new-newsletter-page-1.jpg)
 
