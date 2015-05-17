@@ -43,6 +43,8 @@ See [Research Sprint](research_sprint.md) for research info and a lightning demo
 
 #### User Story Divided into Parts
 
+Two-sided marketplace
+
 ### Mind map
 
 ### Storyboard
