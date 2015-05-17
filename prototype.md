@@ -22,4 +22,4 @@ Bible verse, Bible verse share, posting Bible verse with message
 Live prayer
 ![](prototype/iphone-6-plus-screens-5.jpg)
 
-Photo credit: MorgueFile
+Photo credit: [MorgueFile](http://www.morguefile.com/archive/display/924868)
