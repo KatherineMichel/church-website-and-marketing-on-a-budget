@@ -106,9 +106,6 @@ In addition to the ability to share Facebook page posts and website blog posts f
 
 One option would be to advertise the church's Facebook Page via the "Local Awareness" option to "reach people near your business." 
 
-Facebook advertisement preview
-![](new-marketing-strategy/facebook-page-advertisement-preview.jpg)
-
 Suggested target audiences range from a radius of 50 km around Pretty Prairie, down to 3 km, or 1km (as shown here)... 
 
 ![](new-marketing-strategy/facebook-page-advertisement-reach-1km.jpg)
