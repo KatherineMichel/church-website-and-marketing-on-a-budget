@@ -104,9 +104,7 @@ Easter banner
 #### Facebook Advertising
 In addition to the ability to share Facebook page posts and website blog posts for free, Facebook also offers paid advertising to target people located within a region. Additional advertising filters include gender and age ranges between 18 and 65+.
 
-One option would be to advertise the church's Facebook Page via the "Local Awareness" option to "reach people near your business." 
-
-Suggested target audiences range from a radius of 50 km around Pretty Prairie, down to 3 km, or 1km (as shown here)... 
+One option would be to advertise the church's Facebook Page via the "Local Awareness" option to "reach people near your business." Suggested target audiences range from a radius of 50 km around Pretty Prairie, down to 3 km, or 1km (as shown here)... 
 
 ![](new-marketing-strategy/facebook-page-advertisement-reach-1km.jpg)
 
@@ -120,7 +118,7 @@ Google AdWords targeting Pretty Prairie
 
 Members of the church are less likely to use Twitter than Facebook. However, Twitter is an option to keep in mind, particularly for reaching the public at large, including identifying people who are more likely to make donations. 
 
-Also, Twitter has a [Faith Playbook](https://media.twitter.com/playbook/faith-organizations) for faith organizations, and religious ads can be occasionally found on Twitter.
+Twitter has a [Faith Playbook](https://media.twitter.com/playbook/faith-organizations) for faith organizations, and religious ads can be occasionally found on Twitter.
 
 
 
