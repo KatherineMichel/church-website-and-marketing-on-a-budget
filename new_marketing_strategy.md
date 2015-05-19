@@ -99,6 +99,8 @@ Easter banner
 
 ### Digital Advertising (Possible Grant)
 
+We became aware of an opportunity to apply for a new digital advertising grant through United Methodist Communications. Because digital advertising might normally be considered too experimental to be funded by the church, this could be a perfect opportunity to do a trial run. 
+
 ![](new-marketing-strategy/digital-advertising-grants.jpg)
 
 #### Facebook Advertising
