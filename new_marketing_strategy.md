@@ -120,9 +120,6 @@ Google AdWords targeting Pretty Prairie
 
 Members of the church are less likely to use Twitter than Facebook. However, Twitter is an option to keep in mind, particularly for reaching the public at large, including identifying people who are more likely to make donations. 
 
-Mockup of a Pretty Prairie United Methodist Church Twitter ad
-![](new-marketing-materials/new-twitter-advertisement.jpg)
-
 Also, Twitter has a [Faith Playbook](https://media.twitter.com/playbook/faith-organizations) for faith organizations, and religious ads can be occasionally found on Twitter.
 
 
