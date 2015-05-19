@@ -97,7 +97,7 @@ Mobile healthcare clinic sign
 Easter banner
 ![](new-marketing-strategy/easter-banner-photo-shopped.jpg)
 
-### Online Advertising (Possible Grant)
+### Digital Advertising (Possible Grant)
 
 ![](new-marketing-strategy/digital-advertising-grants.jpg)
 
