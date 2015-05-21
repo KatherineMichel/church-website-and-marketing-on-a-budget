@@ -47,6 +47,8 @@ Two-sided marketplace
 
 ### Mind map
 
+![](design-sprint/mind-map.jpg)
+
 ### Storyboard
 What I intended to be Crazy Eights become more like a Storyboard. I felt that after a critique, I could move on to a prototype. 
 

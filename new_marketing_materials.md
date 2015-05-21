@@ -57,7 +57,7 @@ Back cover<br>
 
 ![](new-marketing-materials/new-post-card.jpg)
 
-## Twitter Ad
+## Twitter Ad Mockup
 
 ![](new-marketing-materials/new-twitter-advertisement.jpg)
 

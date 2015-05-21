@@ -37,9 +37,9 @@ Cost Benefit Analysis
 | -- | -- |
 | Partnerships | Cost Varies/Currently No Cost |
 | Professionally Made Banners/Signs | TBD |
-| Google AdWords | TBD |
-| Facebook Ads | TBD |
-| Twitter Ads | TBD |
+| Google AdWords | Possible Grant |
+| Facebook Ads | Possible Grant |
+| Twitter Ads | Possible Grant |
 | Special Occasion Ads/Sponsorships | TBD |
 
 ## Main Tactics
@@ -50,7 +50,7 @@ As the revitalization effort generated momentum, an anonymous donor made a gener
 ![](new-marketing-strategy/sanctuary-screens.jpg)
 
 ### Worship Committee
-It was decided that a new Worship Committe would be formed to oversee worship service design. 
+It was decided that a new Worship Committee would be formed to oversee worship service design. 
 
 ### Youth Leadership Initiative
 A Youth Leadership Initiative would be formed to assist with publicity duties such as running the new screen videos and music during worship. 
@@ -97,34 +97,30 @@ Mobile healthcare clinic sign
 Easter banner
 ![](new-marketing-strategy/easter-banner-photo-shopped.jpg)
 
-### Online Advertising
+### Digital Advertising (Possible Grant)
 
-#### Facebook Advertising (Paid)
+We became aware of an opportunity to apply for a new digital advertising grant through United Methodist Communications. Because digital advertising might normally be considered too experimental to be funded by the church, this could be a perfect opportunity to do a trial run. 
+
+![](new-marketing-strategy/digital-advertising-grants.jpg)
+
+#### Facebook Advertising
 In addition to the ability to share Facebook page posts and website blog posts for free, Facebook also offers paid advertising to target people located within a region. Additional advertising filters include gender and age ranges between 18 and 65+.
 
-One option would be to advertise the church's Facebook Page via the "Local Awareness" option to "reach people near your business." 
-
-Facebook advertisement preview
-![](new-marketing-strategy/facebook-page-advertisement-preview.jpg)
-
-Suggested target audiences range from a radius of 50 km around Pretty Prairie, down to 3 km, or 1km (as shown here)... 
+One option would be to advertise the church's Facebook Page via the "Local Awareness" option to "reach people near your business." Suggested target audiences range from a radius of 50 km around Pretty Prairie, down to 3 km, or 1km (as shown here)... 
 
 ![](new-marketing-strategy/facebook-page-advertisement-reach-1km.jpg)
 
-#### Google AdWords (Paid)
+#### Google AdWords 
 In additional to creating a free Google Rich Snippet, the church can use Google AdWords to create ads that people in the Pretty Prairie region see when they do a Google search.
 
 Google AdWords targeting Pretty Prairie 
 ![](new-marketing-strategy/google-adwords-pretty-prairie-targeting.jpg)
 
-#### Twitter Advertising (Paid)
+#### Twitter Advertising 
 
 Members of the church are less likely to use Twitter than Facebook. However, Twitter is an option to keep in mind, particularly for reaching the public at large, including identifying people who are more likely to make donations. 
 
-Mockup of a Pretty Prairie United Methodist Church Twitter ad
-![](new-marketing-materials/new-twitter-advertisement.jpg)
-
-Also, Twitter has a [Faith Playbook](https://media.twitter.com/playbook/faith-organizations) for faith organizations, and religious ads can be occasionally found on Twitter.
+Twitter has a [Faith Playbook](https://media.twitter.com/playbook/faith-organizations) for faith organizations, and religious ads can be occasionally found on Twitter.
 
 
 
