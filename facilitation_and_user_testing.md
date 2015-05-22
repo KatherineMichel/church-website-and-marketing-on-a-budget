@@ -86,4 +86,4 @@ It was determined through facilitation that the committees sought to target youn
 Marketing Worksheet Target Audience Deliverable
 ![](facilitation-and-user-testing/demographics-sheet.jpg)
 
-
+### Step 4: Implementation
