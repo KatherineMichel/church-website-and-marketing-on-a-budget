@@ -61,9 +61,12 @@ The committee members identified offering services where there is a gap as a maj
 * a weekly get together for kids (particularly low-income) during summer, when school is out and Community Youth Group does not meet, featuring activities (movies, songs), meals
 * home maintenance for the elderly
 
+##### Opportunities
+The committee members felt that the opportunities were the same as the needs. 
+
 #### Target Audience
 
-It was determined through facilitation that the committees sought to target young people, including young families and single parents, perhaps using tactics that would offer practical support.
+It was determined through facilitation that the committees sought to target young people, particularly low-income and single-parent families with little or no support system, perhaps using tactics that would offer practical support.
 
 Marketing Worksheet Target Audience Deliverable
 ![](facilitation-and-user-testing/demographics-sheet.jpg)
