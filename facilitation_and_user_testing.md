@@ -56,6 +56,10 @@ Homework/Marketing Plan Deliverables
 #### S.W.O.T
 The group chose to use N.O.I.S.E instead of S.W.O.T.
 
+Needs (of the community)
+The committee members identified offering services where there is a gap as a major opportunity. Examples:
+* a weekly get together for kids (particularly low-income) during summer, when school is out and Community Youth Group does not meet, featuring activities (movies, songs), meals
+
 #### Target Audience
 
 It was determined through facilitation that the committees sought to target young people, including young families and single parents, perhaps using tactics that would offer practical support.
