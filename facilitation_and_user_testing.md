@@ -10,7 +10,7 @@ We would use problem structuring methods to answer the following questions:
 
 ## Facilitation 
 
-Members of Administrative Council Committee and Nurture, Outreach, Witness (NOW) Committee, which both plan outreach for the church, began to collaborate on a new church marketing plan. Using the United Methodist Communications [Marketing Audit](http://www.umcom.org/learn/market-your-church-getting-started) and [Marketing Audit Worksheet](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/UMCOM_YOUR_MARKETING_PLAN_WORKSHEET.PDF), I would use group facilitation during the normal NOW Committee and Administrative Council Committee meetings in order to collect the information needed to create the marketing plan. 
+Members of Administrative Council Committee and Nurture, Outreach, Witness (NOW) Committee, which both plan outreach for the church, began to collaborate on a new church marketing plan. Using the United Methodist Communications [Marketing Audit](http://www.umcom.org/learn/market-your-church-getting-started) and [Marketing Audit Worksheet](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/UMCOM_YOUR_MARKETING_PLAN_WORKSHEET.PDF) (with a few adaptations), I would use group facilitation during the normal NOW Committee and Administrative Council Committee meetings to collect the information needed to create the marketing plan. 
 
 ### Step 1: Values and Vision Deliverables
 
@@ -35,7 +35,7 @@ Church Mission Statement
 
 It was decided by the group that the Vision Statement is the Key Message/Elevator Statement. 
 
-#### Step 2: Perception and Needs
+### Step 2: Perception and Needs
 Homework
 * Homework 1: Perception ("Understand the church's view of itself and the community's view")
 * Homework 2: Community Needs ("Open your eyes to your congregation and community's needs then determine if your church already has resources/abilities to meet those needs or if new ministries need to be developed.")
@@ -50,7 +50,7 @@ Marketing Plan Deliverables
 * Focus Group Summaries Report
 * Community Survey Report or Community Member Gatherings Report
 
-#### Step 3: Strategy
+### Step 3: Strategy
 "Set the direction and narrow the scope of your marketing resources so you can
 connect who you are (Values & Vision) with the people you want to reach (Target
 Audience)."
