@@ -36,26 +36,8 @@ Church Mission Statement
 It was decided by the group that the Vision Statement is the Key Message/Elevator Statement. 
 
 ### Step 2: Perception and Needs
-Homework
-* Homework 1: Perception ("Understand the church's view of itself and the community's view")
-* Homework 2: Community Needs ("Open your eyes to your congregation and community's needs then determine if your church already has resources/abilities to meet those needs or if new ministries need to be developed.")
-
-Action Steps
-* Action Step 1: Congregational Survey or Team/Committee/Group Interview
-* Action Step 2: Newer Member Focus Groups
-* Action Step 3: Community Survey or Community Member Gatherings
-
-Marketing Plan Deliverables
-* Congregational Survey Results or Interview Summaries Report
-* Focus Group Summaries Report
-* Community Survey Report or Community Member Gatherings Report
 
 ### Step 3: Strategy
-"Set the direction and narrow the scope of your marketing resources so you can
-connect who you are (Values & Vision) with the people you want to reach (Target
-Audience)."
-"Defines what you want to accomplish within a designated amount of time."
-
 Homework/Marketing Plan Deliverables
 * S.W.O.T.
 * Target Audience
