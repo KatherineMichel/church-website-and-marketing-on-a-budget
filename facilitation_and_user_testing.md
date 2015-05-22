@@ -10,7 +10,7 @@ We would use problem structuring methods to answer the following questions:
 
 ## Facilitation 
 
-Members of Administrative Council Committee and Nurture, Outreach, Witness (NOW) Committee, which both plan outreach for the church, began to collaborate on a new church marketing plan. 
+Members of the Administrative Council Committee and the Nurture, Outreach, Witness (NOW) Committee, which both plan outreach for the church, began to collaborate on a new church marketing plan. 
 
 In preparation for their group work, I provided them with resources from the [United Methodist Communications](http://www.umcom.org) [Marketing Audit](http://www.umcom.org/learn/market-your-church-getting-started), including a [Marketing Plan Worksheet](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/UMCOM_YOUR_MARKETING_PLAN_WORKSHEET.PDF), and ["Tactics" List](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/STEP_4_IMPLEMENTATION_HOMEWORK.PDF). 
 
@@ -61,7 +61,7 @@ Homework/Marketing Plan Deliverables
 The group chose to use N.O.I.S.E (Needs, Opportunties, Improvements, Successes, Exceptions) instead of S.W.O.T.
 
 ##### Needs (of the community)
-The committee members identified offering services where there is a gap as a major opportunity. Examples:
+The committee members identified "offering services where there is a gap" as a major opportunity. Examples:
 * a weekly get together for kids (particularly low-income) during summer, when school is out and Community Youth Group does not meet, featuring activities (movies, songs), meals
 * classes for parents, such as preparing budget-friendly meals, or finance 101
 * home maintenance for the elderly
