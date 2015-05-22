@@ -70,6 +70,11 @@ The committee members felt that the opportunities were the same as the needs.
 * Getting people to come in and possibly stay (health clinic as example)
 * Finding ways to go outside of the church and minister to the community (thinking outside the box)
 
+##### Successes
+* friendly people
+* lots of leadership in the community
+* involved in many community initiatives and events (for instance Food Bank and all-churches VBS)
+
 #### Target Audience
 
 It was determined through facilitation that the committees sought to target young people, particularly low-income and single-parent families with little or no support system, perhaps using tactics that would offer practical support.
