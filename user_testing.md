@@ -9,6 +9,7 @@ I filled out the Google Ventures [Recruiting Screener Worksheet](http://www.gv.c
 
 Favorable user criteria 
 * United Methodist Church congregation members
+
 Unfavorable user criteria
 * Extremely technical
 
