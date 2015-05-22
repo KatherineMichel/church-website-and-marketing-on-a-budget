@@ -36,6 +36,7 @@ Church Mission Statement
 It was decided by the group that the Vision Statement is the Key Message/Elevator Statement. 
 
 ### Step 2: Perception and Needs
+In process
 
 ### Step 3: Strategy
 Homework/Marketing Plan Deliverables
