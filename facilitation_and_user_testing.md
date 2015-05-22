@@ -59,7 +59,9 @@ The group chose to use N.O.I.S.E instead of S.W.O.T.
 ##### Needs (of the community)
 The committee members identified offering services where there is a gap as a major opportunity. Examples:
 * a weekly get together for kids (particularly low-income) during summer, when school is out and Community Youth Group does not meet, featuring activities (movies, songs), meals
+* classes for parents, such as preparing budget-friendly meals, or finance 101
 * home maintenance for the elderly
+* estate, succession planning
 
 ##### Opportunities
 The committee members felt that the opportunities were the same as the needs. 
