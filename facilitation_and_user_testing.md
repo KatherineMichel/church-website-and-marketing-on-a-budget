@@ -12,30 +12,17 @@ We would use problem structuring methods to answer the following questions:
 
 Members of Administrative Council Committee and Nurture, Outreach, Witness (NOW) Committee, which both plan outreach for the church, began to collaborate on a new church marketing plan. Using the United Methodist Communications [Marketing Audit](http://www.umcom.org/learn/market-your-church-getting-started) and [Marketing Audit Worksheet](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/UMCOM_YOUR_MARKETING_PLAN_WORKSHEET.PDF), I would use group facilitation during their normal meetings in order to collect the information needed to create the marketing plan. 
 
-#### Step 1: Values and Vision
-Prepare: 
-* Congregational Demographic Report
-* Congregational Behavior and Response Report
-* Community Demographic and Behaviors Reports
-* Church Budget and Staffing Report
+### Step 1: Values and Vision Deliverables
 
-Homework
-* Homework 1: Values (Who is your church>)
-* Homework 2: Vision (Where is your church going?)
-
-Marketing Plan Deliverables
+Deliverables:
 * Core Values
 * Demographics
 * Vision Statement
 * Key Messaging/Elevator Statement
 
-Other factors important to vision:
-* Organizational Structure
-* Staffing
-* Resource allocation
-* Decision making
+#### Core Values
 
-##### Church Vision and Mission Statements
+#### Church Vision and Mission Statements
 We started by reflecting on the existing Vision and Mission Statements
 
 Church Vision Statement
@@ -43,6 +30,10 @@ Church Vision Statement
 
 Church Mission Statement
 ![](facilitation-and-user-testing/mission-statement.jpg)
+
+#### Key Messaging/Elevator Statement
+
+It was decided by the group that the Vision Statement is the Key Message/Elevator Statement. 
 
 #### Step 2: Perception and Needs
 Homework
