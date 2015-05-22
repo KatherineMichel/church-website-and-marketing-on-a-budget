@@ -58,7 +58,7 @@ Homework/Marketing Plan Deliverables
 * Target Audience
 
 #### S.W.O.T
-The group chose to use N.O.I.S.E (Needs, Opportunties, Improvements, Successes, Exceptions) instead of S.W.O.T.
+The group chose to use [N.O.I.S.E.](http://create-learning.com/article/manager-training/noise-analysis-an-alternative-to-swot-strategic-planning) (Needs, Opportunties, Improvements, Successes, Exceptions) instead of S.W.O.T.
 
 ##### Needs (of the community)
 The committee members identified "offering services where there is a gap" as a major opportunity. Examples:
