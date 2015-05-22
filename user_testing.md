@@ -55,12 +55,6 @@ See [Prototype](prototype.md)
 
 ### Interview Guide
 
-#### Name Survey
-
-#### Local Communication Audit
-
-#### Global Communication Audit
-
 #### Example Mobile App Use Case
 "We praise God and celebrate the growth and vitality of our churches in Africa and the Philippines and will continue to find ways to strengthen our global connection," [United Methodist State of the Church Report, 2012](http://s3.amazonaws.com/Website_Properties/state-of-the-church/documents/2012-state-of-the-church-report.PDF).
 
