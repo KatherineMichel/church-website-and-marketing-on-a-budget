@@ -54,7 +54,7 @@ Homework/Marketing Plan Deliverables
 * Resources
 
 #### S.W.O.T
-The group chose to use N.O.I.S.E instead of S.W.O.T.
+The group chose to use N.O.I.S.E (Needs, Opportunties, Improvements, Successes, Exceptions) instead of S.W.O.T.
 
 ##### Needs (of the community)
 The committee members identified offering services where there is a gap as a major opportunity. Examples:
