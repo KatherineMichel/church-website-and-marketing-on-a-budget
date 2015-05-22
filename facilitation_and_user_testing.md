@@ -31,6 +31,8 @@ Deliverables:
 * open hearts, open minds, open doors
 
 #### Demographics
+Population: ~688
+
 A story was told by a committee member of having once been a member of a large church and being hesitant to go up to people to welcome them because there were so many people, it was difficult to tell regular church-goers from guests. It was pointed out that knowing exactly who is a regular church-goer and who isn't is one of the advantages of a smaller church, and being able to identify who is in need is one of the advantages of a small town. 
 
 #### Church Vision and Mission Statements
@@ -43,7 +45,6 @@ Church Mission Statement
 ![](facilitation-and-user-testing/mission-statement.jpg)
 
 #### Key Messaging/Elevator Statement
-
 It was decided by the group that the Vision Statement is the Key Message/Elevator Statement. 
 
 ### Step 2: Perception and Needs
