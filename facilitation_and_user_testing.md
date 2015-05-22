@@ -48,7 +48,9 @@ Church Mission Statement
 It was decided by the group that the Vision Statement is the Key Message/Elevator Statement. 
 
 ### Step 2: Perception and Needs
-In process
+Homework
+1. Perception ("Understand the church's view of itself and the community's view")
+2. Community Needs ("Open your eyes to your congregation and community's needs then determine if your church already has resources/abilities to meet those needs or if new ministries need to be developed.")
 
 ### Step 3: Strategy
 Homework/Marketing Plan Deliverables
