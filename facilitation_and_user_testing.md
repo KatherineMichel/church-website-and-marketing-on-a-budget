@@ -53,7 +53,7 @@ The group chose to use N.O.I.S.E instead of S.W.O.T.
 
 #### Target Audience
 
-It was determined through facilitation that the committees sought to target young people, including young families.
+It was determined through facilitation that the committees sought to target young people, including young families, perhaps using tactics that would offer practical support.
 
 Marketing Worksheet Target Audience Deliverable
 ![](facilitation-and-user-testing/demographics-sheet.jpg)
