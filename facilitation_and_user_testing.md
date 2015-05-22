@@ -27,7 +27,7 @@ Deliverables:
 * open hearts, open minds, open doors
 
 #### Demographics
-A story was told by a committee member of having once been a member of a large church and being hesitant to go up to people to welcome them because there were so many people, it was difficult to tell regular church-goers from guests. It was pointed out that this is one of the advantages of a smaller church. 
+A story was told by a committee member of having once been a member of a large church and being hesitant to go up to people to welcome them because there were so many people, it was difficult to tell regular church-goers from guests. It was pointed out that knowing exactly who is a regular church-goer and who isn't is one of the advantages of a smaller church. 
 
 #### Church Vision and Mission Statements
 We started by reflecting on the existing Vision and Mission Statements
