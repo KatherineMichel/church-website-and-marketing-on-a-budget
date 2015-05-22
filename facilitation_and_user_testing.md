@@ -98,3 +98,8 @@ Action Steps
 * Action Step 1: Tactics Brainstorming & Prioritizing Session
 * Action Step 2: Marketing Plan Development & Review
 * Action Step 3: Marketing Plan Approval & Implementation
+
+Marketing Plan Deliverables
+* Goals/measurable objectives with supporting tactics
+* Timing/deadlines
+* Person/team coordinating
