@@ -36,6 +36,7 @@ I requested that the prospective users reply to confirm.
 Though Google Ventures suggests including in the email a link to a non-disclosure agreement ([Google Ventures Example Non-Disclosure Agreement](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Sample-NDA.pdf)), I did not feel that one was needed for this situation. 
 
 ## User Interviews
+I used Google Ventures ["User Research, Quick 'n' Dirty"](http://www.gv.com/wp-content/uploads/2013/02/User-Research-Workshop_Google-Ventures_Feb2013.pdf), as a planning resource.
 
 ![](user-testing/interview-worksheet-1.jpg)
 
