@@ -54,9 +54,6 @@ In process
 Homework/Marketing Plan Deliverables
 * S.W.O.T. (strengths, weaknesses, opportunities, threats)
 * Target Audience
-* Strategic Objective
-* Goals
-* Resources
 
 #### S.W.O.T
 The group chose to use N.O.I.S.E (Needs, Opportunties, Improvements, Successes, Exceptions) instead of S.W.O.T.
@@ -94,7 +91,6 @@ Example Target Audience Deliverable Worksheet
 After having identified the target audiences, we would look at a list of possible tactics and compare against available resources. We would also consider which methods would be best suited to which audiences. 
 
 ### Step 4: Implementation
-
 Prepare:
 * Budget information
 
@@ -107,5 +103,9 @@ Marketing Plan Deliverables
 * Goals/measurable objectives with supporting tactics
 * Timing/deadlines
 * Person/team coordinating
+
+* Strategic Objective
+* Goals
+* Resources
 
 United Methodist Communications suggests using a Goals and Measurable Objectives Chart as part of the [Evaluation Step](http://www.umcom.org/learn/evaluation-adjustment-resources) of its Marketing Audit. 
