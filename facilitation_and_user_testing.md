@@ -109,3 +109,9 @@ Marketing Plan Deliverables
 * Resources
 
 United Methodist Communications suggests using a Goals and Measurable Objectives Chart as part of the [Evaluation Step](http://www.umcom.org/learn/evaluation-adjustment-resources) of its Marketing Audit. 
+
+United Methodist Goals and Measurable Objectives example chart
+
+![](facilitation-and-user-testing/goals-measurable-objectives-chart.jpg)
+
+#### Step 5: Evaluation/Adjustment
