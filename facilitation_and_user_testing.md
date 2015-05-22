@@ -20,7 +20,11 @@ Deliverables:
 * Vision Statement
 * Key Messaging/Elevator Statement
 
-#### Core Values Brainstorming
+#### Core Values Brainstorming Results
+* Christ-centered, ecumenical
+* friendly, welcoming, inclusive
+* community-centered, part of local community, diverse community, bringing community together
+* open hearts, open minds, open doors
 
 #### Demographics
 
