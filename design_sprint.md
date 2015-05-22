@@ -43,7 +43,14 @@ See [Research Sprint](research_sprint.md) for research info and a lightning demo
 
 #### User Story Divided into Parts
 
-Two-sided marketplace
+User Story 1
+* Logging in to use profile, Bible, marketplace, UMC portal content
+
+User Story 2
+* Logging in as an approved merchant
+
+User Story 3
+* Logging in as an admin/volunteer
 
 ### Mind map
 
