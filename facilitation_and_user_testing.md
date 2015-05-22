@@ -52,6 +52,9 @@ Homework/Marketing Plan Deliverables
 The group chose to use N.O.I.S.E instead of S.W.O.T.
 
 #### Target Audience
+
+It was determined through facilitation that the committees sought to target young people, including young families.
+
 Marketing Worksheet Target Audience Deliverable
 ![](facilitation-and-user-testing/demographics-sheet.jpg)
 
