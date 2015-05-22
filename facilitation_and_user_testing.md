@@ -87,3 +87,14 @@ Marketing Worksheet Target Audience Deliverable
 ![](facilitation-and-user-testing/demographics-sheet.jpg)
 
 ### Step 4: Implementation
+
+Prepare:
+* Budget information
+
+Homework
+* Homework 1: Tactics
+
+Action Steps
+* Action Step 1: Tactics Brainstorming & Prioritizing Session
+* Action Step 2: Marketing Plan Development & Review
+* Action Step 3: Marketing Plan Approval & Implementation
