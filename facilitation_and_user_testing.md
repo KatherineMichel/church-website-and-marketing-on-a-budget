@@ -20,7 +20,7 @@ Deliverables:
 * Vision Statement
 * Key Messaging/Elevator Statement
 
-#### Core Values
+#### Core Values Brainstorming
 
 #### Church Vision and Mission Statements
 We started by reflecting on the existing Vision and Mission Statements
