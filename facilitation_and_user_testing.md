@@ -103,3 +103,5 @@ Marketing Plan Deliverables
 * Goals/measurable objectives with supporting tactics
 * Timing/deadlines
 * Person/team coordinating
+
+United Methodist Communications suggests using a Goals and Measurable Objectives Chart as part of the [Evaluation Step](http://www.umcom.org/learn/evaluation-adjustment-resources) of its Marketing Audit. 
