@@ -10,15 +10,9 @@ We would use problem structuring methods to answer the following questions:
 
 ## Facilitation 
 
-Members of Administrative Council Committee and Nurture, Outreach, Witness (NOW) Committee, which both plan outreach for the church, began to collaborate on a new church marketing plan. I facilitated the group using the following United Methodist Communications resources:
+Members of Administrative Council Committee and Nurture, Outreach, Witness (NOW) Committee, which both plan outreach for the church, began to collaborate on a new church marketing plan. I facilitated the group using the United Methodist Communications [Marketing Audit](http://www.umcom.org/learn/market-your-church-getting-started)
 
-* [Annual Church Health Check Up](http://www.umcom.org/learn/take-an-annual-church-health-checkup)
-* [Marketing Audit](http://www.umcom.org/learn/market-your-church-getting-started)
-* [Communication Audit](http://www.umcom.org/services-products/audit-resources)
-* [Re-Think Church](http://www.umcom.org/rethink-church)
-* [Small Membership Church Ministries](http://www.greatplainsumc.org/smallmembershipchurchresources)
 
-### Annual Church Health Check Up
 
 ### Marketing Audit
 Mini-Retreat with Marketing Team
