@@ -61,7 +61,7 @@ The committee members identified offering services where there is a gap as a maj
 * a weekly get together for kids (particularly low-income) during summer, when school is out and Community Youth Group does not meet, featuring activities (movies, songs), meals
 * classes for parents, such as preparing budget-friendly meals, or finance 101
 * home maintenance for the elderly
-* estate, succession planning
+* estate planning, farm succession planning
 
 ##### Opportunities
 The committee members felt that the opportunities were the same as the needs. 
