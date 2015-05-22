@@ -8,6 +8,14 @@ The answer I received was very positive.
 
 The article is in process...
 
+* [Annual Church Health Check Up](http://www.umcom.org/learn/take-an-annual-church-health-checkup)
+* [Marketing Audit](http://www.umcom.org/learn/market-your-church-getting-started)
+* [Communication Audit](http://www.umcom.org/services-products/audit-resources)
+* [Re-Think Church](http://www.umcom.org/rethink-church)
+* [Small Membership Church Ministries](http://www.greatplainsumc.org/smallmembershipchurchresources)
+
+### Annual Church Health Check Up
+
 
 
 
