@@ -24,6 +24,8 @@ Deliverables:
 * Vision Statement
 * Key Messaging/Elevator Statement
 
+![](marketing-plan-page-1.jpg)
+
 #### Core Values Brainstorming Results
 * Christ-centered, ecumenical
 * friendly, welcoming, inclusive
