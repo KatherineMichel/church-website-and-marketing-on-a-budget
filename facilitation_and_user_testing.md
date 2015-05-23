@@ -14,7 +14,10 @@ Members of the Administrative Council Committee and the Nurture, Outreach, Witne
 
 In preparation for their group work, I provided them with resources from the [United Methodist Communications](http://www.umcom.org) [Marketing Audit](http://www.umcom.org/learn/market-your-church-getting-started), including a [Marketing Plan Worksheet](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/UMCOM_YOUR_MARKETING_PLAN_WORKSHEET.PDF), and ["Tactics" List](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/STEP_4_IMPLEMENTATION_HOMEWORK.PDF). 
 
-I would use the [Marketing Audit Worksheet](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/UMCOM_YOUR_MARKETING_PLAN_WORKSHEET.PDF) (with a few adaptations), while facilitating the NOW and Administrative Council Committees during their normal meetings to collect the information needed to create the marketing plan. 
+I would use the [Marketing Plan Worksheet](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/UMCOM_YOUR_MARKETING_PLAN_WORKSHEET.PDF) (with a few adaptations), while facilitating the NOW and Administrative Council Committees during their normal meetings to collect the information needed to create the marketing plan. 
+
+Marketing Plan Cover Page
+![](facilitation-and-user-testing/marketing-plan-page-1.jpg)
 
 ### Step 1: Values and Vision Deliverables
 
@@ -24,7 +27,8 @@ Deliverables:
 * Vision Statement
 * Key Messaging/Elevator Statement
 
-![](marketing-plan-page-1.jpg)
+Marketing Plan Values and Vision Deliverables
+![](facilitation-and-user-testing/marketing-plan-page-2.jpg)
 
 #### Core Values Brainstorming Results
 * Christ-centered, ecumenical
@@ -38,10 +42,7 @@ Population: ~688
 A story was told by a committee member of having once been a member of a large church and being hesitant to go up to people to welcome them because there were so many people, it was difficult to tell regular church-goers from guests. It was pointed out that knowing exactly who is a regular church-goer and who isn't is one of the advantages of a smaller church, and being able to identify who is in need is one of the advantages of a small town. 
 
 #### Church Vision and Mission Statements
-We reflected on the existing Vision and Mission Statements
-
-Church Vision Statement
-![](facilitation-and-user-testing/vision-statement.jpg)
+We reflected on the Vision Statement, as well as the Mission Statement
 
 Church Mission Statement
 ![](facilitation-and-user-testing/mission-statement.jpg)
