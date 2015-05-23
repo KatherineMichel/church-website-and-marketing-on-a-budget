@@ -44,6 +44,8 @@ A story was told by a committee member of having once been a member of a large c
 #### Church Vision and Mission Statements
 We reflected on the Vision Statement, as well as the Mission Statement
 
+Church Vision Statement: "The Pretty Prairie United Methodist Church will build on a tradition of being Christ-centered by loving and ministering to a diverse community."
+
 Church Mission Statement
 ![](facilitation-and-user-testing/mission-statement.jpg)
 
