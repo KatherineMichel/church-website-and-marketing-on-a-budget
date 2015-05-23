@@ -13,7 +13,7 @@ App homepage, sign up, connect social accounts
 Find friends, settings, profile pic upload
 ![](prototype/iphone-6-plus-screens-2.jpg)
 
-Main menu, profile page
+Main menu, profile page, notifications page
 ![](prototype/iphone-6-plus-screens-3.jpg)
 
 Bible verse, Bible verse share, posting Bible verse with message
