@@ -65,6 +65,9 @@ Homework/Marketing Plan Deliverables
 #### S.W.O.T
 The group chose to use [N.O.I.S.E.](http://create-learning.com/article/manager-training/noise-analysis-an-alternative-to-swot-strategic-planning) (Needs, Opportunties, Improvements, Successes, Exceptions) instead of S.W.O.T.
 
+Marketing Plan Strategy Deliverables
+![](facilitation-and-user-testing/marketing-plan-page-3.jpg)
+
 ##### Needs (of the community)
 The committee members identified "offering services where there is a gap" as a major opportunity. Examples:
 * a weekly get together for kids (particularly low-income) during summer, when school is out and Community Youth Group does not meet, featuring activities (movies, songs), meals
