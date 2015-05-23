@@ -7,12 +7,6 @@
 I filled out the Google Ventures [Recruiting Screener Worksheet](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Screener-Worksheet.pdf) to prepare for user recruitment
 ![](user-testing/recruiting-screener-worksheet.jpg)
 
-Favorable user criteria 
-* United Methodist Church congregation members
-
-Unfavorable user criteria
-* Extremely technical
-
 ## Recruiting Screener Ad
 Google Ventures often uses a [Craig's List ad](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Sample-Craigslist-ad.png) to recruit users. Because members of the United Methodist Church would be the primary users, I sent an email ad to members of the congregation with a link to the [Recruiting Screener](https://docs.google.com/forms/d/16BgZQXq5FDxPuzamTADUWCKCPkizIKzR7now_lNrozM/viewform?usp=send_form). 
 
@@ -37,7 +31,7 @@ I requested that the prospective users reply to confirm.
 Though Google Ventures suggests including in the email a link to a non-disclosure agreement ([Google Ventures Example Non-Disclosure Agreement](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Sample-NDA.pdf)), I did not feel that one was needed for this situation. 
 
 ## User Interviews
-I used Google Ventures ["User Research, Quick 'n' Dirty"](http://www.gv.com/wp-content/uploads/2013/02/User-Research-Workshop_Google-Ventures_Feb2013.pdf), as a planning resource.
+I used Google Ventures ["User Research, Quick 'n' Dirty,"](http://www.gv.com/wp-content/uploads/2013/02/User-Research-Workshop_Google-Ventures_Feb2013.pdf) as a planning resource.
 
 ![](user-testing/interview-worksheet-1.jpg)
 
