@@ -46,8 +46,8 @@ We reflected on the Vision Statement, as well as the Mission Statement
 
 Church Vision Statement: "The Pretty Prairie United Methodist Church will build on a tradition of being Christ-centered by loving and ministering to a diverse community."
 
-Church Mission Statement
-![](facilitation-and-user-testing/mission-statement.jpg)
+Church Mission Statement:
+"To glorify God by sharing the love of God, the teachings of Jesus Christ and the power of the Holy Spirit within our community"
 
 #### Key Messaging/Elevator Statement
 It was decided by the group that the Vision Statement is the Key Message/Elevator Statement. 
