@@ -13,9 +13,9 @@
    * [New Website](new_website.md)
    * [Facilitation and User Testing](facilitation_and_user_testing.md)
    * [New Marketing Strategy](new_marketing_strategy.md)
+   * User Testing
    * [Revitalization Case Study](revitalization_case_study.md)
    * [Personal Reflection](personal_reflection.md)
-   * User Testing
 * [Part 2: The Global United Methodist Church Re-Imagined :)](the_global_united_methodist_church_re-imagined.md)
    * [Research Sprint](research_sprint.md)
        * [Global United Methodist Church Lightening Demo](global_united_methodist_church_lightening_demo.md)
