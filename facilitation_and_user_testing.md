@@ -80,7 +80,7 @@ The committee members felt that the opportunities were the same as the needs.
 
 ##### Improvements
 * Getting people to come in and possibly stay (health clinic as example)
-* Finding ways to go outside of the church and minister to the community (thinking outside the box)
+* Finding ways to go outside of the church and minister to the community (thinking outside of the box)
 
 ##### Successes
 * friendly people
