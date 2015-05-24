@@ -13,7 +13,6 @@
    * [New Website](new_website.md)
    * [Facilitation and User Testing](facilitation_and_user_testing.md)
    * [New Marketing Strategy](new_marketing_strategy.md)
-   * [User Testing](user_testing.md)
    * [Revitalization Case Study](revitalization_case_study.md)
    * [Personal Reflection](personal_reflection.md)
 * [Part 2: The Global United Methodist Church Re-Imagined :)](the_global_united_methodist_church_re-imagined.md)
