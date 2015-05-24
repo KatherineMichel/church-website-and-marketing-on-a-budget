@@ -101,6 +101,10 @@ Example Target Audience Deliverable Worksheet
 After having identified the target audiences, we would look at a list of possible tactics and compare against available resources. We would also consider which methods would be best suited to which audiences. 
 
 ### Step 4: Implementation
+
+Marketing Plan Implementation Deliverables
+![](facilitation-and-user-testing/marketing-plan-page-4.jpg)
+
 Prepare:
 * Budget information
 
