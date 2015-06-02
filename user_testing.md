@@ -32,6 +32,13 @@ I requested that the prospective users reply to confirm.
 Though Google Ventures suggests including in the email a link to a non-disclosure agreement ([Google Ventures Example Non-Disclosure Agreement](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Sample-NDA.pdf)), I did not feel that one was needed for this situation. 
 
 ## User Interviews
+
+![](user-testing/do-not-disturb-sign.jpg)
+
+See [Prototype](prototype.md)
+
+### Interview Guide
+
 I used Google Ventures ["User Research, Quick 'n' Dirty,"](http://www.gv.com/wp-content/uploads/2013/02/User-Research-Workshop_Google-Ventures_Feb2013.pdf) as a planning resource.
 
 ![](user-testing/interview-worksheet-1.jpg)
@@ -45,14 +52,6 @@ I used Google Ventures ["User Research, Quick 'n' Dirty,"](http://www.gv.com/wp-
 ![](user-testing/interview-worksheet-5.jpg)
 
 ![](user-testing/interview-worksheet-6.jpg)
-
-### Interviews
-
-![](user-testing/do-not-disturb-sign.jpg)
-
-See [Prototype](prototype.md)
-
-### Interview Guide
 
 #### Example Mobile App Use Case
 "We praise God and celebrate the growth and vitality of our churches in Africa and the Philippines and will continue to find ways to strengthen our global connection," [United Methodist State of the Church Report, 2012](http://s3.amazonaws.com/Website_Properties/state-of-the-church/documents/2012-state-of-the-church-report.PDF).
