@@ -48,6 +48,8 @@ I used Google Ventures ["User Research, Quick 'n' Dirty,"](http://www.gv.com/wp-
 
 ### Interviews
 
+![](user-testing/do-not-disturb-sign.jpg)
+
 See [Prototype](prototype.md)
 
 ### Interview Guide
