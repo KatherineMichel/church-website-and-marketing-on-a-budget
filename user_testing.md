@@ -39,7 +39,7 @@ The user interviews would be done using the [Prototype](prototype.md) that was t
 
 ### Interview Guide 
 
-I used Google Ventures ["User Research, Quick 'n' Dirty,"](http://www.gv.com/wp-content/uploads/2013/02/User-Research-Workshop_Google-Ventures_Feb2013.pdf) as a planning resource.
+I used Google Ventures ["User Research, Quick 'n' Dirty,"](http://www.gv.com/wp-content/uploads/2013/02/User-Research-Workshop_Google-Ventures_Feb2013.pdf) as an interview planning resource.
 
 ![](user-testing/interview-worksheet-1.jpg)
 
