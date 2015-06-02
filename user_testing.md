@@ -35,9 +35,9 @@ Though Google Ventures suggests including in the email a link to a non-disclosur
 
 ![](user-testing/do-not-disturb-sign.jpg)
 
-See [Prototype](prototype.md)
+The user interviews would be done using the [Prototype](prototype.md) that was the end result of my Design Sprint. 
 
-### Interview Guide
+### Interview Guideould 
 
 I used Google Ventures ["User Research, Quick 'n' Dirty,"](http://www.gv.com/wp-content/uploads/2013/02/User-Research-Workshop_Google-Ventures_Feb2013.pdf) as a planning resource.
 
