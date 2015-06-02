@@ -37,7 +37,7 @@ Though Google Ventures suggests including in the email a link to a non-disclosur
 
 The user interviews would be done using the [Prototype](prototype.md) that was the end result of my Design Sprint. 
 
-### Interview Guideould 
+### Interview Guide 
 
 I used Google Ventures ["User Research, Quick 'n' Dirty,"](http://www.gv.com/wp-content/uploads/2013/02/User-Research-Workshop_Google-Ventures_Feb2013.pdf) as a planning resource.
 
