@@ -25,7 +25,7 @@ After reviewing the Recruiter Screener responses automatically collected in a sp
 
 ### Follow Up Email
 
-After the phone calls, I sent each confirmed participant a follow up email. In each email I included...
+After the phone calls, I sent each confirmed participant a Follow Up Email. In each email I included...
 
 * Date
 * Time
@@ -33,6 +33,8 @@ After the phone calls, I sent each confirmed participant a follow up email. In e
 * Contact info
 * NDA (if needed)
 * A request that prospective users reply to confirm
+
+Example Follow Up Email
 
 Though Google Ventures suggests including in the email a link to a non-disclosure agreement ([Google Ventures Example Non-Disclosure Agreement](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Sample-NDA.pdf)), I did not feel that one was needed for this situation. 
 
