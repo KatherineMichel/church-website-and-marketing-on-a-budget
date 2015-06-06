@@ -25,4 +25,5 @@ Live prayer
 UMC Discover
 ![](prototype/iphone-6-plus-screens-6.jpg)
 
-Photo credit: [MorgueFile](http://www.morguefile.com/archive/display/924868)
+Photo credit:
+Original, license-free, [MorgueFile](http://www.morguefile.com/archive/display/924868) photo
