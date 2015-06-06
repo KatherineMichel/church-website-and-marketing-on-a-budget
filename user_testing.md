@@ -42,7 +42,7 @@ Though Google Ventures suggests including in the email a link to a non-disclosur
 
 ![](user-testing/do-not-disturb-sign.jpg)
 
-The user interviews would be done using the [Prototype](prototype.md) that was the end result of my Design Sprint. 
+The user testing interviews would be done using the [Prototype](prototype.md) that was the end result of my Design Sprint. 
 
 ### Interview Guide 
 
