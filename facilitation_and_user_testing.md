@@ -32,9 +32,9 @@ Marketing Plan Values and Vision Deliverables
 
 #### Core Values Brainstorming Results
 * Christ-centered, ecumenical
-* friendly, welcoming, inclusive
-* community-centered, part of local community, diverse community, bringing community together
-* open hearts, open minds, open doors
+* Friendly, welcoming, inclusive
+* Community-centered, part of local community, diverse community, bringing community together
+* Open hearts, open minds, open doors
 
 #### Demographics
 Population: ~688
@@ -70,10 +70,10 @@ Marketing Plan Strategy Deliverables
 
 ##### Needs (of the community)
 The committee members identified "offering services where there is a gap" as a major opportunity. Examples:
-* a weekly get together for kids (particularly low-income) during summer, when school is out and Community Youth Group does not meet, featuring activities (movies, songs), meals
-* classes for parents, such as preparing budget-friendly meals, or finance 101
-* home maintenance for the elderly
-* estate planning, farm succession planning
+* A weekly get together for kids (particularly low-income) during summer, when school is out and Community Youth Group does not meet, featuring activities (movies, songs), meals
+* Classes for parents, such as preparing budget-friendly meals, or finance 101
+* Home maintenance for the elderly
+* Estate planning, farm succession planning
 
 ##### Opportunities
 The committee members felt that the opportunities were the same as the needs. 
@@ -83,13 +83,13 @@ The committee members felt that the opportunities were the same as the needs.
 * Finding ways to go outside of the church and minister to the community (thinking outside of the box)
 
 ##### Successes
-* friendly people
-* lots of leadership in the community
-* involved in many community initiatives and events (for instance Food Bank and all-churches VBS)
+* Friendly people
+* Lots of leadership in the community
+* Involved in many community initiatives and events (for instance Food Bank and all-churches VBS)
 
 ##### Exceptions
-* there are many people in the church with special skills
-* if you want to be in a leadership role in the church, you can; there is not a sense of territoriality. 
+* There are many people in the church with special skills
+* If you want to be in a leadership role in the church, you can; there is not a sense of territoriality. 
 
 #### Target Audience
 
