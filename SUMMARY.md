@@ -11,7 +11,7 @@
 * [New Marketing Materials](new_marketing_materials.md)
 * [New Website](new_website.md)
 * [Facilitation and User Testing](facilitation_and_user_testing.md)
-* Facilitation
+* [Facilitation](facilitation.md)
 * [New Marketing Strategy](new_marketing_strategy.md)
 * [Revitalization Case Study](revitalization_case_study.md)
 * [Personal Reflection](personal_reflection.md)
