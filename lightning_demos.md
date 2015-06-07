@@ -1,6 +1,6 @@
 # Lightning Demos
 
-In a [Design Sprint](http://www.gv.com/sprint), a "lightning demo" is a demo of a "competitor" product, or non-competitive product that offers insight
+A "lightning demo" is a demo of a "competitor" product, or non-competitive product that offers insight
 
 ## Other Area Churches
 
