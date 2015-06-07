@@ -1,7 +1,7 @@
 # Summary
 
 * [GitHub README](README.md)
-* [Local Church Reimagined](local_church-reimagined.md)
+* [Local Church Reimagined](local_church_reimagined.md)
 * [Project Management](project_management.md)
 * [About Pretty Prairie](about_pretty_prairie.md)
 * [Marketing As Is](marketing_as_is.md)
