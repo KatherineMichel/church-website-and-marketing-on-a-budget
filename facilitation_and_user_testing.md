@@ -1,2 +1,0 @@
-# Facilitation and User Testing
-
