@@ -1,7 +1,7 @@
 # Summary
 
 * [GitHub README](README.md)
-* [Executive Summary](executive_summary.md)
+* [Local Church Reimagined](local_church-reimagined.md)
 * [Project Management](project_management.md)
 * [About Pretty Prairie](about_pretty_prairie.md)
 * [Marketing As Is](marketing_as_is.md)
@@ -14,5 +14,4 @@
 * [New Marketing Strategy](new_marketing_strategy.md)
 * [Revitalization Case Study](revitalization_case_study.md)
 * [Personal Reflection](personal_reflection.md)
-
 
