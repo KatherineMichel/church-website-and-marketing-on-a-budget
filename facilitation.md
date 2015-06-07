@@ -129,5 +129,3 @@ United Methodist Goals and Measurable Objectives example chart
 ![](facilitation-and-user-testing/goals-measurable-objectives-chart.jpg)
 
 #### Step 5: Evaluation/Adjustment
-
-## User Testing
