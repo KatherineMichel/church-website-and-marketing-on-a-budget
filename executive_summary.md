@@ -1,6 +1,5 @@
 # Executive Summary
 
-## Part 1
 ## Proposition
 [Pretty Prairie](http://en.wikipedia.org/wiki/Pretty_Prairie,_Kansas) is a rural farming community (population 688) in central Kansas. 
 
@@ -26,6 +25,3 @@ In addition to the website, church members were also ready for a new community o
 ## Solution
 
 I would Project Manage a modern new website, marketing materials, and marketing plan for the Pretty Prairie United Methodist Church. Anytime possible, the project would utilize low-cost options and pre-existing resources. 
-
-## Part 2
-Also, in the process of doing research for the outreach campaign, I learned about problems (and opportunities) facing the global [United Methodist Church](http://www.umc.org). I conducted a [Research and Design Sprint](http://www.gv.com/sprint) to re-imagine the global United Methodist Church, in line with trends in tech and United Methodist membership.
