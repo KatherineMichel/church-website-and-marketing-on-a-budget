@@ -13,7 +13,7 @@
 * [Facilitation](facilitation.md)
 * [User Study](user_study.md)
 * [New Marketing Strategy](new_marketing_strategy.md)
+* [Training](training.md)
 * [Revitalization Case Study](revitalization_case_study.md)
 * [Personal Reflection](personal_reflection.md)
-* [Training](training.md)
 
