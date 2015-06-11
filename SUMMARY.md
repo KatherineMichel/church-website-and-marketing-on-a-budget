@@ -15,4 +15,5 @@
 * [New Marketing Strategy](new_marketing_strategy.md)
 * [Revitalization Case Study](revitalization_case_study.md)
 * [Personal Reflection](personal_reflection.md)
+* Training
 
