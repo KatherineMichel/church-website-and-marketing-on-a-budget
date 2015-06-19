@@ -16,5 +16,5 @@
 * [Training](training.md)
 * [Revitalization Case Study](revitalization_case_study.md)
 * [Personal Reflection](personal_reflection.md)
-* The Global United Methodist Church Reimagined
+* [The Global United Methodist Church Reimagined](the_global_united_methodist_church_reimagined.md)
 
