@@ -17,7 +17,7 @@ In preparation for their group work, I provided them with resources from the [Un
 I would use the [Marketing Plan Worksheet](http://s3.amazonaws.com/Website_Properties_UGC/market-your-church/documents/UMCOM_YOUR_MARKETING_PLAN_WORKSHEET.PDF) (with a few adaptations), while facilitating the NOW and Administrative Council Committees during their normal meetings to collect the information needed to create the marketing plan. 
 
 Marketing Plan Cover Page
-![](facilitation-and-user-testing/marketing-plan-page-1.jpg)
+![](facilitation/marketing-plan-page-1.jpg)
 
  Plan Five Steps
 * Step One: Values and Vision
@@ -35,7 +35,7 @@ Deliverables:
 * Key Messaging/Elevator Statement
 
 Marketing Plan Values and Vision Deliverables
-![](facilitation-and-user-testing/marketing-plan-page-2.jpg)
+![](facilitation/marketing-plan-page-2.jpg)
 
 #### Core Values Brainstorming Results
 * Christ-centered, ecumenical
@@ -73,7 +73,7 @@ Homework/Marketing Plan Deliverables
 The group chose to use [N.O.I.S.E.](http://create-learning.com/article/manager-training/noise-analysis-an-alternative-to-swot-strategic-planning) (Needs, Opportunties, Improvements, Successes, Exceptions) instead of S.W.O.T.
 
 Marketing Plan Strategy Deliverables
-![](facilitation-and-user-testing/marketing-plan-page-3.jpg)
+![](facilitation/marketing-plan-page-3.jpg)
 
 ##### Needs (of the community)
 The committee members identified "offering services where there is a gap" as a major opportunity. Examples:
