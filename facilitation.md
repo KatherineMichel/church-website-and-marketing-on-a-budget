@@ -132,6 +132,6 @@ United Methodist Communications suggests using a Goals and Measurable Objectives
 
 United Methodist Goals and Measurable Objectives example chart
 
-![](facilitation/goals-measurable-objectives-chart-by-greta.jpg)
+![](facilitation/measurable-objectives-chart-by-greta.jpg)
 
 #### Step 5: Evaluation/Adjustment
