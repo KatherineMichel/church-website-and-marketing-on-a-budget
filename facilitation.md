@@ -19,6 +19,13 @@ I would use the [Marketing Plan Worksheet](http://s3.amazonaws.com/Website_Prope
 Marketing Plan Cover Page
 ![](facilitation-and-user-testing/marketing-plan-page-1.jpg)
 
+ Plan Five Steps
+* Step One: Values and Vision
+* Step Two: Perception and Needs
+* Step Three: Strategy
+* Step Four: Implementation
+* Step Five: Evaluation and Adjustment
+
 ### Step 1: Values and Vision Deliverables
 
 Deliverables:
