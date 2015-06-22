@@ -103,7 +103,6 @@ The committee members felt that the opportunities were the same as the needs.
 It was determined through facilitation that the committees sought to target young people, particularly low-income and single-parent families with little or no support system, perhaps using tactics that would offer practical support.
 
 Example Target Audience Deliverable Worksheet
-![](facilitation-and-user-testing/demographics-sheet.jpg)
 
 After having identified the target audiences, we would look at a list of possible tactics and compare against available resources. We would also consider which methods would be best suited to which audiences. 
 
