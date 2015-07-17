@@ -1,6 +1,6 @@
 # Summary
 
-* [GitHub README](README.md)
+* [About](README.md)
 * [Local Church Reimagined](local_church_reimagined.md)
 * [Project Management](project_management.md)
 * [About Pretty Prairie](about_pretty_prairie.md)
