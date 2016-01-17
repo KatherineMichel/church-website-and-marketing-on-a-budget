@@ -20,7 +20,6 @@ Table of Contents
 * [Personal Reflection](personal_reflection.md)
 * [The Global United Methodist Church Reimagined](the_global_united_methodist_church_reimagined.md)
 
-<br>
 GitBook: http://katherinemichel.gitbooks.io/church-website-and-marketing-on-a-budget/content/
 <br> 
 GitHub Repo: https://github.com/KatherineMichel/church-website-and-marketing-on-a-budget
