@@ -1,6 +1,6 @@
 # Church Website and Marketing on a Budget
 
-A GitBook Documenting My Experience of Project Managing a Church Website, Marketing Materials, and Marketing Plan on a Budget: 
+A GitBook Documenting My Experience of Project Managing a Church Website, Marketing Materials, and Marketing Plan on a Budget
 <br> 
 
 Table of Contents
