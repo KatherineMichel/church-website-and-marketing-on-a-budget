@@ -1,5 +1,8 @@
 # Church Website and Marketing on a Budget
 
+A GitBook Documenting My Experience of Project Managing a Church Website, Marketing Materials, and Marketing Plan on a Budget: 
+<br> 
+
 Table of Contents
 * [About](README.md)
 * [Local Church Reimagined](local_church_reimagined.md)
@@ -17,8 +20,6 @@ Table of Contents
 * [Personal Reflection](personal_reflection.md)
 * [The Global United Methodist Church Reimagined](the_global_united_methodist_church_reimagined.md)
 
-A GitBook Documenting My Experience of Project Managing a Church Website, Marketing Materials, and Marketing Plan on a Budget: 
-<br> 
 <br>
 GitBook: http://katherinemichel.gitbooks.io/church-website-and-marketing-on-a-budget/content/
 <br> 
