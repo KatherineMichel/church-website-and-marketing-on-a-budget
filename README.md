@@ -3,6 +3,8 @@
 A GitBook Documenting My Experience of Project Managing a Church Website, Marketing Materials, and Marketing Plan on a Budget
 <br> 
 
+![](cover.jpg)
+
 Table of Contents
 * [About](README.md)
 * [Local Church Reimagined](local_church_reimagined.md)
