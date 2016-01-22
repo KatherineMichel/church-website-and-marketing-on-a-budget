@@ -24,4 +24,4 @@ GitBook: http://katherinemichel.gitbooks.io/church-website-and-marketing-on-a-bu
 <br> 
 GitHub Repo: https://github.com/KatherineMichel/church-website-and-marketing-on-a-budget
 
-© [Katherine Michel](https://twitter.com/katimichel) 2015
+© [Katherine Michel](https://twitter.com/katimichel) 2015-2016
