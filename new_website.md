@@ -20,9 +20,9 @@ New website home page detail
 New website mobile menu<br>
 [![](new-marketing-materials/new-website-menu.jpg)](http://prettyprairieumc.org)
 
-New website mobile home page
+New website mobile home page<br>
 [![](new-marketing-materials/new-website-mobile-home-page.jpg)](http://prettyprairieumc.org)
 
-New website mobile home page detail
+New website mobile home page detail<br>
 [![](new-marketing-materials/new-website-mobile-home-page-detail-shortened.jpg)](http://prettyprairieumc.org)
 
