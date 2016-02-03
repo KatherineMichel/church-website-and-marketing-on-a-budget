@@ -4,7 +4,7 @@
 
 The web options chosen all provided value for money, with the two associated with the United Methodist Church being given first priority.
 
-1. [United Methodist Web Hosting](http://www.umcchurches.org) ([tiers 2 and 3](http://umcchurches.org/billing/hostingplans.php), both based on [WordPress](http://en.wikipedia.org/wiki/WordPress))
+1. [United Methodist Web Hosting](http://www.umcchurches.org) ([tiers 2 and 3 (now called Silver and Gold](https://umcchurches.org/web-hosting.php), both based on [WordPress](http://en.wikipedia.org/wiki/WordPress))
 2. [Ezekial Web Hosting](http://umc.e-zekiel.com) ([discount](http://www.umc.e-zekiel.com/comparison) due to United Methodist partnership)
 3. [Squarespace](http://www.squarespace.com) (a [low cost](http://www.squarespace.com/pricing) web host with beautiful, responsive [templates](http://www.squarespace.com/templates))
 
