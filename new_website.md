@@ -21,7 +21,7 @@ Clicking on a photo brings up a small bite of info about the photo subject. This
 New website home page detail
 [![](new-marketing-materials/new-website-home-page-detail-shortened.jpg)](http://www.prettyprairieumc.org/#/worship)
 
-New website mobile menu
+New website mobile menu<br>
 [![](new-marketing-materials/new-website-menu.jpg)](http://prettyprairieumc.org)
 
 New website mobile home page
