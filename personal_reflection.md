@@ -10,7 +10,7 @@ But there is no such limit in the digital world.
 
 Sadly technological progress is moving at such a fast (and increasingly faster rate) that traditional churches are being left behind, and are ill-equipped to catch up. It's becoming commonplace to come across a news clipping of yet another church closing due to dwindling membership. And this is likely to only grow worse. 
 
-The dilemma is that even as diehard members work to improve membership, their efforts may go largely unrewarded. Offering plates grow emptier. Meanwhile, organizations that find the right online business model can learn to thrive. 
+The dilemma is that even as diehard members work to improve membership, their efforts may go largely unrewarded. Offering plates grow emptier. Churches that adopt a contemporary approach may continue to thrive, leaving dwindling traditional churches to choose between adapting to survive or eventual death. And meanwhile, the online world continues to thrive. 
 
 So, even as small victories are enjoyed, the question looms of what the future holds for organizations that continue to focus their efforts on the physical space. 
 
