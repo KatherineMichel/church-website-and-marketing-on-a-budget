@@ -47,7 +47,9 @@ Cost Benefit Analysis
 ### New Sanctuary Equipment
 As the revitalization effort generated momentum, an anonymous donor made a generous donation to purchase new, large flat-screen televisions and a laptop for the church sanctuary, to be used to play contemporary videos and music, and to project the words of the hymns. 
 
-![](new-marketing-strategy/sanctuary-screens.jpg)
+![](new-marketing-strategy/sanctuary-without-screens.jpg)
+
+![](new-marketing-strategy/sanctuary-with-screens.jpg)
 
 ### Worship Committee
 It was decided that a new Worship Committee would be formed to oversee worship service design. 
