@@ -23,7 +23,7 @@ Screenshot of finished website: http://www.prettyprairieumc.org<br>
 ## United Methodist Church Web Hosting
 
 United Methodist Church Web Hosting was initially attractive due to:
-* Its low price ([starting at $5 or less/month](http://umcchurches.org/billing/hostingplans.php))
+* Its low price ([starting at $5 or less/month](https://umcchurches.org/web-hosting.php))
 * Its affiliation with the church, including United Methodist content via RSS widgets
 * The user-friendliness of the WordPress content management system 
 
