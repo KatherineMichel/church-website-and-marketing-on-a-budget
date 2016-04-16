@@ -45,15 +45,15 @@ Google Trends search interest graph showing increased interest every July for ph
 * A school system ([U.S.D. 311](http://www.usd311.com))
 * A post office ([Pretty Prairie Post Office](http://www.uspspostoffices.com/ks/pretty-prairie/pretty-prairie))
 * A city office/library ([Pretty Prairie City Office](http://members.hutchchamber.com/Government-Public-Office/City-of-Pretty-Prairie-1513))
-* Four churches ([Pretty Prairie United Methodist Church](http://www.prettyprairieumc.org), [Calvary Chapel](http://calvarychapel-pp.com), [First Mennonite Church](http://www.fmcprettyprairie.org), and [New Jerusalem Church](http://prettyprairiechurch.org))
+* Four churches- ([Pretty Prairie United Methodist Church](http://www.prettyprairieumc.org), [Calvary Chapel](http://calvarychapel-pp.com), [First Mennonite Church](http://www.fmcprettyprairie.org), and [New Jerusalem Church](http://prettyprairiechurch.org))
 * A newspaper ([Ninnescah Valley News](https://www.facebook.com/pages/Ninnescah-Valley-News/142191375827044))
 * A nursing home ([Pretty Prairie Sunset Home](http://prairiesunsethome.org))
 * A bank ([Citizens Bank of Kansas](https://www.citizensbankofkansas.com/MyCommunity/MyLocations/PrettyPrairie))
 * A gas station ([Strohl Oil Co.](https://plus.google.com/102940219961032410746/about?gl=us&hl=en))
-* A restaurant ([Wagon Wheel Cafe](https://plus.google.com/101663998196844699536/about?gl=us&hl=en))
+* Two restaurants- [Pretty Prairie Steak House and Lil' Rascal's Lounge](https://www.facebook.com/Pretty-Prairie-Steakhouse-Lil-Rascals-Lounge-162825027110259) and ([Wagon Wheel Cafe](https://plus.google.com/101663998196844699536/about?gl=us&hl=en))
 * A golf course ([The Links at Pretty Prairie](http://www.prettyprairiegolf.com))
 * A senior center ([Prairie Senior Center](https://www.facebook.com/pages/Prairie-Senior-Center/115988521762791))
-* A repurposing charity ([Ubuntu](http://www.ubuntuks.com))
+* A repurposing charity ([Ubuntu](https://www.facebook.com/FullCircleThriftStore/?fref=ts))
 * A food bank
 * Several other small business
 
