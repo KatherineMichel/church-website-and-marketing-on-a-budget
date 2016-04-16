@@ -16,7 +16,6 @@ Table of Contents
 * [Marketing Materials Re-Brand](marketing_materials_re-brand.md)
 * [New Marketing Materials](new_marketing_materials.md)
 * [New Website](new_website.md)
-* [Revitalization Case Study](revitalization_case_study.md)
 * [Personal Reflection](personal_reflection.md)
 * [The Global United Methodist Church Reimagined](the_global_united_methodist_church_reimagined.md)
 
