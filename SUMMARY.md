@@ -4,7 +4,7 @@
 * [Local Church Reimagined](local_church_reimagined.md)
 * [Project Management](project_management.md)
 * [About Pretty Prairie](about_pretty_prairie.md)
-* [Marketing As Is](marketing_as_is.md)
+* [Marketing Materials As Is](marketing_materials_as_is.md)
 * [Lightning Demos](lightning_demos.md)
 * [Website Options](website_options.md)
 * [Marketing Materials Re-Brand](marketing_materials_re-brand.md)
