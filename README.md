@@ -11,7 +11,7 @@ Table of Contents
 * [Project Management](project_management.md)
 * [About Pretty Prairie](about_pretty_prairie.md)
 * [Marketing Materials As Is](marketing_materials_as_is.md)
-* [Lightning Demos](lightning_demos.md)
+* [Website Lightning Demos](website_lightning_demos.md)
 * [Website Options](website_options.md)
 * [Marketing Materials Re-Brand](marketing_materials_re-brand.md)
 * [New Marketing Materials](new_marketing_materials.md)
