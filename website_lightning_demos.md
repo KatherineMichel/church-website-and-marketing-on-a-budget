@@ -1,4 +1,4 @@
-# Lightning Demos
+# Website Lightning Demos
 
 A "lightning demo" is a demo of a "competitor" product, or non-competitive product that offers insight
 
