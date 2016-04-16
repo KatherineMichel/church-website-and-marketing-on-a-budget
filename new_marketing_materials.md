@@ -35,14 +35,14 @@ https://www.facebook.com/prettyprairieumc
 
 ![](new-marketing-materials/new-newsletter-page-4.jpg)
 
-## New Bulletin (example)
+## New Bulletin (Example)
 
 Front cover
 ![](new-marketing-materials/new-bulletin-cover.jpg)
 
 Inside
 
-## New Multi-Purpose Greeting Card (example)
+## New Multi-Purpose Greeting Card (Example)
 
 Front cover<br>
 ![](new-marketing-materials/new-greeting-card-front-cover.jpg)
