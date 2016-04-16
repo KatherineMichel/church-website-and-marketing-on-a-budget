@@ -8,7 +8,7 @@ Members of the Pretty Prairie United Methodist Church, a congregation of around 
 ## Problem
 
 ### No Website
-The church's previous website, which had been made using a technique called [Flash](http://en.wikipedia.org/wiki/Adobe_Flash), was no longer in existence because [the web host had stopped hosting](https://kslib.info/1013/Blue-Skyways-Transition). I made the screenshot below of the website welcome page by locally rendering files that I recovered from the web host. 
+The church's previous website was no longer in existence because the web host had stopped hosting. I made the screenshot below of the website welcome page by locally rendering files that I recovered from the web host. 
 
 ![](marketing-as-is/old-website-welcome-page.jpg)
 
