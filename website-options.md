@@ -6,13 +6,13 @@ The web options chosen all provided value for money, with the two associated wit
 
 1. [United Methodist Web Hosting](http://www.umcchurches.org) ([tiers 2 and 3 (now called Silver and Gold](https://umcchurches.org/web-hosting.php), both based on [WordPress](http://en.wikipedia.org/wiki/WordPress))
 2. [Ezekial Web Hosting](http://umc.e-zekiel.com) ([discount](http://www.umc.e-zekiel.com/comparison) due to United Methodist partnership)
-3. [Squarespace](http://www.squarespace.com) (a [low cost](http://www.squarespace.com/pricing) web host with beautiful, responsive [templates](http://www.squarespace.com/templates))
+3. [Squarespace](http://www.squarespace.com) (a [low cost](http://www.squarespace.com/pricing) web host with beautiful, responsive [website templates](http://www.squarespace.com/websites))
 
 ## Squarespace
 
 Squarespace was attractive due to:
 * Its low price ([$8/month including domain, with year commitment](http://www.squarespace.com/pricing))
-* Beautiful, responsive [templates](http://www.squarespace.com/templates)
+* Beautiful, responsive [website templates](http://www.squarespace.com/websites)
 * Intuitive content management system 
 
 Final verdict: Squarespace is the web host that I chose for the church. I felt that Squarespace offers the best value for money for Pretty Prairie United Methodist Church's situation. Although Squarespace was $3/month more expensive than the cheapest option (which offered the same/similar templates as one used by a nearby church), the beautiful, modern Squarespace templates would ensure a unique look, and the intuitive content management system could potentially be used by non-techies and occasional volunteers, in order to keep the content relevant. 
