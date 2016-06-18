@@ -29,6 +29,8 @@ Cons:
  
 ### First Mennonite Church
 
+Note: First Mennonite Church's website theme was changed after this GitBook was made
+
 http://www.fmcprettyprairie.org
 
 [![](lightning-demos/first-mennonite-church.jpg)](http://www.fmcprettyprairie.org)
