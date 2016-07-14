@@ -11,7 +11,7 @@ The web options chosen all provided value for money, with the two associated wit
 ## Squarespace
 
 Squarespace was attractive due to:
-* Its low price ([$8/month including domain, with year commitment](http://www.squarespace.com/pricing))
+* [Its low price](http://www.squarespace.com/pricing) (the price at the time of this project was $8/month including domain, with year commitment, but later went up)
 * Beautiful, responsive [website templates](http://www.squarespace.com/websites)
 * Intuitive content management system 
 
