@@ -20,11 +20,7 @@ Table of Contents
 * [Self-Hosted Website Option](self-hosted-website-option.md)
 * [The Global United Methodist Church Reimagined](the-global-united-methodist-church-reimagined.md)
 
-<a href="http://example.com" target="_blank">http://example.com</a>
-
 GitBook: http://katherinemichel.gitbooks.io/church-website-and-marketing-on-a-budget/content/
-<br> 
-<a href="http://katherinemichel.gitbooks.io/church-website-and-marketing-on-a-budget/content/" target="_blank">http://katherinemichel.gitbooks.io/church-website-and-marketing-on-a-budget/content/</a>
 <br> 
 GitHub Repo: https://github.com/KatherineMichel/church-website-and-marketing-on-a-budget
 
