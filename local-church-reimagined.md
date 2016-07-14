@@ -1,5 +1,7 @@
 # Local Church Reimagined
 
+<a href="http://example.com" target="_blank">http://example.com</a>
+
 ## Proposition
 [Pretty Prairie](http://en.wikipedia.org/wiki/Pretty_Prairie,_Kansas) is a rural farming community (population 688) in central Kansas. 
 
