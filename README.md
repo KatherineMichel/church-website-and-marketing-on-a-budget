@@ -22,6 +22,8 @@ Table of Contents
 
 GitBook: http://katherinemichel.gitbooks.io/church-website-and-marketing-on-a-budget/content/
 <br> 
+<a href="http://katherinemichel.gitbooks.io/church-website-and-marketing-on-a-budget/content/" target="_blank">http://katherinemichel.gitbooks.io/church-website-and-marketing-on-a-budget/content/</a>
+<br> 
 GitHub Repo: https://github.com/KatherineMichel/church-website-and-marketing-on-a-budget
 
 © [Katherine Michel](http://katherinemichel.github.io) 2015-2016
