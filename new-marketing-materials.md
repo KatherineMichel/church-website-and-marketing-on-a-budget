@@ -5,7 +5,7 @@ The number of church outreach materials has been streamlined, with a common bran
 Templates in both color and black-and-white are used to address the impracticality of printing color copies versus sending electronically.
 
 ## New Website
-(See New Website chapter for a more detailed explanation of the new website)
+(See [New Website](new-website.md) chapter for a more detailed explanation of the new website)
 
 New website address: 
 http://www.prettyprairieumc.org
@@ -13,7 +13,7 @@ http://www.prettyprairieumc.org
 New website responsive design
 [![](new-marketing-materials/new-website-iphone-6+-ipad-imac.png)](http://prettyprairieumc.org)
 
-New website home page (the sunflower thumbnail reinforces the brand experience): 
+New website home page (the sunflower thumbnail reinforces the brand experience)
 [![](new-marketing-materials/new-website-home-page.jpg)](http://prettyprairieumc.org)
 
 ## New Facebook Page
@@ -58,7 +58,3 @@ Back cover<br>
 ## Twitter Ad Mockup
 
 ![](new-marketing-materials/new-twitter-advertisement.jpg)
-
-
-
-
