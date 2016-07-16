@@ -40,8 +40,6 @@ https://www.facebook.com/prettyprairieumc
 Front cover
 ![](new-marketing-materials/new-bulletin-cover.jpg)
 
-Inside
-
 ## New Multi-Purpose Greeting Card (Example)
 
 Front cover<br>
