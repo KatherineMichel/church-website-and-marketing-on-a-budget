@@ -8,7 +8,7 @@ http://www.prettyprairieumc.org
 New website responsive design
 ![](new-marketing-materials/new-website-iphone-6+-ipad-imac.png)
 
-New website home page: 
+New website home page
 
 [![](new-marketing-materials/new-website-home-page.jpg)](http://prettyprairieumc.org)
 
