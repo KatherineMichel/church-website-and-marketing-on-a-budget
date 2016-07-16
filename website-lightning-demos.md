@@ -1,6 +1,6 @@
 # Website Lightning Demos
 
-A "lightning demo" is a demo of a "competitor" product, or non-competitive product that offers insight
+A "lightning demo" is a demo of a "competitor" product, or non-competitor product that offers insight
 
 ## Other Area Churches
 
@@ -68,7 +68,7 @@ Cons:
 * Commonly seen WordPress template used
 * Color, photo choice/editing could at times be used to better effect
 * Pages have a very [widget](http://en.wikipedia.org/wiki/Web_widget)-ty look and use of white space could be better
-* Pictures and Videos page looks as though it stopped being updated years ago
+* Pictures and videos page looks as though it stopped being updated years ago
 * Could do with a direct link to New Jerusalem's often-updated [Facebook page](https://www.facebook.com/newjerusalemchurchprettyprairieks)
 
 Notably, New Jerusalem Church is using the very popular WordPress [Twenty Eleven](https://wordpress.org/themes/twentyeleven) theme. I also considered this template for Pretty Prairie United Methodist Church because the global United Methodist Church offers this template as part of its hosting platform. But, I decided to forgo it in order to have something unique to Pretty Prairie United Methodist Church. 
