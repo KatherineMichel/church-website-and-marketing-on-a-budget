@@ -5,7 +5,7 @@ The number of church outreach materials has been streamlined, with a common bran
 Templates in both color and black-and-white are used to address the impracticality of printing color copies versus sending electronically.
 
 ## New Website
-(See [New Website](new-website.md) chapter for a more detailed explanation of the new website)
+(See the next chapter for a more detailed explanation of the new website)
 
 New website address: 
 http://www.prettyprairieumc.org
