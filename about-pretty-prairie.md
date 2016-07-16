@@ -58,5 +58,5 @@ Google Trends search interest graph showing increased interest every July for ph
 * Several other small business
 
 ## Work
-A number of Pretty Prairie residents work locally (farmers, teachers, police, city workers, ect.), or commute to other nearby cities (Kingman, Hutchinson, Wichita, ect.) for work (business people, machine operators, ect.). Though the cost of living may be lower, the price of gas and time spent commuting also have to be considered. Meanwhile, the outskirts of Wichita are steadily expanding outward. Still, the Pretty Prairie population remains fairly constant (~688). 
+A number of Pretty Prairie residents work locally (farmers, teachers, police, city workers, etc.), or commute to other nearby cities (Kingman, Hutchinson, Wichita, etc.) for work (business people, machine operators, etc.). Though the cost of living may be lower, the price of gas and time spent commuting also have to be considered. Meanwhile, the outskirts of Wichita are steadily expanding outward. Still, the Pretty Prairie population remains fairly constant (~688). 
 
