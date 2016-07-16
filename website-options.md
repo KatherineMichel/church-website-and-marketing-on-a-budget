@@ -45,7 +45,7 @@ Ezekiel was initially attractive due to:
 * Vast number of [templates](http://www.umc.e-zekiel.com/templates/viewDesigns.asp?)
 * Potential for a full-website look (rather than a blog-like appearance)
 
-Pretty Prairie United Methodist Church Ezekiel Home Page Mock Up
+Pretty Prairie United Methodist Church Ezekiel home page mock up
 ![](web-hosting-options/ezekiel-allegiant-theme-desktop-mockup.jpg)
 
 Final verdict: I quickly ruled Ezekiel out because I felt its content management system was not intuitive enough to suit the particular needs of Pretty Prairie United Methodist Church. Ezekiel was also a little bit more expensive than the option that I chose. 
