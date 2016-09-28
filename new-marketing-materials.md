@@ -11,7 +11,7 @@ New website address:
 http://www.prettyprairieumc.org
 
 New website responsive design
-[![](new-marketing-materials/new-website-iphone-6+-ipad-imac.png)](http://prettyprairieumc.org)
+[![](new-marketing-materials/new-website-iphone-6+-ipad-imac.jpg)](http://prettyprairieumc.org)
 
 New website home page (the sunflower thumbnail reinforces the brand experience)
 [![](new-marketing-materials/new-website-home-page.jpg)](http://prettyprairieumc.org)

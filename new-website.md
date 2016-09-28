@@ -6,7 +6,7 @@ New website address:
 http://www.prettyprairieumc.org
 
 New website responsive design
-![](new-marketing-materials/new-website-iphone-6+-ipad-imac.png)
+![](new-marketing-materials/new-website-iphone-6+-ipad-imac.jpg)
 
 New website home page
 
