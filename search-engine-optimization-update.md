@@ -2,7 +2,7 @@
 
 When the website initially went live, it was ranked lower than the other Pretty Prairie church websites, which had all been in existence for years and had undoubtedly risen in the rankings over time due to clicks. This is normal and it was expected that the Pretty Prairie United Methodist Church website would gradually rise in rankings, which it did. For instance, the amount of website traffic increases dramatically in July at the time of the Pretty Prairie Rodeo. The website is now a top search engine result in all major search engines, and even surpassed the Google ranking of one of the other churches. 
 
-There is a strange twist to website's traffic though. 
+There is a strange twist to the website's traffic though. 
 
 On September 29, 2016, a women gave Pretty Prairie United Methodist Church a review, with a rating of 1 out of 5 stars. This was very surprising since the person seemingly had no connection at all to Pretty Prairie United Methodist Church and lived in a different part of the country. The post was thought to be spam. 
 
