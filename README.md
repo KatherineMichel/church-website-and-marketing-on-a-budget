@@ -16,6 +16,7 @@ Table of Contents
 * [Marketing Materials Re-Brand](marketing-materials-re-brand.md)
 * [New Marketing Materials](new-marketing-materials.md)
 * [New Website](new-website.md)
+* [Search Engine Optimization Update](search-engine-optimization-update.md)
 * [Personal Reflection](personal-reflection.md)
 * [Self-Hosted Website Option](self-hosted-website-option.md)
 * [The Global United Methodist Church Reimagined](the-global-united-methodist-church-reimagined.md)
