@@ -6,10 +6,9 @@ New website address:
 http://www.prettyprairieumc.org
 
 New website responsive design
-![](new-marketing-materials/new-website-iphone-6+-ipad-imac.jpg)
+[![](new-marketing-materials/new-website-iphone-6+-ipad-imac.jpg)](http://prettyprairieumc.org)
 
 New website home page
-
 [![](new-marketing-materials/new-website-home-page.jpg)](http://prettyprairieumc.org)
 
 Rather than one prominent homepage photo, the homepage features a charming patchwork quilt of photos that represent a variety of people and activities in the church. Clicking on a photo brings up a small bite of info about the photo subject. This format is straight forward, easy to navigate, and highly mobile optimized. 
