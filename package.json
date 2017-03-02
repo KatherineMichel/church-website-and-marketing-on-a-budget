@@ -3,7 +3,7 @@
     "pluginsConfig": {
         "scripts": {
             "files": [
-                "static/js/jquery-3.1.1.min.js"
+                "javascript/jquery-3.1.1.min.js"
             ]
         }
     }
