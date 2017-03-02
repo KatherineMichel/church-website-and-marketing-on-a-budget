@@ -25,5 +25,4 @@ GitBook: http://katherinemichel.gitbooks.io/church-website-and-marketing-on-a-bu
 <br> 
 GitHub Repo: https://github.com/KatherineMichel/church-website-and-marketing-on-a-budget
 
-© [Katherine Michel](http://katherinemichel.github.io) 
-2015<script>new Date().getFullYear()>2013&&document.write("-"+new Date().getFullYear());</script>
+© [Katherine Michel](http://katherinemichel.github.io) 2015<script>new Date().getFullYear()>2015&&document.write("-"+new Date().getFullYear());</script>
